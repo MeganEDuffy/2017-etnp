@@ -1,0 +1,149 @@
+Protein Group,Protein ID,Accession,-10lgP,Coverage (%),#Peptides,#Unique,PTM,Avg. Mass,Description
+43,27380,ETNP14_68maa_PROKKA_160822,54.36,9,1,1,,9693,NADH dehydrogenase subunit I
+43,27381,ETNP14_120mab_PROKKA_23097,54.36,8,1,1,,11000,NADH dehydrogenase subunit I
+43,27382,ETNP14_68maa_PROKKA_48494,54.36,8,1,1,,10987,NADH dehydrogenase subunit I
+43,27383,ETNP14_120mab_PROKKA_23601,54.36,8,1,1,,10985,NADH dehydrogenase subunit I
+43,27384,ETNP14_120mab_PROKKA_169361,54.36,8,1,1,,10998,NADH dehydrogenase subunit I
+43,27385,ETNP14_120maa_PROKKA_63501,54.36,8,1,1,,11000,NADH dehydrogenase subunit I
+43,27386,ETNP14_120maa_PROKKA_172763,54.36,8,1,1,,11000,NADH dehydrogenase subunit I
+43,27387,ETNP14_120mac_PROKKA_34623,54.36,8,1,1,,10998,NADH dehydrogenase subunit I
+43,27388,ETNP14_120maa_PROKKA_193676,54.36,8,1,1,,10984,NADH dehydrogenase subunit I
+43,27389,NP_85m_PROKKA_31507,54.36,8,1,1,,10973,NADH dehydrogenase subunit I
+43,27390,ETNP14_120maa_PROKKA_177270,54.36,8,1,1,,10998,NADH dehydrogenase subunit I
+43,27391,ETNP14_68maa_PROKKA_186974,54.36,8,1,1,,10986,NADH dehydrogenase subunit I
+43,27392,ETNP14_68maa_PROKKA_26350,54.36,8,1,1,,10973,NADH dehydrogenase subunit I
+43,27393,ETNP14_120maa_PROKKA_57538,54.36,8,1,1,,10973,NADH dehydrogenase subunit I
+43,27394,ETNP14_120mac_PROKKA_69912,54.36,8,1,1,,10998,NADH dehydrogenase subunit I
+43,27395,NP_30m_PROKKA_09697,54.36,8,1,1,,11039,NADH dehydrogenase subunit I
+43,27396,ETNP14_120mac_PROKKA_80038,54.36,8,1,1,,11025,NADH dehydrogenase subunit I
+43,27397,ETNP14_120maa_PROKKA_139783,54.36,8,1,1,,11039,NADH dehydrogenase subunit I
+43,27398,ETNP14_120maa_PROKKA_59144,54.36,8,1,1,,11039,NADH dehydrogenase subunit I
+43,27399,ETNP14_68maa_PROKKA_28192,54.36,8,1,1,,10995,NADH dehydrogenase subunit I
+43,27400,ETNP14_120mab_PROKKA_99293,54.36,8,1,1,,10997,NADH dehydrogenase subunit I
+43,27401,NP_85m_PROKKA_14190,54.36,8,1,1,,11025,NADH dehydrogenase subunit I
+43,27402,ETNP14_120maa_PROKKA_58157,54.36,8,1,1,,11025,NADH dehydrogenase subunit I
+43,27403,ETNP14_68maa_PROKKA_41253,54.36,8,1,1,,11025,NADH dehydrogenase subunit I
+43,27404,ETNP14_68maa_PROKKA_53527,54.36,8,1,1,,11011,NADH dehydrogenase subunit I
+43,27405,ETNP14_120maa_PROKKA_193228,54.36,8,1,1,,11011,NADH dehydrogenase subunit I
+43,27406,ETNP14_120mab_PROKKA_65627,54.36,8,1,1,,11025,NADH dehydrogenase subunit I
+43,27407,ETNP14_68maa_PROKKA_08605,54.36,8,1,1,,11296,NADH dehydrogenase subunit I
+43,27408,ETNP14_120mab_PROKKA_129778,54.36,8,1,1,,11306,NADH dehydrogenase subunit I
+43,27409,ETNP14_120mab_PROKKA_129766,54.36,7,1,1,,12229,NADH dehydrogenase subunit I
+42,474,ETNP_100m_particle_PROKKA_82300,53.01,9,1,1,,14624,Tubulin/FtsZ family  GTPase domain
+8,27410,ETNP14_120mab_PROKKA_11938,40.67,6,1,1,,15171,hypothetical protein
+45,27436,ETNP_120m_PROKKA_122378,38.20,7,1,1,,10676,hypothetical protein
+44,27411,ETNP_70m_PROKKA_66181,37.80,9,1,1,,11042,hypothetical protein
+44,27412,EJK66680,37.80,7,1,1,,12825,hypothetical protein THAOC_12377  Thalassiosira oceanica
+44,27413,EJK52562,37.80,7,1,1,,12825,hypothetical protein THAOC_28150  Thalassiosira oceanica
+44,27414,XP_003054974,37.80,7,1,1,,12976,histone H2A  Micromonas pusilla CCMP1545
+44,27415,XP_003058884,37.80,7,1,1,,12976,predicted protein  Micromonas pusilla CCMP1545
+44,27416,EJK63752,37.80,7,1,1,,12825,hypothetical protein THAOC_15570  Thalassiosira oceanica
+44,27417,ETNP_60m_PROKKA_16910,37.80,7,1,1,,13283,Core histone H2A/H2B/H3/H4
+44,27418,XP_003063220,37.80,7,1,1,,13018,predicted protein partial  Micromonas pusilla CCMP1545
+44,27419,XP_002179427,37.80,7,1,1,,13178,histone H2A isoform 3b  Phaeodactylum tricornutum CCAP 1055
+44,27420,ETNP_100m_particle_PROKKA_07520,37.80,7,1,1,,13678,Core histone H2A/H2B/H3/H4
+44,27421,XP_002179202,37.80,7,1,1,,13178,histone H2A isoform 3a  Phaeodactylum tricornutum CCAP 1055
+44,27422,ETNP_70m_PROKKA_64991,37.80,7,1,1,,13534,Core histone H2A/H2B/H3/H4
+44,27423,ETNP_120m_particle_PROKKA_169132,37.80,7,1,1,,13824,Core histone H2A/H2B/H3/H4
+44,27424,EJK74336,37.80,7,1,1,,13990,hypothetical protein THAOC_03987 partial  Thalassiosira oceanica
+44,27425,ETNP_70m_PROKKA_29157,37.80,7,1,1,,14336,Core histone H2A/H2B/H3/H4
+44,27426,XP_002180358,37.80,7,1,1,,14700,histone H2A isoform 2  Phaeodactylum tricornutum CCAP 1055
+44,27427,XP_002181345,37.80,7,1,1,,14485,histone H2A isoform 1  Phaeodactylum tricornutum CCAP 1055
+44,27428,XP_003059832,37.80,6,1,1,,14583,histone H2A  Micromonas pusilla CCMP1545
+44,27429,XP_003074738,37.80,6,1,1,,14945,H2a Histone H2A probable IC  Ostreococcus tauri
+44,27430,XP_003082251,37.80,6,1,1,,17046,histone H2A ISS  Ostreococcus tauri
+44,27431,XP_003080758,37.80,6,1,1,,16686,histone H2A ISS  Ostreococcus tauri
+44,27432,EJK72006,37.80,5,1,1,,19670,hypothetical protein THAOC_06502  Thalassiosira oceanica
+44,27433,ETNP_70m_PROKKA_20132,37.80,5,1,1,,19618,Core histone H2A/H2B/H3/H4
+44,27434,EJK65157,37.80,3,1,1,,29086,hypothetical protein THAOC_14024  Thalassiosira oceanica
+44,27435,EJK60529,37.80,3,1,1,,34853,hypothetical protein THAOC_19092  Thalassiosira oceanica
+9,27437,ETNP_70m_PROKKA_85163,36.91,4,1,1,,36469,hypothetical protein
+10,27440,ETNP_70m_PROKKA_22747,35.78,2,1,1,,59467,hypothetical protein
+46,27438,YP_003097385.1,35.28,0,1,1,,386823,strucutural protein [Synechococcus phage S-RSM4]
+46,27439,CAR63348.1,35.28,0,1,1,,386823,strucutural protein [Synechococcus phage S-RSM4]
+47,27441,ETNP14_120mab_PROKKA_159684,34.17,9,1,1,,11510,Cytochrome c4 precursor
+11,27444,ETNP14_68maa_PROKKA_42892,31.18,1,1,1,,85309,vitamin B12/cobalamin outer membrane transporter
+48,27443,ETNP14_68mB_PROKKA_91372,31.13,7,1,1,,11080,hypothetical protein
+48,27445,NP_300m_PROKKA_53280,31.13,4,1,1,,21071,Radical SAM superfamily protein
+48,27446,ETNP14_120maa_PROKKA_96867,31.13,3,1,1,,29303,Beta-lactamase
+48,27447,ETNP_70m_PROKKA_59385,31.13,2,1,1,,39090,voltage-gated potassium channel
+48,27448,ETNP14_120maa_PROKKA_138628,31.13,2,1,1,,41861,Beta-lactamase precursor
+48,27449,ETNP14_68maa_PROKKA_43463,31.13,2,1,1,,41690,Beta-lactamase precursor
+48,27450,ETNP14_120maa_PROKKA_156779,31.13,2,1,1,,41748,Beta-lactamase precursor
+48,27451,ETNP14_120maa_PROKKA_35544,31.13,2,1,1,,41548,Beta-lactamase precursor
+48,27452,ETNP14_68maa_PROKKA_23208,31.13,2,1,1,,45823,Bifunctional protein FolC
+48,27453,ETNP14_120maa_PROKKA_20599,31.13,1,1,1,,57818,Localization factor PodJL
+48,27462,EJK52917,31.13,1,1,1,,127674,hypothetical protein THAOC_27752  Thalassiosira oceanica
+49,27455,ETNP_160m_PROKKA_175780,30.52,2,1,1,,47826,Beta-lactamase IMP-1 precursor
+50,27456,ETNP_120m_particle_PROKKA_196777,29.68,4,1,1,,21655,hypothetical protein
+52,27459,ETNP_160m_PROKKA_53064,29.39,1,1,1,,108532,Bifunctional uridylyltransferase/uridylyl-removing enzyme
+52,27460,ETNP_140m_PROKKA_142323,29.39,1,1,1,,108474,Bifunctional uridylyltransferase/uridylyl-removing enzyme
+53,27461,ETNP_160m_PROKKA_79707,29.37,3,1,1,,21445,hypothetical protein
+51,27457,ETNP_70m_PROKKA_55707,29.26,3,1,1,,30315,Glycerate 2-kinase
+51,27458,ETNP_90m_PROKKA_211128,29.26,2,1,1,,33870,Glycerate 2-kinase
+5,27463,ETNP_300m_PROKKA_171973,28.60,8,1,1,,10663,hypothetical protein
+56,27466,ETNP_300m_PROKKA_59645,28.03,3,1,1,,30687,Prophage CP4-57 integrase
+55,27465,ETNP14_68maa_PROKKA_21807,27.76,2,1,1,,38827,GDP-mannose 4 6-dehydratase
+57,27470,EJK70347,26.40,0,1,1,,270008,hypothetical protein THAOC_08300 partial  Thalassiosira oceanica
+13,27473,ETNP_120m_PROKKA_267994,26.16,2,1,1,,31598,hypothetical protein
+6,27442,ETNP14_120maa_PROKKA_56425,25.77,2,2,2,,76129,Pyridoxal 4-dehydrogenase
+12,27471,WP_011341262,25.52,3,1,1,,32041,cysteine synthase Pelobacter carbinolicus
+58,27472,ETNP14_68maa_PROKKA_144733,24.94,6,1,1,,18183,Colicin V production protein
+59,27474,ETNP_120m_free_PROKKA_296942,24.57,11,1,1,,7484,hypothetical protein
+59,27475,ETNP_120m_PROKKA_54134,24.57,7,1,1,,11742,hypothetical protein
+59,27476,ETNP_160m_PROKKA_111048,24.57,7,1,1,,11742,hypothetical protein
+59,27477,ETNP_180m_PROKKA_188549,24.57,7,1,1,,11742,hypothetical protein
+59,27478,ETNP_140m_PROKKA_93364,24.57,7,1,1,,11742,hypothetical protein
+59,27479,ETNP_300m_PROKKA_127442,24.57,7,1,1,,11742,hypothetical protein
+59,27480,ETNP_120m_free_PROKKA_113323,24.57,7,1,1,,11742,hypothetical protein
+59,27481,ETNP_120m_free_PROKKA_213930,24.57,3,1,1,,22699,hypothetical protein
+59,27484,EJK49742,24.57,3,1,1,,25128,hypothetical protein THAOC_31347 partial  Thalassiosira oceanica
+59,27485,ETNP_120m_free_PROKKA_136514,24.57,3,1,1,,26103,Transcriptional regulatory protein OmpR
+59,27486,ETNP_120m_PROKKA_98001,24.57,2,1,1,,36056,Levanase precursor
+59,27500,WP_014436912,24.57,1,1,1,,93491,hypothetical protein Phycisphaera mikurensis
+2,27468,BAL59475,24.46,1,1,1,,76387,CoA-binding domain protein Candidatus Acetothermus autotrophicum
+61,27483,ETNP_70m_PROKKA_120585,24.35,4,1,1,,22511,hypothetical protein
+67,27501,AGL62355,24.31,1,1,1,,86648,exported protein of unknown function Candidatus Saccharimonas aalborgensis
+62,27490,ETNP14_68maa_PROKKA_195091,24.05,7,1,1,,18109,Ubiquinone biosynthesis O-methyltransferase
+62,27491,ETNP14_120mab_PROKKA_10922,24.05,5,1,1,,23636,Ubiquinone biosynthesis O-methyltransferase
+62,27492,NP_30m_PROKKA_05872,24.05,5,1,1,,26160,Ubiquinone biosynthesis O-methyltransferase
+62,27493,NP_300m_PROKKA_35167,24.05,5,1,1,,26397,Ubiquinone biosynthesis O-methyltransferase
+62,27494,NP_300m_PROKKA_16726,24.05,5,1,1,,26396,Ubiquinone biosynthesis O-methyltransferase
+63,27495,ETNP_100m_particle_PROKKA_67654,23.95,11,1,1,,7721,hypothetical protein
+64,27496,ETNP_120m_free_PROKKA_154957,23.83,1,1,1,,90833,hypothetical protein
+65,27497,ETNP_100m_particle_PROKKA_102870,23.62,13,1,1,,6082,hypothetical protein
+65,27499,ETNP_90m_PROKKA_36252,23.62,7,1,1,,11314,hypothetical protein
+65,27503,XP_002177923,23.62,2,1,1,,49246,predicted protein  Phaeodactylum tricornutum CCAP 1055
+65,27518,WP_011783555,23.62,1,1,1,,117570,hypothetical protein Marinobacter hydrocarbonoclasticus
+3,27502,ETNP14_68mB_PROKKA_19563,23.22,3,1,1,,26105,Creatinine amidohydrolase
+68,27504,ETNP_300m_PROKKA_130209,23.10,14,1,1,,6233,hypothetical protein
+29,27506,ETNP14_68maa_PROKKA_71285,22.83,2,1,1,,82732,hypothetical protein
+71,27509,ETNP_120m_free_PROKKA_22907,22.71,7,1,1,,11448,hypothetical protein
+71,27510,ETNP_120m_free_PROKKA_46965,22.71,7,1,1,,12387,hypothetical protein
+71,27519,ETNP_300m_PROKKA_79398,22.71,1,1,1,,52979,Long-chain-fatty-acid--CoA ligase
+71,27520,ETNP_120m_free_PROKKA_205383,22.71,1,1,1,,57878,Long-chain-fatty-acid--CoA ligase
+71,27521,ETNP_160m_PROKKA_85961,22.71,1,1,1,,57878,Long-chain-fatty-acid--CoA ligase
+71,27522,ETNP_140m_PROKKA_69214,22.71,1,1,1,,57834,Long-chain-fatty-acid--CoA ligase
+71,27523,ETNP_120m_PROKKA_140621,22.71,1,1,1,,57878,Long-chain-fatty-acid--CoA ligase
+71,27524,ETNP_180m_PROKKA_52106,22.71,1,1,1,,57894,Long-chain-fatty-acid--CoA ligase
+70,27508,ETNP_100m_particle_PROKKA_18672,22.66,5,1,1,,21924,Pilus assembly protein  PilO
+16,27514,ETNP_160m_PROKKA_98455,22.66,5,1,1,,14584,putative xanthine dehydrogenase subunit A
+16,27517,ETNP_120m_free_PROKKA_218708,22.66,3,1,1,,25894,putative xanthine dehydrogenase subunit A
+15,27511,EHR76589,22.55,3,1,1,,87769,hypothetical protein MG2_1001 UW MGII
+72,27512,ETNP14_68maa_PROKKA_130778,22.54,3,1,1,,29432,gamma-glutamyl kinase
+72,27513,ETNP14_68maa_PROKKA_09781,22.54,3,1,1,,31904,gamma-glutamyl kinase
+74,27516,ETNP_120m_free_PROKKA_101754,22.45,4,1,1,,23757,hypothetical protein
+76,27532,ETNP14_68maa_PROKKA_108404,21.96,2,1,1,,41022,Major capsid protein Gp23
+75,27531,ETNP14_68mB_PROKKA_60156,21.93,11,1,1,,7443,hypothetical protein
+17,27536,ETNP14_68maa_PROKKA_38284,21.52,2,1,1,,34489,Inner membrane protein YrbG
+17,27537,ETNP14_120maa_PROKKA_128722,21.52,2,1,1,,34489,Inner membrane protein YrbG
+17,27538,ETNP14_120maa_PROKKA_185758,21.52,2,1,1,,35597,Inner membrane protein YrbG
+78,27539,ETNP_90m_PROKKA_207390,21.37,5,1,1,,16767,hypothetical protein
+79,27541,ETNP14_68mB_PROKKA_113969,21.05,7,1,1,,15669,hypothetical protein
+80,27543,ETNP14_68maa_PROKKA_131241,20.69,8,1,1,,11942,hypothetical protein
+81,27544,ETNP_70m_PROKKA_48647,20.67,4,1,1,,23072,RecBCD enzyme subunit RecC
+81,27551,WP_042850585,20.67,1,1,1,,124739,exodeoxyribonuclease V subunit chi Prochlorococcus sp MIT 0604
+4,27546,ETNP_90m_PROKKA_77675,20.57,12,1,1,,8147,hypothetical protein
+83,27554,ETNP_70m_PROKKA_15299,20.41,2,1,1,,34613,gp32 DNA binding protein like protein
+84,27555,ETNP14_120maa_PROKKA_28205,20.07,1,1,1,,84468,DNA-directed RNA polymerase subunit beta'
+92,27573,ETNP14_68maa_PROKKA_190422,20.06,2,1,1,,34313,hypothetical protein

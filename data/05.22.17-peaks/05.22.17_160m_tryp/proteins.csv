@@ -1,0 +1,1386 @@
+Protein Group,Protein ID,Accession,-10lgP,Coverage (%),#Peptides,#Unique,PTM,Avg. Mass,Description
+5,1891,NP_125m_PROKKA_02672,202.00,52,28,1,,39275,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+5,1890,NP_85m_PROKKA_10653,202.00,52,28,1,,39305,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+9,1934,ETNP14_120maa_PROKKA_147628,201.41,48,26,0,,39385,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+6,1171,ETNP14_120maa_PROKKA_54071,199.34,48,28,0,,39447,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+6,1170,ETNP14_68maa_PROKKA_58668,199.34,48,28,0,,39447,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+2,1128,ETNP14_68maa_PROKKA_78515,199.34,52,28,0,,39870,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,900,NP_300m_PROKKA_20959,193.72,56,30,0,,39379,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+7,107165,ETNP_100m_particle_PROKKA_120937,190.81,57,29,1,,39293,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+13,107171,ETNP_120m_PROKKA_78196,190.62,37,22,0,,39493,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+12,1140,NP_85m_PROKKA_05533,190.36,33,20,0,,39724,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+10,107172,ETNP_120m_PROKKA_51847,189.77,66,27,1,,28984,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+1,1173,NP_85m_PROKKA_14278,188.56,55,31,3,,39694,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+1,1174,NP_300m_PROKKA_22657,188.56,55,31,3,,39694,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+3,1175,ETNP14_68maa_PROKKA_144097,186.74,52,29,1,,39674,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+3,1172,NP_85m_PROKKA_09702,186.74,52,29,1,,39742,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+3,1176,NP_125m_PROKKA_07506,186.74,52,29,1,,39830,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+8,791,ETNP_180m_PROKKA_32538,185.36,51,29,1,,39779,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+15,889,ETNP_140m_PROKKA_69877,181.12,42,20,0,,35015,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+11,1900,NP_100m_PROKKA_09018,176.34,50,24,0,,31289,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+14,1197,ETNP_120m_free_PROKKA_239923,175.64,40,23,0,,39559,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+17,2479,ETNP_300m_PROKKA_116083,172.56,29,14,0,,32718,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+22,118936,ETNP_120m_PROKKA_129156,169.71,30,20,20,,65456,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+22,118937,ETNP_120m_free_PROKKA_72321,169.71,30,20,20,,65456,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+16,1177,ETNP14_120maa_PROKKA_92245,167.27,35,19,2,,39544,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+24,107167,ETNP_110m_PROKKA_49243,163.55,42,20,20,,47623,Aliphatic amidase expression-regulating protein
+24,107169,NP_125m_PROKKA_07093,163.55,40,20,20,,50268,Aliphatic amidase expression-regulating protein
+24,107168,NP_100m_PROKKA_08459,163.55,40,20,20,,50268,Aliphatic amidase expression-regulating protein
+18,107179,ETNP_100m_PROKKA_87174,160.02,38,13,0,,24182,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+19,2421,ETNP_160m_PROKKA_208095,158.86,34,12,0,,20919,Alpha-keto acid-binding periplasmic protein TakP precursor
+20,2423,ETNP_300m_PROKKA_156689,157.14,32,11,0,,20979,Alpha-keto acid-binding periplasmic protein TakP precursor
+33,4738,NP_300m_PROKKA_06204,153.31,32,13,10,,39385,Bacterial extracellular solute-binding protein
+33,4739,ETNP_120m_particle_PROKKA_168206,153.31,32,13,10,,39375,Bacterial extracellular solute-binding protein
+33,4737,ETNP_120m_PROKKA_307121,153.31,32,13,10,,39385,Bacterial extracellular solute-binding protein
+33,4740,ETNP_140m_PROKKA_80561,153.31,32,13,10,,39385,Bacterial extracellular solute-binding protein
+25,1119,ETNP_160m_PROKKA_81170,145.65,15,14,8,,129586,hypothetical protein
+25,1120,ETNP_120m_PROKKA_83125,145.65,15,14,8,,130073,hypothetical protein
+25,1121,ETNP_180m_PROKKA_81128,145.65,15,14,8,,130100,hypothetical protein
+26,1420,ETNP14_120maa_PROKKA_68035,145.49,27,14,5,,45184,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+26,1421,NP_300m_PROKKA_04504,145.49,27,14,5,,45565,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+21,107174,ETNP_300m_PROKKA_184521,144.26,31,22,22,,67558,Methanol dehydrogenase [cytochrome c] subunit 1
+42,2098,NP_300m_PROKKA_09744,140.50,19,11,5,,64538,putative oxidoreductase YdhV
+37,57413,NP_300m_PROKKA_14803,140.33,21,11,2,,57679,60 kDa chaperonin
+37,57414,ETNP_120m_particle_PROKKA_189924,140.33,21,11,2,,57693,60 kDa chaperonin
+37,118943,ETNP_120m_PROKKA_167165,140.33,21,11,2,,57725,60 kDa chaperonin
+37,57411,ETNP_180m_PROKKA_186511,140.33,21,11,2,,57711,60 kDa chaperonin
+37,57412,ETNP_160m_PROKKA_52423,140.33,21,11,2,,57723,60 kDa chaperonin
+38,118962,ETSP_PROKKA_00299,137.87,43,11,0,,17975,Alpha-keto acid-binding periplasmic protein TakP precursor
+34,2015,NP_85m_PROKKA_11502,137.73,23,12,0,,44294,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+23,129,ETNP_120m_PROKKA_318382,131.71,36,15,8,,34262,hypothetical protein
+41,57443,ETNP_120m_PROKKA_317269,130.53,14,8,0,,57580,60 kDa chaperonin
+41,57441,ETNP_120m_PROKKA_342100,130.53,14,8,0,,57514,60 kDa chaperonin
+30,118950,ETNP_100m_PROKKA_77466,130.37,36,15,15,,45171,Phenoxybenzoate dioxygenase subunit alpha
+30,118951,NP_85m_PROKKA_09218,130.37,36,15,15,,45171,Phenoxybenzoate dioxygenase subunit alpha
+35,107242,ETNP_160m_PROKKA_219613,130.13,12,12,6,,119472,hypothetical protein
+35,107243,ETNP_180m_PROKKA_116028,130.13,11,12,6,,130143,Cna protein B-type domain protein
+35,107244,ETNP_120m_PROKKA_336736,130.13,11,12,6,,138609,hypothetical protein
+47,1199,NP_300m_PROKKA_07046,128.14,20,11,3,,58350,Glutathione-binding protein GsiB precursor
+47,1198,ETNP_160m_PROKKA_60185,128.14,19,11,3,,62885,Glutathione-binding protein GsiB precursor
+64,57447,ETNP_120m_free_PROKKA_106804,127.25,14,8,0,,57826,60 kDa chaperonin
+64,118959,ETNP_120m_PROKKA_114163,127.25,14,8,0,,57826,60 kDa chaperonin
+31,244,XP_003062500,125.51,22,15,0,,49730,alpha tubulin  Micromonas pusilla CCMP1545
+31,245,XP_003058621,125.51,22,15,0,,49730,alpha tubulin  Micromonas pusilla CCMP1545
+27,241,XP_003082284,125.47,23,15,1,,50099,TBA_CHLVU Tubulin alpha chain ISS  Ostreococcus tauri
+36,4167,ETNP_140m_PROKKA_39161,123.13,21,11,11,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+36,4163,ETNP_120m_PROKKA_104890,123.13,21,11,11,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+36,4164,ETNP_160m_PROKKA_11298,123.13,21,11,11,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+36,4165,ETNP_120m_free_PROKKA_226201,123.13,21,11,11,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+36,4166,ETNP_180m_PROKKA_236213,123.13,21,11,11,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+36,4168,ETNP_300m_PROKKA_75120,123.13,21,11,11,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+29,257,XP_003080933,122.92,22,15,1,,52460,TBA_CHLVU Tubulin alpha chain ISS  Ostreococcus tauri
+40,4819,NP_300m_PROKKA_19608,122.26,31,9,4,,39249,Bacterial extracellular solute-binding protein
+39,2260,ETNP_100m_PROKKA_84349,122.03,28,11,1,,35645,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+77,1997,NP_300m_PROKKA_09254,120.24,14,7,1,,65054,putative oxidoreductase YdhV
+77,1998,ETNP_180m_PROKKA_236033,120.24,14,7,1,,67443,putative oxidoreductase YdhV
+86,107235,ETNP_160m_PROKKA_63763,118.77,13,7,7,,58291,Heme-binding protein A precursor
+86,107236,ETNP_140m_PROKKA_115142,118.77,13,7,7,,58291,Heme-binding protein A precursor
+86,107237,NP_300m_PROKKA_10869,118.77,13,7,7,,58291,Heme-binding protein A precursor
+86,107238,ETNP_120m_PROKKA_67998,118.77,13,7,7,,58291,Heme-binding protein A precursor
+54,118944,ETNP_300m_PROKKA_48369,118.68,20,10,3,,62910,Glutathione-binding protein GsiB precursor
+54,118945,ETNP_160m_PROKKA_195108,118.68,20,10,3,,62910,Glutathione-binding protein GsiB precursor
+54,118946,ETNP_180m_PROKKA_165751,118.68,20,10,3,,62910,Glutathione-binding protein GsiB precursor
+54,118947,ETNP_120m_PROKKA_09663,118.68,20,10,3,,62910,Glutathione-binding protein GsiB precursor
+44,2581,ETNP_140m_PROKKA_29383,116.53,31,11,1,,39438,Bacterial extracellular solute-binding protein
+44,2580,NP_100m_PROKKA_04112,116.53,31,11,1,,39439,Bacterial extracellular solute-binding protein
+44,2582,ETNP_180m_PROKKA_06078,116.53,31,11,1,,39438,Bacterial extracellular solute-binding protein
+44,2583,NP_300m_PROKKA_22066,116.53,31,11,1,,39438,Bacterial extracellular solute-binding protein
+43,2218,ETNP_120m_particle_PROKKA_16438,116.46,29,12,0,,37668,taurine transporter substrate binding subunit
+96,2343,ETNP_300m_PROKKA_117498,116.15,19,6,6,,46902,putative ABC transporter-binding protein precursor
+96,2344,ETNP_120m_PROKKA_216566,116.15,18,6,6,,48365,putative ABC transporter-binding protein precursor
+96,2346,ETNP_160m_PROKKA_89816,116.15,18,6,6,,48365,putative ABC transporter-binding protein precursor
+96,2345,ETNP_140m_PROKKA_47647,116.15,18,6,6,,48365,putative ABC transporter-binding protein precursor
+96,2347,NP_300m_PROKKA_05253,116.15,18,6,6,,48365,putative ABC transporter-binding protein precursor
+32,118955,NP_85m_PROKKA_11169,115.07,30,13,1,,39471,Alpha-keto acid-binding periplasmic protein TakP precursor
+32,118956,NP_100m_PROKKA_06558,115.07,30,13,1,,39471,Alpha-keto acid-binding periplasmic protein TakP precursor
+32,118957,NP_300m_PROKKA_11637,115.07,30,13,1,,39471,Alpha-keto acid-binding periplasmic protein TakP precursor
+32,118958,ETNP_110m_PROKKA_31734,115.07,30,13,1,,39471,Alpha-keto acid-binding periplasmic protein TakP precursor
+45,2579,NP_85m_PROKKA_08216,114.35,30,11,0,,39292,Bacterial extracellular solute-binding protein
+82,4331,NP_85m_PROKKA_24848,114.06,34,6,2,,23643,Taurine-binding periplasmic protein precursor
+52,118954,NP_100m_PROKKA_10275,112.11,26,9,4,,41340,hypothetical protein
+51,119114,KHE93198,111.15,12,10,1,,75635,hydrazine synthase BC subunit Candidatus Scalindua brodae
+48,2217,ETNP_150m_particle_PROKKA_18951,110.11,32,11,0,,34495,Taurine-binding periplasmic protein precursor
+53,3729,ETNP_120m_particle_PROKKA_72855,109.63,26,9,1,,35671,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+114,2101,ETNP14_120maa_PROKKA_139086,108.74,17,6,3,,33406,hypothetical protein
+73,107280,NP_300m_PROKKA_25062,108.60,25,8,0,,35624,General L-amino acid-binding periplasmic protein AapJ precursor
+61,1882,ETNP_140m_PROKKA_27747,108.23,28,7,4,,31049,Sialic acid-binding periplasmic protein SiaP precursor
+61,1077,NP_85m_PROKKA_06199,108.23,23,7,4,,37599,Sialic acid-binding periplasmic protein SiaP precursor
+61,1078,ETNP_300m_PROKKA_160614,108.23,23,7,4,,37618,Sialic acid-binding periplasmic protein SiaP precursor
+61,1079,ETNP_160m_PROKKA_56951,108.23,23,7,4,,37618,Sialic acid-binding periplasmic protein SiaP precursor
+61,1080,ETNP_180m_PROKKA_87014,108.23,23,7,4,,37618,Sialic acid-binding periplasmic protein SiaP precursor
+61,1081,ETNP_120m_PROKKA_148649,108.23,23,7,4,,37618,Sialic acid-binding periplasmic protein SiaP precursor
+49,697,NP_85m_PROKKA_22112,107.08,27,11,0,,34368,Taurine-binding periplasmic protein precursor
+89,100362,ETNP_300m_PROKKA_120044,106.98,17,6,6,,39133,hypothetical protein
+89,119057,NP_100m_PROKKA_07401,106.98,11,6,6,,60120,flagellar basal body rod modification protein
+89,119058,ETNP14_120maa_PROKKA_12653,106.98,11,6,6,,60454,flagellar basal body rod modification protein
+109,108028,NP_300m_PROKKA_06057,106.97,23,4,2,,23421,Rhodanese-like domain protein
+109,108029,ETNP_120m_particle_PROKKA_202758,106.97,23,4,2,,23421,Rhodanese-like domain protein
+109,108030,ETNP_300m_PROKKA_95801,106.97,23,4,2,,23421,Rhodanese-like domain protein
+109,108031,ETNP_180m_PROKKA_60051,106.97,23,4,2,,23421,Rhodanese-like domain protein
+109,108032,ETNP_120m_PROKKA_162168,106.97,23,4,2,,23421,Rhodanese-like domain protein
+109,108033,ETNP_160m_PROKKA_75611,106.97,23,4,2,,23421,Rhodanese-like domain protein
+50,882,ETNP14_68maa_PROKKA_112627,106.89,27,11,0,,34407,Taurine-binding periplasmic protein precursor
+28,118967,ETNP14_120maa_PROKKA_156631,106.77,30,13,0,,39652,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+134,107220,ETNP_300m_PROKKA_103810,106.48,17,6,6,,39600,hypothetical protein
+117,140,ETNP_120m_PROKKA_239033,106.45,36,7,5,,19139,C-phycoerythrin class 1 subunit beta
+117,138,ETNP_120m_free_PROKKA_147966,106.45,36,7,5,,19139,C-phycoerythrin class 1 subunit beta
+117,139,ETNP_100m_particle_PROKKA_112481,106.45,36,7,5,,19139,C-phycoerythrin class 1 subunit beta
+59,1272,ETNP_110m_PROKKA_21843,105.92,27,10,3,,39676,Bacterial extracellular solute-binding protein
+59,1273,NP_125m_PROKKA_06923,105.92,27,10,3,,39676,Bacterial extracellular solute-binding protein
+59,1276,NP_300m_PROKKA_14486,105.92,27,10,3,,39676,Bacterial extracellular solute-binding protein
+59,1277,NP_85m_PROKKA_10440,105.92,27,10,3,,39676,Bacterial extracellular solute-binding protein
+59,1275,ETNP_100m_PROKKA_85620,105.92,27,10,3,,39676,Bacterial extracellular solute-binding protein
+59,1278,ETNP14_120maa_PROKKA_29432,105.92,27,10,3,,39676,Bacterial extracellular solute-binding protein
+118,118997,ETNP_120m_PROKKA_94461,105.61,20,5,1,,32010,Taurine-binding periplasmic protein precursor
+118,118998,NP_300m_PROKKA_16564,105.61,18,5,1,,34169,Taurine-binding periplasmic protein precursor
+68,1489,NP_100m_PROKKA_17967,105.30,34,9,0,,26896,Taurine-binding periplasmic protein precursor
+58,118960,ETNP_120m_particle_PROKKA_212673,105.14,24,9,3,,35564,Putative thiamine biosynthesis protein
+58,118961,NP_300m_PROKKA_08587,105.14,24,9,3,,35443,Putative thiamine biosynthesis protein
+76,119003,ETNP14_120maa_PROKKA_28008,104.74,11,6,1,,57900,60 kDa chaperonin
+128,361,ETNP14_68maa_PROKKA_99193,103.79,17,6,0,,37467,General L-amino acid-binding periplasmic protein AapJ precursor
+144,107325,ETNP_180m_PROKKA_172072,103.70,16,5,0,,34432,hypothetical protein
+46,118964,ETNP_120m_PROKKA_279895,103.53,32,9,3,,34920,Putative thiamine biosynthesis protein
+46,118965,NP_300m_PROKKA_05219,103.53,31,9,3,,35492,Putative thiamine biosynthesis protein
+46,118966,ETNP_140m_PROKKA_111734,103.53,31,9,3,,35434,Putative thiamine biosynthesis protein
+81,107186,ETNP_100m_particle_PROKKA_113205,103.40,43,9,0,,18566,hypothetical protein
+67,107224,ETNP_140m_PROKKA_164499,103.36,21,8,8,,34989,NMT1/THI5 like protein
+67,174201,ETNP_120m_PROKKA_133462,103.36,21,8,8,,34989,NMT1/THI5 like protein
+67,107227,ETNP_180m_PROKKA_38050,103.36,21,8,8,,34989,NMT1/THI5 like protein
+84,118985,NP_85m_PROKKA_02682,103.34,19,7,5,,39975,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+84,118986,NP_125m_PROKKA_00202,103.34,19,7,5,,39975,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+84,118987,ETNP_120m_particle_PROKKA_184419,103.34,19,7,5,,39975,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+84,118988,ETNP14_120maa_PROKKA_07471,103.34,19,7,5,,39975,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+84,118989,NP_100m_PROKKA_00367,103.34,19,7,5,,39975,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+84,118990,ETNP_110m_PROKKA_38395,103.34,19,7,5,,39975,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+84,118991,ETNP_100m_particle_PROKKA_40531,103.34,19,7,5,,39975,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+133,389,ETNP14_120maa_PROKKA_111366,103.28,17,6,0,,37337,General L-amino acid-binding periplasmic protein AapJ precursor
+133,107176,ETNP14_120maa_PROKKA_66447,103.28,17,6,0,,37413,General L-amino acid-binding periplasmic protein AapJ precursor
+57,118993,ETNP14_120maa_PROKKA_32935,103.07,8,9,1,,143282,Respiratory nitrate reductase 1 alpha chain
+129,118972,ETNP_120m_particle_PROKKA_90527,103.02,19,6,0,,36943,General L-amino acid-binding periplasmic protein AapJ precursor
+69,661,XP_003061104,102.74,20,10,1,,41766,actin flagellar inner arm intermediate chain  Micromonas pusilla CCMP1545
+75,118974,NP_300m_PROKKA_08375,102.39,6,8,0,,144201,Respiratory nitrate reductase 1 alpha chain
+75,118975,NP_85m_PROKKA_03144,102.39,6,8,0,,144201,Respiratory nitrate reductase 1 alpha chain
+75,118976,ETNP14_120maa_PROKKA_05361,102.39,6,8,0,,144201,Respiratory nitrate reductase 1 alpha chain
+75,118977,NP_125m_PROKKA_01168,102.39,6,8,0,,144201,Respiratory nitrate reductase 1 alpha chain
+182,38,ETNP_120m_PROKKA_239026,102.00,30,4,4,,17736,C-phycoerythrin class 2 subunit alpha
+182,58,ETNP_120m_free_PROKKA_182311,102.00,30,4,4,,17722,C-phycoerythrin class 2 subunit alpha
+182,39,ETNP_90m_PROKKA_15075,102.00,30,4,4,,17736,C-phycoerythrin class 2 subunit alpha
+182,37,ETNP_100m_particle_PROKKA_144421,102.00,30,4,4,,17736,C-phycoerythrin class 2 subunit alpha
+65,107207,NP_125m_PROKKA_07826,101.47,28,9,1,,35665,General L-amino acid-binding periplasmic protein AapJ precursor
+105,2578,WP_053820550,101.35,21,7,0,,39362,hypothetical protein Candidatus Thioglobus singularis
+95,107208,ETNP_300m_PROKKA_181318,101.34,8,8,8,,134406,PA14 domain protein
+140,95,ETNP_180m_PROKKA_81155,101.29,9,5,5,,81192,Multicopper oxidase
+106,119020,ETNP_180m_PROKKA_61581,101.18,14,7,5,,40202,Receptor family ligand binding region
+106,119021,ETNP_160m_PROKKA_51479,101.18,14,7,5,,40255,Receptor family ligand binding region
+106,119022,ETNP_120m_PROKKA_133802,101.18,14,7,5,,40255,Receptor family ligand binding region
+92,119026,NP_125m_PROKKA_05636,101.00,35,7,2,,21095,hypothetical protein
+90,107341,ETNP_120m_free_PROKKA_108705,100.56,25,6,1,,27037,Bacterial extracellular solute-binding protein
+90,2738,ETNP_120m_PROKKA_117417,100.56,20,6,1,,34430,Bacterial extracellular solute-binding protein
+55,107316,ETNP14_120maa_PROKKA_27079,100.39,8,9,0,,142899,Respiratory nitrate reductase 1 alpha chain
+110,119146,ETNP_140m_PROKKA_09993,100.30,9,5,1,,58218,60 kDa chaperonin
+110,119147,ETNP_120m_PROKKA_273782,100.30,9,5,1,,58218,60 kDa chaperonin
+110,119148,NP_300m_PROKKA_13154,100.30,9,5,1,,58218,60 kDa chaperonin
+83,2419,ETNP14_120maa_PROKKA_137967,99.84,21,8,1,,39703,Bacterial extracellular solute-binding protein
+94,107347,NP_300m_PROKKA_09456,99.53,33,7,0,,11688,hypothetical protein
+62,692,NP_300m_PROKKA_15288,99.47,25,10,1,,50296,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+62,693,ETNP_160m_PROKKA_38126,99.47,25,10,1,,50319,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+60,118980,ETNP14_120mab_PROKKA_80611,98.67,36,8,0,,16752,Alpha-keto acid-binding periplasmic protein TakP precursor
+60,118979,ETNP_110m_PROKKA_40671,98.67,36,8,0,,16730,Alpha-keto acid-binding periplasmic protein TakP precursor
+63,702,NP_300m_PROKKA_08816,98.41,28,10,1,,44250,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+63,704,ETNP_120m_particle_PROKKA_45848,98.41,28,10,1,,44250,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+74,1700,ETNP14_68maa_PROKKA_155360,98.05,21,8,0,,34510,Putative aliphatic sulfonates-binding protein precursor
+85,154,ETNP_120m_PROKKA_239025,97.82,41,7,4,,18407,C-phycoerythrin class 2 subunit beta
+85,155,ETNP_120m_free_PROKKA_182310,97.82,41,7,4,,18407,C-phycoerythrin class 2 subunit beta
+85,153,ETNP_90m_PROKKA_15076,97.82,41,7,4,,18407,C-phycoerythrin class 2 subunit beta
+107,1449,NP_85m_PROKKA_11751,97.67,11,7,4,,55690,ATP synthase subunit alpha
+66,107274,KHE92665,97.60,10,9,5,,90901,hydrazine synthase A subunit Candidatus Scalindua brodae
+147,3749,NP_100m_PROKKA_16248,97.15,20,6,6,,31451,hypothetical protein
+72,119183,ETNP_120m_PROKKA_176497,96.57,17,8,1,,46658,Di-haem cytochrome c peroxidase
+146,3450,ETNP_110m_PROKKA_32298,96.38,18,5,2,,24386,hypothetical protein
+97,119013,ETNP_150m_particle_PROKKA_20236,96.08,7,8,1,,143052,Respiratory nitrate reductase 1 alpha chain
+97,135238,ETNP_180m_PROKKA_86331,96.08,7,8,1,,143052,Respiratory nitrate reductase 1 alpha chain
+113,107189,NP_100m_PROKKA_12960,96.05,21,7,1,,35769,General L-amino acid-binding periplasmic protein AapJ precursor
+71,1122,NP_300m_PROKKA_21694,96.02,23,8,1,,34459,Putative aliphatic sulfonates-binding protein precursor
+126,174268,NP_100m_PROKKA_10788,95.76,24,5,0,,22997,General L-amino acid-binding periplasmic protein AapJ precursor
+171,2679,NP_85m_PROKKA_14707,95.66,14,5,5,,58813,Bacterial extracellular solute-binding protein
+171,2687,NP_100m_PROKKA_03011,95.66,13,5,5,,63992,Bacterial extracellular solute-binding protein
+152,119083,ETNP_180m_PROKKA_170303,95.50,10,5,1,,66724,putative ABC transporter-binding protein precursor
+98,107346,NP_300m_PROKKA_45804,94.85,63,5,0,,6378,hypothetical protein
+87,107232,ETNP_120m_PROKKA_24459,94.58,22,7,4,,39368,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+87,107233,ETNP_160m_PROKKA_188359,94.58,22,7,4,,39393,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+138,119007,ETNP_140m_PROKKA_46989,94.36,7,5,4,,103495,Vitamin B12 transporter BtuB
+138,119008,NP_300m_PROKKA_01639,94.36,7,5,4,,103915,Vitamin B12 transporter BtuB
+138,119006,ETNP_120m_particle_PROKKA_116865,94.36,7,5,4,,105882,Vitamin B12 transporter BtuB
+70,118973,ETNP14_120maa_PROKKA_115246,93.05,45,6,0,,10276,Alpha-keto acid-binding periplasmic protein TakP precursor
+176,119153,NP_100m_PROKKA_07831,92.91,16,4,1,,34368,glycine betaine transporter periplasmic subunit
+88,107246,NP_85m_PROKKA_19634,92.32,19,7,7,,42437,Spermidine/putrescine-binding periplasmic protein precursor
+88,107248,NP_100m_PROKKA_09832,92.32,19,7,7,,42437,Spermidine/putrescine-binding periplasmic protein precursor
+88,107249,NP_300m_PROKKA_32140,92.32,19,7,7,,42437,Spermidine/putrescine-binding periplasmic protein precursor
+88,107250,NP_125m_PROKKA_03771,92.32,19,7,7,,42437,Spermidine/putrescine-binding periplasmic protein precursor
+88,107251,ETNP14_120maa_PROKKA_15145,92.32,19,7,7,,42437,Spermidine/putrescine-binding periplasmic protein precursor
+88,107252,ETNP_110m_PROKKA_30638,92.32,19,7,7,,42437,Spermidine/putrescine-binding periplasmic protein precursor
+88,107247,ETNP14_68maa_PROKKA_25172,92.32,19,7,7,,42444,Spermidine/putrescine-binding periplasmic protein precursor
+124,187527,ETNP_160m_PROKKA_189679,91.96,7,6,6,,126974,TonB dependent receptor
+137,1730,ETNP_110m_PROKKA_42220,91.79,17,5,3,,33245,hypothetical protein
+142,107212,NP_85m_PROKKA_09530,91.73,17,6,0,,36415,General L-amino acid-binding periplasmic protein AapJ precursor
+78,119047,ETNP_120m_particle_PROKKA_143468,91.71,53,6,6,,11301,Bacterial DNA-binding protein
+78,119048,NP_100m_PROKKA_25305,91.71,53,6,6,,11301,Bacterial DNA-binding protein
+78,119049,ETNP_150m_particle_PROKKA_18811,91.71,53,6,6,,11301,Bacterial DNA-binding protein
+78,119050,NP_300m_PROKKA_20346,91.71,53,6,6,,11301,Bacterial DNA-binding protein
+115,1677,ETNP_90m_PROKKA_166636,91.37,18,7,2,,33070,Bacterial actin-related protein
+99,119059,ETNP14_120maa_PROKKA_25334,90.87,12,8,1,,63384,Oligopeptide-binding protein AppA precursor
+99,119060,ETNP_120m_PROKKA_234341,90.87,12,8,1,,63384,Oligopeptide-binding protein AppA precursor
+143,119010,ETNP14_68maa_PROKKA_79872,90.78,22,6,0,,32890,General L-amino acid-binding periplasmic protein AapJ precursor
+79,1644,Fosmid_PROKKA_01396,90.70,21,8,0,,34648,Taurine-binding periplasmic protein precursor
+153,119062,ETNP_120m_PROKKA_95426,89.67,7,4,1,,82558,Formate dehydrogenase H
+153,119063,ETNP_180m_PROKKA_21990,89.67,6,4,1,,99155,Formate dehydrogenase H
+153,119064,ETNP_160m_PROKKA_99583,89.67,5,4,1,,106182,Formate dehydrogenase-O major subunit precursor
+153,119065,ETNP_140m_PROKKA_105309,89.67,5,4,1,,106906,Formate dehydrogenase H
+141,107396,ETNP_120m_PROKKA_200056,89.54,10,3,3,,27136,hypothetical protein
+210,187551,ETNP_160m_PROKKA_184798,89.31,11,3,0,,40955,hypothetical protein
+56,261,XP_003056479,89.05,14,8,0,,49615,beta tubulin  Micromonas pusilla CCMP1545
+132,119358,ETNP_160m_PROKKA_93758,88.28,13,4,4,,40164,Bacterial extracellular solute-binding protein
+132,119359,ETNP_120m_PROKKA_21017,88.28,12,4,4,,43346,Bacterial extracellular solute-binding protein
+131,1965,ETNP_180m_PROKKA_132387,88.24,8,4,0,,57224,60 kDa chaperonin
+131,119223,ETNP_160m_PROKKA_57515,88.24,8,4,0,,57224,60 kDa chaperonin
+208,147,NP_85m_PROKKA_25020,88.24,28,4,4,,15669,Photosystem I reaction center subunit II
+208,101,ETNP14_68maa_PROKKA_166963,88.24,28,4,4,,15623,Photosystem I reaction center subunit II
+208,102,ETNP_90m_PROKKA_24349,88.24,28,4,4,,15726,Photosystem I reaction center subunit II
+80,119018,ETNP_120m_particle_PROKKA_191004,87.87,45,6,2,,11651,Alpha-keto acid-binding periplasmic protein TakP precursor
+80,119017,ETNP_120m_PROKKA_51846,87.87,85,6,2,,6355,hypothetical protein
+155,119128,ETNP_140m_PROKKA_10835,87.87,9,5,1,,66680,putative ABC transporter-binding protein precursor
+155,119129,NP_300m_PROKKA_04737,87.87,8,5,1,,77292,putative ABC transporter-binding protein precursor
+155,119130,ETNP_120m_particle_PROKKA_76508,87.87,8,5,1,,77292,putative ABC transporter-binding protein precursor
+193,119067,ETNP_180m_PROKKA_117438,87.25,8,3,3,,57660,Quinohemoprotein alcohol dehydrogenase ADH IIB precursor
+193,119068,ETNP_120m_free_PROKKA_79382,87.25,8,3,3,,61453,Quinohemoprotein alcohol dehydrogenase ADH IIB precursor
+193,119069,ETNP_120m_PROKKA_274492,87.25,8,3,3,,61453,Quinohemoprotein alcohol dehydrogenase ADH IIB precursor
+193,119071,ETNP_300m_PROKKA_163281,87.25,8,3,3,,61440,Quinohemoprotein alcohol dehydrogenase ADH IIB precursor
+193,119070,ETNP_160m_PROKKA_167750,87.25,8,3,3,,61439,Quinohemoprotein alcohol dehydrogenase ADH IIB precursor
+93,938,ETNP_120m_PROKKA_44499,87.21,21,8,5,,40193,Bacterial extracellular solute-binding protein
+93,939,ETNP14_68maa_PROKKA_154991,87.21,21,8,5,,40175,Bacterial extracellular solute-binding protein
+93,937,ETNP_180m_PROKKA_181026,87.21,21,8,5,,40175,Bacterial extracellular solute-binding protein
+123,119061,NP_85m_PROKKA_07022,87.12,16,6,4,,38817,Alpha-keto acid-binding periplasmic protein TakP precursor
+111,107465,ETNP_180m_PROKKA_117948,87.04,7,7,1,,113871,Respiratory nitrate reductase 1 alpha chain
+104,119041,ETNP14_120maa_PROKKA_100467,86.25,12,7,0,,63136,Oligopeptide-binding protein AppA precursor
+173,119120,ETNP_120m_particle_PROKKA_124412,86.23,7,4,2,,80098,Formate dehydrogenase H
+229,2983,ETNP_120m_free_PROKKA_182392,85.96,18,4,4,,34119,glycine betaine transporter periplasmic subunit
+229,2984,ETNP_180m_PROKKA_61735,85.96,17,4,4,,36437,glycine betaine transporter periplasmic subunit
+229,2985,ETNP_120m_PROKKA_150239,85.96,17,4,4,,36437,glycine betaine transporter periplasmic subunit
+229,2986,NP_300m_PROKKA_22777,85.96,17,4,4,,36437,glycine betaine transporter periplasmic subunit
+229,2987,ETNP_300m_PROKKA_25221,85.96,17,4,4,,36437,glycine betaine transporter periplasmic subunit
+229,2988,ETNP_160m_PROKKA_158752,85.96,17,4,4,,36437,glycine betaine transporter periplasmic subunit
+108,107311,ETNP_120m_free_PROKKA_61385,85.95,18,5,2,,39404,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+108,107312,ETNP_120m_PROKKA_306054,85.95,18,5,2,,39404,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+185,135364,ETNP_160m_PROKKA_29141,85.84,24,3,3,,24481,Endoglucanase precursor
+136,174259,ETNP_120m_PROKKA_30526,85.18,12,6,1,,46624,hypothetical protein
+197,107683,NP_125m_PROKKA_09628,85.08,13,4,4,,40955,maltose ABC transporter periplasmic protein
+197,107684,ETNP_110m_PROKKA_16294,85.08,12,4,4,,43571,maltose ABC transporter periplasmic protein
+197,107685,NP_100m_PROKKA_08344,85.08,12,4,4,,43571,maltose ABC transporter periplasmic protein
+197,107686,ETNP14_120maa_PROKKA_01943,85.08,12,4,4,,43571,maltose ABC transporter periplasmic protein
+197,107687,NP_85m_PROKKA_05769,85.08,12,4,4,,43571,maltose ABC transporter periplasmic protein
+197,107682,NP_300m_PROKKA_33857,85.08,16,4,4,,31669,putative ABC transporter-binding protein precursor
+135,4678,NP_100m_PROKKA_02946,85.04,13,5,1,,44655,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+135,4679,NP_125m_PROKKA_07443,85.04,13,5,1,,44625,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+217,119163,NP_300m_PROKKA_21309,84.98,15,3,1,,29395,glycine betaine transporter periplasmic subunit
+120,119053,ETNP_120m_PROKKA_294386,84.35,14,6,0,,47643,Glutathione-binding protein GsiB precursor
+120,119055,ETNP14_120maa_PROKKA_132978,84.35,13,6,0,,51138,Glutathione-binding protein GsiB precursor
+120,119056,ETNP_180m_PROKKA_35567,84.35,11,6,0,,62877,Oligopeptide-binding protein AppA precursor
+120,119051,WP_029389110,84.35,11,6,0,,63458,peptide ABC transporter SAR324 cluster bacterium SCGC AAA001-C10
+120,119052,ETNP_300m_PROKKA_191878,84.35,17,6,0,,40955,Glutathione-binding protein GsiB precursor
+120,187526,ETNP_120m_free_PROKKA_102415,84.35,17,6,0,,40955,Glutathione-binding protein GsiB precursor
+120,119054,ETNP_160m_PROKKA_45100,84.35,14,6,0,,48124,Glutathione-binding protein GsiB precursor
+180,119131,ETNP_120m_PROKKA_164604,84.07,9,5,5,,57649,Periplasmic dipeptide transport protein precursor
+180,119132,NP_300m_PROKKA_03566,84.07,9,5,5,,57649,Periplasmic dipeptide transport protein precursor
+180,119133,ETNP_140m_PROKKA_128292,84.07,9,5,5,,57649,Periplasmic dipeptide transport protein precursor
+180,119134,ETNP_180m_PROKKA_192696,84.07,9,5,5,,57649,Periplasmic dipeptide transport protein precursor
+180,119135,ETNP_160m_PROKKA_63379,84.07,9,5,5,,57649,Periplasmic dipeptide transport protein precursor
+180,119136,NP_100m_PROKKA_09173,84.07,9,5,5,,57649,Periplasmic dipeptide transport protein precursor
+181,107324,ETNP_300m_PROKKA_03840,84.03,33,5,1,,18591,hypothetical protein
+172,2412,ETNP_100m_PROKKA_27346,83.33,17,5,0,,30921,General L-amino acid-binding periplasmic protein AapJ precursor
+149,107721,NP_300m_PROKKA_29559,83.15,17,5,1,,35723,General L-amino acid-binding periplasmic protein AapJ precursor
+149,107722,NP_300m_PROKKA_31612,83.15,17,5,1,,35624,General L-amino acid-binding periplasmic protein AapJ precursor
+149,107723,ETNP14_120maa_PROKKA_145599,83.15,17,5,1,,35657,General L-amino acid-binding periplasmic protein AapJ precursor
+149,107725,ETNP14_120maa_PROKKA_76715,83.15,17,5,1,,35723,General L-amino acid-binding periplasmic protein AapJ precursor
+223,107230,ETNP14_120maa_PROKKA_96184,83.12,10,4,0,,40275,General L-amino acid-binding periplasmic protein AapJ precursor
+154,107240,NP_300m_PROKKA_12370,83.11,8,4,0,,58010,60 kDa chaperonin
+215,1625,NP_300m_PROKKA_03667,82.75,5,4,1,,55558,ATP synthase subunit alpha
+216,1540,NP_85m_PROKKA_14345,82.65,5,4,1,,57312,ATP synthase subunit alpha
+148,119179,NP_300m_PROKKA_10646,82.54,15,6,6,,35892,Cystine-binding periplasmic protein precursor
+239,88006,NP_300m_PROKKA_05383,82.46,14,3,2,,36427,General L-amino acid-binding periplasmic protein AapJ precursor
+239,119121,ETNP14_120maa_PROKKA_113527,82.46,14,3,2,,36427,General L-amino acid-binding periplasmic protein AapJ precursor
+239,119122,ETNP_120m_PROKKA_05595,82.46,14,3,2,,36427,General L-amino acid-binding periplasmic protein AapJ precursor
+239,119123,ETNP_160m_PROKKA_33848,82.46,14,3,2,,36427,General L-amino acid-binding periplasmic protein AapJ precursor
+239,119124,ETNP_140m_PROKKA_123038,82.46,14,3,2,,36427,General L-amino acid-binding periplasmic protein AapJ precursor
+125,107726,ETNP14_68maa_PROKKA_126798,82.42,21,6,1,,35573,General L-amino acid-binding periplasmic protein AapJ precursor
+101,1909,ETNP_120m_PROKKA_324777,81.92,19,7,1,,43321,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+101,1907,ETNP_160m_PROKKA_22308,81.92,20,7,1,,41317,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+167,119218,NP_100m_PROKKA_10652,81.87,17,5,0,,31833,Nitrate reductase alpha subunit
+167,119219,NP_125m_PROKKA_05363,81.87,12,5,0,,45563,Nitrate reductase alpha subunit
+167,119214,NP_85m_PROKKA_09194,81.87,6,5,0,,89992,Nitrate reductase alpha subunit
+218,2803,NP_85m_PROKKA_10205,81.82,5,4,1,,55402,ATP synthase subunit alpha
+251,119033,ETNP_160m_PROKKA_143180,81.80,10,3,1,,40326,hypothetical protein
+189,4135,ETNP_120m_PROKKA_340036,80.74,40,5,0,,13806,hypothetical protein
+130,2792,ETNP14_68maa_PROKKA_103183,80.54,12,5,1,,44663,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+207,2258,ETNP_140m_PROKKA_15602,80.36,9,4,4,,66767,PA14 domain protein
+169,135421,ETNP14_120maa_PROKKA_28949,80.11,5,5,0,,110111,Respiratory nitrate reductase 1 alpha chain
+234,119143,ETNP14_120maa_PROKKA_65555,79.99,11,3,3,,42263,maltose ABC transporter periplasmic protein
+234,119144,NP_100m_PROKKA_09882,79.99,11,3,3,,42263,maltose ABC transporter periplasmic protein
+190,107315,NP_300m_PROKKA_18952,79.66,10,5,5,,29108,hypothetical protein
+156,119199,NP_100m_PROKKA_03094,79.22,11,5,2,,39587,Leu/Ile/Val/Thr-binding protein precursor
+170,119165,ETNP_120m_PROKKA_195906,78.51,12,5,5,,43975,Formamidase
+183,520,XP_003063038,78.47,29,4,4,,11395,predicted protein  Micromonas pusilla CCMP1545
+183,521,ETNP_90m_PROKKA_109358,78.47,29,4,4,,11367,Core histone H2A/H2B/H3/H4
+183,522,ETNP_70m_PROKKA_144910,78.47,29,4,4,,11395,Core histone H2A/H2B/H3/H4
+183,516,ETNP_70m_PROKKA_132488,78.47,29,4,4,,11367,Core histone H2A/H2B/H3/H4
+183,811,XP_002179286,78.47,29,4,4,,11383,histone H4 isoform 1b  Phaeodactylum tricornutum CCAP 1055
+183,813,EJK69577,78.47,29,4,4,,11383,hypothetical protein THAOC_09145  Thalassiosira oceanica
+183,523,XP_003061514,78.47,29,4,4,,11395,histone H4  Micromonas pusilla CCMP1545
+183,517,ETNP_120m_particle_PROKKA_44959,78.47,29,4,4,,11365,Core histone H2A/H2B/H3/H4
+183,518,ETNP14_68mB_PROKKA_59955,78.47,29,4,4,,11367,Core histone H2A/H2B/H3/H4
+183,812,XP_002179505,78.47,29,4,4,,11383,histone H4 isoform 1a  Phaeodactylum tricornutum CCAP 1055
+183,519,XP_003061756,78.47,29,4,4,,11395,predicted protein  Micromonas pusilla CCMP1545
+183,524,XP_003059520,78.47,29,4,4,,11395,predicted protein  Micromonas pusilla CCMP1545
+183,557,ETNP_100m_particle_PROKKA_140022,78.47,29,4,4,,11381,Core histone H2A/H2B/H3/H4
+183,814,EJK72475,78.47,26,4,4,,13036,hypothetical protein THAOC_05990  Thalassiosira oceanica
+183,541,XP_003074685,78.47,11,4,4,,31136,Histone H4 ISS  Ostreococcus tauri
+183,820,EJK63755,78.47,8,4,4,,39773,hypothetical protein THAOC_15573 partial  Thalassiosira oceanica
+121,107736,NP_300m_PROKKA_07216,78.00,14,6,1,,38862,Purine-binding protein precursor
+161,577,WP_011128866,77.64,28,5,1,,18085,C-phycoerythrin class 2 subunit beta Synechococcus
+224,187541,ETNP_140m_PROKKA_82951,77.43,15,4,2,,35761,C4-dicarboxylate-binding periplasmic protein precursor
+224,187542,ETNP_120m_particle_PROKKA_188716,77.43,15,4,2,,35761,C4-dicarboxylate-binding periplasmic protein precursor
+224,187543,ETNP_160m_PROKKA_45809,77.43,15,4,2,,35761,C4-dicarboxylate-binding periplasmic protein precursor
+196,135470,ETNP_140m_PROKKA_10452,77.18,12,4,2,,36148,General L-amino acid-binding periplasmic protein AapJ precursor
+196,135471,ETNP_160m_PROKKA_119323,77.18,12,4,2,,36148,General L-amino acid-binding periplasmic protein AapJ precursor
+196,135472,NP_300m_PROKKA_13658,77.18,12,4,2,,36148,General L-amino acid-binding periplasmic protein AapJ precursor
+196,135473,ETNP_300m_PROKKA_105808,77.18,12,4,2,,36148,General L-amino acid-binding periplasmic protein AapJ precursor
+196,135474,ETNP_180m_PROKKA_126275,77.18,12,4,2,,36148,General L-amino acid-binding periplasmic protein AapJ precursor
+196,135475,ETNP_120m_PROKKA_168017,77.18,12,4,2,,36148,General L-amino acid-binding periplasmic protein AapJ precursor
+196,187573,NP_100m_PROKKA_26032,77.18,33,4,2,,13673,General L-amino acid-binding periplasmic protein AapJ precursor
+196,135468,ETNP_120m_particle_PROKKA_89051,77.18,15,4,2,,29167,General L-amino acid-binding periplasmic protein AapJ precursor
+196,135469,ETNP_120m_free_PROKKA_225216,77.18,13,4,2,,32779,General L-amino acid-binding periplasmic protein AapJ precursor
+160,4736,ETNP14_120maa_PROKKA_113456,77.18,17,5,0,,39216,Bacterial extracellular solute-binding protein
+160,4735,ETNP14_68maa_PROKKA_82752,77.18,17,5,0,,39216,Bacterial extracellular solute-binding protein
+122,107769,NP_85m_PROKKA_21937,76.67,18,6,0,,37984,Purine-binding protein precursor
+226,107373,ETNP_120m_PROKKA_200726,76.52,6,4,4,,69264,Oligopeptide-binding protein AppA precursor
+253,61439,NP_100m_PROKKA_01491,75.75,5,3,3,,101597,Colicin I receptor precursor
+253,61440,ETNP_100m_PROKKA_01663,75.75,5,3,3,,101581,Colicin I receptor precursor
+253,61441,NP_85m_PROKKA_02452,75.75,5,3,3,,101613,Colicin I receptor precursor
+253,61442,ETNP_300m_PROKKA_51637,75.75,5,3,3,,101549,Colicin I receptor precursor
+166,119215,NP_125m_PROKKA_05276,75.64,11,4,1,,33505,glycine betaine transporter periplasmic subunit
+166,119216,ETNP14_120maa_PROKKA_46439,75.64,11,4,1,,33505,glycine betaine transporter periplasmic subunit
+127,119321,NP_85m_PROKKA_12721,75.23,8,6,0,,76672,Nitrate reductase alpha subunit
+235,119252,ETNP_300m_PROKKA_181212,75.16,6,3,3,,70396,putative ABC transporter-binding protein precursor
+235,119251,ETNP_180m_PROKKA_116337,75.16,9,3,3,,46537,D-ribose-binding periplasmic protein precursor
+302,135345,ETNP_120m_PROKKA_20628,74.92,9,3,3,,36295,Bacterial extracellular solute-binding protein  family 7
+302,135346,ETNP_120m_particle_PROKKA_78706,74.92,9,3,3,,36295,Bacterial extracellular solute-binding protein  family 7
+302,135347,NP_300m_PROKKA_12335,74.92,9,3,3,,36295,Bacterial extracellular solute-binding protein  family 7
+302,135348,ETNP_140m_PROKKA_21796,74.92,9,3,3,,36295,Bacterial extracellular solute-binding protein  family 7
+139,119081,ETNP_120m_PROKKA_83500,74.75,24,5,1,,20791,hypothetical protein
+209,1935,NP_300m_PROKKA_04065,74.69,3,4,3,,155384,DNA-directed RNA polymerase subunit beta'
+259,3258,ETNP_120m_PROKKA_131601,74.64,16,3,3,,29164,ABC transporter arginine-binding protein 1 precursor
+259,3257,ETNP_160m_PROKKA_52992,74.64,16,3,3,,29164,ABC transporter arginine-binding protein 1 precursor
+259,3259,NP_300m_PROKKA_04554,74.64,16,3,3,,29164,ABC transporter arginine-binding protein 1 precursor
+259,3260,ETNP_180m_PROKKA_214212,74.64,16,3,3,,29164,ABC transporter arginine-binding protein 1 precursor
+259,3261,ETNP_120m_PROKKA_330415,74.64,15,3,3,,29351,ABC transporter arginine-binding protein 1 precursor
+175,135701,ETNP_300m_PROKKA_70510,74.43,23,4,2,,23102,Rhodanese-like domain protein
+175,135702,ETNP_120m_PROKKA_113062,74.43,23,4,2,,23086,Rhodanese-like domain protein
+175,135703,ETNP_180m_PROKKA_61983,74.43,23,4,2,,23086,Rhodanese-like domain protein
+175,135704,ETNP_140m_PROKKA_97564,74.43,23,4,2,,23086,Rhodanese-like domain protein
+175,135705,ETNP_160m_PROKKA_36004,74.43,23,4,2,,23086,Rhodanese-like domain protein
+175,135706,NP_300m_PROKKA_20015,74.43,23,4,2,,23086,Rhodanese-like domain protein
+175,135707,ETNP_120m_particle_PROKKA_84916,74.43,23,4,2,,23086,Rhodanese-like domain protein
+222,107276,ETNP14_120mab_PROKKA_117245,74.01,23,4,0,,17595,hypothetical protein
+330,119232,ETNP_120m_PROKKA_30297,73.35,10,2,2,,33137,hypothetical protein
+184,85283,ETNP_300m_PROKKA_00274,73.34,11,5,3,,46885,Major capsid protein Gp23
+184,1388,ETNP_180m_PROKKA_33737,73.34,9,5,3,,54259,Major capsid protein Gp23
+311,119245,NP_85m_PROKKA_09407,73.29,8,2,2,,37574,Bacterial extracellular solute-binding protein
+311,119246,NP_300m_PROKKA_16158,73.29,8,2,2,,37574,Bacterial extracellular solute-binding protein
+311,119247,NP_100m_PROKKA_04398,73.29,8,2,2,,37574,Bacterial extracellular solute-binding protein
+311,119248,ETNP14_120maa_PROKKA_05966,73.29,8,2,2,,37574,Bacterial extracellular solute-binding protein
+311,119249,ETNP_100m_PROKKA_01239,73.29,8,2,2,,37574,Bacterial extracellular solute-binding protein
+311,119250,ETNP_110m_PROKKA_04894,73.29,8,2,2,,37574,Bacterial extracellular solute-binding protein
+205,2240,ETNP_70m_PROKKA_142252,73.29,9,4,1,,41848,Bacterial actin-related protein
+100,187544,NP_300m_PROKKA_11635,72.89,18,6,6,,58255,Periplasmic dipeptide transport protein precursor
+100,187545,NP_85m_PROKKA_04938,72.89,18,6,6,,58255,Periplasmic dipeptide transport protein precursor
+100,187546,ETNP_100m_PROKKA_16695,72.89,18,6,6,,58255,Periplasmic dipeptide transport protein precursor
+100,187547,ETNP_110m_PROKKA_47406,72.89,18,6,6,,58255,Periplasmic dipeptide transport protein precursor
+100,187548,ETNP14_120maa_PROKKA_17683,72.89,18,6,6,,58255,Periplasmic dipeptide transport protein precursor
+282,107201,ETNP_120m_PROKKA_141011,72.84,23,3,1,,14547,hypothetical protein
+145,1717,WP_015895894,72.75,7,4,1,,58788,molecular chaperone GroEL Acidobacterium capsulatum
+201,119184,NP_300m_PROKKA_13096,72.67,7,4,4,,58423,Periplasmic dipeptide transport protein precursor
+201,119185,ETNP_300m_PROKKA_174723,72.67,7,4,4,,58409,Periplasmic dipeptide transport protein precursor
+201,119186,NP_125m_PROKKA_04290,72.67,7,4,4,,58495,Periplasmic dipeptide transport protein precursor
+201,119187,NP_85m_PROKKA_10863,72.67,7,4,4,,58423,Periplasmic dipeptide transport protein precursor
+201,119197,NP_100m_PROKKA_12105,72.67,8,4,4,,51526,Periplasmic dipeptide transport protein precursor
+201,119212,ETNP_100m_PROKKA_88304,72.67,14,4,4,,29882,Periplasmic dipeptide transport protein precursor
+201,119209,ETNP_110m_PROKKA_45307,72.67,20,4,4,,21709,Periplasmic dipeptide transport protein precursor
+201,119210,ETNP14_120maa_PROKKA_72422,72.67,19,4,4,,23307,Periplasmic dipeptide transport protein precursor
+201,119211,ETNP_140m_PROKKA_36873,72.67,16,4,4,,27823,Periplasmic dipeptide transport protein precursor
+163,1098,NP_30m_PROKKA_02451,72.57,13,4,2,,36511,ATP synthase subunit beta
+163,616,NP_85m_PROKKA_16488,72.57,11,4,2,,45070,ATP synthase subunit beta
+163,626,NP_300m_PROKKA_22239,72.57,9,4,2,,51425,ATP synthase subunit beta
+163,619,NP_100m_PROKKA_10591,72.57,10,4,2,,49743,ATP synthase subunit beta
+191,3497,ETNP14_120maa_PROKKA_167511,72.44,8,3,1,,28495,hypothetical protein
+168,2074,XP_002180656,72.36,8,5,1,,49747,predicted protein  Phaeodactylum tricornutum CCAP 1055
+186,119189,NP_300m_PROKKA_05831,72.29,12,4,1,,39400,Leu/Ile/Val/Thr-binding protein precursor
+213,107351,ETNP_120m_PROKKA_326509,72.12,10,3,3,,45149,hypothetical protein
+219,5000,ETNP14_68mB_PROKKA_107731,72.11,32,4,0,,10481,hypothetical protein
+102,119072,ETNP_120m_particle_PROKKA_175681,71.84,31,5,0,,12009,Alpha-keto acid-binding periplasmic protein TakP precursor
+150,119019,NP_300m_PROKKA_27260,71.74,22,4,0,,27125,hypothetical protein
+150,119027,ETNP14_120mab_PROKKA_41933,71.74,21,4,0,,27714,hypothetical protein
+103,107770,ETNP_120m_particle_PROKKA_101375,71.67,21,7,2,,38872,Purine-binding protein precursor
+338,1504,ETNP_160m_PROKKA_78370,71.33,14,2,0,,18547,Photosystem I reaction center subunit III precursor
+338,1503,ETNP_90m_PROKKA_03594,71.33,14,2,0,,18547,Photosystem I reaction center subunit III precursor
+280,57451,ETNP_120m_particle_PROKKA_218405,70.84,9,3,2,,42977,Elongation factor Tu
+280,57452,NP_300m_PROKKA_33099,70.84,9,3,2,,43009,Elongation factor Tu
+225,107275,NP_300m_PROKKA_26667,70.77,42,4,0,,10272,hypothetical protein
+203,145,ETNP_100m_PROKKA_13915,70.05,15,3,3,,27289,Divinyl chlorophyll a/b light-harvesting protein PcbB
+203,146,ETNP_140m_PROKKA_160181,70.05,15,3,3,,28052,Divinyl chlorophyll a/b light-harvesting protein PcbB
+203,191,ETNP_140m_PROKKA_58522,70.05,15,3,3,,28052,Divinyl chlorophyll a/b light-harvesting protein PcbB
+203,93,NP_85m_PROKKA_25466,70.05,12,3,3,,34628,Divinyl chlorophyll a/b light-harvesting protein PcbB
+203,94,ETNP_90m_PROKKA_151411,70.05,11,3,3,,38538,Divinyl chlorophyll a/b light-harvesting protein PcbB
+203,152,NP_85m_PROKKA_17755,70.05,11,3,3,,38586,Divinyl chlorophyll a/b light-harvesting protein PcbB
+252,107202,NP_300m_PROKKA_08503,69.63,8,3,2,,39772,Alpha-keto acid-binding periplasmic protein TakP precursor
+252,107203,ETNP_120m_PROKKA_310245,69.63,8,3,2,,39772,Alpha-keto acid-binding periplasmic protein TakP precursor
+252,107204,ETNP_120m_particle_PROKKA_108393,69.63,8,3,2,,39772,Alpha-keto acid-binding periplasmic protein TakP precursor
+252,107205,ETNP_110m_PROKKA_29371,69.63,8,3,2,,39772,Alpha-keto acid-binding periplasmic protein TakP precursor
+162,110248,ETNP_180m_PROKKA_127487,69.20,9,4,2,,45442,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+162,110249,ETNP_160m_PROKKA_164204,69.20,9,4,2,,45442,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+162,110250,ETNP_120m_PROKKA_92301,69.20,9,4,2,,45442,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+162,119224,ETNP_140m_PROKKA_33697,69.20,9,4,2,,45411,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+294,1500,ETNP_110m_PROKKA_12720,69.17,14,2,0,,18507,Photosystem I reaction center subunit III precursor
+294,1501,ETNP_140m_PROKKA_159965,69.17,14,2,0,,18507,Photosystem I reaction center subunit III precursor
+294,1502,NP_85m_PROKKA_18135,69.17,14,2,0,,18507,Photosystem I reaction center subunit III precursor
+257,107402,ETNP14_120maa_PROKKA_82871,69.10,3,3,3,,91557,Pesticin receptor precursor
+257,107404,ETNP_140m_PROKKA_14461,69.10,3,3,3,,96349,Colicin I receptor precursor
+257,107405,ETNP_120m_particle_PROKKA_127161,69.10,3,3,3,,96292,Colicin I receptor precursor
+257,107406,NP_300m_PROKKA_17257,69.10,3,3,3,,96349,Colicin I receptor precursor
+257,107407,NP_100m_PROKKA_02021,69.10,3,3,3,,96351,Colicin I receptor precursor
+257,107408,ETNP_100m_PROKKA_49665,69.10,3,3,3,,96335,Colicin I receptor precursor
+257,107409,NP_85m_PROKKA_06917,69.10,3,3,3,,96321,Colicin I receptor precursor
+257,107410,ETNP_110m_PROKKA_38943,69.10,3,3,3,,96321,Colicin I receptor precursor
+257,107411,ETNP_300m_PROKKA_12052,69.10,3,3,3,,96371,Colicin I receptor precursor
+195,135301,NP_100m_PROKKA_13411,68.96,11,4,4,,42022,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+195,135261,NP_85m_PROKKA_21157,68.96,11,4,4,,42064,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+281,119092,ETNP_100m_PROKKA_42747,68.92,10,3,2,,33289,Elongation factor Tu
+281,119094,NP_85m_PROKKA_08167,68.92,7,3,2,,43465,Elongation factor Tu
+281,119095,ETNP_110m_PROKKA_50251,68.92,7,3,2,,43433,Elongation factor Tu
+281,119096,NP_125m_PROKKA_03188,68.92,7,3,2,,43465,Elongation factor Tu
+281,4772,NP_300m_PROKKA_13421,68.92,7,3,2,,43409,Elongation factor Tu
+187,603,WP_038543230,68.79,24,5,0,,18716,bleomycin hydrolase Synechococcus sp KORDI-100
+283,174245,ETNP_120m_free_PROKKA_01090,68.66,17,3,3,,19559,hypothetical protein
+270,1570,ETNP_100m_PROKKA_92665,68.63,11,2,0,,23940,Photosystem I reaction center subunit III precursor
+263,1476,ETNP14_68mB_PROKKA_00061,68.34,11,3,1,,37380,hypothetical protein
+119,119145,ETNP14_120mab_PROKKA_70952,68.29,27,5,0,,16596,Alpha-keto acid-binding periplasmic protein TakP precursor
+295,119290,ETNP_160m_PROKKA_10312,68.06,11,2,1,,23585,Substrate binding domain of ABC-type glycine betaine transport system
+295,119291,ETNP_120m_particle_PROKKA_107560,68.06,9,2,1,,29408,glycine betaine transporter periplasmic subunit
+295,119292,ETNP_120m_PROKKA_72050,68.06,8,2,1,,32648,glycine betaine transporter periplasmic subunit
+295,119293,ETNP_180m_PROKKA_17359,68.06,8,2,1,,34636,glycine betaine transporter periplasmic subunit
+178,119140,ETNP_120m_free_PROKKA_255584,67.85,10,4,0,,44793,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+178,3290,ETNP14_120maa_PROKKA_94324,67.85,10,4,0,,44961,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+178,119141,ETNP_180m_PROKKA_190379,67.85,9,4,0,,48837,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+178,119142,ETNP_140m_PROKKA_22839,67.85,9,4,0,,48850,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+178,3012,NP_100m_PROKKA_04850,67.85,9,4,0,,48850,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+178,3013,NP_300m_PROKKA_03330,67.85,9,4,0,,48837,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+211,107289,NP_85m_PROKKA_09331,67.74,8,3,1,,40252,Bacterial extracellular solute-binding protein
+211,107290,ETNP14_68maa_PROKKA_113506,67.74,8,3,1,,40252,Bacterial extracellular solute-binding protein
+211,107291,NP_300m_PROKKA_27730,67.74,8,3,1,,40252,Bacterial extracellular solute-binding protein
+296,119325,ETNP_150m_particle_PROKKA_11243,67.53,15,3,2,,22446,Respiratory nitrate reductase 1 alpha chain
+255,474,ETNP_100m_particle_PROKKA_82300,67.44,28,3,1,,14624,Tubulin/FtsZ family  GTPase domain
+159,4988,ETNP_120m_PROKKA_107659,67.37,15,3,1,,25038,hypothetical protein
+284,187557,ETNP_140m_PROKKA_94426,66.94,31,3,3,,12241,Phasin protein
+284,187558,ETNP_120m_PROKKA_312294,66.94,31,3,3,,12241,Phasin protein
+284,187559,ETNP_120m_particle_PROKKA_31947,66.94,31,3,3,,12241,Phasin protein
+284,187560,NP_300m_PROKKA_06114,66.94,31,3,3,,12241,Phasin protein
+284,187561,ETNP_150m_particle_PROKKA_55044,66.94,31,3,3,,12241,Phasin protein
+288,174300,ETNP_160m_PROKKA_146663,66.69,27,3,3,,12210,Core histone H2A/H2B/H3/H4
+288,174301,ETNP_150m_particle_PROKKA_23514,66.69,27,3,3,,12226,Core histone H2A/H2B/H3/H4
+288,174302,ETNP_100m_particle_PROKKA_66404,66.69,27,3,3,,12324,Core histone H2A/H2B/H3/H4
+288,174303,ETNP_100m_particle_PROKKA_84241,66.69,15,3,3,,22655,hypothetical protein
+194,1325,ETNP_180m_PROKKA_236449,66.35,12,4,1,,38286,Sialic acid-binding periplasmic protein SiaP precursor
+194,2352,ETNP_160m_PROKKA_170084,66.35,17,4,1,,26235,2 3-diketo-L-gulonate-binding periplasmic protein YiaO precursor
+194,2126,ETNP14_120maa_PROKKA_177195,66.35,17,4,1,,26378,2 3-diketo-L-gulonate-binding periplasmic protein YiaO precursor
+194,2353,ETNP14_68mB_PROKKA_36341,66.35,17,4,1,,26484,2 3-diketo-L-gulonate-binding periplasmic protein YiaO precursor
+194,2354,NP_300m_PROKKA_33726,66.35,17,4,1,,26235,2 3-diketo-L-gulonate-binding periplasmic protein YiaO precursor
+194,2127,ETNP_90m_PROKKA_160611,66.35,17,4,1,,26378,2 3-diketo-L-gulonate-binding periplasmic protein YiaO precursor
+194,2355,NP_30m_PROKKA_11784,66.35,13,4,1,,33353,Sialic acid-binding periplasmic protein SiaP precursor
+194,1323,ETNP_180m_PROKKA_224183,66.35,12,4,1,,38327,Sialic acid-binding periplasmic protein SiaP precursor
+194,1321,NP_85m_PROKKA_12320,66.35,12,4,1,,38321,Sialic acid-binding periplasmic protein SiaP precursor
+220,119417,ETNP14_68mB_PROKKA_36176,66.25,10,3,1,,29135,glycine betaine transporter periplasmic subunit
+250,107616,ETNP14_68maa_PROKKA_110974,66.13,9,3,0,,34911,Taurine-binding periplasmic protein precursor
+174,107253,NP_85m_PROKKA_10662,66.07,11,4,1,,40095,Bacterial extracellular solute-binding protein
+174,107254,NP_100m_PROKKA_06649,66.07,11,4,1,,40141,Bacterial extracellular solute-binding protein
+157,119162,NP_300m_PROKKA_44350,66.06,11,4,0,,25832,Alpha-keto acid-binding periplasmic protein TakP precursor
+242,107518,ETNP14_120maa_PROKKA_162996,65.66,29,3,2,,13933,hypothetical protein
+242,107519,NP_300m_PROKKA_22025,65.66,18,3,2,,22589,hypothetical protein
+254,119167,ETNP14_120maa_PROKKA_15015,65.63,16,3,3,,31995,hypothetical protein
+254,119168,ETNP14_68maa_PROKKA_195713,65.63,14,3,3,,37633,hypothetical protein
+254,119169,ETNP_160m_PROKKA_93113,65.63,10,3,3,,50469,hypothetical protein
+254,119170,ETNP_120m_free_PROKKA_264452,65.63,8,3,3,,61711,hypothetical protein
+254,119171,ETNP_120m_PROKKA_183604,65.63,8,3,3,,61711,hypothetical protein
+254,119172,ETNP_180m_PROKKA_37464,65.63,8,3,3,,61711,hypothetical protein
+206,119439,ETNP14_68maa_PROKKA_133404,65.46,7,3,2,,35359,hypothetical protein
+206,119438,ETNP_150m_particle_PROKKA_50992,65.46,9,3,2,,26329,hypothetical protein
+206,119437,ETNP14_120mab_PROKKA_69542,65.46,9,3,2,,26415,hypothetical protein
+285,187565,ETNP_160m_PROKKA_107307,65.28,11,3,3,,35716,Spermidine/putrescine-binding periplasmic protein precursor
+285,187566,ETNP_120m_PROKKA_155593,65.28,10,3,3,,38100,Spermidine/putrescine-binding periplasmic protein precursor
+285,187567,ETNP_140m_PROKKA_41365,65.28,10,3,3,,38101,Spermidine/putrescine-binding periplasmic protein precursor
+285,187568,NP_300m_PROKKA_09467,65.28,9,3,3,,41806,Spermidine/putrescine-binding periplasmic protein precursor
+312,119297,NP_300m_PROKKA_05613,65.24,9,2,2,,35203,Tripartite tricarboxylate transporter family receptor
+312,119302,ETNP_120m_particle_PROKKA_189146,65.24,9,2,2,,36981,Tripartite tricarboxylate transporter family receptor
+312,119295,ETNP_110m_PROKKA_50908,65.24,15,2,2,,22142,Tripartite tricarboxylate transporter family receptor
+312,119298,NP_300m_PROKKA_17136,65.24,9,2,2,,35275,Tripartite tricarboxylate transporter family receptor
+312,119299,ETNP_160m_PROKKA_210245,65.24,9,2,2,,35275,Tripartite tricarboxylate transporter family receptor
+312,119300,ETNP_180m_PROKKA_79647,65.24,9,2,2,,35275,Tripartite tricarboxylate transporter family receptor
+312,119301,ETNP_120m_PROKKA_146530,65.24,9,2,2,,35275,Tripartite tricarboxylate transporter family receptor
+312,119296,ETNP_140m_PROKKA_47677,65.24,11,2,2,,31184,Tripartite tricarboxylate transporter family receptor
+340,187649,ETNP_120m_PROKKA_22663,64.94,4,2,2,,65053,hypothetical protein
+340,187650,ETNP_160m_PROKKA_03190,64.94,3,2,2,,100063,hypothetical protein
+91,2939,ETNP_100m_particle_PROKKA_53949,64.68,29,6,4,,22020,hypothetical protein
+91,2940,ETNP_300m_PROKKA_171203,64.68,25,6,4,,25132,hypothetical protein
+91,2942,ETNP_140m_PROKKA_73018,64.68,25,6,4,,25132,hypothetical protein
+91,2941,ETNP_180m_PROKKA_227335,64.68,25,6,4,,25132,hypothetical protein
+271,144,ETNP_120m_free_PROKKA_60142,64.68,10,2,2,,28624,hypothetical protein
+228,551,ETNP_90m_PROKKA_122859,64.62,15,3,3,,20071,Photosystem I reaction center subunit XI
+228,555,ETNP_120m_PROKKA_321604,64.62,15,3,3,,20071,Photosystem I reaction center subunit XI
+228,546,ETNP_120m_PROKKA_115988,64.62,15,3,3,,20020,Photosystem I reaction center subunit XI
+228,548,ETNP_100m_PROKKA_21334,64.62,15,3,3,,20020,Photosystem I reaction center subunit XI
+228,549,ETNP_90m_PROKKA_59218,64.62,15,3,3,,20020,Photosystem I reaction center subunit XI
+228,552,ETNP_100m_particle_PROKKA_140193,64.62,15,3,3,,20071,Photosystem I reaction center subunit XI
+228,556,ETNP_140m_PROKKA_60611,64.62,15,3,3,,20071,Photosystem I reaction center subunit XI
+228,553,ETNP_110m_PROKKA_44967,64.62,15,3,3,,20071,Photosystem I reaction center subunit XI
+228,547,ETNP_110m_PROKKA_02539,64.62,15,3,3,,20020,Photosystem I reaction center subunit XI
+228,554,ETNP_100m_PROKKA_21330,64.62,15,3,3,,20071,Photosystem I reaction center subunit XI
+228,550,NP_85m_PROKKA_11773,64.62,15,3,3,,20038,Photosystem I reaction center subunit XI
+200,7947,ETNP14_120maa_PROKKA_172702,63.89,11,3,0,,33650,Receptor family ligand binding region
+164,367,XP_003074486,63.68,9,5,0,,64641,TBB1_VOLCA Tubulin beta chain ISS partial  Ostreococcus tauri
+246,119324,ETNP14_68mB_PROKKA_15410,63.53,8,2,0,,34273,glycine betaine transporter periplasmic subunit
+158,187562,ETNP_120m_free_PROKKA_115907,62.97,10,5,5,,54556,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+158,187563,ETNP_180m_PROKKA_33919,62.97,8,5,5,,62662,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+158,187564,ETNP_160m_PROKKA_87354,62.97,8,5,5,,63426,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+177,107257,ETNP_120m_PROKKA_226192,62.65,13,5,3,,44233,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+177,107258,ETNP_120m_particle_PROKKA_57225,62.65,13,5,3,,44233,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+177,107259,ETNP_140m_PROKKA_112756,62.65,13,5,3,,44233,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+177,107260,NP_300m_PROKKA_03088,62.65,13,5,3,,44233,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein precursor
+265,119255,ETNP_120m_PROKKA_225952,62.56,9,3,1,,41884,Major capsid protein Gp23
+227,107496,ETNP_100m_PROKKA_91883,62.53,9,3,1,,40620,Bacterial extracellular solute-binding protein
+241,107536,ETNP14_120maa_PROKKA_136824,62.52,18,3,0,,15545,hypothetical protein
+199,107833,ETNP_120m_particle_PROKKA_41045,62.13,30,4,1,,12049,Core histone H2A/H2B/H3/H4
+214,4357,NP_125m_PROKKA_01652,62.02,16,4,3,,30115,hypothetical protein
+371,119411,ETNP_120m_PROKKA_156516,61.60,10,2,2,,42912,putative D D-dipeptide-binding periplasmic protein DdpA precursor
+371,119412,ETNP_180m_PROKKA_187000,61.60,8,2,2,,52408,Periplasmic dipeptide transport protein precursor
+371,119413,ETNP_300m_PROKKA_120422,61.60,8,2,2,,52408,Periplasmic dipeptide transport protein precursor
+371,119414,ETNP_160m_PROKKA_74749,61.60,7,2,2,,57989,Periplasmic dipeptide transport protein precursor
+371,119415,ETNP_140m_PROKKA_84091,61.60,7,2,2,,57989,Periplasmic dipeptide transport protein precursor
+371,119416,NP_300m_PROKKA_04812,61.60,7,2,2,,57989,Periplasmic dipeptide transport protein precursor
+212,119137,ETNP_120m_PROKKA_57656,61.44,5,4,4,,75504,Bacterial extracellular solute-binding proteins  family 5 Middle
+258,2648,ETNP_120m_PROKKA_32239,61.23,38,3,3,,10843,RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)
+112,119201,NP_125m_PROKKA_08353,61.18,12,4,4,,35961,Purine-binding protein precursor
+112,119202,ETNP_160m_PROKKA_104461,61.18,12,4,4,,35961,Purine-binding protein precursor
+112,119203,ETNP_140m_PROKKA_23648,61.18,12,4,4,,35961,Purine-binding protein precursor
+112,119204,ETNP_180m_PROKKA_207148,61.18,12,4,4,,35961,Purine-binding protein precursor
+112,119205,ETNP_300m_PROKKA_61560,61.18,12,4,4,,35961,Purine-binding protein precursor
+112,119206,ETNP_120m_PROKKA_223333,61.18,12,4,4,,35961,Purine-binding protein precursor
+112,119207,NP_300m_PROKKA_14314,61.18,12,4,4,,35961,Purine-binding protein precursor
+112,119208,NP_85m_PROKKA_19421,61.18,12,4,4,,37072,Purine-binding protein precursor
+339,119444,ETNP_160m_PROKKA_111277,61.17,11,2,2,,22012,General L-amino acid-binding periplasmic protein AapJ precursor
+339,119445,ETNP_100m_PROKKA_95849,61.17,10,2,2,,22825,General L-amino acid-binding periplasmic protein AapJ precursor
+339,119446,ETNP_100m_particle_PROKKA_52848,61.17,10,2,2,,24588,General L-amino acid-binding periplasmic protein AapJ precursor
+339,119447,ETNP_180m_PROKKA_225907,61.17,8,2,2,,29128,General L-amino acid-binding periplasmic protein AapJ precursor
+339,119448,ETNP_70m_PROKKA_94564,61.17,7,2,2,,36363,General L-amino acid-binding periplasmic protein AapJ precursor
+339,119449,NP_300m_PROKKA_02134,61.17,7,2,2,,36297,General L-amino acid-binding periplasmic protein AapJ precursor
+339,119443,ETNP_300m_PROKKA_140675,61.17,13,2,2,,18670,General L-amino acid-binding periplasmic protein AapJ precursor
+204,187601,ETNP14_120maa_PROKKA_50312,60.52,10,3,3,,34230,Substrate binding domain of ABC-type glycine betaine transport system
+204,187602,NP_300m_PROKKA_18007,60.52,10,3,3,,34232,Substrate binding domain of ABC-type glycine betaine transport system
+365,187657,ETNP14_68maa_PROKKA_185825,60.47,34,2,2,,9209,hypothetical protein
+365,187658,ETNP14_120mab_PROKKA_125766,60.47,25,2,2,,12612,hypothetical protein
+365,187659,NP_100m_PROKKA_27765,60.47,25,2,2,,12587,hypothetical protein
+365,136122,ETNP_120m_free_PROKKA_238134,60.47,17,2,2,,17928,hypothetical protein
+365,187660,ETNP_100m_particle_PROKKA_117592,60.47,17,2,2,,18001,hypothetical protein
+365,187661,ETNP_100m_particle_PROKKA_105189,60.47,17,2,2,,17928,hypothetical protein
+365,187662,ETNP_160m_PROKKA_91209,60.47,17,2,2,,17928,hypothetical protein
+365,136123,ETNP_120m_particle_PROKKA_75574,60.47,17,2,2,,17928,hypothetical protein
+365,187663,NP_300m_PROKKA_35260,60.47,17,2,2,,17928,hypothetical protein
+365,187664,ETNP_120m_PROKKA_278109,60.47,17,2,2,,17928,hypothetical protein
+365,187665,ETNP14_120maa_PROKKA_75482,60.47,17,2,2,,17928,hypothetical protein
+365,187666,ETNP_180m_PROKKA_203696,60.47,17,2,2,,17928,hypothetical protein
+365,187667,ETNP_150m_particle_PROKKA_23832,60.47,17,2,2,,17928,hypothetical protein
+365,136124,ETNP_140m_PROKKA_35370,60.47,17,2,2,,17928,hypothetical protein
+289,174346,ETNP14_120maa_PROKKA_06497,60.36,6,3,3,,49078,Bacterial extracellular solute-binding protein
+289,174347,ETNP_180m_PROKKA_214332,60.36,6,3,3,,49078,Bacterial extracellular solute-binding protein
+289,174348,ETNP_160m_PROKKA_170858,60.36,6,3,3,,49078,Bacterial extracellular solute-binding protein
+289,174349,ETNP_300m_PROKKA_132675,60.36,6,3,3,,49078,Bacterial extracellular solute-binding protein
+289,174350,ETNP_140m_PROKKA_31616,60.36,6,3,3,,49078,Bacterial extracellular solute-binding protein
+289,174351,ETNP_100m_PROKKA_95367,60.36,6,3,3,,49078,Bacterial extracellular solute-binding protein
+289,174352,ETNP_110m_PROKKA_32884,60.36,6,3,3,,49078,Bacterial extracellular solute-binding protein
+179,135343,ETNP_180m_PROKKA_232357,60.23,5,4,0,,99399,Respiratory nitrate reductase 1 alpha chain
+286,187571,ETNP_160m_PROKKA_211282,60.00,14,3,1,,34527,C4-dicarboxylate-binding periplasmic protein precursor
+275,119422,ETNP_120m_free_PROKKA_261782,59.64,7,3,1,,31433,Receptor family ligand binding region
+275,60849,ETNP_180m_PROKKA_68985,59.64,6,3,1,,40224,Receptor family ligand binding region
+275,60850,ETNP_160m_PROKKA_137218,59.64,6,3,1,,40224,Receptor family ligand binding region
+275,119423,ETNP_120m_PROKKA_288212,59.64,6,3,1,,40224,Receptor family ligand binding region
+275,60851,NP_300m_PROKKA_09796,59.64,6,3,1,,40224,Receptor family ligand binding region
+275,119424,ETNP_140m_PROKKA_157524,59.64,6,3,1,,40224,Receptor family ligand binding region
+314,119254,ETNP_160m_PROKKA_106229,59.26,3,2,1,,84068,Pesticin receptor precursor
+292,187613,NP_85m_PROKKA_18424,59.26,11,3,3,,31253,D-ribose-binding periplasmic protein precursor
+256,187552,ETNP_120m_PROKKA_244899,58.69,13,3,3,,27197,putative amino-acid ABC transporter-binding protein precursor
+256,187553,ETNP_140m_PROKKA_151119,58.69,12,3,3,,29495,Glutamine-binding periplasmic protein precursor
+256,187554,ETNP_300m_PROKKA_192611,58.69,12,3,3,,29495,Glutamine-binding periplasmic protein precursor
+256,187555,NP_300m_PROKKA_04544,58.69,12,3,3,,29493,Glutamine-binding periplasmic protein precursor
+256,187556,ETNP_160m_PROKKA_144361,58.69,12,3,3,,29495,Glutamine-binding periplasmic protein precursor
+256,187569,NP_85m_PROKKA_33600,58.69,14,3,3,,24482,Glutamine-binding periplasmic protein precursor
+256,187570,ETNP_100m_particle_PROKKA_122890,58.69,12,3,3,,29568,Glutamine-binding periplasmic protein precursor
+310,119348,NP_300m_PROKKA_18084,58.40,9,2,2,,35664,Glycine betaine/carnitine transport binding protein GbuC precursor
+310,119349,ETNP_140m_PROKKA_09781,58.40,9,2,2,,35664,Glycine betaine/carnitine transport binding protein GbuC precursor
+310,119436,ETNP_300m_PROKKA_69341,58.40,11,2,2,,30237,Glycine betaine/carnitine transport binding protein GbuC precursor
+310,119347,ETNP_120m_PROKKA_155979,58.40,12,2,2,,27255,Substrate binding domain of ABC-type glycine betaine transport system
+198,2002,ETNP_300m_PROKKA_146538,58.14,6,3,0,,58282,60 kDa chaperonin 1
+370,119367,WP_018047897,58.13,7,2,2,,36029,hypothetical protein Nitrospina sp AB-629-B18
+264,722,ETNP14_120mab_PROKKA_07981,58.06,9,3,0,,27188,Taurine-binding periplasmic protein precursor
+264,715,ETNP14_120mab_PROKKA_10297,58.06,7,3,0,,33256,Taurine-binding periplasmic protein precursor
+264,991,ETNP14_68mB_PROKKA_14434,58.06,7,3,0,,32816,Taurine-binding periplasmic protein precursor
+264,1084,ETNP_70m_PROKKA_22590,58.06,16,3,0,,15363,hypothetical protein
+264,810,ETNP14_68mB_PROKKA_161383,58.06,15,3,0,,16053,hypothetical protein
+264,816,ETNP14_68mB_PROKKA_146465,58.06,14,3,0,,17097,hypothetical protein
+264,1085,ETNP_70m_PROKKA_91380,58.06,13,3,0,,18155,hypothetical protein
+363,187653,ETNP14_120mab_PROKKA_18449,58.03,9,2,2,,29738,Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain precursor
+363,187654,ETNP_140m_PROKKA_46667,58.03,8,2,2,,31620,Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain precursor
+363,187655,NP_300m_PROKKA_02531,58.03,6,2,2,,46061,Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain precursor
+384,119235,ETNP_180m_PROKKA_200274,57.79,8,2,2,,33339,hypothetical protein
+384,119236,ETNP_160m_PROKKA_203114,57.79,6,2,2,,44426,hypothetical protein
+552,119508,ETNP_180m_PROKKA_63430,57.51,9,1,1,,16310,hypothetical protein
+552,119509,ETNP_140m_PROKKA_99319,57.51,6,1,1,,23164,hypothetical protein
+552,119510,ETNP_160m_PROKKA_06820,57.51,6,1,1,,23164,hypothetical protein
+290,2390,ETNP_160m_PROKKA_216747,57.39,7,3,1,,45679,Major capsid protein Gp23
+290,1461,ETNP_180m_PROKKA_132649,57.39,7,3,1,,45695,Major capsid protein Gp23
+329,187614,NP_100m_PROKKA_14830,57.23,8,2,2,,37353,hypothetical protein
+388,119431,ETNP_140m_PROKKA_11123,57.04,30,2,2,,8905,DNA-binding protein HU-beta
+388,119432,ETNP_120m_free_PROKKA_163264,57.04,30,2,2,,8905,DNA-binding protein HU-beta
+388,119433,NP_300m_PROKKA_19658,57.04,30,2,2,,8905,DNA-binding protein HU-beta
+366,187669,ETNP_120m_PROKKA_117068,56.67,16,2,2,,22437,Substrate binding domain of ABC-type glycine betaine transport system
+366,187670,ETNP_180m_PROKKA_113203,56.67,12,2,2,,28215,Substrate binding domain of ABC-type glycine betaine transport system
+366,187671,ETNP_140m_PROKKA_66590,56.67,12,2,2,,28215,Substrate binding domain of ABC-type glycine betaine transport system
+366,187672,NP_100m_PROKKA_11599,56.67,9,2,2,,36542,Substrate binding domain of ABC-type glycine betaine transport system
+366,187673,ETNP_300m_PROKKA_38133,56.67,9,2,2,,36707,Substrate binding domain of ABC-type glycine betaine transport system
+366,187674,ETNP_160m_PROKKA_138570,56.67,9,2,2,,36707,Substrate binding domain of ABC-type glycine betaine transport system
+367,119388,ETNP14_68mB_PROKKA_85120,56.53,7,2,1,,27461,60 kDa chaperonin 3
+192,107342,ETNP14_120maa_PROKKA_108374,56.52,8,4,1,,40014,Alpha-keto acid-binding periplasmic protein TakP precursor
+192,107343,NP_300m_PROKKA_20973,56.52,8,4,1,,40155,Alpha-keto acid-binding periplasmic protein TakP precursor
+192,107344,ETNP_120m_PROKKA_74307,56.52,8,4,1,,40322,Alpha-keto acid-binding periplasmic protein TakP precursor
+297,174323,ETNP14_68maa_PROKKA_80395,56.49,8,3,2,,30453,NMT1/THI5 like protein
+341,119588,ETNP_180m_PROKKA_01968,56.37,2,2,1,,88673,Pesticin receptor precursor
+341,119589,ETNP_160m_PROKKA_65363,56.37,2,2,1,,88525,Pesticin receptor precursor
+341,119590,ETNP_300m_PROKKA_184373,56.37,2,2,1,,88672,Pesticin receptor precursor
+317,119345,ETNP14_68maa_PROKKA_67789,56.34,2,2,1,,99677,Pesticin receptor precursor
+317,119346,ETNP14_120maa_PROKKA_73978,56.34,2,2,1,,99643,Pesticin receptor precursor
+188,2080,XP_002183424,56.23,8,4,1,,41791,actin actin like protein  Phaeodactylum tricornutum CCAP 1055
+188,2081,XP_002183295,56.23,8,4,1,,41791,predicted protein  Phaeodactylum tricornutum CCAP 1055
+188,2082,XP_002182221,56.23,8,4,1,,41839,actin actin like protein  Phaeodactylum tricornutum CCAP 1055
+165,4844,ETNP14_120maa_PROKKA_36339,56.13,12,4,4,,45206,Glycine betaine-binding periplasmic protein precursor
+165,4843,NP_125m_PROKKA_05874,56.13,15,4,4,,38103,Glycine betaine-binding periplasmic protein precursor
+165,4845,NP_300m_PROKKA_08507,56.13,11,4,4,,51345,Glycine betaine-binding periplasmic protein precursor
+237,3868,ETNP_60m_PROKKA_21646,56.12,23,2,0,,11997,60 kDa chaperonin
+237,3157,ETNP_90m_PROKKA_172685,56.12,5,2,0,,57923,60 kDa chaperonin 5
+236,4354,ETNP14_68mB_PROKKA_61937,56.10,9,3,1,,29976,hypothetical protein
+346,119450,ETNP14_68maa_PROKKA_86130,56.09,2,2,1,,88859,Pesticin receptor precursor
+378,187718,ETNP_160m_PROKKA_70086,55.21,5,2,2,,58617,Heme-binding protein A precursor
+300,3655,ETNP14_68mB_PROKKA_81416,55.03,11,3,1,,31625,ATP synthase subunit beta
+293,119440,NP_100m_PROKKA_13086,55.02,32,3,3,,10197,DNA-binding protein HU 1
+240,119644,ETNP_120m_PROKKA_84557,54.80,7,3,2,,57260,Glutathione-binding protein GsiB precursor
+240,119643,ETNP_160m_PROKKA_154471,54.80,7,3,2,,54948,Glutathione-binding protein GsiB precursor
+260,135329,ETNP_300m_PROKKA_73205,54.57,4,3,3,,101196,Nitrate reductase
+260,119404,ETNP_160m_PROKKA_113088,54.57,4,3,3,,101568,Nitrate reductase
+260,135997,ETNP_180m_PROKKA_165082,54.57,4,3,3,,100996,Nitrate reductase
+320,119344,NP_100m_PROKKA_04544,54.36,2,2,2,,110537,hypothetical protein
+202,107524,ETNP_160m_PROKKA_146664,54.31,30,4,1,,12138,Core histone H2A/H2B/H3/H4
+202,107525,ETNP_140m_PROKKA_143912,54.31,30,4,1,,12112,Core histone H2A/H2B/H3/H4
+202,107526,ETNP_120m_particle_PROKKA_35033,54.31,23,4,1,,15175,Core histone H2A/H2B/H3/H4
+202,107527,ETNP_180m_PROKKA_17685,54.31,21,4,1,,17568,Core histone H2A/H2B/H3/H4
+243,174210,ETNP_120m_PROKKA_262541,54.19,9,3,1,,39611,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+266,970,WP_011128875,54.03,14,3,1,,19147,bleomycin hydrolase Synechococcus
+272,119259,ETNP_160m_PROKKA_72586,53.85,2,3,3,,117677,hypothetical protein
+272,119258,ETNP_140m_PROKKA_151728,53.85,3,3,3,,96509,hypothetical protein
+272,119260,ETNP_120m_PROKKA_163434,53.85,2,3,3,,119776,hypothetical protein
+272,119261,ETNP_180m_PROKKA_219985,53.85,2,3,3,,119746,hypothetical protein
+343,7658,WP_015403630,53.68,4,2,0,,57918,chaperonin GroL Desulfocapsa sulfexigens
+364,119766,ETNP_120m_PROKKA_94179,53.53,7,2,2,,29946,Cystine-binding periplasmic protein precursor
+364,119767,ETNP_120m_free_PROKKA_286157,53.53,7,2,2,,29890,Cystine-binding periplasmic protein precursor
+364,119768,ETNP_300m_PROKKA_185810,53.53,7,2,2,,29890,Cystine-binding periplasmic protein precursor
+364,119769,ETNP_160m_PROKKA_145456,53.53,7,2,2,,30878,Cystine-binding periplasmic protein precursor
+261,2483,ETNP14_68maa_PROKKA_98457,53.36,8,3,1,,39547,hypothetical protein
+261,4639,ETNP_110m_PROKKA_35546,53.36,12,3,1,,26126,Receptor family ligand binding region
+261,2480,NP_85m_PROKKA_19659,53.36,12,3,1,,26330,hypothetical protein
+261,2481,ETNP14_68maa_PROKKA_185153,53.36,10,3,1,,30096,hypothetical protein
+261,2482,ETNP14_120maa_PROKKA_94611,53.36,9,3,1,,33554,hypothetical protein
+262,187590,ETNP_160m_PROKKA_193049,53.27,10,3,3,,40065,hypothetical protein
+262,187591,ETNP_120m_PROKKA_336645,53.27,10,3,3,,40065,hypothetical protein
+262,187592,ETNP_180m_PROKKA_02853,53.27,10,3,3,,40065,hypothetical protein
+262,187593,ETNP_140m_PROKKA_100059,53.27,10,3,3,,40065,hypothetical protein
+349,187709,ETNP14_120mac_PROKKA_09880,52.99,26,2,2,,7457,Cold shock protein CspA
+349,187710,ETNP_120m_PROKKA_138745,52.99,26,2,2,,7457,Cold shock protein CspA
+349,187711,ETNP_180m_PROKKA_09378,52.99,26,2,2,,7457,Cold shock protein CspA
+349,187712,NP_300m_PROKKA_41041,52.99,26,2,2,,7457,Cold shock protein CspA
+349,187713,ETNP14_120mac_PROKKA_54919,52.99,26,2,2,,7399,Cold shock protein CspA
+349,187714,ETNP_300m_PROKKA_20499,52.99,26,2,2,,7444,Cold shock protein CspA
+349,187715,ETNP_140m_PROKKA_118143,52.99,26,2,2,,7457,Cold shock protein CspA
+349,187716,ETNP_300m_PROKKA_112673,52.99,26,2,2,,7424,Cold shock protein CspA
+291,187608,NP_300m_PROKKA_24345,52.63,9,3,3,,39628,Spermidine/putrescine-binding periplasmic protein precursor
+291,187609,ETNP_140m_PROKKA_159224,52.63,8,3,3,,41924,Spermidine/putrescine-binding periplasmic protein precursor
+291,187610,ETNP_160m_PROKKA_09287,52.63,8,3,3,,41924,Spermidine/putrescine-binding periplasmic protein precursor
+291,187611,ETNP_180m_PROKKA_15306,52.63,8,3,3,,41924,Spermidine/putrescine-binding periplasmic protein precursor
+420,187777,NP_300m_PROKKA_48681,52.25,7,1,1,,23737,Tryptophan synthase beta chain
+420,187778,ETNP_180m_PROKKA_70342,52.25,5,1,1,,31298,Tryptophan synthase beta chain
+420,187779,ETNP_160m_PROKKA_148042,52.25,5,1,1,,31298,Tryptophan synthase beta chain
+420,187780,ETNP_140m_PROKKA_109182,52.25,5,1,1,,31298,Tryptophan synthase beta chain
+420,187821,NP_30m_PROKKA_09713,52.25,10,1,1,,17102,Tryptophan synthase beta chain
+420,187822,NP_100m_PROKKA_18777,52.25,8,1,1,,21872,Tryptophan synthase beta chain
+420,187823,NP_300m_PROKKA_18685,52.25,4,1,1,,40811,Tryptophan synthase beta chain
+347,119421,ETNP_300m_PROKKA_144321,52.20,8,2,2,,39461,hypothetical protein
+377,119389,ETNP14_68mB_PROKKA_45016,52.14,11,2,0,,23102,Major capsid protein Gp23
+331,107328,ETNP_160m_PROKKA_201664,52.11,3,2,1,,58077,60 kDa chaperonin
+389,1828,YP_007673882.1,52.00,6,2,2,,40191,photosystem II reaction center D2 [Prochlorococcus phage MED4-213]
+389,1829,AGH26237.1,52.00,6,2,2,,40191,photosystem II reaction center D2 [Prochlorococcus phage MED4-213]
+389,1826,YP_004323582.1,52.00,6,2,2,,40173,photosystem II D2 protein [Prochlorococcus phage P-HM2]
+389,1827,ADO99991.1,52.00,6,2,2,,40173,photosystem II D2 protein [Prochlorococcus phage P-HM2]
+389,1831,YP_009213745.1,52.00,6,2,2,,40145,photosystem II D2 protein [Prochlorococcus phage P-TIM68]
+389,1832,AIR93570.1,52.00,6,2,2,,40145,photosystem II D2 protein [Prochlorococcus phage P-TIM68]
+386,119662,ETNP_180m_PROKKA_29609,51.98,6,2,2,,35657,glycine betaine transporter periplasmic subunit
+386,119663,ETNP_160m_PROKKA_33893,51.98,6,2,2,,35657,glycine betaine transporter periplasmic subunit
+386,119664,ETNP_300m_PROKKA_103221,51.98,6,2,2,,35657,glycine betaine transporter periplasmic subunit
+386,119665,ETNP_120m_PROKKA_21721,51.98,6,2,2,,35687,glycine betaine transporter periplasmic subunit
+386,119666,ETNP_120m_free_PROKKA_129846,51.98,6,2,2,,35687,glycine betaine transporter periplasmic subunit
+381,135637,NP_300m_PROKKA_17695,51.61,4,2,1,,54413,Periplasmic dipeptide transport protein precursor
+466,119502,NP_85m_PROKKA_27153,51.49,13,1,1,,9447,DNA-binding protein HU-beta
+466,119503,ETNP14_120maa_PROKKA_146480,51.49,13,1,1,,9462,DNA-binding protein HU-beta
+466,119504,NP_100m_PROKKA_00947,51.49,13,1,1,,9403,DNA-binding protein HU-beta
+466,119506,Fosmid_PROKKA_06315,51.49,13,1,1,,9374,DNA-binding protein HU-beta
+466,119507,ETNP_110m_PROKKA_49725,51.49,13,1,1,,9375,DNA-binding protein HU-beta
+466,119505,NP_300m_PROKKA_48025,51.49,13,1,1,,9416,DNA-binding protein HU-beta
+342,107273,ETNP_140m_PROKKA_77551,51.20,26,2,2,,11643,hypothetical protein
+342,107271,ETNP_160m_PROKKA_177948,51.20,73,2,2,,4204,hypothetical protein
+342,107272,ETNP_120m_PROKKA_326634,51.20,68,2,2,,4592,hypothetical protein
+465,119419,ETNP_120m_PROKKA_36391,50.94,3,1,1,,46497,Quinoprotein glucose dehydrogenase B precursor
+465,119420,ETNP_180m_PROKKA_167995,50.94,3,1,1,,48199,Quinoprotein glucose dehydrogenase B precursor
+465,119515,ETNP_160m_PROKKA_134639,50.94,5,1,1,,31025,Soluble aldose sugar dehydrogenase YliI precursor
+465,119516,ETNP_140m_PROKKA_68217,50.94,4,1,1,,34641,Soluble aldose sugar dehydrogenase YliI precursor
+245,10,ETNP14_68maa_PROKKA_102614,50.50,6,3,3,,57434,60 kDa chaperonin 1
+375,187707,ETNP_120m_free_PROKKA_159823,50.41,4,2,2,,48686,hypothetical protein
+298,187682,ETNP_140m_PROKKA_21298,50.39,26,2,2,,9877,hypothetical protein
+298,187683,ETNP_180m_PROKKA_48593,50.39,26,2,2,,9902,hypothetical protein
+298,187684,NP_300m_PROKKA_25666,50.39,9,2,2,,29024,hypothetical protein
+350,135239,ETNP_180m_PROKKA_10472,50.38,6,2,2,,41160,hypothetical protein
+350,135275,ETNP_160m_PROKKA_69053,50.38,6,2,2,,41190,hypothetical protein
+350,135240,ETNP_140m_PROKKA_98798,50.38,6,2,2,,41133,hypothetical protein
+350,135241,ETNP_300m_PROKKA_33322,50.38,6,2,2,,41160,hypothetical protein
+350,135276,ETNP_120m_PROKKA_60339,50.38,6,2,2,,41121,hypothetical protein
+350,135277,ETNP_120m_free_PROKKA_79324,50.38,6,2,2,,41094,hypothetical protein
+273,187678,WP_012911952,50.33,5,2,1,,57399,molecular chaperone GroEL Pirellula staleyi
+553,3668,ETNP_100m_PROKKA_13914,49.88,14,1,1,,10162,hypothetical protein
+553,3669,ETNP_120m_PROKKA_140329,49.88,14,1,1,,10192,hypothetical protein
+553,3670,ETNP_100m_particle_PROKKA_47732,49.88,14,1,1,,10162,hypothetical protein
+553,3671,ETNP_90m_PROKKA_151410,49.88,13,1,1,,10770,hypothetical protein
+274,119328,ETNP14_120maa_PROKKA_27727,49.84,3,2,1,,109794,TonB dependent receptor
+274,119355,ETNP14_120maa_PROKKA_58782,49.84,3,2,1,,104494,Vitamin B12 transporter BtuB
+274,119484,ETNP_160m_PROKKA_149350,49.84,19,2,1,,17041,Vitamin B12 transporter BtuB
+274,119485,ETNP_180m_PROKKA_67300,49.84,11,2,1,,29851,TonB-dependent Receptor Plug Domain protein
+274,119380,ETNP_300m_PROKKA_185793,49.84,4,2,1,,97404,Vitamin B12 transporter BtuB
+313,85367,NP_125m_PROKKA_15229,49.61,10,2,1,,19820,Peptidoglycan-associated lipoprotein precursor
+313,152607,NP_85m_PROKKA_09698,49.61,10,2,1,,19820,Peptidoglycan-associated lipoprotein precursor
+116,2931,XP_003062035,49.61,22,3,3,,12701,predicted protein  Micromonas pusilla CCMP1545
+116,2932,XP_003058519,49.61,22,3,3,,12701,predicted protein  Micromonas pusilla CCMP1545
+116,2933,XP_003055512,49.61,22,3,3,,12701,histone H2B  Micromonas pusilla CCMP1545
+116,2934,ETNP_70m_PROKKA_120394,49.61,21,3,3,,13742,Core histone H2A/H2B/H3/H4
+116,2935,XP_003080759,49.61,21,3,3,,13731,histone H2B ISS  Ostreococcus tauri
+116,2937,XP_003082252,49.61,19,3,3,,15314,histone H2B ISS  Ostreococcus tauri
+116,2938,ETNP_70m_PROKKA_54543,49.61,17,3,3,,16840,Core histone H2A/H2B/H3/H4
+318,119405,ETNP_180m_PROKKA_219528,49.57,7,2,0,,32070,Major capsid protein Gp23
+318,119406,ETNP14_120maa_PROKKA_197218,49.57,7,2,0,,32070,Major capsid protein Gp23
+318,119407,ETNP_140m_PROKKA_44347,49.57,6,2,0,,38651,Major capsid protein Gp23
+303,27426,XP_002180358,49.47,13,2,2,,14700,histone H2A isoform 2  Phaeodactylum tricornutum CCAP 1055
+301,187722,ETNP_70m_PROKKA_106931,49.39,6,2,1,,24038,Substrate binding domain of ABC-type glycine betaine transport system
+301,119715,ETNP14_68mB_PROKKA_88846,49.39,5,2,1,,28324,Substrate binding domain of ABC-type glycine betaine transport system
+301,119716,NP_100m_PROKKA_07603,49.39,5,2,1,,29531,Substrate binding domain of ABC-type glycine betaine transport system
+301,187725,ETNP_100m_PROKKA_73671,49.39,5,2,1,,31121,Substrate binding domain of ABC-type glycine betaine transport system
+301,119719,ETNP14_68maa_PROKKA_196578,49.39,4,2,1,,34271,glycine betaine transporter periplasmic subunit
+301,119497,NP_30m_PROKKA_09569,49.39,4,2,1,,34303,Substrate binding domain of ABC-type glycine betaine transport system
+301,119498,WP_020029091,49.39,4,2,1,,34171,glycinebetaine ABC transporter substrate-binding protein Candidatus Thioglobus singularis
+301,187726,ETNP_100m_particle_PROKKA_45305,49.39,4,2,1,,34294,Substrate binding domain of ABC-type glycine betaine transport system
+379,187720,ETNP_100m_PROKKA_25493,49.34,27,2,2,,8094,hypothetical protein
+380,119832,ETNP_160m_PROKKA_12115,49.08,23,2,2,,9571,DNA-binding protein HRm
+380,119833,ETNP_120m_free_PROKKA_96996,49.08,23,2,2,,9571,DNA-binding protein HRm
+380,119834,ETNP_140m_PROKKA_93320,49.08,23,2,2,,9571,DNA-binding protein HRm
+380,119835,ETNP_120m_PROKKA_243124,49.08,23,2,2,,9571,DNA-binding protein HRm
+380,119836,NP_300m_PROKKA_26377,49.08,23,2,2,,9571,DNA-binding protein HRm
+380,119837,ETNP_300m_PROKKA_106173,49.08,23,2,2,,9571,DNA-binding protein HRm
+380,119838,ETNP_180m_PROKKA_33242,49.08,23,2,2,,9571,DNA-binding protein HRm
+368,187688,ETNP_160m_PROKKA_117922,48.40,4,2,2,,39573,hypothetical protein
+333,187635,ETNP_70m_PROKKA_59365,48.35,9,2,1,,29990,Glycine betaine-binding periplasmic protein precursor
+333,187686,ETNP14_120mab_PROKKA_30305,48.35,12,2,1,,22778,Glycine betaine-binding periplasmic protein precursor
+333,187687,ETNP14_120mab_PROKKA_68462,48.35,12,2,1,,22876,Glycine betaine-binding periplasmic protein precursor
+287,136091,ETNP_100m_particle_PROKKA_56315,48.31,20,3,1,,15007,hypothetical protein
+369,135575,ETNP14_120mab_PROKKA_19201,48.27,11,2,1,,25201,hypothetical protein
+332,119303,ETNP_120m_particle_PROKKA_239708,48.04,8,2,0,,33186,hypothetical protein
+244,135439,ETNP14_120maa_PROKKA_85469,47.98,8,3,0,,33256,Putative aliphatic sulfonates-binding protein precursor
+554,760,WP_041432790,47.97,14,1,1,,9781,carbon dioxide-concentrating protein CcmK Thiobacillus denitrificans
+554,761,WP_011313158,47.97,14,1,1,,9996,carbon dioxide-concentrating protein CcmK Thiobacillus denitrificans
+554,296,ETNP_90m_PROKKA_30580,47.97,14,1,1,,10552,Major carboxysome shell protein 1A
+554,305,WP_011825471,47.97,14,1,1,,10570,carbon dioxide-concentrating mechanism protein CcmK Prochlorococcus
+554,826,WP_015797599,47.97,14,1,1,,10314,carbon dioxide-concentrating protein CcmK Acidimicrobium ferrooxidans
+554,306,ETNP_90m_PROKKA_129379,47.97,14,1,1,,10571,Major carboxysome shell protein 1A
+554,300,ETNP14_68maa_PROKKA_134414,47.97,14,1,1,,10552,Major carboxysome shell protein 1A
+554,308,ETNP14_68maa_PROKKA_192080,47.97,14,1,1,,10571,Major carboxysome shell protein 1A
+554,301,ETNP_100m_particle_PROKKA_26451,47.97,14,1,1,,10550,Major carboxysome shell protein 1A
+554,499,WP_002807869,47.97,14,1,1,,10586,carbon dioxide-concentrating mechanism protein CcmK Prochlorococcus
+554,417,ETNP_70m_PROKKA_32300,47.97,14,1,1,,10572,Major carboxysome shell protein 1A
+554,500,NP_30m_PROKKA_04690,47.97,14,1,1,,10586,Major carboxysome shell protein 1A
+554,299,ETNP_160m_PROKKA_02087,47.97,14,1,1,,10552,Major carboxysome shell protein 1A
+554,304,WP_006169870,47.97,14,1,1,,10584,carbon dioxide-concentrating mechanism protein CcmK Cyanobacteria
+554,302,ETNP_90m_PROKKA_04314,47.97,14,1,1,,10550,Major carboxysome shell protein 1A
+554,303,ETNP_110m_PROKKA_33158,47.97,14,1,1,,10552,Major carboxysome shell protein 1A
+554,827,WP_015797598,47.97,14,1,1,,10328,carbon dioxide-concentrating protein CcmK Acidimicrobium ferrooxidans
+554,307,WP_011130577,47.97,14,1,1,,10557,carbon dioxide-concentrating mechanism protein CcmK Prochlorococcus
+554,418,ETNP_60m_PROKKA_33131,47.97,14,1,1,,10572,Major carboxysome shell protein 1A
+554,497,WP_015107695,47.97,14,1,1,,10546,carbon dioxide concentrating mechanismcarboxysome shell protein Chroococcales
+554,310,ETNP14_68maa_PROKKA_66725,47.97,14,1,1,,10527,Major carboxysome shell protein 1A
+554,315,ETNP_90m_PROKKA_99720,47.97,13,1,1,,10641,Major carboxysome shell protein 1A
+554,313,ETNP_140m_PROKKA_36751,47.97,13,1,1,,10641,Major carboxysome shell protein 1A
+554,316,ETNP_100m_particle_PROKKA_155223,47.97,13,1,1,,10641,Major carboxysome shell protein 1A
+554,314,ETNP_120m_free_PROKKA_177405,47.97,13,1,1,,10641,Major carboxysome shell protein 1A
+554,828,WP_015797600,47.97,13,1,1,,10727,carbon dioxide-concentrating protein CcmK Acidimicrobium ferrooxidans
+554,762,WP_049750301,47.97,11,1,1,,12199,carbon dioxide-concentrating protein CcmK Thiobacillus denitrificans
+554,1260,WP_038651783,47.97,8,1,1,,18857,carboxysome shell protein Prochlorococcus sp MIT 0801
+554,1261,ETNP_60m_PROKKA_33282,47.97,8,1,1,,18755,Major carboxysome shell protein 1A
+554,683,WP_006171059,47.97,7,1,1,,20412,carbon dioxide concentrating mechanism protein CcmK Synechococcus sp WH 5701
+323,119699,NP_300m_PROKKA_24568,47.92,8,2,2,,26626,hypothetical protein
+230,359,ETNP_90m_PROKKA_138320,47.89,20,4,1,,18490,C-phycoerythrin class 2 subunit beta
+337,58826,ETNP_300m_PROKKA_120494,47.38,9,2,1,,29828,60 kDa chaperonin 1
+337,58827,ETNP_180m_PROKKA_177548,47.38,9,2,1,,30528,60 kDa chaperonin 1
+555,4170,NP_100m_PROKKA_12113,47.33,7,1,1,,23197,Membrane lipoprotein TmpC precursor
+555,4171,ETNP_120m_particle_PROKKA_24295,47.33,6,1,1,,28510,Membrane lipoprotein TmpC precursor
+555,4172,ETNP_150m_particle_PROKKA_30206,47.33,4,1,1,,37301,Membrane lipoprotein TmpC precursor
+555,4173,ETNP_100m_particle_PROKKA_05509,47.33,3,1,1,,60322,Membrane lipoprotein TmpC precursor
+555,4174,ETNP_160m_PROKKA_179711,47.33,3,1,1,,63734,Membrane lipoprotein TmpC precursor
+336,187641,ETNP14_120maa_PROKKA_48696,46.35,4,2,2,,59577,Oligopeptide-binding protein AppA precursor
+336,187642,ETNP_160m_PROKKA_96799,46.35,4,2,2,,59577,Oligopeptide-binding protein AppA precursor
+336,187643,ETNP_120m_PROKKA_95338,46.35,4,2,2,,59561,Oligopeptide-binding protein AppA precursor
+372,187695,ETNP_120m_free_PROKKA_116271,46.30,5,2,2,,44725,Amidohydrolase
+372,187696,ETNP_120m_PROKKA_73516,46.30,4,2,2,,55513,Amidohydrolase
+372,187697,ETNP_140m_PROKKA_106953,46.30,4,2,2,,55513,Amidohydrolase
+372,187698,ETNP_180m_PROKKA_47460,46.30,4,2,2,,55513,Amidohydrolase
+372,187699,ETNP_160m_PROKKA_214853,46.30,4,2,2,,59092,Amidohydrolase
+344,2328,ETNP_180m_PROKKA_21035,46.21,4,2,1,,50145,Major capsid protein Gp23
+344,2327,ETNP_90m_PROKKA_181759,46.21,5,2,1,,48263,Major capsid protein Gp23
+477,1281,NP_100m_PROKKA_25090,45.86,28,1,1,,7685,Photosystem I reaction center subunit IV
+477,1282,ETNP_140m_PROKKA_82407,45.86,28,1,1,,7685,Photosystem I reaction center subunit IV
+477,1279,ETNP_110m_PROKKA_04004,45.86,28,1,1,,7685,Photosystem I reaction center subunit IV
+477,1283,ETNP_100m_PROKKA_85480,45.86,28,1,1,,7671,Photosystem I reaction center subunit IV
+477,1284,ETNP_120m_particle_PROKKA_46067,45.86,28,1,1,,7685,Photosystem I reaction center subunit IV
+477,1280,ETNP_100m_particle_PROKKA_97369,45.86,28,1,1,,7671,Photosystem I reaction center subunit IV
+477,3570,ETNP_90m_PROKKA_147777,45.86,25,1,1,,8569,Photosystem I reaction center subunit IV
+477,3571,ETNP_120m_free_PROKKA_249771,45.86,25,1,1,,8496,Photosystem I reaction center subunit IV
+324,107605,ETNP_300m_PROKKA_121810,45.84,5,2,1,,38215,60 kDa chaperonin 5
+334,187636,ETNP_120m_PROKKA_39086,45.75,1,2,2,,136733,F5/8 type C domain protein
+304,187767,NP_100m_PROKKA_14565,45.66,11,3,1,,22978,Purine-binding protein precursor
+304,187768,NP_300m_PROKKA_25596,45.66,8,3,1,,33229,Purine-binding protein precursor
+304,187769,NP_125m_PROKKA_06308,45.66,8,3,1,,33287,Purine-binding protein precursor
+304,187770,ETNP14_120maa_PROKKA_04897,45.66,7,3,1,,39269,Purine-binding protein precursor
+304,187771,NP_85m_PROKKA_22041,45.66,7,3,1,,39315,Purine-binding protein precursor
+299,187685,ETNP14_68mB_PROKKA_16584,45.47,9,3,1,,37346,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+374,119774,ETNP_180m_PROKKA_216130,45.38,5,2,2,,38855,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+374,119775,ETNP_300m_PROKKA_137834,45.38,5,2,2,,38855,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+374,174326,ETNP_120m_PROKKA_180144,45.38,5,2,2,,38855,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+374,174327,ETNP_160m_PROKKA_57926,45.38,5,2,2,,38855,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+556,1226,ETNP_120m_PROKKA_213547,45.16,15,1,1,,12564,hypothetical protein
+269,119776,ETNP_120m_PROKKA_152344,45.11,9,3,3,,55048,SusD family protein
+269,119777,ETNP14_120maa_PROKKA_29998,45.11,9,3,3,,55048,SusD family protein
+269,119778,NP_300m_PROKKA_02462,45.11,9,3,3,,55048,SusD family protein
+269,119779,ETNP_140m_PROKKA_25014,45.11,9,3,3,,55048,SusD family protein
+269,119780,ETNP_180m_PROKKA_72557,45.11,9,3,3,,55048,SusD family protein
+269,119781,NP_125m_PROKKA_03006,45.11,9,3,3,,55048,SusD family protein
+269,119782,NP_85m_PROKKA_12802,45.11,9,3,3,,55048,SusD family protein
+269,119783,ETNP_300m_PROKKA_125688,45.11,9,3,3,,55048,SusD family protein
+557,119600,ETNP_140m_PROKKA_79867,44.77,4,1,1,,24065,hypothetical protein
+557,119601,ETNP_180m_PROKKA_46962,44.77,3,1,1,,31722,hypothetical protein
+319,187637,ETNP_150m_particle_PROKKA_54998,44.72,6,2,1,,37429,Glycine betaine-binding periplasmic protein precursor
+319,187644,NP_85m_PROKKA_19765,44.72,8,2,1,,24611,Glycine betaine-binding periplasmic protein precursor
+319,187645,NP_125m_PROKKA_09301,44.72,6,2,1,,34016,Glycine betaine-binding periplasmic protein precursor
+276,120001,ETNP14_68mB_PROKKA_101927,44.68,11,3,0,,22042,glycine betaine transporter periplasmic subunit
+373,120006,ETNP_150m_particle_PROKKA_01071,44.65,13,2,2,,15446,Glutamate synthase [NADPH] small chain
+316,152584,NP_30m_PROKKA_02029,44.55,20,2,1,,9697,Peptidoglycan-associated lipoprotein precursor
+316,152600,NP_125m_PROKKA_08168,44.55,10,2,1,,17694,Peptidoglycan-associated lipoprotein precursor
+316,152605,NP_300m_PROKKA_21161,44.55,9,2,1,,19250,Peptidoglycan-associated lipoprotein precursor
+352,152599,ETNP14_68mB_PROKKA_179270,44.06,11,2,1,,18037,Outer membrane lipoprotein Omp16 precursor
+558,187832,ETNP_120m_free_PROKKA_109704,43.83,6,1,1,,31791,Periplasmic dipeptide transport protein precursor
+558,187833,NP_300m_PROKKA_29806,43.83,6,1,1,,34013,Periplasmic dipeptide transport protein precursor
+558,187834,ETNP_180m_PROKKA_12345,43.83,3,1,1,,58889,Periplasmic dipeptide transport protein precursor
+558,187835,ETNP_160m_PROKKA_107705,43.83,3,1,1,,58889,Periplasmic dipeptide transport protein precursor
+558,187836,ETNP_300m_PROKKA_04683,43.83,3,1,1,,58889,Periplasmic dipeptide transport protein precursor
+558,187837,ETNP_140m_PROKKA_28892,43.83,3,1,1,,58889,Periplasmic dipeptide transport protein precursor
+558,187838,ETNP_120m_PROKKA_148438,43.83,3,1,1,,58889,Periplasmic dipeptide transport protein precursor
+267,187615,NP_300m_PROKKA_22882,43.75,10,3,2,,36819,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+383,187728,ETNP_120m_particle_PROKKA_163793,43.64,5,2,2,,45013,putative sugar-binding periplasmic protein precursor
+383,187729,NP_300m_PROKKA_16182,43.64,5,2,2,,45013,putative sugar-binding periplasmic protein precursor
+335,174223,ETNP14_68maa_PROKKA_122161,43.58,6,2,1,,36766,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+335,187638,ETNP_120m_PROKKA_285902,43.58,6,2,1,,36766,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+335,174224,ETNP_90m_PROKKA_198222,43.58,5,2,1,,40436,Alpha-keto acid-binding periplasmic protein TakP precursor
+335,174272,ETNP14_120maa_PROKKA_81829,43.58,5,2,1,,40752,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+335,174225,ETNP14_68maa_PROKKA_83503,43.58,5,2,1,,40639,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+335,174275,ETNP_300m_PROKKA_35557,43.58,5,2,1,,40632,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+335,174276,NP_300m_PROKKA_08904,43.58,5,2,1,,40632,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+335,174277,ETNP_180m_PROKKA_225488,43.58,5,2,1,,40632,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+335,174271,ETNP14_68mB_PROKKA_11066,43.58,5,2,1,,39987,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+335,174273,WP_019307727,43.58,5,2,1,,40624,hypothetical protein SAR324 cluster bacterium SCGC AAA240-J09
+335,174274,ETNP14_120maa_PROKKA_181412,43.58,5,2,1,,40645,Alpha-keto acid-binding periplasmic protein TakP precursor
+315,135476,ETNP_100m_particle_PROKKA_74628,43.54,6,2,1,,43383,Nitrate reductase
+315,135477,ETNP_120m_PROKKA_249142,43.54,6,2,1,,49008,Nitrate reductase
+468,119604,ETNP_120m_free_PROKKA_155886,43.49,9,1,1,,16176,hypothetical protein
+468,119476,NP_300m_PROKKA_05593,43.49,6,1,1,,21874,hypothetical protein
+468,119603,NP_125m_PROKKA_11189,43.49,9,1,1,,16246,hypothetical protein
+468,119605,ETNP_120m_PROKKA_227575,43.49,5,1,1,,25780,hypothetical protein
+390,187839,ETNP_100m_PROKKA_16236,43.46,6,1,1,,27449,hypothetical protein
+390,187840,ETNP_110m_PROKKA_39168,43.46,4,1,1,,35401,hypothetical protein
+390,187841,ETNP_140m_PROKKA_150433,43.46,4,1,1,,41425,hypothetical protein
+390,187842,NP_300m_PROKKA_23401,43.46,2,1,1,,65137,hypothetical protein
+390,187843,ETNP14_120maa_PROKKA_11620,43.46,2,1,1,,65137,hypothetical protein
+376,187717,ETNP_120m_PROKKA_272423,43.28,4,2,0,,37897,General L-amino acid-binding periplasmic protein AapJ precursor
+387,174489,ETNP_180m_PROKKA_168075,43.20,13,2,2,,20406,Periplasmic murein peptide-binding protein precursor
+387,135385,ETNP_120m_free_PROKKA_223647,43.20,8,2,2,,30415,Periplasmic murein peptide-binding protein precursor
+387,119434,NP_85m_PROKKA_20667,43.20,7,2,2,,38794,Periplasmic murein peptide-binding protein precursor
+382,187723,ETNP_120m_free_PROKKA_25012,42.98,5,2,2,,37971,Alpha-keto acid-binding periplasmic protein TakP precursor
+382,187724,NP_300m_PROKKA_23461,42.98,5,2,2,,37972,Alpha-keto acid-binding periplasmic protein TakP precursor
+268,120002,ETNP14_68maa_PROKKA_114417,42.64,10,3,0,,34733,glycine betaine transporter periplasmic subunit
+351,187721,ETNP_120m_particle_PROKKA_48233,42.63,6,2,2,,30594,Indole-3-glycerol phosphate synthase
+559,119660,ETNP_140m_PROKKA_40778,42.54,19,1,1,,9404,hypothetical protein
+467,119520,NP_125m_PROKKA_04230,42.27,4,1,1,,40206,hypothetical protein
+391,187919,ETNP_120m_PROKKA_243559,42.03,12,2,2,,8330,hypothetical protein
+464,119453,ETNP_120m_PROKKA_285919,41.80,8,1,1,,12032,Nitrogen regulatory protein P-II
+464,119695,ETNP14_120mac_PROKKA_44386,41.80,11,1,1,,9264,Nitrogen regulatory protein P-II
+464,119696,NP_125m_PROKKA_03139,41.80,8,1,1,,12100,Nitrogen regulatory protein P-II
+464,119697,ETNP_120m_PROKKA_199536,41.80,8,1,1,,12072,Nitrogen regulatory protein P-II
+464,119698,NP_300m_PROKKA_21942,41.80,8,1,1,,11945,Nitrogen regulatory protein P-II
+322,174249,ETNP14_68maa_PROKKA_55204,41.79,3,2,0,,57994,60 kDa chaperonin 1
+462,3644,ETNP14_68mB_PROKKA_02367,41.50,12,1,1,,10670,10 kDa chaperonin 1
+462,3640,ETNP14_68mB_PROKKA_82092,41.50,12,1,1,,10685,10 kDa chaperonin 1
+462,3643,ETNP14_68mB_PROKKA_02167,41.50,12,1,1,,10685,10 kDa chaperonin 1
+462,3634,NP_300m_PROKKA_33636,41.50,14,1,1,,9237,10 kDa chaperonin 5
+462,3635,NP_30m_PROKKA_03981,41.50,13,1,1,,10154,10 kDa chaperonin 1
+462,3636,ETNP14_68mB_PROKKA_17950,41.50,12,1,1,,10512,10 kDa chaperonin 5
+462,3638,NP_125m_PROKKA_21296,41.50,12,1,1,,10499,10 kDa chaperonin 5
+462,3637,ETNP14_68mB_PROKKA_109194,41.50,12,1,1,,10613,10 kDa chaperonin 1
+462,3641,NP_100m_PROKKA_26486,41.50,12,1,1,,10615,10 kDa chaperonin 5
+462,3642,NP_300m_PROKKA_50598,41.50,12,1,1,,10616,10 kDa chaperonin 5
+462,3639,ETNP14_68maa_PROKKA_189917,41.50,12,1,1,,10626,10 kDa chaperonin 1
+306,174598,ETNP_120m_PROKKA_109639,41.50,11,3,3,,20193,hypothetical protein
+306,174599,ETNP_180m_PROKKA_162708,41.50,9,3,3,,24142,hypothetical protein
+306,174600,ETNP_140m_PROKKA_132425,41.50,9,3,3,,24126,hypothetical protein
+306,174601,NP_85m_PROKKA_23263,41.50,8,3,3,,26904,hypothetical protein
+560,993,ETNP_110m_PROKKA_06307,41.38,11,1,1,,8846,Photosystem I iron-sulfur center
+560,996,ETNP_100m_PROKKA_74687,41.38,11,1,1,,8846,Photosystem I iron-sulfur center
+560,997,ETNP_90m_PROKKA_156294,41.38,11,1,1,,8846,Photosystem I iron-sulfur center
+560,998,ETNP_90m_PROKKA_181879,41.38,11,1,1,,8846,Photosystem I iron-sulfur center
+560,994,ETNP14_68maa_PROKKA_164197,41.38,11,1,1,,8846,Photosystem I iron-sulfur center
+560,995,ETNP_100m_particle_PROKKA_90902,41.38,11,1,1,,8846,Photosystem I iron-sulfur center
+463,187753,ETNP_120m_particle_PROKKA_123888,41.30,11,1,1,,17033,hypothetical protein
+431,119354,ETNP_120m_PROKKA_196346,41.17,3,1,1,,41224,Major capsid protein Gp23
+431,119456,ETNP_90m_PROKKA_190503,41.17,11,1,1,,13067,Major capsid protein Gp23
+431,119457,ETNP_150m_particle_PROKKA_48402,41.17,10,1,1,,13782,Major capsid protein Gp23
+431,119458,NP_300m_PROKKA_45677,41.17,9,1,1,,15455,Major capsid protein Gp23
+431,119461,ETNP_90m_PROKKA_03309,41.17,8,1,1,,18294,Major capsid protein Gp23
+431,119462,ETNP_120m_free_PROKKA_26813,41.17,6,1,1,,21284,Major capsid protein Gp23
+431,119463,ETNP_90m_PROKKA_05083,41.17,6,1,1,,21473,Major capsid protein Gp23
+431,119464,ETNP_180m_PROKKA_131080,41.17,4,1,1,,31920,Major capsid protein Gp23
+431,119337,ETNP_100m_PROKKA_27833,41.17,3,1,1,,40854,Major capsid protein Gp23
+431,119338,ETNP_120m_PROKKA_169314,41.17,3,1,1,,40854,Major capsid protein Gp23
+431,119339,ETNP_100m_particle_PROKKA_34170,41.17,3,1,1,,40854,Major capsid protein Gp23
+431,119340,ETNP14_120maa_PROKKA_149392,41.17,3,1,1,,40798,Major capsid protein Gp23
+431,119353,ETNP_70m_PROKKA_117959,41.17,3,1,1,,41001,Major capsid protein Gp23
+431,119465,ETNP_120m_PROKKA_54255,41.17,3,1,1,,41375,Major capsid protein Gp23
+431,119466,ETNP_120m_PROKKA_168676,41.17,3,1,1,,41267,Major capsid protein Gp23
+431,119460,ETNP14_68mB_PROKKA_89130,41.17,8,1,1,,17371,Major capsid protein Gp23
+431,119459,ETNP_90m_PROKKA_104346,41.17,9,1,1,,15906,Major capsid protein Gp23
+326,187755,ETNP_90m_PROKKA_29167,41.15,4,2,1,,45606,hypothetical protein
+326,187756,ETNP_70m_PROKKA_22899,41.15,3,2,1,,65302,Major capsid protein Gp23
+326,187882,ETNP_70m_PROKKA_31061,41.15,7,2,1,,27618,hypothetical protein
+326,187883,ETNP_180m_PROKKA_11425,41.15,5,2,1,,37172,hypothetical protein
+345,187701,ETNP_160m_PROKKA_185164,41.03,7,2,1,,33678,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+345,187702,ETNP_300m_PROKKA_41812,41.03,6,2,1,,37108,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+345,187703,ETNP_120m_PROKKA_84682,41.03,6,2,1,,39818,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+478,135353,NP_85m_PROKKA_35046,40.58,17,1,1,,8900,DNA-binding protein HU-beta
+478,135354,NP_300m_PROKKA_03284,40.58,17,1,1,,8900,DNA-binding protein HU-beta
+478,135355,NP_100m_PROKKA_04177,40.58,17,1,1,,8900,DNA-binding protein HU-beta
+478,135357,ETNP_160m_PROKKA_210565,40.58,13,1,1,,11866,DNA-binding protein HU-beta
+478,135358,ETNP_180m_PROKKA_185266,40.58,13,1,1,,11849,DNA-binding protein HU-beta
+478,135359,ETNP_140m_PROKKA_08339,40.58,13,1,1,,11866,DNA-binding protein HU-beta
+478,135360,ETNP_120m_PROKKA_179739,40.58,13,1,1,,11823,DNA-binding protein HU-beta
+247,120252,NP_85m_PROKKA_18795,40.50,8,3,0,,34356,glycine betaine transporter periplasmic subunit
+247,120253,NP_300m_PROKKA_03396,40.50,8,3,0,,34263,glycine betaine transporter periplasmic subunit
+429,48,ETNP_100m_PROKKA_57551,40.19,6,1,1,,29257,Photosystem II manganese-stabilizing polypeptide precursor
+429,64,ETNP_90m_PROKKA_17321,40.19,6,1,1,,29344,Photosystem II manganese-stabilizing polypeptide precursor
+429,34,ETNP_90m_PROKKA_178606,40.19,6,1,1,,29123,Photosystem II manganese-stabilizing polypeptide precursor
+321,119793,NP_85m_PROKKA_04820,39.85,2,2,1,,91160,DNA-directed RNA polymerase subunit beta'
+325,119863,WP_013912826,39.61,3,2,1,,58739,ABC transporter substrate-binding protein Oligotropha carboxidovorans
+470,119684,ETNP_180m_PROKKA_189112,39.26,4,1,1,,25142,Acetoacetyl-CoA reductase
+470,119688,ETNP_160m_PROKKA_47656,39.26,4,1,1,,25253,Acetoacetyl-CoA reductase
+470,119691,NP_300m_PROKKA_21594,39.26,4,1,1,,25253,Acetoacetyl-CoA reductase
+470,119692,ETNP_100m_particle_PROKKA_155525,39.26,4,1,1,,25239,Acetoacetyl-CoA reductase
+470,119693,ETNP_140m_PROKKA_84288,39.26,4,1,1,,25253,Acetoacetyl-CoA reductase
+470,119694,ETNP_120m_PROKKA_46132,39.26,3,1,1,,28652,Acetoacetyl-CoA reductase
+470,119674,ETNP_120m_free_PROKKA_162932,39.26,16,1,1,,6095,3-oxoacyl-[acyl-carrier-protein] reductase FabG
+470,119675,ETNP_160m_PROKKA_150976,39.26,16,1,1,,6095,3-oxoacyl-[acyl-carrier-protein] reductase FabG
+470,119676,ETNP_120m_free_PROKKA_284911,39.26,16,1,1,,6095,3-oxoacyl-[acyl-carrier-protein] reductase FabG
+470,119677,ETNP_160m_PROKKA_75505,39.26,16,1,1,,6095,3-oxoacyl-[acyl-carrier-protein] reductase FabG
+470,119678,ETNP_180m_PROKKA_81575,39.26,16,1,1,,6095,3-oxoacyl-[acyl-carrier-protein] reductase FabG
+470,119679,ETNP14_120mab_PROKKA_45758,39.26,9,1,1,,9997,3-oxoacyl-[acyl-carrier-protein] reductase FabG
+470,119680,NP_100m_PROKKA_11972,39.26,6,1,1,,15723,Acetoacetyl-CoA reductase
+470,119681,ETNP_140m_PROKKA_28044,39.26,5,1,1,,19772,Acetoacetyl-CoA reductase
+470,119682,ETNP_120m_PROKKA_216125,39.26,5,1,1,,19772,Acetoacetyl-CoA reductase
+470,119683,ETNP_120m_PROKKA_60126,39.26,4,1,1,,23314,Acetoacetyl-CoA reductase
+470,119685,ETNP_180m_PROKKA_233667,39.26,4,1,1,,25464,Acetoacetyl-CoA reductase
+470,119686,ETNP_120m_particle_PROKKA_129946,39.26,4,1,1,,25464,Acetoacetyl-CoA reductase
+470,119687,ETNP_90m_PROKKA_132202,39.26,4,1,1,,25339,Acetoacetyl-CoA reductase
+470,119689,NP_300m_PROKKA_06116,39.26,4,1,1,,25463,Acetoacetyl-CoA reductase
+470,119690,ETNP_300m_PROKKA_38399,39.26,4,1,1,,25474,Acetoacetyl-CoA reductase
+561,187856,ETNP_160m_PROKKA_177364,39.01,2,1,1,,72123,Acetophenone carboxylase gamma subunit
+561,187857,ETNP_300m_PROKKA_144779,39.01,2,1,1,,72123,Acetophenone carboxylase gamma subunit
+561,187858,ETNP_180m_PROKKA_01214,39.01,2,1,1,,72123,Acetophenone carboxylase gamma subunit
+435,3229,XP_002181593,38.83,3,1,1,,48056,predicted protein  Phaeodactylum tricornutum CCAP 1055
+435,3230,XP_002186303,38.83,3,1,1,,48082,translation elongation factor EF-1 alpha subunit  Phaeodactylum tricornutum CCAP 1055
+435,2169,EJK44533,38.83,3,1,1,,47126,hypothetical protein THAOC_36915  Thalassiosira oceanica
+385,119931,ETNP14_120maa_PROKKA_49697,38.67,5,2,1,,44482,Putative binding protein YgiS precursor
+385,120069,ETNP14_120maa_PROKKA_94807,38.67,5,2,1,,44527,Putative binding protein YgiS precursor
+327,27539,ETNP_90m_PROKKA_207390,38.65,6,2,2,,16767,hypothetical protein
+469,187781,ETNP_120m_PROKKA_31879,38.61,4,1,1,,50746,Bacterial extracellular solute-binding protein
+563,119722,ETNP_100m_particle_PROKKA_14715,38.38,6,1,1,,15382,hypothetical protein
+562,187860,ETNP_180m_PROKKA_35095,38.32,5,1,1,,28164,hypothetical protein
+472,187795,ETNP_140m_PROKKA_123133,38.30,2,1,1,,53780,hypothetical protein
+472,187796,ETNP_160m_PROKKA_156368,38.30,1,1,1,,71174,hypothetical protein
+472,187802,ETNP_300m_PROKKA_76388,38.30,0,1,1,,183653,CotH protein
+472,187863,ETNP_120m_PROKKA_54859,38.30,2,1,1,,46471,hypothetical protein
+564,119701,ETNP_140m_PROKKA_58908,37.83,6,1,1,,24165,Biopolymer transport protein ExbB
+564,119702,ETNP_180m_PROKKA_150445,37.83,6,1,1,,24165,Biopolymer transport protein ExbB
+564,119703,ETNP_160m_PROKKA_197701,37.83,6,1,1,,24165,Biopolymer transport protein ExbB
+564,119704,ETNP_300m_PROKKA_125531,37.83,6,1,1,,24179,Biopolymer transport protein ExbB
+564,119705,ETNP_120m_free_PROKKA_252979,37.83,6,1,1,,24165,Biopolymer transport protein ExbB
+277,119161,ETNP14_120maa_PROKKA_122266,37.78,8,3,0,,37562,hypothetical protein
+565,174404,ETNP_120m_particle_PROKKA_16757,37.66,5,1,1,,22007,hypothetical protein
+348,119849,ETNP_120m_PROKKA_294268,37.20,6,2,2,,36849,2 3-diketo-L-gulonate-binding periplasmic protein YiaO precursor
+566,633,ETNP_100m_particle_PROKKA_83460,37.15,7,1,1,,16046,Photosystem II protein
+566,632,ETNP_110m_PROKKA_16330,37.15,7,1,1,,16046,Photosystem II protein
+566,501,ETNP_140m_PROKKA_140406,37.15,7,1,1,,16636,Photosystem II protein
+566,67,ETNP_90m_PROKKA_125046,37.15,3,1,1,,43911,Photosystem II protein
+566,57,ETNP_100m_particle_PROKKA_87954,37.15,2,1,1,,44761,Photosystem II protein
+566,31,ETNP_90m_PROKKA_94806,37.15,2,1,1,,50481,Photosystem II 44 kDa reaction center protein
+566,32,ETNP_120m_PROKKA_123375,37.15,2,1,1,,52469,Photosystem II 44 kDa reaction center protein
+568,27380,ETNP14_68maa_PROKKA_160822,37.12,9,1,1,,9693,NADH dehydrogenase subunit I
+568,27387,ETNP14_120mac_PROKKA_34623,37.12,8,1,1,,10998,NADH dehydrogenase subunit I
+568,27389,NP_85m_PROKKA_31507,37.12,8,1,1,,10973,NADH dehydrogenase subunit I
+568,27390,ETNP14_120maa_PROKKA_177270,37.12,8,1,1,,10998,NADH dehydrogenase subunit I
+568,27386,ETNP14_120maa_PROKKA_172763,37.12,8,1,1,,11000,NADH dehydrogenase subunit I
+568,27391,ETNP14_68maa_PROKKA_186974,37.12,8,1,1,,10986,NADH dehydrogenase subunit I
+568,27394,ETNP14_120mac_PROKKA_69912,37.12,8,1,1,,10998,NADH dehydrogenase subunit I
+568,27385,ETNP14_120maa_PROKKA_63501,37.12,8,1,1,,11000,NADH dehydrogenase subunit I
+568,27388,ETNP14_120maa_PROKKA_193676,37.12,8,1,1,,10984,NADH dehydrogenase subunit I
+568,27392,ETNP14_68maa_PROKKA_26350,37.12,8,1,1,,10973,NADH dehydrogenase subunit I
+568,27393,ETNP14_120maa_PROKKA_57538,37.12,8,1,1,,10973,NADH dehydrogenase subunit I
+568,27381,ETNP14_120mab_PROKKA_23097,37.12,8,1,1,,11000,NADH dehydrogenase subunit I
+568,27382,ETNP14_68maa_PROKKA_48494,37.12,8,1,1,,10987,NADH dehydrogenase subunit I
+568,27383,ETNP14_120mab_PROKKA_23601,37.12,8,1,1,,10985,NADH dehydrogenase subunit I
+568,27384,ETNP14_120mab_PROKKA_169361,37.12,8,1,1,,10998,NADH dehydrogenase subunit I
+568,27395,NP_30m_PROKKA_09697,37.12,8,1,1,,11039,NADH dehydrogenase subunit I
+568,27399,ETNP14_68maa_PROKKA_28192,37.12,8,1,1,,10995,NADH dehydrogenase subunit I
+568,27400,ETNP14_120mab_PROKKA_99293,37.12,8,1,1,,10997,NADH dehydrogenase subunit I
+568,27405,ETNP14_120maa_PROKKA_193228,37.12,8,1,1,,11011,NADH dehydrogenase subunit I
+568,27398,ETNP14_120maa_PROKKA_59144,37.12,8,1,1,,11039,NADH dehydrogenase subunit I
+568,27401,NP_85m_PROKKA_14190,37.12,8,1,1,,11025,NADH dehydrogenase subunit I
+568,27403,ETNP14_68maa_PROKKA_41253,37.12,8,1,1,,11025,NADH dehydrogenase subunit I
+568,27406,ETNP14_120mab_PROKKA_65627,37.12,8,1,1,,11025,NADH dehydrogenase subunit I
+568,27396,ETNP14_120mac_PROKKA_80038,37.12,8,1,1,,11025,NADH dehydrogenase subunit I
+568,27397,ETNP14_120maa_PROKKA_139783,37.12,8,1,1,,11039,NADH dehydrogenase subunit I
+568,27402,ETNP14_120maa_PROKKA_58157,37.12,8,1,1,,11025,NADH dehydrogenase subunit I
+568,27404,ETNP14_68maa_PROKKA_53527,37.12,8,1,1,,11011,NADH dehydrogenase subunit I
+568,27407,ETNP14_68maa_PROKKA_08605,37.12,8,1,1,,11296,NADH dehydrogenase subunit I
+568,27408,ETNP14_120mab_PROKKA_129778,37.12,8,1,1,,11306,NADH dehydrogenase subunit I
+568,27409,ETNP14_120mab_PROKKA_129766,37.12,7,1,1,,12229,NADH dehydrogenase subunit I
+417,476,WP_036912725,37.07,1,1,1,,85008,photosystem I P700 chlorophyll a apoprotein A1 Prochlorococcus
+417,1408,ETNP_120m_PROKKA_289642,37.07,1,1,1,,84205,Photosystem I P700 chlorophyll a apoprotein A1
+417,477,WP_011131137,37.07,1,1,1,,84981,photosystem I P700 chlorophyll a apoprotein A1 Prochlorococcus marinus
+417,2629,ETNP14_68maa_PROKKA_191372,37.07,3,1,1,,33505,Photosystem I P700 chlorophyll a apoprotein A1
+417,107336,ETNP14_68mB_PROKKA_24391,37.07,2,1,1,,37296,Photosystem I P700 chlorophyll a apoprotein A1
+417,107602,AIR93561.1,37.07,1,1,1,,82262,photosystem I P700 chlorophyll a apoprotein A1 [Prochlorococcus phage P-TIM68]
+417,107603,YP_009213736.1,37.07,1,1,1,,82262,photosystem I P700 chlorophyll a apoprotein A1 [Prochlorococcus phage P-TIM68]
+417,1210,WP_038654276,37.07,1,1,1,,84404,photosystem I P700 chlorophyll a apoprotein A1 Prochlorococcus sp MIT 0801
+417,107333,ETNP_60m_PROKKA_31449,37.07,10,1,1,,9140,Photosystem I P700 chlorophyll a apoprotein A1
+417,107266,ETNP_100m_particle_PROKKA_06252,37.07,6,1,1,,15148,Photosystem I P700 chlorophyll a apoprotein A1
+417,107267,ETNP_120m_free_PROKKA_13269,37.07,6,1,1,,15163,Photosystem I P700 chlorophyll a apoprotein A1
+417,107334,ETNP_160m_PROKKA_28316,37.07,6,1,1,,15277,Photosystem I P700 chlorophyll a apoprotein A1
+417,107335,ETNP_110m_PROKKA_15818,37.07,6,1,1,,15291,Photosystem I P700 chlorophyll a apoprotein A1
+417,107268,ETNP_120m_particle_PROKKA_199786,37.07,6,1,1,,16221,Photosystem I P700 chlorophyll a apoprotein A1
+417,1100,ETNP_140m_PROKKA_43319,37.07,4,1,1,,22882,Photosystem I P700 chlorophyll a apoprotein A1
+417,107269,ETNP_90m_PROKKA_113783,37.07,2,1,1,,37091,Photosystem I P700 chlorophyll a apoprotein A1
+417,718,ETNP_100m_particle_PROKKA_147384,37.07,1,1,1,,60442,Photosystem I P700 chlorophyll a apoprotein A1
+248,187782,ETNP_120m_PROKKA_206964,36.91,17,1,1,,9590,Cyanate hydratase
+248,187783,ETNP_110m_PROKKA_51634,36.91,11,1,1,,14617,Cyanate hydratase
+248,187784,NP_100m_PROKKA_29008,36.91,10,1,1,,16539,Cyanate hydratase
+248,187785,ETNP_110m_PROKKA_33015,36.91,9,1,1,,16922,Cyanate hydratase
+248,187786,NP_125m_PROKKA_00314,36.91,9,1,1,,16922,Cyanate hydratase
+248,187787,NP_100m_PROKKA_15652,36.91,9,1,1,,16922,Cyanate hydratase
+248,187788,ETNP14_120maa_PROKKA_50801,36.91,9,1,1,,17594,Cyanate hydratase
+248,187789,ETNP_140m_PROKKA_111316,36.91,9,1,1,,17609,Cyanate hydratase
+248,187790,ETNP_120m_free_PROKKA_111169,36.91,9,1,1,,17609,Cyanate hydratase
+248,187791,ETNP_100m_PROKKA_01876,36.91,9,1,1,,17609,Cyanate hydratase
+248,187864,ETNP_120m_PROKKA_110404,36.91,9,1,1,,17536,Cyanate hydratase
+567,187865,ETNP_120m_particle_PROKKA_184404,36.69,12,1,1,,10308,hypothetical protein
+432,565,ETNP_120m_PROKKA_09407,36.51,9,1,1,,17329,R-phycocyanin-2 subunit alpha
+569,187866,ETNP_300m_PROKKA_28498,36.41,8,1,1,,15831,Carboxymuconolactone decarboxylase family protein
+569,187867,NP_300m_PROKKA_28069,36.41,8,1,1,,15831,Carboxymuconolactone decarboxylase family protein
+569,187868,ETNP_120m_PROKKA_242826,36.41,6,1,1,,20767,Carboxymuconolactone decarboxylase family protein
+471,119561,NP_85m_PROKKA_22965,36.06,5,1,1,,28702,SusD family protein
+471,119562,ETNP_140m_PROKKA_50590,36.06,4,1,1,,35368,SusD family protein
+471,119563,ETNP_110m_PROKKA_02482,36.06,3,1,1,,47407,SusD family protein
+471,119564,NP_125m_PROKKA_00889,36.06,3,1,1,,47398,SusD family protein
+471,119565,ETNP14_120maa_PROKKA_45980,36.06,3,1,1,,47407,SusD family protein
+471,119558,ETNP_100m_PROKKA_26028,36.06,15,1,1,,8766,hypothetical protein
+471,119559,ETNP_120m_free_PROKKA_319067,36.06,8,1,1,,16445,SusD family protein
+471,119560,ETNP_180m_PROKKA_63794,36.06,8,1,1,,16445,SusD family protein
+471,119472,NP_300m_PROKKA_35821,36.06,5,1,1,,28745,SusD family protein
+570,119797,WP_041298036,35.42,6,1,1,,20665,hypothetical protein Ilumatobacter coccineus
+231,119739,ETNP_140m_PROKKA_80178,34.49,3,1,1,,33483,hypothetical protein
+231,187880,WP_015346336,34.49,2,1,1,,36739,hypothetical protein Myxococcus stipitatus
+231,187881,ETNP_180m_PROKKA_141784,34.49,2,1,1,,48457,Type I secretion system membrane fusion protein PrsE
+231,119740,ETNP_300m_PROKKA_134031,34.49,2,1,1,,48486,Type I secretion system membrane fusion protein PrsE
+231,119741,EJK72185,34.49,2,1,1,,48820,hypothetical protein THAOC_06307  Thalassiosira oceanica
+392,188012,ETNP14_68mB_PROKKA_100193,34.10,9,2,1,,17394,hypothetical protein
+308,187736,XP_003079346,34.09,1,2,2,,204855,non-transporter ABC protein ISS  Ostreococcus tauri
+571,187875,ETNP_120m_PROKKA_246074,33.99,2,1,1,,62209,Sulfotransferase domain protein
+571,187876,ETNP_100m_particle_PROKKA_76564,33.99,2,1,1,,62209,Sulfotransferase domain protein
+571,187877,ETNP_160m_PROKKA_206105,33.99,2,1,1,,62209,Sulfotransferase domain protein
+571,187878,ETNP_120m_free_PROKKA_52489,33.99,2,1,1,,62209,Sulfotransferase domain protein
+233,4860,XP_003064590,33.81,1,3,3,,290507,predicted protein  Micromonas pusilla CCMP1545
+355,187993,WP_002650236,33.73,1,2,1,,257715,excinuclease ABC subunit A  Blastopirellula marina
+572,187896,ETNP_120m_PROKKA_262283,33.55,4,1,1,,36281,hypothetical protein
+416,210,NP_85m_PROKKA_04529,33.35,2,1,1,,49419,Selenate reductase subunit beta
+416,208,ETNP14_68maa_PROKKA_75202,33.35,2,1,1,,49437,Selenate reductase subunit beta
+416,209,WP_018047899,33.35,2,1,1,,49419,hypothetical protein Nitrospina sp AB-629-B18
+416,119369,ETNP_300m_PROKKA_97659,33.35,2,1,1,,49405,Chlorate reductase subunit beta
+416,119370,ETNP_180m_PROKKA_186889,33.35,2,1,1,,49405,Chlorate reductase subunit beta
+416,119371,ETNP_120m_free_PROKKA_199227,33.35,2,1,1,,49405,Chlorate reductase subunit beta
+416,119372,NP_300m_PROKKA_07518,33.35,2,1,1,,49405,Chlorate reductase subunit beta
+416,119373,ETNP_160m_PROKKA_138242,33.35,2,1,1,,49405,Chlorate reductase subunit beta
+416,119374,ETNP_120m_PROKKA_187069,33.35,2,1,1,,49406,Chlorate reductase subunit beta
+416,119576,ETNP_120m_free_PROKKA_41365,33.35,12,1,1,,10051,hypothetical protein
+416,119577,ETNP_180m_PROKKA_228496,33.35,8,1,1,,13932,Chlorate reductase subunit beta
+416,119578,ETNP_120m_PROKKA_21179,33.35,7,1,1,,16046,Chlorate reductase subunit beta
+416,119579,ETNP_100m_PROKKA_51698,33.35,6,1,1,,20941,Perchlorate reductase subunit beta
+476,187805,ETNP_300m_PROKKA_195558,33.24,2,1,1,,57874,putative D D-dipeptide-binding periplasmic protein DdpA precursor
+476,187806,ETNP_180m_PROKKA_68089,33.24,2,1,1,,57874,putative D D-dipeptide-binding periplasmic protein DdpA precursor
+476,187807,ETNP_120m_PROKKA_282312,33.24,2,1,1,,57874,putative D D-dipeptide-binding periplasmic protein DdpA precursor
+476,187808,ETNP_140m_PROKKA_105648,33.24,2,1,1,,57874,putative D D-dipeptide-binding periplasmic protein DdpA precursor
+476,187809,ETNP_160m_PROKKA_15741,33.24,2,1,1,,57874,putative D D-dipeptide-binding periplasmic protein DdpA precursor
+476,187810,NP_300m_PROKKA_24331,33.24,2,1,1,,57874,putative D D-dipeptide-binding periplasmic protein DdpA precursor
+430,120075,ETNP_300m_PROKKA_98573,32.85,11,1,1,,7970,Major cold shock protein CspA
+430,187733,ETNP_120m_particle_PROKKA_147915,32.85,11,1,1,,7970,Major cold shock protein CspA
+430,187734,NP_300m_PROKKA_06108,32.85,11,1,1,,7970,Major cold shock protein CspA
+474,174500,ETNP14_120maa_PROKKA_153182,32.81,3,1,1,,26608,hypothetical protein
+474,174446,ETNP_120m_PROKKA_28817,32.81,2,1,1,,41032,C4-dicarboxylate-binding periplasmic protein precursor
+474,174447,ETNP_180m_PROKKA_168262,32.81,2,1,1,,41032,C4-dicarboxylate-binding periplasmic protein precursor
+474,174448,ETNP_140m_PROKKA_36702,32.81,2,1,1,,41032,C4-dicarboxylate-binding periplasmic protein precursor
+474,174449,ETNP_300m_PROKKA_166503,32.81,2,1,1,,41018,C4-dicarboxylate-binding periplasmic protein precursor
+474,174450,ETNP_160m_PROKKA_146934,32.81,2,1,1,,41032,C4-dicarboxylate-binding periplasmic protein precursor
+474,174497,NP_125m_PROKKA_11111,32.81,7,1,1,,13776,hypothetical protein
+474,174498,NP_100m_PROKKA_21626,32.81,5,1,1,,19806,Bacterial extracellular solute-binding protein  family 7
+395,107288,NP_300m_PROKKA_21749,32.66,4,2,1,,35973,Leucine-specific-binding protein precursor
+475,187804,NP_300m_PROKKA_56695,32.44,12,1,1,,8307,Acyl carrier protein
+475,187913,NP_85m_PROKKA_32232,32.44,28,1,1,,3594,Acyl carrier protein
+475,187914,ETNP14_68mB_PROKKA_137713,32.44,26,1,1,,3761,Acyl carrier protein
+475,187915,ETNP14_68maa_PROKKA_67061,32.44,26,1,1,,3709,Acyl carrier protein
+475,187916,ETNP14_68maa_PROKKA_143565,32.44,26,1,1,,3749,Acyl carrier protein
+475,187917,ETNP14_120mac_PROKKA_73762,32.44,22,1,1,,4524,Acyl carrier protein
+475,187918,ETNP14_68mB_PROKKA_108521,32.44,19,1,1,,5096,Acyl carrier protein
+475,187920,NP_300m_PROKKA_23274,32.44,12,1,1,,8320,Acyl carrier protein
+475,187921,ETNP14_120mac_PROKKA_78341,32.44,12,1,1,,8349,Acyl carrier protein
+475,187922,ETNP14_68mB_PROKKA_71513,32.44,12,1,1,,8440,Acyl carrier protein
+475,187923,ETNP14_68mB_PROKKA_142025,32.44,11,1,1,,8496,Acyl carrier protein
+475,187924,ETNP14_120mac_PROKKA_71422,32.44,11,1,1,,8670,Acyl carrier protein
+475,187925,ETNP14_68mB_PROKKA_65137,32.44,11,1,1,,8639,Acyl carrier protein
+475,187926,ETNP14_68maa_PROKKA_187859,32.44,11,1,1,,8554,Acyl carrier protein
+475,187927,ETNP14_68mB_PROKKA_150712,32.44,11,1,1,,8594,Acyl carrier protein
+475,187928,ETNP14_120mac_PROKKA_83221,32.44,11,1,1,,8490,Acyl carrier protein
+475,187929,ETNP14_68mB_PROKKA_79543,32.44,11,1,1,,8568,Acyl carrier protein
+475,187930,ETNP14_68mB_PROKKA_128460,32.44,11,1,1,,8554,Acyl carrier protein
+475,187931,ETNP14_68mB_PROKKA_105393,32.44,11,1,1,,8657,Acyl carrier protein
+475,187932,ETNP14_68maa_PROKKA_184217,32.44,11,1,1,,8576,Acyl carrier protein
+475,187933,ETNP14_68mB_PROKKA_124260,32.44,11,1,1,,8529,Acyl carrier protein
+475,187934,ETNP14_68maa_PROKKA_68350,32.44,11,1,1,,8551,Acyl carrier protein
+475,187935,ETNP14_68mB_PROKKA_44039,32.44,11,1,1,,8570,Acyl carrier protein
+475,187936,ETNP14_68maa_PROKKA_170463,32.44,11,1,1,,8627,Acyl carrier protein
+475,187937,ETNP14_68mB_PROKKA_137257,32.44,11,1,1,,8492,Acyl carrier protein
+475,187938,ETNP14_68mB_PROKKA_118668,32.44,11,1,1,,8540,Acyl carrier protein
+475,187939,ETNP14_68maa_PROKKA_106580,32.44,11,1,1,,8527,Acyl carrier protein
+475,187940,ETNP14_68mB_PROKKA_120887,32.44,11,1,1,,8554,Acyl carrier protein
+475,187941,ETNP14_68mB_PROKKA_30763,32.44,11,1,1,,8737,Acyl carrier protein
+475,187942,ETNP14_68maa_PROKKA_127056,32.44,11,1,1,,8670,Acyl carrier protein
+480,187949,ETNP14_68mB_PROKKA_136003,32.29,4,1,1,,24464,30S ribosomal protein S3
+473,187798,NP_125m_PROKKA_02659,32.23,2,1,1,,41147,Respiratory nitrate reductase 1 beta chain
+473,187969,ETNP_120m_free_PROKKA_82324,32.23,2,1,1,,56243,Respiratory nitrate reductase 1 beta chain
+473,187970,ETNP_180m_PROKKA_82795,32.23,2,1,1,,57639,Respiratory nitrate reductase 1 beta chain
+573,4132,ETNP_120m_free_PROKKA_218974,32.00,29,1,1,,4341,hypothetical protein
+573,4133,ETNP14_120mab_PROKKA_101646,32.00,27,1,1,,4575,hypothetical protein
+573,4134,ETNP14_120mac_PROKKA_31841,32.00,13,1,1,,9203,hypothetical protein
+573,3152,ETNP_160m_PROKKA_162981,32.00,12,1,1,,10390,hypothetical protein
+573,4137,WP_005010074,32.00,9,1,1,,14028,exported hypothetical protein Nitrospina gracilis
+573,4138,WP_018048164,32.00,8,1,1,,16454,hypothetical protein Nitrospina sp AB-629-B18
+573,4139,ETNP_100m_PROKKA_74107,32.00,8,1,1,,16306,hypothetical protein
+573,4140,ETNP_100m_PROKKA_16075,32.00,7,1,1,,16599,hypothetical protein
+573,4141,ETNP_120m_PROKKA_17782,32.00,6,1,1,,19892,hypothetical protein
+573,4142,ETNP14_120maa_PROKKA_16216,32.00,6,1,1,,19892,hypothetical protein
+573,4143,ETNP_110m_PROKKA_29854,32.00,6,1,1,,19892,hypothetical protein
+418,187747,EJK43862,31.74,1,1,1,,154489,hypothetical protein THAOC_37651  Thalassiosira oceanica
+418,187964,ETNP_70m_PROKKA_26928,31.74,4,1,1,,25089,14-3-3 protein
+418,187965,ETNP14_68mB_PROKKA_25812,31.74,4,1,1,,25846,14-3-3 protein
+418,187966,XP_002182626,31.74,3,1,1,,27066,14-3-3-like protein partial  Phaeodactylum tricornutum CCAP 1055
+418,187967,XP_003064340,31.74,3,1,1,,29850,predicted protein  Micromonas pusilla CCMP1545
+418,187968,EJK67963,31.74,2,1,1,,36216,hypothetical protein THAOC_10917  Thalassiosira oceanica
+249,188024,WP_053820440,31.19,8,3,1,,39234,branched-chain amino acid ABC transporter substrate-binding protein Candidatus Thioglobus singularis
+574,187991,ETNP_120m_PROKKA_275447,30.87,10,1,1,,9272,RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)
+574,187992,ETNP14_120mac_PROKKA_98312,30.87,10,1,1,,9392,RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)
+419,107674,ETNP14_68maa_PROKKA_100081,30.47,1,1,1,,61596,hypothetical protein
+419,107666,ETNP_100m_particle_PROKKA_123388,30.47,10,1,1,,9508,hypothetical protein
+419,107675,ETNP_120m_PROKKA_111485,30.47,1,1,1,,82909,hypothetical protein
+419,107664,NP_85m_PROKKA_31809,30.47,13,1,1,,7121,hypothetical protein
+419,107665,ETNP14_120mab_PROKKA_140881,30.47,13,1,1,,7121,hypothetical protein
+419,107668,ETNP14_68mB_PROKKA_159520,30.47,8,1,1,,12243,hypothetical protein
+419,107669,ETNP14_68mB_PROKKA_103846,30.47,8,1,1,,12169,hypothetical protein
+419,107671,ETNP_150m_particle_PROKKA_29603,30.47,5,1,1,,19505,hypothetical protein
+419,107672,ETNP_90m_PROKKA_134300,30.47,3,1,1,,31906,hypothetical protein
+419,107673,NP_300m_PROKKA_31314,30.47,3,1,1,,36216,hypothetical protein
+394,119823,ETNP_120m_free_PROKKA_11240,30.37,5,2,2,,36860,General L-amino acid-binding periplasmic protein AapJ precursor
+394,119824,ETNP_120m_PROKKA_36131,30.37,5,2,2,,37220,General L-amino acid-binding periplasmic protein AapJ precursor
+394,108101,ETNP14_120maa_PROKKA_184116,30.37,5,2,2,,37084,General L-amino acid-binding periplasmic protein AapJ precursor
+394,108102,ETNP_160m_PROKKA_72896,30.37,5,2,2,,37084,General L-amino acid-binding periplasmic protein AapJ precursor
+394,108103,ETNP_180m_PROKKA_176133,30.37,5,2,2,,37084,General L-amino acid-binding periplasmic protein AapJ precursor
+305,85456,ETNP14_120maa_PROKKA_175370,29.31,4,1,1,,19183,hypothetical protein
+481,119713,WP_013263018,29.13,1,1,1,,86843,RND transporter gamma proteobacterium HdN1
+354,119924,ETNP_160m_PROKKA_24857,28.54,5,1,1,,18030,Formate dehydrogenase iron-sulfur subunit
+354,138180,ETNP_120m_PROKKA_142582,28.54,5,1,1,,21631,Formate dehydrogenase iron-sulfur subunit
+354,119925,ETNP_110m_PROKKA_12821,28.54,5,1,1,,21599,Formate dehydrogenase iron-sulfur subunit
+354,187855,ETNP_120m_particle_PROKKA_124411,28.54,5,1,1,,21631,Formate dehydrogenase iron-sulfur subunit
+354,119985,ETNP_120m_PROKKA_124186,28.54,20,1,1,,4995,Formate dehydrogenase iron-sulfur subunit
+354,119986,ETNP_120m_free_PROKKA_10216,28.54,6,1,1,,15479,Formate dehydrogenase iron-sulfur subunit
+354,119987,ETNP_180m_PROKKA_222600,28.54,6,1,1,,15479,Formate dehydrogenase iron-sulfur subunit
+354,188005,ETNP_300m_PROKKA_76632,28.54,6,1,1,,15479,Formate dehydrogenase iron-sulfur subunit
+575,188006,NP_125m_PROKKA_08546,28.34,4,1,1,,36660,2 3-diketo-L-gulonate-binding periplasmic protein YiaO precursor
+575,188007,ETNP_120m_PROKKA_198428,28.34,4,1,1,,36687,2 3-diketo-L-gulonate-binding periplasmic protein YiaO precursor
+576,188008,ETNP14_120mab_PROKKA_115575,28.31,10,1,1,,18270,hypothetical protein
+482,135773,ETNP_120m_free_PROKKA_267226,28.23,5,1,1,,27915,Cystine-binding periplasmic protein precursor
+482,135774,ETNP_160m_PROKKA_70651,28.23,5,1,1,,30025,Cystine-binding periplasmic protein precursor
+482,135775,ETNP_120m_PROKKA_138287,28.23,5,1,1,,30025,Cystine-binding periplasmic protein precursor
+482,135776,ETNP_180m_PROKKA_195553,28.23,5,1,1,,30025,Cystine-binding periplasmic protein precursor
+482,135777,ETNP_300m_PROKKA_47437,28.23,5,1,1,,30025,Cystine-binding periplasmic protein precursor
+434,107323,ETNP_120m_free_PROKKA_125739,28.19,1,1,1,,77707,Lactate utilization protein B
+151,187762,ETNP_120m_PROKKA_150420,27.72,5,1,1,,18027,Biopolymer transport protein ExbD/TolR
+151,187763,ETNP_120m_free_PROKKA_323521,27.72,5,1,1,,18027,Biopolymer transport protein ExbD/TolR
+151,187764,ETNP_160m_PROKKA_106700,27.72,5,1,1,,18027,Biopolymer transport protein ExbD/TolR
+151,187765,ETNP_300m_PROKKA_52412,27.72,5,1,1,,18027,Biopolymer transport protein ExbD/TolR
+151,187766,ETNP_100m_particle_PROKKA_48707,27.72,5,1,1,,18027,Biopolymer transport protein ExbD/TolR
+577,99520,ETNP14_68maa_PROKKA_26695,27.48,1,1,1,,150365,PKD domain protein
+397,188139,ETNP_110m_PROKKA_16072,26.54,5,2,2,,52334,Chaperone protein DnaK
+578,188018,ETNP_150m_particle_PROKKA_20756,26.53,3,1,1,,40029,hypothetical protein
+579,107481,ETNP_300m_PROKKA_185299,26.42,16,1,1,,5594,hypothetical protein
+579,107483,ETNP_180m_PROKKA_156298,26.42,7,1,1,,12236,D-amino acid dehydrogenase small subunit
+579,107485,ETNP14_120mab_PROKKA_79104,26.42,6,1,1,,15111,D-amino acid dehydrogenase small subunit
+579,107486,ETNP_120m_PROKKA_111022,26.42,3,1,1,,26348,Glycine oxidase
+580,188020,ETNP_100m_PROKKA_43366,26.00,5,1,1,,15340,hypothetical protein
+484,107545,ETNP_300m_PROKKA_37056,25.85,5,1,1,,18172,V4R domain protein
+484,107546,ETNP_120m_free_PROKKA_313054,25.85,5,1,1,,18172,V4R domain protein
+484,107547,ETNP_180m_PROKKA_185309,25.85,5,1,1,,18172,V4R domain protein
+484,107549,ETNP_120m_PROKKA_65792,25.85,4,1,1,,21273,V4R domain protein
+484,107543,NP_300m_PROKKA_59385,25.85,7,1,1,,12805,V4R domain protein
+484,107548,ETNP_140m_PROKKA_132631,25.85,4,1,1,,20689,V4R domain protein
+581,5280,XP_003055541,25.24,1,1,1,,93175,predicted protein  Micromonas pusilla CCMP1545
+393,119709,ETNP_120m_PROKKA_266501,25.02,3,1,1,,31366,Tryptophanase
+356,2723,ETNP_120m_particle_PROKKA_209581,24.58,7,1,1,,14995,hypothetical protein
+356,2724,ETNP_120m_particle_PROKKA_30032,24.58,7,1,1,,15516,hypothetical protein
+360,188132,XP_002185365,24.28,3,2,2,,113675,predicted protein  Phaeodactylum tricornutum CCAP 1055
+582,4986,ETNP_70m_PROKKA_126644,24.17,8,1,1,,15302,hypothetical protein
+583,188052,EJK59181,23.16,1,1,1,,137811,hypothetical protein THAOC_20628 partial  Thalassiosira oceanica
+438,174481,WP_011127592,22.95,1,1,1,,96157,DNA gyrase subunit A Synechococcus sp WH 8102
+486,120146,ETNP_160m_PROKKA_178211,22.92,4,1,1,,29729,hypothetical protein
+486,120147,ETNP_180m_PROKKA_17913,22.92,4,1,1,,29729,hypothetical protein
+486,120148,ETNP_120m_PROKKA_181241,22.92,4,1,1,,29729,hypothetical protein
+486,120149,ETNP_120m_free_PROKKA_271147,22.92,4,1,1,,29729,hypothetical protein
+486,120150,ETNP_140m_PROKKA_30923,22.92,4,1,1,,29729,hypothetical protein
+485,188034,WP_015403951,22.90,7,1,1,,15471,F0F1-type ATP synthase subunit beta Desulfocapsa sulfexigens
+585,188055,ETNP14_120mac_PROKKA_85536,22.55,18,1,1,,6553,hypothetical protein
+405,188021,ETNP_120m_free_PROKKA_322220,22.42,1,1,1,,71431,hypothetical protein
+588,188058,ETNP_120m_PROKKA_264425,22.30,14,1,1,,9750,hypothetical protein
+589,168523,ETNP_140m_PROKKA_58477,22.20,8,1,1,,10872,hypothetical protein
+488,188046,ETNP_120m_PROKKA_71876,22.15,2,1,1,,50757,Methionine synthase
+591,188069,ETNP_160m_PROKKA_128182,21.93,5,1,1,,17128,Cyclic pyranopterin monophosphate synthase accessory protein
+592,188070,ETNP_150m_particle_PROKKA_38418,21.91,7,1,1,,12790,hypothetical protein
+592,188071,ETNP_120m_free_PROKKA_168949,21.91,3,1,1,,31147,hypothetical protein
+592,188073,ETNP_100m_particle_PROKKA_109473,21.91,1,1,1,,59060,D-amino acid dehydrogenase small subunit
+489,188050,ETNP_90m_PROKKA_87887,21.73,10,1,1,,12363,Nitrogen regulatory protein P-II
+439,188022,ETNP14_120maa_PROKKA_37899,21.72,2,1,0,,59067,Major capsid protein Gp23
+421,188031,ETNP_90m_PROKKA_05932,21.42,1,1,1,,118751,hypothetical protein
+421,119842,ETNP14_68mB_PROKKA_49249,21.42,11,1,1,,8303,hypothetical protein
+421,188090,ETNP_180m_PROKKA_130861,21.42,5,1,1,,15864,hypothetical protein
+596,188095,ETNP_120m_free_PROKKA_171071,21.30,3,1,1,,28578,Alkanesulfonate monooxygenase
+595,135889,YP_004323422.1,21.10,10,1,1,,9316,hypothetical protein PHM2_053 [Prochlorococcus phage P-HM2]
+595,135890,ADO99831.1,21.10,10,1,1,,9316,hypothetical protein PHM2_053 [Prochlorococcus phage P-HM2]
+595,188094,ETNP_120m_PROKKA_118663,21.10,9,1,1,,8780,Dihydrolipoyl dehydrogenase 3
+597,188098,ETNP14_68maa_PROKKA_165461,20.98,3,1,1,,53172,Putative type II secretion system protein E
+492,188060,ETNP_120m_PROKKA_237285,20.91,2,1,1,,42788,Methionine synthase
+492,188064,ETNP_120m_PROKKA_23622,20.91,4,1,1,,20926,Cystine-binding periplasmic protein precursor
+492,188067,Fosmid_PROKKA_02498,20.91,2,1,1,,47621,hypothetical protein
+492,188072,ETNP_120m_free_PROKKA_109458,20.91,1,1,1,,74148,hypothetical protein
+492,188105,ETNP_70m_PROKKA_24616,20.91,22,1,1,,4090,hypothetical protein
+492,188106,ETNP14_120mab_PROKKA_109040,20.91,7,1,1,,12194,hypothetical protein
+492,188107,NP_30m_PROKKA_17399,20.91,7,1,1,,13050,hypothetical protein
+492,188108,ETNP14_68mB_PROKKA_35178,20.91,7,1,1,,13064,HIT-like protein
+492,188109,ETNP14_120mab_PROKKA_06210,20.91,4,1,1,,20247,2-phospho-L-lactate transferase
+492,188110,ETNP_90m_PROKKA_124602,20.91,4,1,1,,21067,Thiol-disulfide oxidoreductase ResA
+492,188111,ETNP14_68mB_PROKKA_21634,20.91,4,1,1,,20966,thiol-disulfide oxidoreductase
+491,121881,ETNP14_68maa_PROKKA_97313,20.78,1,1,1,,98519,Multidrug resistance protein MexB
+491,174956,ETNP_160m_PROKKA_127244,20.78,10,1,1,,9820,hypothetical protein
+491,121203,ETNP_120m_free_PROKKA_09343,20.78,10,1,1,,9820,hypothetical protein
+491,174957,WP_011395336,20.78,6,1,1,,13966,hypothetical protein Hahella chejuensis
+491,137681,ETNP_70m_PROKKA_98233,20.78,5,1,1,,15993,hypothetical protein
+491,137693,WP_012843020,20.78,2,1,1,,47051,galactose oxidase Rhodothermus marinus
+491,121876,WP_012843598,20.78,1,1,1,,83332,TonB-dependent receptor Rhodothermus marinus
+491,121877,ETNP_120m_PROKKA_158237,20.78,1,1,1,,87344,Vitamin B12 transport ATP-binding protein BacA
+491,174968,ETNP_90m_PROKKA_160446,20.78,1,1,1,,87316,Vitamin B12 transport ATP-binding protein BacA
+498,188115,ETNP_300m_PROKKA_14876,20.65,3,1,1,,31643,hypothetical protein
+396,188129,ETNP_70m_PROKKA_44551,20.22,2,1,1,,35860,Oligopeptide transport system permease protein OppC
+440,1056,WP_042850021,20.17,7,1,1,,12306,AbrB family transcriptional regulator Prochlorococcus sp MIT 0604
+440,542,ETNP_60m_PROKKA_04448,20.17,7,1,1,,12354,hypothetical protein
+440,543,WP_011293945,20.17,7,1,1,,12354,transcriptional regulator Prochlorococcus
+440,234,ETNP_140m_PROKKA_125786,20.17,7,1,1,,12752,hypothetical protein
+440,224,ETNP_140m_PROKKA_61974,20.17,7,1,1,,12780,hypothetical protein
+440,235,ETNP_110m_PROKKA_26060,20.17,7,1,1,,12752,hypothetical protein
+440,238,ETNP14_68maa_PROKKA_115320,20.17,7,1,1,,12752,hypothetical protein
+440,222,ETNP_90m_PROKKA_62874,20.17,7,1,1,,12780,hypothetical protein
+440,225,ETNP_100m_particle_PROKKA_129096,20.17,7,1,1,,12780,hypothetical protein
+440,223,ETNP_110m_PROKKA_10944,20.17,7,1,1,,12780,hypothetical protein
+440,237,NP_85m_PROKKA_07695,20.17,7,1,1,,12752,hypothetical protein
+440,239,ETNP_90m_PROKKA_180048,20.17,7,1,1,,12752,hypothetical protein
+440,741,ETNP14_68maa_PROKKA_67735,20.17,7,1,1,,12780,hypothetical protein
+440,634,WP_011129843,20.17,7,1,1,,12922,hypothetical protein Prochlorococcus
+440,951,WP_011128382,20.17,7,1,1,,13024,hypothetical protein Synechococcus
+440,1642,WP_038544649,20.17,7,1,1,,12813,AbrB family transcriptional regulator Synechococcus sp KORDI-100
+440,923,WP_038548030,20.17,6,1,1,,12865,AbrB family transcriptional regulator Synechococcus sp KORDI-100
+440,506,ETNP14_68mB_PROKKA_50287,20.17,6,1,1,,13363,hypothetical protein
+440,368,ETNP_100m_particle_PROKKA_45033,20.17,6,1,1,,13968,hypothetical protein
+440,369,ETNP_90m_PROKKA_81200,20.17,6,1,1,,13968,hypothetical protein
+440,1271,NP_30m_PROKKA_23933,20.17,6,1,1,,14384,hypothetical protein
+440,371,ETNP_120m_free_PROKKA_153271,20.17,6,1,1,,13968,hypothetical protein
+440,2859,NP_30m_PROKKA_05282,20.17,9,1,1,,9883,hypothetical protein
+440,2980,WP_006172981,20.17,7,1,1,,12913,transcriptional regulator AbrB Synechococcus sp WH 5701
+440,1930,WP_038543623,20.17,7,1,1,,12811,AbrB family transcriptional regulator Synechococcus sp KORDI-100
+440,2211,WP_037979861,20.17,6,1,1,,13031,AbrB family transcriptional regulator Synechococcus sp WH 5701
+440,3954,WP_051847637,20.17,6,1,1,,14544,AbrB family transcriptional regulator Synechococcus sp KORDI-100
+440,2214,ETNP_120m_free_PROKKA_32753,20.17,5,1,1,,15617,hypothetical protein
+440,2215,ETNP_90m_PROKKA_71778,20.17,5,1,1,,15617,hypothetical protein
+440,2212,ETNP_100m_particle_PROKKA_126395,20.17,5,1,1,,15617,hypothetical protein
+495,188088,ETNP_120m_PROKKA_15008,20.00,1,1,1,,89043,Nitric oxide reductase subunit B
+495,188122,ETNP_120m_particle_PROKKA_159696,20.00,9,1,1,,10045,hypothetical protein
+495,188126,ETNP_120m_PROKKA_89302,20.00,1,1,1,,89123,Nitric oxide reductase subunit B
