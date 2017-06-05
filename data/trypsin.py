@@ -46,7 +46,7 @@ from Bio import SeqIO
 
 ################  Comand-line arguments ################
 if len(sys.argv[1:])<=1:  ### Indicates that there are insufficient number of command-line arguments
-    (print) "Warning! wrong command, please read the mannual in Readme.txt."
+    #print "Warning! wrong command, please read the mannual in Readme.txt."
     print "Example: python trypsin.py --input input_filename --output output_filename --miss 1"
 else:
     options, remainder = getopt.getopt(sys.argv[1:],'', ['input=',
