@@ -46,8 +46,8 @@ from Bio import SeqIO
 
 ################  Comand-line arguments ################
 if len(sys.argv[1:])<=1:  ### Indicates that there are insufficient number of command-line arguments
-    print ("Warning! wrong command, please read the mannual in Readme.txt.")
-    print ("Example: python trypsin.py --input input_filename --output output_filename --miss 1")
+    print "Warning! wrong command, please read the mannual in Readme.txt."
+    print "Example: python trypsin.py --input input_filename --output output_filename --miss 1"
 else:
     options, remainder = getopt.getopt(sys.argv[1:],'', ['input=',
                                                          'miss=',
@@ -57,7 +57,7 @@ else:
         elif opt == '--miss': n=int(arg)  #number of miss cleavage allowed
         elif opt == '--output':output_file=arg
         else:
-            print ("Warning! Command-line argument: %s not recognized. Exiting...") % opt; sys.exit()
+            print "Warning! Command-line argument: %s not recognized. Exiting..." % opt; sys.exit()
 
 handle=SeqIO.parse(input_file,'fasta')
 output=open(output_file,'w')
