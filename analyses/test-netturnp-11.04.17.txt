@@ -1,0 +1,52 @@
+# Column 1:	Amino acid
+# Column 2:	Sequence name
+# Column 3:	Amino acid number
+# Column 4:	Prediction for Beta-turn
+# Column 5:	Class assignment - "T" for Beta-turn
+# Column 6:	Prediction for Beta-turn type A
+# Column 7:	Class assignment - "A" for Beta-turn type I
+# Column 8:	Prediction for Beta-turn type B
+# Column 9:	Class assignment - "B" for Beta-turn type I' 
+# Column 10:	Prediction for Beta-turn type C
+# Column 11:	Class assignment - "C" for Beta-turn type II
+# Column 12:	Prediction for Beta-turn type D
+# Column 13:	Class assignment - "D" for Beta-turn type II'
+# Column 14:	Prediction for Beta-turn type E
+# Column 15:	Class assignment - "E" for Beta-turn type IV
+# Column 16:	Prediction for Beta-turn type F
+# Column 17:	Class assignment - "F" for Beta-turn type VIII
+# Column 18:	Prediction for Beta-turn type G
+# Column 19:	Class assignment - "G" for Beta-turn type VIb
+# Column 20:	Prediction for Beta-turn type H
+# Column 21:	Class assignment - "H" for Beta-turn type VIa1
+# Column 22:	Prediction for Beta-turn type I
+# Column 23:	Class assignment - "I" for Beta-turn type VIa2
+#
+S  Sequence               1    0.248 .	0.327 .	0.154 .	0.156 .	0.141 .	0.229 .	0.347 .	0.343 .	0.325 .	0.378 .
+K  Sequence               2    0.396 .	0.413 .	0.114 .	0.342 .	0.116 .	0.297 .	0.489 .	0.314 .	0.274 .	0.342 .
+P  Sequence               3    0.429 .	0.447 .	0.103 .	0.425 .	0.099 .	0.371 .	0.499 .	0.382 .	0.296 .	0.347 .
+F  Sequence               4    0.480 .	0.509 A	0.167 .	0.450 .	0.260 .	0.449 .	0.485 .	0.381 .	0.414 .	0.407 .
+N  Sequence               5    0.579 T	0.558 A	0.424 .	0.668 C	0.374 .	0.520 E	0.473 .	0.173 .	0.360 .	0.296 .
+D  Sequence               6    0.574 T	0.551 A	0.519 B	0.602 C	0.617 D	0.561 E	0.431 .	0.166 .	0.406 .	0.337 .
+G  Sequence               7    0.579 T	0.540 A	0.605 B	0.589 C	0.627 D	0.571 E	0.403 .	0.161 .	0.470 .	0.415 .
+F  Sequence               8    0.562 T	0.510 A	0.642 B	0.601 C	0.585 D	0.552 E	0.390 .	0.201 .	0.393 .	0.386 .
+N  Sequence               9    0.518 T	0.507 A	0.391 .	0.358 .	0.504 D	0.544 E	0.399 .	0.181 .	0.325 .	0.395 .
+A  Sequence              10    0.516 T	0.572 A	0.328 .	0.334 .	0.296 .	0.527 E	0.449 .	0.203 .	0.298 .	0.415 .
+A  Sequence              11    0.543 T	0.554 A	0.492 .	0.552 C	0.258 .	0.515 E	0.448 .	0.218 .	0.312 .	0.378 .
+T  Sequence              12    0.582 T	0.588 A	0.591 B	0.567 C	0.491 .	0.532 E	0.442 .	0.266 .	0.476 .	0.368 .
+G  Sequence              13    0.600 T	0.584 A	0.662 B	0.556 C	0.497 .	0.536 E	0.541 F	0.349 .	0.416 .	0.344 .
+D  Sequence              14    0.548 T	0.450 .	0.646 B	0.563 C	0.521 D	0.528 E	0.544 F	0.343 .	0.453 .	0.325 .
+Y  Sequence              15    0.503 T	0.463 .	0.592 B	0.361 .	0.554 D	0.516 E	0.554 F	0.373 .	0.428 .	0.325 .
+V  Sequence              16    0.436 .	0.413 .	0.389 .	0.269 .	0.297 .	0.492 .	0.571 F	0.306 .	0.253 .	0.317 .
+D  Sequence              17    0.412 .	0.474 .	0.228 .	0.251 .	0.235 .	0.464 .	0.480 .	0.248 .	0.331 .	0.336 .
+M  Sequence              18    0.448 .	0.511 A	0.264 .	0.275 .	0.249 .	0.468 .	0.470 .	0.300 .	0.303 .	0.333 .
+S  Sequence              19    0.461 .	0.540 A	0.306 .	0.270 .	0.240 .	0.467 .	0.444 .	0.260 .	0.310 .	0.367 .
+A  Sequence              20    0.515 T	0.570 A	0.492 .	0.567 C	0.282 .	0.500 .	0.435 .	0.285 .	0.352 .	0.368 .
+A  Sequence              21    0.503 T	0.504 A	0.450 .	0.566 C	0.399 .	0.500 .	0.446 .	0.266 .	0.284 .	0.338 .
+G  Sequence              22    0.521 T	0.481 .	0.389 .	0.546 C	0.390 .	0.497 .	0.580 F	0.239 .	0.268 .	0.346 .
+I  Sequence              23    0.512 T	0.407 .	0.360 .	0.538 C	0.389 .	0.496 .	0.680 F	0.358 .	0.253 .	0.275 .
+V  Sequence              24    0.480 .	0.402 .	0.194 .	0.275 .	0.335 .	0.472 .	0.695 F	0.747 G	0.416 .	0.317 .
+D  Sequence              25    0.530 T	0.569 A	0.156 .	0.332 .	0.109 .	0.478 .	0.666 F	0.705 G	0.448 .	0.287 .
+P  Sequence              26    0.492 .	0.541 A	0.153 .	0.335 .	0.085 .	0.448 .	0.616 F	0.733 G	0.411 .	0.289 .
+A  Sequence              27    0.465 .	0.512 A	0.151 .	0.278 .	0.081 .	0.381 .	0.378 .	0.660 G	0.337 .	0.289 .
+K  Sequence              28    0.455 .	0.539 A	0.176 .	0.306 .	0.090 .	0.361 .	0.324 .	0.235 .	0.241 .	0.263 .
