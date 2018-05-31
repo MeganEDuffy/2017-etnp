@@ -1,0 +1,189 @@
+hypothetical protein
+hypothetical protein
+hypothetical protein_ETNP_100m_particle_PROKKA_55047 hypothetical protein
+Bacterial actin-related protein
+hypothetical protein
+Chaperone protein ClpB
+Chaperone protein ClpB_120m_megahit_CMKFGOPF_67309 Chaperone protein ClpB_ETNP_120m_PROKKA_74045 Chaperone protein ClpB
+Chaperone protein ClpB_ETNP_120m_particle_PROKKA_202762 Chaperone protein ClpB
+Chaperone protein ClpB
+Chaperone protein ClpB
+Chaperone protein ClpB_120mF_megahit_PEDPKPGI_160452 Chaperone protein ClpB
+Chaperone protein ClpB
+Bacterial actin-related protein
+Bacterial actin-related protein
+hypothetical protein_ETNP_100m_particle_PROKKA_140022 Core histone H2A/H2B/H3/H4
+hypothetical protein
+Core histone H2A/H2B/H3/H4
+Core histone H2A/H2B/H3/H4
+hypothetical protein_ETNP14_68mB_PROKKA_59955 Core histone H2A/H2B/H3/H4_ETNP_70m_PROKKA_132488 Core histone H2A/H2B/H3/H4_ETNP_90m_PROKKA_109358 Core histone H2A/H2B/H3/H4
+hypothetical protein
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Cold shock protein CspA_120m_megahit_CMKFGOPF_248391 Cold shock protein CspA_140m_megahit_KKMFCJLI_69919 Cold shock protein CspA_150mP_megahit_EIABIGGE_32770 Cold shock protein CspA_160m_megahit_NHJEOBNC_228833 Cold shock pro...
+ATP synthase subunit alpha_ETNP_70m_PROKKA_66000 ATP synthase subunit alpha
+Bacterial actin-related protein
+hypothetical protein_ETNP_300m_PROKKA_59870 hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+6-aminohexanoate-cyclic-dimer hydrolase
+hypothetical protein
+hypothetical protein
+Cytochrome c
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative quorum-quenching lactonase YtnP
+putative quorum-quenching lactonase YtnP
+hypothetical protein
+Phospho-N-acetylmuramoyl-pentapeptide-transferase
+Long-chain-fatty-acid--CoA ligase
+Long-chain-fatty-acid--CoA ligase_180m_megahit_DBICIOKE_19399 Long-chain-fatty-acid--CoA ligase_300m_megahit_KALMNAMF_45429 Long-chain-fatty-acid--CoA ligase_ETNP_120m_PROKKA_292977 Long-chain-fatty-acid--CoA ligase_ETNP_160m_...
+hypothetical protein_ETNP_180m_PROKKA_230252 hypothetical protein
+hypothetical protein
+Arylsulfatase
+Arylsulfatase_ETNP_160m_PROKKA_49192 Arylsulfatase
+Lipoteichoic acid synthase
+Lipoteichoic acid synthase 1
+Lipoteichoic acid synthase 1
+Core histone H2A/H2B/H3/H4
+Core histone H2A/H2B/H3/H4
+hypothetical protein
+hypothetical protein
+hypothetical protein_ETNP_100m_particle_PROKKA_07520 Core histone H2A/H2B/H3/H4
+hypothetical protein
+hypothetical protein_ETNP_70m_PROKKA_64991 Core histone H2A/H2B/H3/H4
+Core histone H2A/H2B/H3/H4
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Core histone H2A/H2B/H3/H4
+Core histone H2A/H2B/H3/H4
+hypothetical protein
+Malonyl CoA-acyl carrier protein transacylase
+hypothetical protein
+hypothetical protein_ETNP_160m_PROKKA_120254 hypothetical protein
+Outer membrane protein assembly factor BamD
+hypothetical protein
+Outer membrane protein assembly factor BamD_180m_megahit_DBICIOKE_133896 Outer membrane protein assembly factor BamD_ETNP_120m_PROKKA_173943 Outer membrane protein assembly factor BamD precursor_ETNP_120m_free_PROKKA_282235 O...
+Outer membrane protein assembly factor BamD
+Glutaredoxin-4
+hypothetical protein
+Sulfate adenylyltransferase subunit 1_120m_megahit_CMKFGOPF_36848 Sulfate adenylyltransferase subunit 1_ETNP14_68maa_PROKKA_12517 Sulfate adenylyltransferase subunit 1_ETNP14_120maa_PROKKA_19699 Sulfate adenylyltransferase sub...
+Chaperone protein DnaJ_150mP_megahit_EIABIGGE_36585 Chaperone protein DnaJ_ETNP_100m_particle_PROKKA_107403 Chaperone protein DnaJ_ETNP_120m_free_PROKKA_84145 Chaperone protein DnaJ_120mF_megahit_PEDPKPGI_71864 Chaperone prot...
+hypothetical protein
+hypothetical protein
+Ribokinase
+Acetoin:2 6-dichlorophenolindophenol oxidoreductase subunit alpha
+hypothetical protein
+Phenylacetate-coenzyme A ligase
+hypothetical protein
+PTS-dependent dihydroxyacetone kinase  ADP-binding subunit DhaL
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein_ETNP_120m_particle_PROKKA_226387 hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Ferredoxin--NADP reductase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Succinate-semialdehyde dehydrogenase [NADP(+)] GabD
+Translation initiation factor IF-2
+hypothetical protein
+Extracellular serine protease precursor
+D-inositol 3-phosphate glycosyltransferase
+Putative teichuronic acid biosynthesis glycosyltransferase TuaH
+D-inositol 3-phosphate glycosyltransferase
+Putative teichuronic acid biosynthesis glycosyltransferase TuaH
+Putative phosphoribosyl transferase/MT0597
+Putative phosphoribosyl transferase/MT0597
+hypothetical protein
+Putative phosphoribosyl transferase/MT0597
+Putative phosphoribosyl transferase
+Putative phosphoribosyl transferase
+Putative phosphoribosyl transferase
+NAD-dependent protein deacetylase
+hypothetical protein
+Cysteine synthase_ETNP_100m_particle_PROKKA_53157 Cysteine synthase A_ETNP_120m_free_PROKKA_194775 Cysteine synthase A_120mF_megahit_PEDPKPGI_73260 Cysteine synthase
+hypothetical protein
+4-hydroxybenzoyl-CoA reductase subunit alpha
+4-hydroxybenzoyl-CoA reductase subunit alpha_NP_300m_PROKKA_14019 4-hydroxybenzoyl-CoA reductase subunit alpha
+4-hydroxybenzoyl-CoA reductase subunit alpha
+4-hydroxybenzoyl-CoA reductase subunit alpha
+4-hydroxybenzoyl-CoA reductase subunit alpha
+4-hydroxybenzoyl-CoA reductase subunit alpha_300m_megahit_KALMNAMF_34340 4-hydroxybenzoyl-CoA reductase subunit alpha_ETNP_180m_PROKKA_60336 4-hydroxybenzoyl-CoA reductase subunit alpha_ETNP_300m_PROKKA_104624 4-hydroxybenzoyl...
+Tyrosine-protein kinase MasK_ETNP_120m_free_PROKKA_151810 Tyrosine-protein kinase MasK_ETNP_120m_particle_PROKKA_205810 Tyrosine-protein kinase MasK_120mF_megahit_EODJEIIO_21543 Tyrosine-protein kinase MasK
+Ornithine carbamoyltransferase
+DNA polymerase III subunit beta
+hypothetical protein
+hypothetical protein
+ATP synthase subunit beta
+Transketolase 1
+Transketolase 1
+hypothetical protein
+Ribonuclease PH_300m_megahit_KALMNAMF_226524 Ribonuclease PH_ETNP_120m_PROKKA_94965 Ribonuclease PH_ETNP_160m_PROKKA_197358 Ribonuclease PH_ETNP_300m_PROKKA_71594 Ribonuclease PH
+ATP synthase subunit beta
+ATP synthase subunit beta
+ATP synthase subunit beta
+ATP synthase subunit beta_ETNP_100m_particle_PROKKA_138761 ATP synthase subunit beta
+hypothetical protein
+Biphenyl 2 3-dioxygenase subunit alpha
+Benzene 1 2-dioxygenase subunit alpha
+hypothetical protein_ETNP_90m_PROKKA_68734 hypothetical protein
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Enolase
+Elongation factor 4
+NADP-dependent malic enzyme
+B12 binding domain protein_120mF_megahit_EODJEIIO_68266 hypothetical protein
+hypothetical protein
+hypothetical protein
+Narbonolide/10-deoxymethynolide synthase PikA2  modules 3 and 4_160m_megahit_NHJEOBNC_208348 Narbonolide/10-deoxymethynolide synthase PikA2  modules 3 and 4
+Narbonolide/10-deoxymethynolide synthase PikA2  modules 3 and 4
+Cobalt-zinc-cadmium resistance protein CzcA
+Cobalt-zinc-cadmium resistance protein CzcA
+Narbonolide/10-deoxymethynolide synthase PikA2  modules 3 and 4_100m_megahit_CLKLDGCM_86805 Narbonolide/10-deoxymethynolide synthase PikA2  modules 3 and 4_110m_megahit_JNNKCNHH_51142 Narbonolide/10-deoxymethynolide synthase ...
+Phthiocerol synthesis polyketide synthase type I PpsC
+hypothetical protein
+Cobalt-zinc-cadmium resistance protein CzcA
+hypothetical protein
+dTDP-4-dehydrorhamnose reductase_180m_megahit_DBICIOKE_257243 dTDP-4-dehydrorhamnose reductase_300m_megahit_KALMNAMF_186197 dTDP-4-dehydrorhamnose reductase_120mF_megahit_PEDPKPGI_135693 dTDP-4-dehydrorhamnose reductase
+hypothetical protein_ETNP_180m_PROKKA_57400 FG-GAP repeat protein_120mF_megahit_PEDPKPGI_21033 hypothetical protein

@@ -1,0 +1,254 @@
+Sporulation related domain protein
+hypothetical protein
+Bacterial actin-related protein
+Bacterial actin-related protein
+Bacterial actin-related protein
+hypothetical protein
+hypothetical protein
+hypothetical protein_ETNP_100m_particle_PROKKA_55047 hypothetical protein
+Bacterial actin-related protein
+Negative regulator of genetic competence ClpC/MecB_120mP_megahit_HKJGLMBE_32240 Negative regulator of genetic competence ClpC/MecB_ETNP_120m_particle_PROKKA_230712 Negative regulator of genetic competence ClpC/MecB
+Negative regulator of genetic competence ClpC/MecB
+Elongation factor Tu
+Chaperone protein ClpB
+50S ribosomal protein L7/L12
+Bacterial actin-related protein
+Bacterial actin-related protein
+50S ribosomal protein L7/L12_ETNP_100m_particle_PROKKA_119080 50S ribosomal protein L7/L12
+Cold shock-like protein CspG_ETNP14_120maa_PROKKA_108685 Cold shock-like protein CspG_ETNP_90m_PROKKA_05121 Cold shock-like protein CspG
+ATP synthase subunit alpha
+50S ribosomal protein L7/L12_120mP_megahit_HKJGLMBE_187789 50S ribosomal protein L7/L12_120m_megahit_CMKFGOPF_108679 50S ribosomal protein L7/L12_140m_megahit_KKMFCJLI_101416 50S ribosomal protein L7/L12_150mP_megahit_EIABIG...
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Core histone H2A/H2B/H3/H4
+Calcium-transporting ATPase 1_ETNP_120m_particle_PROKKA_252276 Calcium-transporting ATPase 1
+Core histone H2A/H2B/H3/H4
+hypothetical protein
+hypothetical protein_ETNP_70m_PROKKA_64991 Core histone H2A/H2B/H3/H4
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+30S ribosomal protein S10
+hypothetical protein
+30S ribosomal protein S10
+30S ribosomal protein S10_ETNP14_68mB_PROKKA_15637 30S ribosomal protein S10
+Chaperone protein DnaK
+Chaperone protein DnaK
+Chaperone protein DnaK
+Chaperone protein DnaK_ETNP_160m_PROKKA_81737 Chaperone protein DnaK
+50S ribosomal protein L2
+60 kDa chaperonin
+60 kDa chaperonin
+60 kDa chaperonin
+Oligopeptide transport ATP-binding protein OppF
+hypothetical protein
+hypothetical protein_ETNP_120m_particle_PROKKA_238600 EF hand
+EF hand
+Alpha-ketoglutarate-dependent taurine dioxygenase
+hypothetical protein_110m_megahit_JNNKCNHH_29290 hypothetical protein_120mP_megahit_HKJGLMBE_37338 hypothetical protein_160m_megahit_NHJEOBNC_42377 hypothetical protein_ETNP14_120mab_PROKKA_66291 hypothetical protein_ETNP_110m...
+hypothetical protein_120mF_megahit_PEDPKPGI_146903 hypothetical protein
+50S ribosomal protein L7/L12_ETNP14_68maa_PROKKA_119462 50S ribosomal protein L7/L12_ETNP_90m_PROKKA_197311 50S ribosomal protein L7/L12
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+Malate dehydrogenase
+60 kDa chaperonin
+60 kDa chaperonin
+60 kDa chaperonin 2
+60 kDa chaperonin
+60 kDa chaperonin
+60 kDa chaperonin
+60 kDa chaperonin
+60 kDa chaperonin_ETNP_180m_PROKKA_226747 60 kDa chaperonin
+60 kDa chaperonin
+60 kDa chaperonin
+60 kDa chaperonin_100m_megahit_CLKLDGCM_101444 60 kDa chaperonin_120m_megahit_CMKFGOPF_111422 60 kDa chaperonin_90m_Megahit_DAALLOGA_140349 60 kDa chaperonin_ETNP14_120maa_PROKKA_44371 60 kDa chaperonin_ETNP_110m_PROKKA_1362...
+60 kDa chaperonin 2_ETNP_90m_PROKKA_111969 60 kDa chaperonin 2
+60 kDa chaperonin 2
+60 kDa chaperonin 2_ETNP_120m_PROKKA_201607 60 kDa chaperonin 2_120mF_megahit_ILDJFKLB_132539 60 kDa chaperonin 2
+60 kDa chaperonin
+60 kDa chaperonin
+60 kDa chaperonin
+60 kDa chaperonin_ETNP_120m_particle_PROKKA_11627 60 kDa chaperonin
+60 kDa chaperonin
+60 kDa chaperonin
+60 kDa chaperonin 2
+60 kDa chaperonin 2
+60 kDa chaperonin 2
+60 kDa chaperonin 2_ETNP14_68maa_PROKKA_11601 60 kDa chaperonin 2_ETNP_70m_PROKKA_114301 60 kDa chaperonin 2
+60 kDa chaperonin 2
+60 kDa chaperonin 2_ETNP14_68maa_PROKKA_26862 60 kDa chaperonin 2_ETNP14_120maa_PROKKA_29166 60 kDa chaperonin 2
+Elongation factor Ts
+hypothetical protein
+EF hand
+hypothetical protein
+hypothetical protein
+hypothetical protein
+L-ribulose-5-phosphate 3-epimerase UlaE
+hypothetical protein
+L-aspartate oxidase_ETNP_180m_PROKKA_35058 L-aspartate oxidase
+Acetylglutamate kinase
+hypothetical protein
+Tyrosine recombinase XerC
+Tyrosine recombinase XerC
+hypothetical protein
+hypothetical protein
+hypothetical protein
+tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+Serine/threonine-protein kinase PknD_ETNP_180m_PROKKA_87816 Serine/threonine-protein kinase PknD
+hypothetical protein
+50S ribosomal protein L4_120m_megahit_CMKFGOPF_290073 50S ribosomal protein L4_ETNP14_120maa_PROKKA_02579 50S ribosomal protein L4_ETNP_100m_PROKKA_78271 50S ribosomal protein L4
+50S ribosomal protein L4
+50S ribosomal protein L4
+50S ribosomal protein L4_ETNP_160m_PROKKA_151188 50S ribosomal protein L4
+50S ribosomal protein L4
+50S ribosomal protein L4
+50S ribosomal protein L4
+50S ribosomal protein L4_ETNP_120m_free_PROKKA_89651 50S ribosomal protein L4
+50S ribosomal protein L4
+50S ribosomal protein L4
+50S ribosomal protein L4
+50S ribosomal protein L4_ETNP_120m_PROKKA_214741 50S ribosomal protein L4
+50S ribosomal protein L4
+50S ribosomal protein L4
+50S ribosomal protein L4
+50S ribosomal protein L4_180m_megahit_DBICIOKE_15732 50S ribosomal protein L4
+50S ribosomal protein L4_140m_megahit_KKMFCJLI_31231 50S ribosomal protein L4_160m_megahit_NHJEOBNC_39895 50S ribosomal protein L4_180m_megahit_DBICIOKE_211351 50S ribosomal protein L4_120mF_megahit_EODJEIIO_56262 50S ribosoma...
+50S ribosomal protein L4
+50S ribosomal protein L4
+50S ribosomal protein L4
+50S ribosomal protein L4
+50S ribosomal protein L4
+Cytochrome c-552
+RNA pyrophosphohydrolase
+RNA pyrophosphohydrolase
+RNA pyrophosphohydrolase
+RNA pyrophosphohydrolase
+RNA pyrophosphohydrolase
+RNA pyrophosphohydrolase
+RNA pyrophosphohydrolase
+RNA pyrophosphohydrolase
+RNA pyrophosphohydrolase_160m_megahit_NHJEOBNC_204940 RNA pyrophosphohydrolase_180m_megahit_DBICIOKE_222437 RNA pyrophosphohydrolase_300m_megahit_KALMNAMF_48215 RNA pyrophosphohydrolase_120mF_megahit_EODJEIIO_67809 RNA pyroph...
+RNA pyrophosphohydrolase
+RNA pyrophosphohydrolase
+RNA pyrophosphohydrolase
+RNA pyrophosphohydrolase_140m_megahit_KKMFCJLI_55703 RNA pyrophosphohydrolase_160m_megahit_NHJEOBNC_176293 RNA pyrophosphohydrolase_180m_megahit_DBICIOKE_244923 RNA pyrophosphohydrolase_300m_megahit_KALMNAMF_177450 RNA pyroph...
+1-pyrroline-5-carboxylate dehydrogenase 1
+1-pyrroline-5-carboxylate dehydrogenase 1
+Oxygen-dependent choline dehydrogenase
+Oxygen-dependent choline dehydrogenase_ETNP_140m_PROKKA_129915 Oxygen-dependent choline dehydrogenase
+Oxygen-dependent choline dehydrogenase_ETNP_180m_PROKKA_111877 Oxygen-dependent choline dehydrogenase
+Oxygen-dependent choline dehydrogenase_ETNP_120m_free_PROKKA_132586 Oxygen-dependent choline dehydrogenase
+Oxygen-dependent choline dehydrogenase_120mF_megahit_PEDPKPGI_106967 Oxygen-dependent choline dehydrogenase
+LPS assembly outer membrane complex protein LptD
+hypothetical protein
+hypothetical protein
+Elongation factor G 1
+Elongation factor G 1
+Outer membrane protein assembly factor BamB
+Outer membrane protein assembly factor BamB_120mF_megahit_PEDPKPGI_200874 Outer membrane protein assembly factor BamB
+DNA-directed RNA polymerase subunit beta'
+Electron transfer flavoprotein subunit beta
+hypothetical protein
+hypothetical protein
+Arylsulfatase
+Arylsulfatase
+Chromosome partition protein Smc
+Chromosome partition protein Smc
+DNA polymerase I
+hypothetical protein
+putative permease YjgP/YjgQ family protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative permease YjgP/YjgQ family protein
+hypothetical protein
+putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+putative multidrug resistance ABC transporter ATP-binding/permease protein YheI_300m_megahit_KALMNAMF_126892 putative multidrug resistance ABC transporter ATP-binding/permease protein YheI_120mF_megahit_PEDPKPGI_190745 putati...
+putative multidrug resistance ABC transporter ATP-binding/permease protein YheI_ETNP_160m_PROKKA_69455 putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+hypothetical protein
+DNA adenine methyltransferase YhdJ
+hypothetical protein_300m_megahit_KALMNAMF_224407 hypothetical protein_ETNP14_120mac_PROKKA_07521 hypothetical protein_ETNP_120m_PROKKA_156025 hypothetical protein_ETNP_160m_PROKKA_93389 hypothetical protein_ETNP_180m_PROKKA_...
+hypothetical protein_120mF_megahit_ILDJFKLB_67416 hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Ribose-phosphate pyrophosphokinase
+Ribose-phosphate pyrophosphokinase_ETNP_180m_PROKKA_137110 Ribose-phosphate pyrophosphokinase
+Ribose-phosphate pyrophosphokinase
+hypothetical protein_ETNP_160m_PROKKA_179327 hypothetical protein
+hypothetical protein_160m_megahit_NHJEOBNC_22011 hypothetical protein
+hypothetical protein_ETNP_120m_particle_PROKKA_125694 hypothetical protein_ETNP_180m_PROKKA_145755 hypothetical protein
+hypothetical protein_120m_megahit_CMKFGOPF_43357 hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+outer membrane biogenesis protein BamB
+Biotin carboxylase
+Biotin carboxylase
+hypothetical protein
+Elongation factor G 1_ETNP_120m_particle_PROKKA_207112 Elongation factor G 1
+Elongation factor G 1
+Elongation factor G 1_120m_megahit_CMKFGOPF_340284 Elongation factor G 1_160m_megahit_NHJEOBNC_255371 Elongation factor G 1_ETNP_120m_PROKKA_150425 Elongation factor G 1_ETNP_100m_particle_PROKKA_48701 Elongation factor G 1_E...
+Elongation factor G 1
+Elongation factor G 1
+Pyridoxine/pyridoxamine 5'-phosphate oxidase
+Anthranilate phosphoribosyltransferase
+Anthranilate phosphoribosyltransferase
+Anthranilate phosphoribosyltransferase
+Ribonuclease P protein component
+S-methyl-5'-thioadenosine phosphorylase_180m_megahit_DBICIOKE_11108 S-methyl-5'-thioadenosine phosphorylase_120mF_megahit_PEDPKPGI_126783 S-methyl-5'-thioadenosine phosphorylase
+hypothetical protein
+hypothetical protein
+Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+hypothetical protein
+Neopullulanase 2
+hypothetical protein_ETNP_100m_particle_PROKKA_100985 hypothetical protein
+hypothetical protein_ETNP_120m_particle_PROKKA_173398 hypothetical protein
+hypothetical protein
+hypothetical protein
+Aminopeptidase S
+hypothetical protein
+Ribose-phosphate pyrophosphokinase
+Ribose-phosphate pyrophosphokinase_140m_megahit_KKMFCJLI_141069 Ribose-phosphate pyrophosphokinase_160m_megahit_NHJEOBNC_27768 Ribose-phosphate pyrophosphokinase_180m_megahit_DBICIOKE_40138 Ribose-phosphate pyrophosphokinase_N...
+Ribose-phosphate pyrophosphokinase
+Ribose-phosphate pyrophosphokinase
+Ribose-phosphate pyrophosphokinase
+hypothetical protein
+Aldose 1-epimerase_ETNP_120m_free_PROKKA_230389 Aldose 1-epimerase precursor_ETNP_160m_PROKKA_63769 Aldose 1-epimerase precursor
+DNA gyrase subunit A
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein

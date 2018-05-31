@@ -1,0 +1,263 @@
+hypothetical protein
+hypothetical protein
+Chaperone protein ClpB_ETNP_120m_particle_PROKKA_202762 Chaperone protein ClpB
+Chaperone protein ClpB
+hypothetical protein_ETNP_100m_particle_PROKKA_55047 hypothetical protein
+Chaperone protein ClpB
+Chaperone protein ClpB_ETNP_160m_PROKKA_179213 Chaperone protein ClpB
+Negative regulator of genetic competence ClpC/MecB
+Negative regulator of genetic competence ClpC/MecB
+Bacterial actin-related protein
+RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)
+hypothetical protein_160m_megahit_NHJEOBNC_168793 hypothetical protein_180m_megahit_DBICIOKE_63449 hypothetical protein_300m_megahit_KALMNAMF_54967 hypothetical protein
+RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)_ETNP_120m_particle_PROKKA_222070 RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)_ETNP_140m_PROKKA_108365 RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)_...
+RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)_ETNP_150m_particle_PROKKA_06577 RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)
+hypothetical protein_120m_megahit_CMKFGOPF_367022 hypothetical protein_150mP_megahit_EIABIGGE_13814 hypothetical protein_120mF_megahit_PEDPKPGI_48245 hypothetical protein
+Cold shock protein CspA_120m_megahit_CMKFGOPF_248391 Cold shock protein CspA_140m_megahit_KKMFCJLI_69919 Cold shock protein CspA_150mP_megahit_EIABIGGE_32770 Cold shock protein CspA_160m_megahit_NHJEOBNC_228833 Cold shock pro...
+DNA-binding transcriptional regulator BolA
+hypothetical protein
+hypothetical protein
+Penicillin-binding protein A
+Penicillin-binding protein A
+Penicillin-binding protein A
+Beta-barrel assembly-enhancing protease
+lipoprotein NlpI
+Beta-barrel assembly-enhancing protease
+hypothetical protein
+DNA-directed RNA polymerase subunit beta_ETNP_180m_PROKKA_93953 DNA-directed RNA polymerase subunit beta
+hypothetical protein
+Malonyl CoA-acyl carrier protein transacylase
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12_ETNP14_120maa_PROKKA_29542 50S ribosomal protein L7/L12
+hypothetical protein
+Metallopeptidase AprA
+hypothetical protein
+Carbamoyl-phosphate synthase large chain
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Glycerophosphoryl diester phosphodiesterase family protein
+Transketolase 1
+Lipid A biosynthesis lauroyltransferase
+DNA repair protein RecN
+DNA repair protein RecN
+DNA repair protein RecN
+hypothetical protein
+Coenzyme PQQ synthesis protein E
+hypothetical protein
+hypothetical protein_ETNP_150m_particle_PROKKA_03480 Tubulin/FtsZ family  GTPase domain
+hypothetical protein_ETNP_100m_particle_PROKKA_82300 Tubulin/FtsZ family  GTPase domain
+Tubulin-like protein CetZ
+Tubulin-like protein CetZ
+Tubulin-like protein CetZ
+Tubulin-like protein CetZ
+Tubulin-like protein CetZ
+Tubulin-like protein CetZ
+hypothetical protein
+hypothetical protein
+ADP-L-glycero-D-manno-heptose-6-epimerase
+Arylsulfatase precursor
+Choline-sulfatase
+Arylsulfatase
+hypothetical protein
+UvrABC system protein B
+Formate--tetrahydrofolate ligase
+hypothetical protein
+hypothetical protein
+Metalloprotease TldD
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Glutamate-ammonia-ligase adenylyltransferase
+3-dehydroquinate dehydratase
+Nitrile hydratase beta subunit
+3-dehydroquinate dehydratase
+3-dehydroquinate dehydratase
+Ditrans polycis-undecaprenyl-diphosphate synthase ((2E 6E)-farnesyl-diphosphate specific)_ETNP_120m_PROKKA_59497 Ditrans polycis-undecaprenyl-diphosphate synthase ((2E 6E)-farnesyl-diphosphate specific)
+Ditrans polycis-undecaprenyl-diphosphate synthase ((2E 6E)-farnesyl-diphosphate specific)_ETNP14_120maa_PROKKA_51238 Ditrans polycis-undecaprenyl-diphosphate synthase ((2E 6E)-farnesyl-diphosphate specific)_ETNP_100m_PROKKA_98...
+hypothetical protein
+4-hydroxythreonine-4-phosphate dehydrogenase 1
+hypothetical protein
+4-hydroxythreonine-4-phosphate dehydrogenase 2
+hypothetical protein
+hypothetical protein
+Dihydrofolate synthase/folylpolyglutamate synthase
+hypothetical protein
+putative siderophore biosynthesis protein SbnA
+Bacterial actin-related protein
+6-aminohexanoate-cyclic-dimer hydrolase
+hypothetical protein
+hypothetical protein
+DNA topoisomerase 4 subunit A
+Acetophenone carboxylase gamma subunit
+hypothetical protein
+Acetophenone carboxylase gamma subunit
+Acetophenone carboxylase gamma subunit
+Acetophenone carboxylase gamma subunit
+Acetophenone carboxylase gamma subunit
+Acetophenone carboxylase gamma subunit
+Acetophenone carboxylase gamma subunit
+Acetophenone carboxylase gamma subunit_ETNP_300m_PROKKA_114225 Acetophenone carboxylase gamma subunit
+hypothetical protein
+Aminomethyltransferase
+hypothetical protein
+Exodeoxyribonuclease 7 small subunit
+Exodeoxyribonuclease 7 small subunit_NP_85m_PROKKA_11332 Exodeoxyribonuclease 7 small subunit
+Histidinol-phosphate aminotransferase_ETNP_140m_PROKKA_112929 Histidinol-phosphate aminotransferase_ETNP_300m_PROKKA_86487 Histidinol-phosphate aminotransferase_120mF_megahit_ILDJFKLB_70407 Histidinol-phosphate aminotransferas...
+Exodeoxyribonuclease 7 small subunit_120mF_megahit_ILDJFKLB_73608 Exodeoxyribonuclease 7 small subunit
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Tagatose-6-phosphate kinase
+hypothetical protein
+Tagatose-6-phosphate kinase_ETNP_120m_particle_PROKKA_165863 Tagatose-6-phosphate kinase
+Quinolinate synthase A
+hypothetical protein
+hypothetical protein
+50S ribosomal protein L7/L12_ETNP_60m_PROKKA_03686 50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12_90m_Megahit_DAALLOGA_36621 50S ribosomal protein L7/L12_ETNP_70m_PROKKA_85478 50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12_110m_megahit_JNNKCNHH_06059 50S ribosomal protein L7/L12_120m_megahit_CMKFGOPF_320019 50S ribosomal protein L7/L12_160m_megahit_NHJEOBNC_261607 50S ribosomal protein L7/L12_ETNP14_120mab_PROKKA_369...
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12_ETNP14_68maa_PROKKA_106520 50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12_NP_85m_PROKKA_41453 50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12_120mF_megahit_EODJEIIO_38231 50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12_120m_megahit_CMKFGOPF_306412 50S ribosomal protein L7/L12_ETNP_120m_PROKKA_222809 50S ribosomal protein L7/L12_ETNP_120m_particle_PROKKA_240644 50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12
+50S ribosomal protein L7/L12_ETNP_100m_PROKKA_64831 50S ribosomal protein L7/L12
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Putative glycosyltransferase EpsE
+O-antigen biosynthesis glycosyltransferase WbnJ
+hypothetical protein
+hypothetical protein
+RNA polymerase sigma factor RpoD_120mF_megahit_PEDPKPGI_122897 RNA polymerase sigma factor RpoD
+RNA polymerase sigma factor SigA
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+L-cystine transport system permease protein TcyB
+Flagellar hook-associated protein 1
+GlcNAc-PI de-N-acetylase_120mF_megahit_EODJEIIO_181140 N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 1
+Chaperone protein HtpG
+hypothetical protein_120m_megahit_CMKFGOPF_389664 hypothetical protein_140m_megahit_KKMFCJLI_74336 hypothetical protein_150mP_megahit_EIABIGGE_37700 hypothetical protein_160m_megahit_NHJEOBNC_149050 hypothetical protein_180m...
+hypothetical protein
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC_100m_megahit_CLKLDGCM_101337 Magnesium and cobalt efflux protein CorC_110m_megahit_JNNKCNHH_52049 Magnesium and cobalt efflux protein CorC_120m_megahit_CMKFGOPF_352864 Magnesium and co...
+Magnesium and cobalt efflux protein CorC_ETNP_100m_PROKKA_66195 Magnesium and cobalt efflux protein CorC_ETNP_100m_particle_PROKKA_136856 Magnesium and cobalt efflux protein CorC_ETNP_110m_PROKKA_38714 Magnesium and cobalt efflux p...
+CBS domain protein
+CBS domain protein
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Magnesium and cobalt efflux protein CorC
+Sodium/glucose cotransporter
+putative acetyl-CoA acyltransferase
+putative acetyl-CoA acyltransferase
+hypothetical protein
+hypothetical protein_ETNP_90m_PROKKA_64940 hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein_160m_megahit_NHJEOBNC_18242 hypothetical protein_180m_megahit_DBICIOKE_53277 hypothetical protein_300m_megahit_KALMNAMF_23012 hypothetical protein_ETNP_140m_PROKKA_137925 hypothetical protein_ETNP_160m_PRO...
+Orotate phosphoribosyltransferase
+Ribosomal large subunit pseudouridine synthase D
+N(G) N(G)-dimethylarginine dimethylaminohydrolase_180m_megahit_DBICIOKE_132353 N(G) N(G)-dimethylarginine dimethylaminohydrolase_300m_megahit_KALMNAMF_77077 N(G) N(G)-dimethylarginine dimethylaminohydrolase_ETNP_160m_PROKKA_16...
+N(G) N(G)-dimethylarginine dimethylaminohydrolase
+Histidinol-phosphate aminotransferase
+Histidinol-phosphate aminotransferase_180m_megahit_DBICIOKE_100422 Histidinol-phosphate aminotransferase_120mF_megahit_PEDPKPGI_66935 Histidinol-phosphate aminotransferase
+hypothetical protein
+Flavin-dependent tryptophan halogenase PrnA
+Glycine cleavage system transcriptional activator
+Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+HTH-type transcriptional regulator IscR_ETNP_100m_particle_PROKKA_71706 HTH-type transcriptional regulator IscR_ETNP_120m_free_PROKKA_75032 HTH-type transcriptional regulator IscR_120mF_megahit_PEDPKPGI_157575 HTH-type trans...
+HTH-type transcriptional regulator IscR
+R-phenyllactate dehydratase activator_ETNP_160m_PROKKA_217838 R-phenyllactate dehydratase activator
+2-hydroxyisocaproyl-CoA dehydratase activator_180m_megahit_DBICIOKE_220014 2-hydroxyisocaproyl-CoA dehydratase activator_300m_megahit_KALMNAMF_147415 2-hydroxyisocaproyl-CoA dehydratase activator
+R-phenyllactate dehydratase activator
+hypothetical protein
+Tetratricopeptide repeat protein
+putative HTH-type transcriptional regulator YvdT
+putative N-methylproline demethylase
+60 kDa chaperonin
+NADH oxidase_120mF_megahit_PEDPKPGI_204205 NADH oxidase
+Thiamine-monophosphate kinase
+Thiamine-monophosphate kinase
+Thiamine-monophosphate kinase_ETNP_120m_PROKKA_61711 Thiamine-monophosphate kinase_ETNP_300m_PROKKA_111843 Thiamine-monophosphate kinase
+Thiamine-monophosphate kinase
+Thiamine-monophosphate kinase_300m_megahit_KALMNAMF_102277 Thiamine-monophosphate kinase
+Thiamine-monophosphate kinase
+Pyruvate kinase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Phosphoribosylformylglycinamidine synthase subunit PurQ_ETNP_120m_PROKKA_07202 Phosphoribosylformylglycinamidine synthase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein_ETNP_180m_PROKKA_27374 hypothetical protein_120mF_megahit_ILDJFKLB_86473 hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein_120mF_megahit_PEDPKPGI_155791 hypothetical protein
+hypothetical protein
+2-(acetamidomethylene)succinate hydrolase_160m_megahit_NHJEOBNC_150446 2-(acetamidomethylene)succinate hydrolase_180m_megahit_DBICIOKE_114077 2-(acetamidomethylene)succinate hydrolase_ETNP_160m_PROKKA_161717 Haloacetate dehal...
+putative NAD-dependent oxidoreductase
+UDP-2 3-diacetamido-2 3-dideoxy-D-glucuronate 2-epimerase
+Quinohemoprotein alcohol dehydrogenase ADH IIB precursor
+Serine--tRNA ligase
+hypothetical protein_140m_megahit_KKMFCJLI_10307 hypothetical protein_ETNP_120m_PROKKA_33930 hypothetical protein_ETNP_100m_particle_PROKKA_28492 hypothetical protein_ETNP_140m_PROKKA_136926 hypothetical protein_ETNP_90m_PRO...
+hypothetical protein
+Stage V sporulation protein D
+hypothetical protein
+hypothetical protein
+hypothetical protein

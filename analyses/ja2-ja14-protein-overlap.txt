@@ -1,0 +1,378 @@
+Names	total	elements
+suspended 100 m suspended 965 m	8	amino acid ABC transporter substrate-binding protein Candidatus Pelagibacter ubique
+		hypothetical protein Nitrospina sp AB-629-B18
+		General L-amino acid-binding periplasmic protein AapJ precursor
+		hypothetical protein
+		Selenate reductase subunit beta
+		Dimethylsulfide dehydrogenase subunit beta
+		Selenate reductase subunit gamma precursor
+		Bacterial extracellular solute-binding protein
+suspended 100 m	365	Poly(beta-D-mannuronate) C5 epimerase 7
+		Ribulose bisphosphate carboxylase large chain
+		50S ribosomal protein L15
+		50S ribosomal protein L3
+		photosystem II protein D1 Prochlorococcus marinus
+		molecular chaperone GroEL Prochlorococcus sp MIT 0604
+		Photosystem II protein
+		Allophycocyanin alpha chain
+		50S ribosomal protein L9
+		NAD-dependent dehydratase Prochlorococcus
+		molecular chaperone GroEL Rhodothermus marinus
+		photosystem I protein PsaD Prochlorococcus marinus
+		hypothetical protein Acidobacterium capsulatum
+		50S ribosomal protein L4
+		actin flagellar inner arm intermediate chain  Micromonas pusilla CCMP1545
+		Nitrogen regulatory protein P-II
+		DNA-directed RNA polymerase subunit beta
+		ubiquitin extension protein 4 partial  Phaeodactylum tricornutum CCAP 1055
+		Flavodoxin
+		chemotaxis protein CheY Synechococcus sp WH 8102
+		photosystem I iron-sulfur center Synechococcus sp WH 5701
+		UDP-glucose 4-epimerase
+		50S ribosomal protein L15 Prochlorococcus
+		Taurine-binding periplasmic protein precursor
+		chemotaxis protein CheY Prochlorococcus sp MIT 0801
+		acyl carrier protein Synechococcus
+		Cytochrome c-550 precursor
+		transcription termination factor NusA Prochlorococcus
+		30S ribosomal protein S7
+		C4-dicarboxylate ABC transporter Candidatus Pelagibacter ubique
+		calmoduline  Phaeodactylum tricornutum CCAP 1055
+		chemotaxis protein CheY Prochlorococcus sp MIT 0604
+		Chlorate reductase subunit gamma precursor
+		uroporphyrinogen decarboxylase Synechococcus sp KORDI-100
+		ATP synthase gamma chain
+		Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+		Ribulose-phosphate 3-epimerase
+		histone H2A isoform 3b  Phaeodactylum tricornutum CCAP 1055
+		Core histone H2A/H2B/H3/H4
+		photosystem II protein D1 Prochlorococcus
+		Short-chain-fatty-acid--CoA ligase
+		glutamine synthetase Prochlorococcus sp MIT 0604
+		Aliphatic amidase expression-regulating protein
+		DNA-binding protein HU 1
+		Flagellar filament 33 kDa core protein
+		predicted protein  Micromonas pusilla CCMP1545
+		ketol-acid reductoisomerase Prochlorococcus sp MIT 0604
+		hypothetical protein Prochlorococcus sp MIT 0801
+		protein kinase UbiB
+		Perchlorate reductase subunit alpha precursor
+		Ubiquitin family protein
+		Fis family transcriptional regulator Geothrix fermentans
+		30S ribosomal protein S4 Prochlorococcus marinus
+		translation initiation factor IF-3 Prochlorococcus marinus
+		histone H2A ISS  Ostreococcus tauri
+		Photosystem II 44 kDa reaction center protein
+		hypothetical protein THAOC_21730  Thalassiosira oceanica
+		NAD(P)H-quinone oxidoreductase subunit I  chloroplastic
+		60 kDa chaperonin 1
+		hypothetical protein THAOC_12377  Thalassiosira oceanica
+		calmodulin  Micromonas pusilla CCMP1545
+		hypothetical protein Candidatus Thioglobus singularis
+		Plastocyanin precursor
+		60 kDa chaperonin 7
+		F0F1 ATP synthase subunit B'
+		60 kDa chaperonin Marinimicrobia bacterium 46_43
+		cell division protein FtsZ Prochlorococcus sp MIT 0801
+		ketol-acid reductoisomerase Prochlorococcus marinus
+		photosystem I reaction center subunit II Prochlorococcus
+		hypothetical protein THAOC_19092  Thalassiosira oceanica
+		photosystem I reaction center subunit II Prochlorococcus sp MIT 0604
+		ferredoxin Synechococcus sp KORDI-100
+		ATP synthase subunit beta
+		Serine/threonine-protein kinase B
+		photosystem I reaction center subunit XII Synechococcus
+		chemotaxis protein CheY Prochlorococcus
+		DNA-binding protein HU-beta
+		FK506-binding protein
+		Photosystem Q(B) protein precursor
+		hypothetical protein THAOC_16543  Thalassiosira oceanica
+		50S ribosomal protein L27 Synechococcus sp WH 8102
+		ribulose-phosphate 3-epimerase Prochlorococcus
+		PA14 domain protein
+		putative ABC transporter-binding protein precursor
+		hypothetical protein THAOC_09145  Thalassiosira oceanica
+		Polyketide synthase PksJ
+		ATP F0F1 synthase subunit alpha Prochlorococcus sp MIT 0801
+		Acyl carrier protein
+		Photosystem Q(B) protein 1 precursor
+		transcriptional regulator Prochlorococcus
+		Tubulin/FtsZ family  GTPase domain
+		hypothetical protein  partial Prochlorococcus sp MIT 0701
+		Ribulose bisphosphate carboxylase
+		10 kDa chaperonin
+		Photosystem II 12 kDa extrinsic protein precursor
+		50S ribosomal protein L5
+		flavodoxin Prochlorococcus
+		fructose-bisphosphate aldolase Prochlorococcus marinus
+		alpha tubulin  Micromonas pusilla CCMP1545
+		ABC transporter substrate-binding protein Prochlorococcus sp MIT 0801
+		Ferredoxin
+		beta tubulin  Micromonas pusilla CCMP1545
+		hypothetical protein THAOC_31441  Thalassiosira oceanica
+		Phycoerythrin class 2 subunit gamma  linker polypeptide
+		thioredoxin Prochlorococcus
+		glutamine synthetase Prochlorococcus sp MIT 0701
+		50S ribosomal protein L23
+		Cold shock protein CspB
+		ribulose-phosphate 3-epimerase Prochlorococcus marinus
+		RNA-binding protein Prochlorococcus
+		ketol-acid reductoisomerase Synechococcus sp WH 5701
+		photosystem I P700 chlorophyll a apoprotein A2 Prochlorococcus
+		Phycobilisome 31.8 kDa linker polypeptide  phycoerythrin-associated  rod
+		Outer membrane lipoprotein Omp16 precursor
+		Nif11-like leader peptide family natural product precursor Prochlorococcus
+		RNA-binding protein Synechococcus sp WH 5701
+		4Fe-4S ferredoxin Nitrosopumilaceae
+		cold-shock protein Nitrospina
+		Secreted effector protein pipB2
+		glyceraldehyde-3-phosphate dehydrogenase Prochlorococcus
+		antitermination protein NusG Synechococcus sp WH 5701
+		histone H4 isoform 1b  Phaeodactylum tricornutum CCAP 1055
+		putative peptidase
+		50S ribosomal protein L2
+		ATP synthase subunit b
+		molecular chaperone GroEL Synechococcus sp WH 8102
+		chemotaxis protein CheY Prochlorococcus marinus
+		Cell division topological specificity factor
+		putative nucleotide-binding protein
+		60 kDa chaperonin
+		hypothetical protein Prochlorococcus marinus
+		allophycocyanin Synechococcus sp KORDI-100
+		Coproporphyrinogen-III oxidase  aerobic
+		O-acetylhomoserine aminocarboxypropyltransferase Prochlorococcus marinus
+		transcription termination factor NusA Prochlorococcus marinus
+		Divinyl chlorophyll a/b light-harvesting protein PcbB
+		10 kDa chaperonin 1
+		60 kDa chaperonin 2
+		Photosystem II D2 protein
+		D-alanyl-D-alanine carboxypeptidase
+		D-ribose transporter subunit RbsB
+		C-phycoerythrin class 1 subunit beta
+		ATP synthase subunit alpha Prochlorococcus marinus
+		Thioredoxin-1
+		hypothetical protein THAOC_33105  Thalassiosira oceanica
+		PEP-CTERM motif protein
+		phosphoglycerate kinase Prochlorococcus
+		putative protein kinase UbiB
+		50S ribosomal protein L20 Prochlorococcus
+		Photosystem I iron-sulfur center
+		Putative type II secretion system protein E
+		ATP-dependent Clp protease ATP-binding subunit ClpC
+		elongation factor G Synechococcus sp WH 8102
+		calmodulin mutant SYNCAM9 ISS  Ostreococcus tauri
+		translation initiation factor IF-3 Prochlorococcus
+		60 kDa chaperonin Protein Cpn60 groEL protein Candidatus Methylomirabilis oxyfera
+		Nitrogen fixation protein of unknown function
+		hypothetical protein THAOC_00268  Thalassiosira oceanica
+		glutamine synthetase  Blastopirellula marina
+		hypothetical protein THAOC_14024  Thalassiosira oceanica
+		HEAT repeat protein
+		NAD dependent epimerase/dehydratase family protein
+		50S ribosomal protein L7/L12
+		molecular chaperone GroES Prochlorococcus
+		Alpha-keto acid-binding periplasmic protein TakP precursor
+		Photosystem I P700 chlorophyll a apoprotein A1
+		C-phycoerythrin class 2 subunit alpha
+		30S ribosomal protein S1
+		photosystem I iron-sulfur center Chroococcales
+		NAD-dependent dehydratase Prochlorococcus marinus
+		Major cold shock protein CspA
+		30S ribosomal protein S1 Prochlorococcus marinus
+		molecular chaperone GroEL Arcobacter sp L
+		photosystem I P700 chlorophyll a apoprotein A1 Prochlorococcus
+		amino acid ABC transporter substrate-binding protein Roseobacter litoralis
+		CP12 domain protein
+		glyceraldehyde-3-phosphate dehydrogenase Prochlorococcus marinus
+		ABC transporter substrate-binding protein Prochlorococcus sp MIT 0604
+		50S ribosomal protein L20
+		Glutamine synthetase
+		Polyribonucleotide nucleotidyltransferase
+		hypothetical protein THAOC_15570  Thalassiosira oceanica
+		molecular chaperone GroEL Synechococcus
+		molecular chaperone GroEL Rubritalea marina
+		4Fe-4S ferredoxin Candidatus Nitrosopelagicus brevis
+		ATP synthase subunit alpha
+		Thymidylate synthase ThyX
+		50S ribosomal protein L23 Prochlorococcus marinus
+		ketol-acid reductoisomerase Synechococcus
+		Pentapeptide repeats (8 copies)
+		ATP synthase F0F1 subunit gamma Prochlorococcus
+		histone H2A isoform 2  Phaeodactylum tricornutum CCAP 1055
+		hypothetical protein Synechococcus
+		chaperone ClpB Candidatus Scalindua brodae
+		30S ribosomal protein S8 Prochlorococcus
+		Transcriptional regulatory protein SrrA
+		30S ribosomal protein S8 Synechococcus sp KORDI-100
+		photosystem I P700 chlorophyll a apoprotein A1 Prochlorococcus marinus
+		hypothetical protein THAOC_03987 partial  Thalassiosira oceanica
+		ATP synthase subunit b precursor
+		50S ribosomal protein L13 Prochlorococcus sp MIT 0801
+		Photosystem II manganese-stabilizing polypeptide precursor
+		DNA-binding protein Synechococcus
+		carbon dioxide-concentrating mechanism protein CcmK Cyanobacteria
+		C-phycoerythrin class 2 subunit beta
+		Photosystem I reaction center subunit XI
+		hypothetical protein THAOC_10112  Thalassiosira oceanica
+		50S ribosomal protein L11 Prochlorococcus
+		ATP synthase subunit alpha Prochlorococcus
+		Serralysin B precursor
+		putative cold shock protein A
+		DNA topoisomerase 4 subunit A
+		chaperonin Prochlorococcus
+		50S ribosomal protein L20 Synechococcus sp WH 5701
+		Ethylbenzene dehydrogenase
+		NnrS-like protein Methylophaga nitratireducenticrescens
+		Ferredoxin-1
+		protein family PM-3 Prochlorococcus sp MIT 0801
+		50S ribosomal protein L13
+		Multicopper oxidase
+		S-adenosylmethionine synthase
+		50S ribosomal protein L27
+		Phycobilisome 27.9 kDa linker polypeptide  phycoerythrin-associated  rod
+		Histones H3 and H4 ISS  Ostreococcus tauri
+		chaperone protein ClpB Thiobacillus denitrificans
+		bleomycin hydrolase Synechococcus
+		Dihydroxy-acid dehydratase
+		elongation factor G Synechococcus sp KORDI-100
+		Cell division protein FtsZ
+		nitrogen regulatory protein P-II 1 Rubritalea marina
+		elongation factor G Prochlorococcus
+		Elongation factor G
+		Photosystem II reaction center Psb28 protein
+		hypothetical protein THAOC_28150  Thalassiosira oceanica
+		50S ribosomal protein L23 Prochlorococcus
+		Periplasmic dipeptide transport protein precursor
+		50S ribosomal protein L24
+		30S ribosomal protein S7 Prochlorococcus
+		nitrite oxidoreductase gamma subunit Nitrospina gracilis
+		30S ribosomal protein S16
+		elongation factor G Prochlorococcus marinus
+		histone H4  Micromonas pusilla CCMP1545
+		glycine betaine transporter periplasmic subunit
+		Carboxysome shell peptide mid-region
+		50S ribosomal protein L4 Prochlorococcus marinus
+		acyl carrier protein Prochlorococcus
+		30S ribosomal protein S8
+		Flagellin
+		histone H3  Micromonas pusilla CCMP1545
+		Calpain family cysteine protease
+		Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+		glutamine synthetase Prochlorococcus marinus
+		60 kDa chaperonin 5
+		putative 30S ribosomal protein PSRP-3
+		50S ribosomal protein L10
+		Elongation factor Tu
+		cell division protein FtsZ Prochlorococcus
+		elongation factor G Prochlorococcus sp MIT 0801
+		D-ribose-binding periplasmic protein precursor
+		Sulfur carrier protein CysO
+		predicted protein  Phaeodactylum tricornutum CCAP 1055
+		Indole-3-pyruvate decarboxylase Indolepyruvate decarboxylase Candidatus Methylomirabilis oxyfera
+		Peptidoglycan-associated lipoprotein precursor
+		AbrB family transcriptional regulator Prochlorococcus sp MIT 0604
+		molecular chaperone GroEL Chryseobacterium koreense
+		30S ribosomal protein S4
+		photosystem II manganese-stabilizing polypeptide Prochlorococcus
+		CDP-paratose 2-epimerase
+		Fructose-bisphosphate aldolase class 2
+		C-phycoerythrin class 1 subunit alpha
+		hypothetical protein Synechococcus sp KORDI-100
+		R-phycocyanin-2 beta chain
+		nitrogen regulatory protein P-II Prochlorococcus
+		glutamine synthetase Prochlorococcus sp MIT 0801
+		photosystem II complex extrinsic protein precursor U Prochlorococcus
+		Ribosome-recycling factor
+		Oxygen-independent coproporphyrinogen-III oxidase
+		NAD-dependent dehydratase Synechococcus
+		cell division protein FtsZ Prochlorococcus marinus
+		molecular chaperone GroEL Candidatus Puniceispirillum marinum
+		ubiquitin extension protein 3  Phaeodactylum tricornutum CCAP 1055
+		50S ribosomal protein L27 Prochlorococcus
+		Photosystem I P700 chlorophyll a apoprotein A2
+		photosystem I PsaK protein subunit X Prochlorococcus
+		histone H2B  Micromonas pusilla CCMP1545
+		ketol-acid reductoisomerase Prochlorococcus
+		Flagellar assembly protein FliX
+		polyketide synthase Myxococcus stipitatus
+		nitrogen regulatory protein P-II Prochlorococcus marinus
+		ketol-acid reductoisomerase Prochlorococcus sp MIT 0801
+		30S ribosomal protein S3
+		histone H2A isoform 3a  Phaeodactylum tricornutum CCAP 1055
+		Cysteine synthase A
+		ferredoxin Synechococcus sp WH 5701
+		nitrate oxidoreductase subunit alpha  partial Nitrospina gracilis
+		50S ribosomal protein L11
+		Photosystem I reaction center subunit II
+		von Willebrand factor type A domain protein
+		ATP synthase subunit beta Prochlorococcus
+		Outer membrane protein alpha precursor
+		50S ribosomal protein L13 Prochlorococcus
+		RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)
+		Bacterial actin-related protein
+		Photosystem I reaction center subunit PsaK precursor
+		50S ribosomal protein L6
+		ketol-acid reductoisomerase Synechococcus sp KORDI-100
+		Negative regulator of genetic competence clpC mecB Candidatus Saccharibacteria bacterium GW2011_GWA2_46_10
+		Histone H4 ISS  Ostreococcus tauri
+		RNA-binding protein Prochlorococcus marinus
+		30S ribosomal protein S17
+		NAD-dependent dehydratase Synechococcus sp KORDI-100
+		hypothetical protein THAOC_15573 partial  Thalassiosira oceanica
+		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+		Flagellar filament 35 kDa core protein
+		50S ribosomal protein L13 Prochlorococcus marinus
+		NADH dehydrogenase subunit I
+		Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+		Ferritin
+		Uroporphyrinogen decarboxylase
+		Substrate binding domain of ABC-type glycine betaine transport system
+		NAD-dependent dehydratase Prochlorococcus sp MIT 0801
+		molecular chaperone GroEL Synechococcus sp KORDI-100
+		chemotaxis protein CheY Synechococcus sp WH 5701
+		protein disaggregation chaperone Alteromonas mediterranea
+		histone H2B ISS  Ostreococcus tauri
+		AbrB family transcriptional regulator Synechococcus sp KORDI-100
+		Glyceraldehyde-3-phosphate dehydrogenase 2
+		nitrogen regulatory protein P-II Synechococcus sp KORDI-100
+		S-adenosylmethionine synthase Synechococcus sp WH 5701
+		elongation factor G Prochlorococcus sp MIT 0604
+		DNA replication and repair protein RecF
+		chemotaxis protein CheY Synechococcus sp KORDI-100
+		DNA-binding protein Prochlorococcus
+		30S ribosomal protein S1 Prochlorococcus
+		bleomycin hydrolase Synechococcus sp KORDI-100
+		molecular chaperone GroES Synechococcus sp WH 5701
+		photosystem I iron-sulfur center Cyanobacteria
+		Photosystem I reaction center subunit III precursor
+		ferredoxin Synechococcus
+		ferredoxin Prochlorococcus
+		30S ribosomal protein S4 Prochlorococcus
+		Translation initiation factor IF-3
+		Acetolactate synthase isozyme 3 large subunit
+		Tetratricopeptide repeat protein
+		actin actin like protein  Phaeodactylum tricornutum CCAP 1055
+		Carbohydrate-selective porin  OprB family
+		glutamine synthetase Synechococcus sp WH 8102
+		Photosystem I reaction center subunit IV
+		photosystem I reaction center subunit II PsaD Synechococcus sp WH 5701
+		histone H4 isoform 1a  Phaeodactylum tricornutum CCAP 1055
+		Photosystem II 12 kDa extrinsic protein
+		transcriptional regulator AbrB Synechococcus sp WH 5701
+		Major carboxysome shell protein 1A
+		Thioredoxin
+		ribulose bisophosphate carboxylase Synechococcus sp WH 5701
+		DNA-binding protein HU
+		ubiquitin extension protein 1 2  Phaeodactylum tricornutum CCAP 1055
+		hypothetical protein Prochlorococcus
+		EF hand
+		Chaperone protein ClpB
+		R-phycoerythrin subunit beta
+		allophycocyanin subunit alpha Synechococcus
+		Phosphoglycerate kinase
+		50S ribosomal protein L27 Prochlorococcus marinus
+		Ketol-acid reductoisomerase
+suspended 965 m	4	TBA_CHLVU Tubulin alpha chain ISS  Ostreococcus tauri
+		Ammonium transporter NrgA
+		hypothetical protein_120mF_megahit_PEDPKPGI_31644 hypothetical protein
+		hypothetical protein Nitrospina

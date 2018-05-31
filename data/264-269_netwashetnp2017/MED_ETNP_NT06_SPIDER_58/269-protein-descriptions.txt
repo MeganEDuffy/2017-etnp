@@ -1,0 +1,283 @@
+Bacterial actin-related protein
+Bacterial actin-related protein
+Bacterial actin-related protein
+ATP-dependent Clp protease ATP-binding subunit ClpC1
+ATP-dependent Clp protease ATP-binding subunit ClpC1
+ATP-dependent Clp protease ATP-binding subunit ClpC1
+ATP-dependent Clp protease ATP-binding subunit ClpC1
+ATP-dependent Clp protease ATP-binding subunit ClpC1
+Chaperone protein ClpB_160m_megahit_NHJEOBNC_94797 Chaperone protein ClpB_300m_megahit_KALMNAMF_55613 Chaperone protein ClpB
+Negative regulator of genetic competence ClpC/MecB
+ATP-dependent Clp protease ATP-binding subunit ClpC
+hypothetical protein_ETNP_100m_particle_PROKKA_55047 hypothetical protein
+hypothetical protein
+hypothetical protein
+Bacterial actin-related protein
+Bacterial actin-related protein
+Bacterial actin-related protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein_ETNP_100m_particle_PROKKA_86548 Ubiquitin family protein
+hypothetical protein
+hypothetical protein_90m_Megahit_DAALLOGA_126239 hypothetical protein_ETNP14_120maa_PROKKA_156172 Ubiquitin family protein_ETNP_90m_PROKKA_68089 Ubiquitin family protein
+Bacterial actin-related protein
+50S ribosomal protein L3
+50S ribosomal protein L3
+50S ribosomal protein L7/L12
+Ubiquitin family protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Core histone H2A/H2B/H3/H4
+hypothetical protein
+hypothetical protein_ETNP_70m_PROKKA_64991 Core histone H2A/H2B/H3/H4
+50S ribosomal protein L7/L12_120mP_megahit_HKJGLMBE_187789 50S ribosomal protein L7/L12_120m_megahit_CMKFGOPF_108679 50S ribosomal protein L7/L12_140m_megahit_KKMFCJLI_101416 50S ribosomal protein L7/L12_150mP_megahit_EIABIG...
+ATP synthase subunit alpha_ETNP_70m_PROKKA_66000 ATP synthase subunit alpha
+hypothetical protein
+50S ribosomal protein L2
+ATP synthase subunit beta
+ATP synthase subunit beta
+ATP synthase subunit beta
+ATP synthase subunit beta
+ATP synthase subunit beta_180m_megahit_DBICIOKE_134929 ATP synthase subunit beta
+hypothetical protein
+Calcium-transporting ATPase 1_ETNP_120m_particle_PROKKA_252276 Calcium-transporting ATPase 1
+50S ribosomal protein L7/L12_ETNP14_68maa_PROKKA_119462 50S ribosomal protein L7/L12_ETNP_90m_PROKKA_197311 50S ribosomal protein L7/L12
+Acyl carrier protein_ETNP14_120maa_PROKKA_183777 Acyl carrier protein_ETNP_90m_PROKKA_134487 Acyl carrier protein
+hypothetical protein
+Chaperone protein ClpB 1
+Chaperone protein ClpB 1_140m_megahit_KKMFCJLI_73722 Chaperone protein ClpB 1_160m_megahit_NHJEOBNC_00423 Chaperone protein ClpB 1_180m_megahit_DBICIOKE_15053 Chaperone protein ClpB 1_ETNP_120m_PROKKA_190496 Chaperone protein...
+Chaperone protein ClpB 1
+Transcription-repair-coupling factor
+Transcription-repair-coupling factor
+DNA-binding transcriptional regulator BolA
+Alpha-ketoglutarate-dependent taurine dioxygenase
+putative multidrug resistance protein EmrK
+GMP synthase [glutamine-hydrolyzing]
+Dihydroorotase
+Dihydroorotase
+hypothetical protein
+hypothetical protein
+Chaperone protein DnaK
+Tubulin/FtsZ family  GTPase domain
+hypothetical protein
+Chromosome partition protein Smc
+Alanine--tRNA ligase
+Alanine--tRNA ligase
+Alanine--tRNA ligase
+Alanine--tRNA ligase
+Alanine--tRNA ligase
+Alanine--tRNA ligase
+Alanine--tRNA ligase
+MarR family protein
+Alanine--tRNA ligase
+fructoselysine 6-kinase
+fructoselysine 6-kinase
+Bifunctional protein HldE_ETNP_120m_particle_PROKKA_210984 Bifunctional protein HldE
+Bifunctional protein HldE
+2-dehydro-3-deoxygluconokinase
+putative sugar kinase YdjH
+putative sugar kinase YdjH_90m_Megahit_DAALLOGA_07627 putative sugar kinase YdjH_ETNP_140m_PROKKA_102704 putative sugar kinase YdjH_120mF_megahit_PEDPKPGI_37099 putative sugar kinase YdjH
+putative sugar kinase YdjH
+putative sugar kinase YdjH
+Gamma-glutamylputrescine oxidoreductase
+Gamma-glutamylputrescine oxidoreductase
+Gamma-glutamylputrescine oxidoreductase
+Gamma-glutamylputrescine oxidoreductase
+hypothetical protein_ETNP_90m_PROKKA_188748 DegT/DnrJ/EryC1/StrS aminotransferase family protein
+3-oxoacyl-[acyl-carrier-protein] reductase
+Diacetyl reductase [(S)-acetoin forming]
+hypothetical protein
+Aspartate-semialdehyde dehydrogenase
+Aspartate-semialdehyde dehydrogenase 2
+Disulfide bond reductase DsbH_120mP_megahit_HKJGLMBE_69813 Disulfide bond reductase DsbH_ETNP_100m_particle_PROKKA_147271 Disulfide bond reductase DsbH precursor_ETNP_120m_particle_PROKKA_128695 Disulfide bond reductase DsbH ...
+putative protein kinase UbiB
+tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+S-(hydroxymethyl)glutathione dehydrogenase
+S-(hydroxymethyl)glutathione dehydrogenase
+S-(hydroxymethyl)glutathione dehydrogenase_ETNP_120m_free_PROKKA_71089 S-(hydroxymethyl)glutathione dehydrogenase_ETNP_160m_PROKKA_96729 S-(hydroxymethyl)glutathione dehydrogenase
+S-(hydroxymethyl)glutathione dehydrogenase_160m_megahit_NHJEOBNC_28907 S-(hydroxymethyl)glutathione dehydrogenase_180m_megahit_DBICIOKE_148339 S-(hydroxymethyl)glutathione dehydrogenase_300m_megahit_KALMNAMF_05424 S-(hydroxym...
+S-(hydroxymethyl)glutathione dehydrogenase
+S-(hydroxymethyl)glutathione dehydrogenase_ETNP_120m_particle_PROKKA_218105 S-(hydroxymethyl)glutathione dehydrogenase
+hypothetical protein_120mF_megahit_ILDJFKLB_154738 hypothetical protein
+hypothetical protein
+hypothetical protein
+Modification methylase HhaI
+hypothetical protein
+Elongation factor Tu_300m_megahit_KALMNAMF_222050 Elongation factor Tu_NP_300m_PROKKA_15461 Elongation factor Tu
+Chaperone protein DnaK
+Chaperone protein DnaK
+Pyruvate  phosphate dikinase
+Pyruvate  phosphate dikinase
+Pyruvate  phosphate dikinase
+Phenylalanine--tRNA ligase alpha subunit
+hypothetical protein_ETNP_90m_PROKKA_52508 hypothetical protein
+hypothetical protein_ETNP_140m_PROKKA_56134 hypothetical protein
+hypothetical protein_120mP_megahit_HKJGLMBE_226942 hypothetical protein_120m_megahit_CMKFGOPF_159322 hypothetical protein_160m_megahit_NHJEOBNC_01698 hypothetical protein_180m_megahit_DBICIOKE_82123 hypothetical protein_ETNP_...
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein_ETNP_70m_PROKKA_48889 hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+fibrillarin
+hypothetical protein
+60 kDa chaperonin 2_90m_Megahit_DAALLOGA_112624 60 kDa chaperonin 2_ETNP14_68maa_PROKKA_105275 60 kDa chaperonin 2
+Penicillin-binding protein PbpB
+hypothetical protein
+hypothetical protein
+Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+Acetoin:2 6-dichlorophenolindophenol oxidoreductase subunit alpha
+Acetoin:2 6-dichlorophenolindophenol oxidoreductase subunit alpha
+30S ribosomal protein S1
+hypothetical protein
+hypothetical protein
+hypothetical protein_120mF_megahit_PEDPKPGI_45117 hypothetical protein
+succinyl-CoA synthetase subunit beta
+succinyl-CoA synthetase subunit beta
+succinyl-CoA synthetase subunit beta
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Glutarate-semialdehyde dehydrogenase DavD
+Histidinol dehydrogenase
+Uroporphyrinogen-III C-methyltransferase
+Glycogen synthase
+Asparagine--tRNA ligase
+2-O-methyltransferase NoeI
+hypothetical protein
+putative permease YjgP/YjgQ family protein
+hypothetical protein
+hypothetical protein
+putative permease YjgP/YjgQ family protein
+L-Ala-D/L-Glu epimerase
+hypothetical protein
+hypothetical protein
+hypothetical protein_ETNP_90m_PROKKA_184992 hypothetical protein
+hypothetical protein
+hypothetical protein
+Phenylalanine--tRNA ligase beta subunit
+Phenylalanine--tRNA ligase beta subunit_140m_megahit_KKMFCJLI_136695 Phenylalanine--tRNA ligase beta subunit_160m_megahit_NHJEOBNC_167990 Phenylalanine--tRNA ligase beta subunit_180m_megahit_DBICIOKE_155128 Phenylalanine--tRN...
+Phenylalanine--tRNA ligase beta subunit
+hypothetical protein_ETNP_90m_PROKKA_176446 hypothetical protein
+Carboxypeptidase G2 precursor
+Protein-L-isoaspartate O-methyltransferase
+hypothetical protein
+hypothetical protein
+30S ribosomal protein S16
+Multidrug export protein MepA
+ATP-dependent RNA helicase HrpB
+Biotin carboxylase
+Biotin carboxylase
+Transketolase 1
+hypothetical protein
+hypothetical protein
+hypothetical protein_ETNP14_120maa_PROKKA_124278 hypothetical protein
+hypothetical protein_ETNP_120m_PROKKA_154144 hypothetical protein
+Photosystem I assembly protein Ycf3
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Linear gramicidin synthase subunit D
+2-oxoglutarate carboxylase large subunit
+D-inositol-3-phosphate glycosyltransferase
+D-inositol-3-phosphate glycosyltransferase
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB_180m_megahit_DBICIOKE_45547 Sensor histidine kinase RegB_300m_megahit_KALMNAMF_13557 Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sensor histidine kinase RegB
+Sulfotransferase domain protein
+putative CtpA-like serine protease
+putative CtpA-like serine protease_160m_megahit_NHJEOBNC_45315 putative CtpA-like serine protease_120mF_megahit_PEDPKPGI_99220 putative CtpA-like serine protease_NP_85m_PROKKA_04991 putative CtpA-like serine protease
+hypothetical protein
+30S ribosomal protein S10_ETNP_120m_particle_PROKKA_195431 30S ribosomal protein S10
+30S ribosomal protein S10
+30S ribosomal protein S10_ETNP14_68mB_PROKKA_15637 30S ribosomal protein S10
+30S ribosomal protein S10
+30S ribosomal protein S10_140m_megahit_KKMFCJLI_48681 30S ribosomal protein S10_160m_megahit_NHJEOBNC_148662 30S ribosomal protein S10_180m_megahit_DBICIOKE_125854 30S ribosomal protein S10_300m_megahit_KALMNAMF_02973 30S ribo...
+30S ribosomal protein S10_140m_megahit_KKMFCJLI_102229 30S ribosomal protein S10_160m_megahit_NHJEOBNC_56399 30S ribosomal protein S10_NP_100m_PROKKA_21241 30S ribosomal protein S10
+30S ribosomal protein S10
+30S ribosomal protein S10
+Chaperone protein DnaK
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DNA-directed RNA polymerase subunit beta
+4-aminobutyrate aminotransferase PuuE
+4-aminobutyrate aminotransferase PuuE
+4-aminobutyrate aminotransferase PuuE
+4-aminobutyrate aminotransferase PuuE
+4-aminobutyrate aminotransferase PuuE_160m_megahit_NHJEOBNC_92103 4-aminobutyrate aminotransferase PuuE
+4-aminobutyrate aminotransferase PuuE
+4-aminobutyrate aminotransferase PuuE_160m_megahit_NHJEOBNC_235008 4-aminobutyrate aminotransferase PuuE_NP_300m_PROKKA_25363 4-aminobutyrate aminotransferase PuuE
+hypothetical protein
+hypothetical protein
+Porphobilinogen deaminase_180m_megahit_DBICIOKE_268401 Porphobilinogen deaminase_300m_megahit_KALMNAMF_105441 Porphobilinogen deaminase_ETNP_120m_free_PROKKA_13901 Porphobilinogen deaminase_ETNP_160m_PROKKA_27705 Porphobilino...
+Porphobilinogen deaminase
+Porphobilinogen deaminase
+Sensor histidine kinase TmoS
+Acyl-CoA dehydrogenase
+Proteasome-associated ATPase
+hypothetical protein
+Glucose--fructose oxidoreductase_120mP_megahit_HKJGLMBE_111295 Glucose--fructose oxidoreductase_120m_megahit_CMKFGOPF_288485 Glucose--fructose oxidoreductase_140m_megahit_KKMFCJLI_104224 Glucose--fructose oxidoreductase_160m...
+putative periplasmic serine endoprotease DegP-like precursor
+K(+)/H(+) antiporter NhaP
+K(+)/H(+) antiporter NhaP
+Motility protein B
+Motility protein B
+hypothetical protein
+Metalloprotease MmpA
+ATP-dependent Clp protease ATP-binding subunit ClpA_ETNP_90m_PROKKA_49636 ATP-dependent Clp protease ATP-binding subunit ClpA
+hypothetical protein
+Zinc-specific metallo-regulatory protein
+Ribokinase
+Ribokinase
+Ribokinase_160m_megahit_NHJEOBNC_247050 Ribokinase_180m_megahit_DBICIOKE_128504 Ribokinase_ETNP14_120maa_PROKKA_179825 Ribokinase_ETNP_180m_PROKKA_127146 Ribokinase_120mF_megahit_PEDPKPGI_85782 Ribokinase
+Ribokinase
+Cytochrome c
+Polyribonucleotide nucleotidyltransferase
+putative enoyl-CoA hydratase echA8
+hypothetical protein
+Threonine synthase
+hypothetical protein_300m_megahit_KALMNAMF_214888 hypothetical protein_ETNP_180m_PROKKA_128822 chromosome segregation protein
+hypothetical protein
+hypothetical protein
+hypothetical protein_ETNP_140m_PROKKA_140265 hypothetical protein
+hypothetical protein
+hypothetical protein
+31-O-demethyl-FK506 methyltransferase FkbM
+hypothetical protein
+hypothetical protein_ETNP14_68maa_PROKKA_47358 hypothetical protein
+3-oxoacyl-[acyl-carrier-protein] reductase FabG
+3-oxoacyl-[acyl-carrier-protein] reductase FabG
+3-oxoacyl-[acyl-carrier-protein] reductase FabG
+3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Peptide methionine sulfoxide reductase MsrB_ETNP14_68maa_PROKKA_24351 Peptide methionine sulfoxide reductase MsrB_ETNP_70m_PROKKA_41619 Peptide methionine sulfoxide reductase MsrB
