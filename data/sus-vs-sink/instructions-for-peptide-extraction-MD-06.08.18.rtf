@@ -1,0 +1,36 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 The objective:\
+\
+We\'92re comparing the protein-identifying peptides that have been identified multiple times in a set of 4 marine organic matter samples:  suspended at 100 m and 965 m (McLane filter, GF75); and sinking sediment trap samples from 94 m and 965 m (net wash). First, we need to generate lists of these shared peptides.\
+\
+The data:\
+\
+At this point it\'92s requiring some data wrangling. All the data are in protein and peptide sequence form - that is, sequences of amino acids. Each of these amino acids is represented by a one letter abbreviation (G for glycine, A for alanine, F for phenylalanine). There are also mass modifications to those sequences represented by mass additions or subtractions in (in daltons) after an amino acid in parentheses. For example, if the peptide was oxidized (+15.99). \
+\
+There\'92s two Excel spreadsheets that I\'92ve exported from our protein sequencing software, PEAKS 8.5. One (susvsink-proteins) has listed all the protein groups (numbered) identified in the 4 samples. Listed are the protein coverage, area (this is spectral area), and number of spectra (\'91Spec\'94) in each of the 4 samples.  They\'92re all kind of equivalent but I care about the number of spectra the most. If you go to the 2nd tab of the spreadsheet (overlap-highlighted), you\'92ll see color-coded the protein groups that have spectra occurring in 2/4 samples (yellow), 3/4 samples (green) and 4/4 samples (orange).\
+\
+In the remaining tabs of the susvsink-proteins spreadsheet, are just the overlapping proteins rows themselves (all the orange highlighted rows in 4 of 4 proteins, for example). I\'92ve color-coded some of these rows for thinking about taxa, but you can ignore these. \
+\
+The other spreadsheet is called susvsink-protein-peptides, and it lists all the peptides that lead to a protein group identification. It\'92s the same protein group number as the other spreadhsheet, and in the D column the peptides are listed. I want the lists of peptides from each protein group in a separate text file, for protein groups of interest (i.e., proteins that show up in multiple samples).\
+\
+What to do:\
+\
+1) FIND COMMON PROTEINS\
+\
+I want to copy the rows of proteins found in both suspended samples and in both sinking samples, as well as overlaps across depths. I\'92ve set up tabs for these groupings. Just look at the yellow-highlighted rows in the 2nd tab and copy them to these tabs. \
+\
+2) MAKE PEPTIDE LISTS FOR PROTEIN GROUPS\
+\
+The next step is to extract all the peptides that lead to a protein group identification into a plain text file. This entails going to the other spreadsheet, susvsink-protein-peptides, and copying just the column of peptides listed for a particular protein group. \
+\
+For example, protein group 4 was in all the samples. So to extract the peptides, you go to the susvsink-protein-peptides spreadsheet and copy all the peptides listed next to group 4. Copy them into a new text file, save then as plain text and with the name \'92susvsink-pg4-peptides\'92 in the \'91protein-group-peptides\'92 directory in the susvsink project folder. That\'92s it! Ideally, I\'92d like these lists for 1) all the protein groups shared across all 4 samples (4 of 4 sample proteins tab) as well as those shared between just the 100 m suspended and 965 m suspended and 94 m sinking and 965 m sinking. \
+\
+\
+\
+}

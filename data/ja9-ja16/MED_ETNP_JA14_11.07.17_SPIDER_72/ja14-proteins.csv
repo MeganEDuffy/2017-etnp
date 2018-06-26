@@ -1,25 +1,25 @@
 Protein Group,Protein ID,Accession,-10lgP,Coverage (%),Coverage (%) etnp-ja14-20170531,Area etnp-ja14-20170531,#Peptides,#Unique,#Spec etnp-ja14-20170531,PTM,Avg. Mass,Description
-1,336,gi|54036848,99.90,12,12,5.63E8,14,14,64,Deamidation (NQ); Dehydration; Carbamylation; Sodium adduct; Replacement of proton by potassium; 6 more,95585,RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1
-3,66203,WP_018047900,42.49,6,6,1.72E6,8,8,8,Mutation,133487,hypothetical protein Nitrospina sp AB-629-B18
-9,66248,XP_003082284,35.97,19,19,6.82E6,10,10,10,Oxidation (M),50099,TBA_CHLVU Tubulin alpha chain ISS  Ostreococcus tauri
-7,4142,ETNP14_120maa_PROKKA_145159,30.78,10,10,2.86E6,3,3,3,,17825,Ammonium transporter NrgA
-7,68940,ETNP14_120mab_PROKKA_99350,30.78,52,52,2.86E6,3,3,3,,3672,hypothetical protein
-7,68941,ETNP14_120mab_PROKKA_157108,30.78,52,52,2.86E6,3,3,3,,3658,hypothetical protein
-5,172,ETNP14_120maa_PROKKA_147886,28.31,13,13,1.71E5,6,1,8,Mutation,37502,General L-amino acid-binding periplasmic protein AapJ precursor
-29,2428,ETNP14_68mB_PROKKA_39666,28.17,12,12,1.61E5,3,3,3,Mutation,38516,Bacterial extracellular solute-binding protein
-10,66151,WP_011282064,27.09,13,13,4.69E4,6,1,8,,37685,amino acid ABC transporter substrate-binding protein Candidatus Pelagibacter ubique
-17,303,ETNP14_120maa_PROKKA_137725,26.98,7,7,2.35E6,2,2,5,Deamidation (NQ),21707,Selenate reductase subunit gamma precursor
-19,192941,WP_018049561,26.65,29,29,1.44E6,5,4,6,Oxidation (M),17055,hypothetical protein Nitrospina sp AB-629-B18
-14,708,ETNP14_68mB_PROKKA_31228,26.16,14,14,6.29E4,3,3,3,Deamidation (NQ),24962,General L-amino acid-binding periplasmic protein AapJ precursor
-8,192966,ETNP_120m_PROKKA_174946,21.95,30,30,5.15E5,1,1,1,,3505,hypothetical protein
-4,66224,ETNP14_68maa_PROKKA_75202,21.03,4,4,4.81E6,4,4,4,,49437,Selenate reductase subunit beta
-4,66226,NP_85m_PROKKA_04529,21.03,4,4,4.81E6,4,4,4,,49419,Selenate reductase subunit beta
-4,66225,WP_018047899,21.03,4,4,4.81E6,4,4,4,,49419,hypothetical protein Nitrospina sp AB-629-B18
-4,289,NP_100m_PROKKA_09190,21.03,5,5,4.81E6,4,4,4,,44298,Selenate reductase subunit beta
-4,1000,ETNP_110m_PROKKA_20909,21.03,8,8,4.81E6,4,4,4,,25167,Dimethylsulfide dehydrogenase subunit beta
-4,999,ETNP_140m_PROKKA_65480,21.03,8,8,4.81E6,4,4,4,,25197,Dimethylsulfide dehydrogenase subunit beta
-4,2075,ETNP_100m_particle_PROKKA_25885,21.03,12,12,4.81E6,4,4,4,,17539,hypothetical protein
-4,2076,ETNP14_120mab_PROKKA_144263,21.03,11,11,4.81E6,4,4,4,,18469,hypothetical protein
-4,2077,ETNP_110m_PROKKA_37982,21.03,11,11,4.81E6,4,4,4,,18469,hypothetical protein_120mF_megahit_PEDPKPGI_31644 hypothetical protein
-4,2079,ETNP_120m_free_PROKKA_149007,21.03,11,11,4.81E6,4,4,4,,18439,Selenate reductase subunit beta
-6,67337,WP_018047569,20.72,9,9,2.63E5,2,2,2,Deamidation (NQ),17561,hypothetical protein Nitrospina
+1,336,gi|54036848,99.9,12,12,5.63E+08,14,14,64,Deamidation (NQ); Dehydration; Carbamylation; Sodium adduct; Replacement of proton by potassium; 6 more,95585,RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1
+3,66203,WP_018047900,42.49,6,6,1.72E+06,8,8,8,Mutation,133487,hypothetical protein Nitrospina sp AB-629-B18
+9,66248,XP_003082284,35.97,19,19,6.82E+06,10,10,10,Oxidation (M),50099,TBA_CHLVU Tubulin alpha chain ISS  Ostreococcus tauri
+7,4142,ETNP14_120maa_PROKKA_145159,30.78,10,10,2.86E+06,3,3,3,,17825,Ammonium transporter NrgA
+7,68940,ETNP14_120mab_PROKKA_99350,30.78,52,52,2.86E+06,3,3,3,,3672,hypothetical protein
+7,68941,ETNP14_120mab_PROKKA_157108,30.78,52,52,2.86E+06,3,3,3,,3658,hypothetical protein
+5,172,ETNP14_120maa_PROKKA_147886,28.31,13,13,1.71E+05,6,1,8,Mutation,37502,General L-amino acid-binding periplasmic protein AapJ precursor
+29,2428,ETNP14_68mB_PROKKA_39666,28.17,12,12,1.61E+05,3,3,3,Mutation,38516,Bacterial extracellular solute-binding protein
+10,66151,WP_011282064,27.09,13,13,4.69E+04,6,1,8,,37685,amino acid ABC transporter substrate-binding protein Candidatus Pelagibacter ubique
+17,303,ETNP14_120maa_PROKKA_137725,26.98,7,7,2.35E+06,2,2,5,Deamidation (NQ),21707,Selenate reductase subunit gamma precursor
+19,192941,WP_018049561,26.65,29,29,1.44E+06,5,4,6,Oxidation (M),17055,hypothetical protein Nitrospina sp AB-629-B18
+14,708,ETNP14_68mB_PROKKA_31228,26.16,14,14,6.29E+04,3,3,3,Deamidation (NQ),24962,General L-amino acid-binding periplasmic protein AapJ precursor
+8,192966,ETNP_120m_PROKKA_174946,21.95,30,30,5.15E+05,1,1,1,,3505,hypothetical protein
+4,66224,ETNP14_68maa_PROKKA_75202,21.03,4,4,4.81E+06,4,4,4,,49437,Selenate reductase subunit beta
+4,66226,NP_85m_PROKKA_04529,21.03,4,4,4.81E+06,4,4,4,,49419,Selenate reductase subunit beta
+4,66225,WP_018047899,21.03,4,4,4.81E+06,4,4,4,,49419,hypothetical protein Nitrospina sp AB-629-B18
+4,289,NP_100m_PROKKA_09190,21.03,5,5,4.81E+06,4,4,4,,44298,Selenate reductase subunit beta
+4,1000,ETNP_110m_PROKKA_20909,21.03,8,8,4.81E+06,4,4,4,,25167,Dimethylsulfide dehydrogenase subunit beta
+4,999,ETNP_140m_PROKKA_65480,21.03,8,8,4.81E+06,4,4,4,,25197,Dimethylsulfide dehydrogenase subunit beta
+4,2075,ETNP_100m_particle_PROKKA_25885,21.03,12,12,4.81E+06,4,4,4,,17539,hypothetical protein
+4,2076,ETNP14_120mab_PROKKA_144263,21.03,11,11,4.81E+06,4,4,4,,18469,hypothetical protein
+4,2077,ETNP_110m_PROKKA_37982,21.03,11,11,4.81E+06,4,4,4,,18469,hypothetical protein_120mF_megahit_PEDPKPGI_31644 hypothetical protein
+4,2079,ETNP_120m_free_PROKKA_149007,21.03,11,11,4.81E+06,4,4,4,,18439,Selenate reductase subunit beta
+6,67337,WP_018047569,20.72,9,9,2.63E+05,2,2,2,Deamidation (NQ),17561,hypothetical protein Nitrospina
