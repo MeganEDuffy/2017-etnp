@@ -1,0 +1,630 @@
+# MetaGOmics GO report
+# MetaGOmics version: 0.1.1
+# Run date: Thu Jun 28 16:13:24 PDT 2018
+GO acc	GO aspect	GO name	count	total count	ratio
+GO:0016817	molecular_function	hydrolase activity, acting on acid anhydrides	17	138	0.12318840579710146
+GO:0031328	biological_process	positive regulation of cellular biosynthetic process	15	138	0.10869565217391304
+unknownprc	biological_process	unknown biological process	103	138	0.7463768115942029
+GO:0016818	molecular_function	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	17	138	0.12318840579710146
+unknownfun	molecular_function	unknown molecular function	114	138	0.8260869565217391
+GO:0031329	biological_process	regulation of cellular catabolic process	2	138	0.014492753623188406
+unknowncmp	cellular_component	unknown cellular component	103	138	0.7463768115942029
+GO:0031330	biological_process	negative regulation of cellular catabolic process	2	138	0.014492753623188406
+GO:0009735	biological_process	response to cytokinin	15	138	0.10869565217391304
+GO:0015630	cellular_component	microtubule cytoskeleton	2	138	0.014492753623188406
+GO:0048311	biological_process	mitochondrion distribution	2	138	0.014492753623188406
+GO:0002576	biological_process	platelet degranulation	2	138	0.014492753623188406
+GO:0019900	molecular_function	kinase binding	2	138	0.014492753623188406
+GO:0051604	biological_process	protein maturation	15	138	0.10869565217391304
+GO:1990169	biological_process	stress response to copper ion	15	138	0.10869565217391304
+GO:0006139	biological_process	nucleobase-containing compound metabolic process	15	138	0.10869565217391304
+GO:0019901	molecular_function	protein kinase binding	2	138	0.014492753623188406
+GO:1990170	biological_process	stress response to cadmium ion	15	138	0.10869565217391304
+GO:0051606	biological_process	detection of stimulus	2	138	0.014492753623188406
+GO:0019904	molecular_function	protein domain specific binding	2	138	0.014492753623188406
+GO:0000002	biological_process	mitochondrial genome maintenance	15	138	0.10869565217391304
+GO:0046983	molecular_function	protein dimerization activity	17	138	0.12318840579710146
+GO:0044183	molecular_function	protein binding involved in protein folding	15	138	0.10869565217391304
+GO:0051082	molecular_function	unfolded protein binding	15	138	0.10869565217391304
+GO:0098796	cellular_component	membrane protein complex	15	138	0.10869565217391304
+GO:0032434	biological_process	regulation of proteasomal ubiquitin-dependent protein catabolic process	2	138	0.014492753623188406
+GO:0015672	biological_process	monovalent inorganic cation transport	1	138	0.007246376811594203
+GO:0032435	biological_process	negative regulation of proteasomal ubiquitin-dependent protein catabolic process	2	138	0.014492753623188406
+GO:0045036	biological_process	protein targeting to chloroplast	15	138	0.10869565217391304
+GO:0009792	biological_process	embryo development ending in birth or egg hatching	2	138	0.014492753623188406
+GO:0045037	biological_process	protein import into chloroplast stroma	15	138	0.10869565217391304
+GO:0051640	biological_process	organelle localization	2	138	0.014492753623188406
+GO:0015695	biological_process	organic cation transport	1	138	0.007246376811594203
+GO:0051641	biological_process	cellular localization	17	138	0.12318840579710146
+GO:0015696	biological_process	ammonium transport	1	138	0.007246376811594203
+GO:0051642	biological_process	centrosome localization	2	138	0.014492753623188406
+GO:0008152	biological_process	metabolic process	23	138	0.16666666666666666
+GO:0031396	biological_process	regulation of protein ubiquitination	2	138	0.014492753623188406
+GO:0031397	biological_process	negative regulation of protein ubiquitination	2	138	0.014492753623188406
+GO:0051646	biological_process	mitochondrion localization	2	138	0.014492753623188406
+GO:0051647	biological_process	nucleus localization	2	138	0.014492753623188406
+GO:0031399	biological_process	regulation of protein modification process	2	138	0.014492753623188406
+GO:0031400	biological_process	negative regulation of protein modification process	2	138	0.014492753623188406
+GO:0051649	biological_process	establishment of localization in cell	17	138	0.12318840579710146
+GO:0032465	biological_process	regulation of cytokinesis	2	138	0.014492753623188406
+GO:0051653	biological_process	spindle localization	2	138	0.014492753623188406
+GO:0005886	cellular_component	plasma membrane	18	138	0.13043478260869565
+GO:0016192	biological_process	vesicle-mediated transport	2	138	0.014492753623188406
+GO:0015711	biological_process	organic anion transport	11	138	0.07971014492753623
+GO:0051656	biological_process	establishment of organelle localization	2	138	0.014492753623188406
+GO:0031410	cellular_component	cytoplasmic vesicle	2	138	0.014492753623188406
+GO:0007010	biological_process	cytoskeleton organization	2	138	0.014492753623188406
+GO:0030288	cellular_component	outer membrane-bounded periplasmic space	11	138	0.07971014492753623
+GO:0046903	biological_process	secretion	2	138	0.014492753623188406
+GO:0016887	molecular_function	ATPase activity	15	138	0.10869565217391304
+GO:1903008	biological_process	organelle disassembly	15	138	0.10869565217391304
+GO:0065002	biological_process	intracellular protein transmembrane transport	15	138	0.10869565217391304
+GO:0035617	biological_process	stress granule disassembly	15	138	0.10869565217391304
+GO:0065003	biological_process	macromolecular complex assembly	17	138	0.12318840579710146
+GO:0065007	biological_process	biological regulation	17	138	0.12318840579710146
+GO:0065008	biological_process	regulation of biological quality	17	138	0.12318840579710146
+GO:0098857	cellular_component	membrane microdomain	2	138	0.014492753623188406
+GO:0007059	biological_process	chromosome segregation	2	138	0.014492753623188406
+GO:0065009	biological_process	regulation of molecular function	2	138	0.014492753623188406
+GO:0065010	cellular_component	extracellular membrane-bounded organelle	2	138	0.014492753623188406
+GO:0007017	biological_process	microtubule-based process	2	138	0.014492753623188406
+GO:0009790	biological_process	embryo development	2	138	0.014492753623188406
+GO:0007346	biological_process	regulation of mitotic cell cycle	2	138	0.014492753623188406
+GO:0030312	cellular_component	external encapsulating structure	17	138	0.12318840579710146
+GO:0098863	biological_process	nuclear migration by microtubule mediated pushing forces	2	138	0.014492753623188406
+GO:0000075	biological_process	cell cycle checkpoint	2	138	0.014492753623188406
+GO:0032502	biological_process	developmental process	2	138	0.014492753623188406
+GO:0070013	cellular_component	intracellular organelle lumen	15	138	0.10869565217391304
+GO:0035639	molecular_function	purine ribonucleoside triphosphate binding	17	138	0.12318840579710146
+GO:0042803	molecular_function	protein homodimerization activity	15	138	0.10869565217391304
+GO:0000086	biological_process	G2/M transition of mitotic cell cycle	2	138	0.014492753623188406
+GO:1901987	biological_process	regulation of cell cycle phase transition	2	138	0.014492753623188406
+GO:1901988	biological_process	negative regulation of cell cycle phase transition	2	138	0.014492753623188406
+GO:1901990	biological_process	regulation of mitotic cell cycle phase transition	2	138	0.014492753623188406
+GO:0051704	biological_process	multi-organism process	17	138	0.12318840579710146
+GO:1990267	biological_process	response to transition metal nanoparticle	15	138	0.10869565217391304
+GO:1901991	biological_process	negative regulation of mitotic cell cycle phase transition	2	138	0.014492753623188406
+GO:0034605	biological_process	cellular response to heat	15	138	0.10869565217391304
+GO:1903047	biological_process	mitotic cell cycle process	2	138	0.014492753623188406
+GO:0051715	biological_process	cytolysis in other organism	15	138	0.10869565217391304
+GO:1903050	biological_process	regulation of proteolysis involved in cellular protein catabolic process	2	138	0.014492753623188406
+GO:0051716	biological_process	cellular response to stimulus	17	138	0.12318840579710146
+GO:0043933	biological_process	macromolecular complex subunit organization	17	138	0.12318840579710146
+GO:0045121	cellular_component	membrane raft	2	138	0.014492753623188406
+GO:1903051	biological_process	negative regulation of proteolysis involved in cellular protein catabolic process	2	138	0.014492753623188406
+GO:0034613	biological_process	cellular protein localization	15	138	0.10869565217391304
+GO:0008104	biological_process	protein localization	17	138	0.12318840579710146
+GO:0034622	biological_process	cellular macromolecular complex assembly	2	138	0.014492753623188406
+GO:0009889	biological_process	regulation of biosynthetic process	15	138	0.10869565217391304
+GO:0022607	biological_process	cellular component assembly	17	138	0.12318840579710146
+GO:0048471	cellular_component	perinuclear region of cytoplasm	2	138	0.014492753623188406
+GO:0009891	biological_process	positive regulation of biosynthetic process	15	138	0.10869565217391304
+GO:0009892	biological_process	negative regulation of metabolic process	2	138	0.014492753623188406
+GO:0009893	biological_process	positive regulation of metabolic process	15	138	0.10869565217391304
+GO:0046688	biological_process	response to copper ion	15	138	0.10869565217391304
+GO:0009894	biological_process	regulation of catabolic process	2	138	0.014492753623188406
+GO:0009895	biological_process	negative regulation of catabolic process	2	138	0.014492753623188406
+GO:0032549	molecular_function	ribonucleoside binding	17	138	0.12318840579710146
+GO:0032550	molecular_function	purine ribonucleoside binding	17	138	0.12318840579710146
+GO:0032553	molecular_function	ribonucleotide binding	17	138	0.12318840579710146
+GO:0032555	molecular_function	purine ribonucleotide binding	17	138	0.12318840579710146
+GO:0034641	biological_process	cellular nitrogen compound metabolic process	15	138	0.10869565217391304
+GO:0070062	cellular_component	extracellular exosome	2	138	0.014492753623188406
+GO:0032559	molecular_function	adenyl ribonucleotide binding	15	138	0.10869565217391304
+GO:0000132	biological_process	establishment of mitotic spindle orientation	2	138	0.014492753623188406
+GO:0034645	biological_process	cellular macromolecule biosynthetic process	15	138	0.10869565217391304
+GO:0032561	molecular_function	guanyl ribonucleotide binding	2	138	0.014492753623188406
+GO:0017022	molecular_function	myosin binding	2	138	0.014492753623188406
+GO:0010948	biological_process	negative regulation of cell cycle process	2	138	0.014492753623188406
+GO:0005887	cellular_component	integral component of plasma membrane	1	138	0.007246376811594203
+GO:0050821	biological_process	protein stabilization	15	138	0.10869565217391304
+GO:0034654	biological_process	nucleobase-containing compound biosynthetic process	15	138	0.10869565217391304
+GO:0017038	biological_process	protein import	15	138	0.10869565217391304
+GO:0010965	biological_process	regulation of mitotic sister chromatid separation	2	138	0.014492753623188406
+GO:0080090	biological_process	regulation of primary metabolic process	17	138	0.12318840579710146
+GO:0045184	biological_process	establishment of protein localization	15	138	0.10869565217391304
+GO:0000166	molecular_function	nucleotide binding	17	138	0.12318840579710146
+GO:0048518	biological_process	positive regulation of biological process	15	138	0.10869565217391304
+GO:0048519	biological_process	negative regulation of biological process	2	138	0.014492753623188406
+GO:0051782	biological_process	negative regulation of cell division	2	138	0.014492753623188406
+GO:0051783	biological_process	regulation of nuclear division	2	138	0.014492753623188406
+GO:0015837	biological_process	amine transport	1	138	0.007246376811594203
+GO:0009941	cellular_component	chloroplast envelope	15	138	0.10869565217391304
+GO:0051784	biological_process	negative regulation of nuclear division	2	138	0.014492753623188406
+GO:0048522	biological_process	positive regulation of cellular process	15	138	0.10869565217391304
+GO:0017111	molecular_function	nucleoside-triphosphatase activity	17	138	0.12318840579710146
+GO:0048523	biological_process	negative regulation of cellular process	2	138	0.014492753623188406
+GO:0051788	biological_process	response to misfolded protein	15	138	0.10869565217391304
+GO:0015843	biological_process	methylammonium transport	1	138	0.007246376811594203
+GO:0030420	biological_process	establishment of competence for transformation	15	138	0.10869565217391304
+GO:0015849	biological_process	organic acid transport	11	138	0.07971014492753623
+GO:0030424	cellular_component	axon	2	138	0.014492753623188406
+GO:0050662	molecular_function	coenzyme binding	5	138	0.036231884057971016
+GO:0017076	molecular_function	purine nucleotide binding	17	138	0.12318840579710146
+GO:0031072	molecular_function	heat shock protein binding	15	138	0.10869565217391304
+GO:0006351	biological_process	transcription, DNA-templated	15	138	0.10869565217391304
+GO:1902099	biological_process	regulation of metaphase/anaphase transition of cell cycle	2	138	0.014492753623188406
+GO:0006355	biological_process	regulation of transcription, DNA-templated	15	138	0.10869565217391304
+GO:0019001	molecular_function	guanyl nucleotide binding	2	138	0.014492753623188406
+GO:1902100	biological_process	negative regulation of metaphase/anaphase transition of cell cycle	2	138	0.014492753623188406
+GO:0071173	biological_process	spindle assembly checkpoint	2	138	0.014492753623188406
+GO:0030447	biological_process	filamentous growth	1	138	0.007246376811594203
+GO:0071174	biological_process	mitotic spindle checkpoint	2	138	0.014492753623188406
+GO:0005515	molecular_function	protein binding	17	138	0.12318840579710146
+GO:0009987	biological_process	cellular process	19	138	0.13768115942028986
+GO:0031577	biological_process	spindle checkpoint	2	138	0.014492753623188406
+GO:0097159	molecular_function	organic cyclic compound binding	22	138	0.15942028985507245
+GO:0035770	cellular_component	ribonucleoprotein granule	2	138	0.014492753623188406
+GO:0009991	biological_process	response to extracellular stimulus	15	138	0.10869565217391304
+GO:0008940	molecular_function	nitrate reductase activity	1	138	0.007246376811594203
+GO:0000226	biological_process	microtubule cytoskeleton organization	2	138	0.014492753623188406
+GO:0005198	molecular_function	structural molecule activity	2	138	0.014492753623188406
+GO:0005200	molecular_function	structural constituent of cytoskeleton	2	138	0.014492753623188406
+GO:0000235	cellular_component	astral microtubule	2	138	0.014492753623188406
+GO:0019899	molecular_function	enzyme binding	2	138	0.014492753623188406
+GO:0071214	biological_process	cellular response to abiotic stimulus	2	138	0.014492753623188406
+GO:0071218	biological_process	cellular response to misfolded protein	15	138	0.10869565217391304
+GO:0005215	molecular_function	transporter activity	1	138	0.007246376811594203
+GO:0006417	biological_process	regulation of translation	15	138	0.10869565217391304
+GO:0010033	biological_process	response to organic substance	17	138	0.12318840579710146
+GO:0010035	biological_process	response to inorganic substance	15	138	0.10869565217391304
+GO:0045298	cellular_component	tubulin complex	2	138	0.014492753623188406
+GO:0035821	biological_process	modification of morphology or physiology of other organism	15	138	0.10869565217391304
+GO:0044092	biological_process	negative regulation of molecular function	2	138	0.014492753623188406
+GO:0031625	molecular_function	ubiquitin protein ligase binding	2	138	0.014492753623188406
+GO:0042995	cellular_component	cell projection	2	138	0.014492753623188406
+GO:0031640	biological_process	killing of cells of other organism	15	138	0.10869565217391304
+GO:0003924	molecular_function	GTPase activity	2	138	0.014492753623188406
+GO:0055035	cellular_component	plastid thylakoid membrane	15	138	0.10869565217391304
+GO:0005575	cellular_component	cellular_component	138	138	1.0
+GO:0030554	molecular_function	adenyl nucleotide binding	15	138	0.10869565217391304
+GO:0006458	biological_process	'de novo' protein folding	15	138	0.10869565217391304
+GO:0031647	biological_process	regulation of protein stability	15	138	0.10869565217391304
+GO:0055037	cellular_component	recycling endosome	2	138	0.014492753623188406
+GO:0006461	biological_process	protein complex assembly	17	138	0.12318840579710146
+GO:0071258	biological_process	cellular response to gravity	2	138	0.014492753623188406
+GO:0005275	molecular_function	amine transmembrane transporter activity	1	138	0.007246376811594203
+GO:0006464	biological_process	cellular protein modification process	2	138	0.014492753623188406
+GO:0000280	biological_process	nuclear division	2	138	0.014492753623188406
+GO:0004176	molecular_function	ATP-dependent peptidase activity	15	138	0.10869565217391304
+GO:0000281	biological_process	mitotic cytokinesis	2	138	0.014492753623188406
+GO:0043025	cellular_component	neuronal cell body	2	138	0.014492753623188406
+GO:0045333	biological_process	cellular respiration	1	138	0.007246376811594203
+GO:0045335	cellular_component	phagocytic vesicle	2	138	0.014492753623188406
+GO:0031668	biological_process	cellular response to extracellular stimulus	15	138	0.10869565217391304
+GO:0015980	biological_process	energy derivation by oxidation of organic compounds	1	138	0.007246376811594203
+GO:0022857	molecular_function	transmembrane transporter activity	1	138	0.007246376811594203
+GO:0050789	biological_process	regulation of biological process	17	138	0.12318840579710146
+GO:0050790	biological_process	regulation of catalytic activity	2	138	0.014492753623188406
+GO:0016021	cellular_component	integral component of membrane	1	138	0.007246376811594203
+GO:0050793	biological_process	regulation of developmental process	2	138	0.014492753623188406
+GO:0050794	biological_process	regulation of cellular process	17	138	0.12318840579710146
+GO:0000302	biological_process	response to reactive oxygen species	15	138	0.10869565217391304
+GO:0055085	biological_process	transmembrane transport	16	138	0.11594202898550725
+GO:0006508	biological_process	proteolysis	15	138	0.10869565217391304
+GO:0007610	biological_process	behavior	2	138	0.014492753623188406
+GO:0016485	biological_process	protein processing	15	138	0.10869565217391304
+GO:0071310	biological_process	cellular response to organic substance	17	138	0.12318840579710146
+GO:0016023	cellular_component	cytoplasmic membrane-bounded vesicle	2	138	0.014492753623188406
+GO:0001882	molecular_function	nucleoside binding	17	138	0.12318840579710146
+GO:0044179	biological_process	hemolysis in other organism	15	138	0.10869565217391304
+GO:0001883	molecular_function	purine nucleoside binding	17	138	0.12318840579710146
+GO:0044182	biological_process	filamentous growth of a population of unicellular organisms	1	138	0.007246376811594203
+GO:0009058	biological_process	biosynthetic process	15	138	0.10869565217391304
+GO:0009059	biological_process	macromolecule biosynthetic process	15	138	0.10869565217391304
+GO:0032774	biological_process	RNA biosynthetic process	15	138	0.10869565217391304
+GO:0009061	biological_process	anaerobic respiration	1	138	0.007246376811594203
+GO:0043086	biological_process	negative regulation of catalytic activity	2	138	0.014492753623188406
+GO:0040001	biological_process	establishment of mitotic spindle localization	2	138	0.014492753623188406
+GO:0016043	biological_process	cellular component organization	17	138	0.12318840579710146
+GO:0051983	biological_process	regulation of chromosome segregation	2	138	0.014492753623188406
+GO:0040011	biological_process	locomotion	2	138	0.014492753623188406
+GO:0051985	biological_process	negative regulation of chromosome segregation	2	138	0.014492753623188406
+GO:0005739	cellular_component	mitochondrion	15	138	0.10869565217391304
+GO:0072379	cellular_component	ER membrane insertion complex	15	138	0.10869565217391304
+GO:0001906	biological_process	cell killing	15	138	0.10869565217391304
+GO:0072380	cellular_component	TRC complex	15	138	0.10869565217391304
+GO:0007638	biological_process	mechanosensory behavior	2	138	0.014492753623188406
+GO:0015291	molecular_function	secondary active transmembrane transporter activity	1	138	0.007246376811594203
+GO:0040023	biological_process	establishment of nucleus localization	2	138	0.014492753623188406
+GO:0071345	biological_process	cellular response to cytokine stimulus	2	138	0.014492753623188406
+GO:1903320	biological_process	regulation of protein modification by small protein conjugation or removal	2	138	0.014492753623188406
+GO:1903321	biological_process	negative regulation of protein modification by small protein conjugation or removal	2	138	0.014492753623188406
+GO:0016070	biological_process	RNA metabolic process	15	138	0.10869565217391304
+GO:0005773	cellular_component	vacuole	2	138	0.014492753623188406
+GO:0046483	biological_process	heterocycle metabolic process	15	138	0.10869565217391304
+GO:0071353	biological_process	cellular response to interleukin-4	2	138	0.014492753623188406
+GO:0050896	biological_process	response to stimulus	17	138	0.12318840579710146
+GO:0019219	biological_process	regulation of nucleobase-containing compound metabolic process	15	138	0.10869565217391304
+GO:0019222	biological_process	regulation of metabolic process	17	138	0.12318840579710146
+GO:0044237	biological_process	cellular metabolic process	18	138	0.13043478260869565
+GO:0044238	biological_process	primary metabolic process	17	138	0.12318840579710146
+GO:0045727	biological_process	positive regulation of translation	15	138	0.10869565217391304
+GO:0050906	biological_process	detection of stimulus involved in sensory perception	2	138	0.014492753623188406
+GO:1901265	molecular_function	nucleoside phosphate binding	17	138	0.12318840579710146
+GO:0035966	biological_process	response to topologically incorrect protein	15	138	0.10869565217391304
+GO:0008233	molecular_function	peptidase activity	15	138	0.10869565217391304
+GO:0035967	biological_process	cellular response to topologically incorrect protein	15	138	0.10869565217391304
+GO:0044249	biological_process	cellular biosynthetic process	15	138	0.10869565217391304
+GO:0061077	biological_process	chaperone-mediated protein folding	15	138	0.10869565217391304
+GO:1903362	biological_process	regulation of cellular protein catabolic process	2	138	0.014492753623188406
+GO:0005488	molecular_function	binding	23	138	0.16666666666666666
+GO:0030705	biological_process	cytoskeleton-dependent intracellular transport	2	138	0.014492753623188406
+GO:1903363	biological_process	negative regulation of cellular protein catabolic process	2	138	0.014492753623188406
+GO:0043167	molecular_function	ion binding	23	138	0.16666666666666666
+GO:0043168	molecular_function	anion binding	17	138	0.12318840579710146
+GO:0044260	biological_process	cellular macromolecule metabolic process	17	138	0.12318840579710146
+GO:0043169	molecular_function	cation binding	6	138	0.043478260869565216
+GO:0001966	biological_process	thigmotaxis	2	138	0.014492753623188406
+GO:0043170	biological_process	macromolecule metabolic process	17	138	0.12318840579710146
+GO:0044262	biological_process	cellular carbohydrate metabolic process	15	138	0.10869565217391304
+GO:0097367	molecular_function	carbohydrate derivative binding	17	138	0.12318840579710146
+GO:0018130	biological_process	heterocycle biosynthetic process	15	138	0.10869565217391304
+GO:0044267	biological_process	cellular protein metabolic process	2	138	0.014492753623188406
+GO:0046872	molecular_function	metal ion binding	6	138	0.043478260869565216
+GO:0044271	biological_process	cellular nitrogen compound biosynthetic process	15	138	0.10869565217391304
+GO:0006605	biological_process	protein targeting	15	138	0.10869565217391304
+GO:0070370	biological_process	cellular heat acclimation	15	138	0.10869565217391304
+GO:0044281	biological_process	small molecule metabolic process	1	138	0.007246376811594203
+GO:0005524	molecular_function	ATP binding	15	138	0.10869565217391304
+GO:0005525	molecular_function	GTP binding	2	138	0.014492753623188406
+GO:0072488	biological_process	ammonium transmembrane transport	1	138	0.007246376811594203
+GO:0072489	biological_process	methylammonium transmembrane transport	1	138	0.007246376811594203
+GO:0043207	biological_process	response to external biotic stimulus	2	138	0.014492753623188406
+GO:0044297	cellular_component	cell body	2	138	0.014492753623188406
+GO:0043209	cellular_component	myelin sheath	2	138	0.014492753623188406
+GO:0008092	molecular_function	cytoskeletal protein binding	2	138	0.014492753623188406
+GO:0034975	biological_process	protein folding in endoplasmic reticulum	15	138	0.10869565217391304
+GO:0050974	biological_process	detection of mechanical stimulus involved in sensory perception	2	138	0.014492753623188406
+GO:0050976	biological_process	detection of mechanical stimulus involved in sensory perception of touch	2	138	0.014492753623188406
+GO:0015031	biological_process	protein transport	15	138	0.10869565217391304
+GO:0008105	biological_process	asymmetric protein localization	15	138	0.10869565217391304
+GO:0050982	biological_process	detection of mechanical stimulus	2	138	0.014492753623188406
+GO:0043226	cellular_component	organelle	18	138	0.13043478260869565
+GO:0043227	cellular_component	membrane-bounded organelle	18	138	0.13043478260869565
+GO:0043228	cellular_component	non-membrane-bounded organelle	2	138	0.014492753623188406
+GO:0043229	cellular_component	intracellular organelle	18	138	0.13043478260869565
+GO:0090056	biological_process	regulation of chlorophyll metabolic process	15	138	0.10869565217391304
+GO:0043230	cellular_component	extracellular organelle	2	138	0.014492753623188406
+GO:0043232	cellular_component	intracellular non-membrane-bounded organelle	2	138	0.014492753623188406
+GO:0048856	biological_process	anatomical structure development	2	138	0.014492753623188406
+GO:0043233	cellular_component	organelle lumen	15	138	0.10869565217391304
+GO:0043234	cellular_component	protein complex	17	138	0.12318840579710146
+GO:0070413	biological_process	trehalose metabolism in response to stress	15	138	0.10869565217391304
+GO:0070414	biological_process	trehalose metabolism in response to heat stress	15	138	0.10869565217391304
+GO:0032940	biological_process	secretion by cell	2	138	0.014492753623188406
+GO:1901360	biological_process	organic cyclic compound metabolic process	15	138	0.10869565217391304
+GO:0008134	molecular_function	transcription factor binding	15	138	0.10869565217391304
+GO:1901362	biological_process	organic cyclic compound biosynthetic process	15	138	0.10869565217391304
+GO:1901363	molecular_function	heterocyclic compound binding	22	138	0.15942028985507245
+GO:0042126	biological_process	nitrate metabolic process	1	138	0.007246376811594203
+GO:0042128	biological_process	nitrate assimilation	1	138	0.007246376811594203
+GO:0036064	cellular_component	ciliary basal body	2	138	0.014492753623188406
+GO:2000816	biological_process	negative regulation of mitotic sister chromatid separation	2	138	0.014492753623188406
+GO:0010286	biological_process	heat acclimation	15	138	0.10869565217391304
+GO:0008150	biological_process	biological_process	138	138	1.0
+GO:0097458	cellular_component	neuron part	2	138	0.014492753623188406
+GO:0015075	molecular_function	ion transmembrane transporter activity	1	138	0.007246376811594203
+GO:0015077	molecular_function	monovalent inorganic cation transmembrane transporter activity	1	138	0.007246376811594203
+GO:0031897	cellular_component	Tic complex	15	138	0.10869565217391304
+GO:0044364	biological_process	disruption of cells of other organism	15	138	0.10869565217391304
+GO:0071496	biological_process	cellular response to external stimulus	15	138	0.10869565217391304
+GO:0036094	molecular_function	small molecule binding	17	138	0.12318840579710146
+GO:0015101	molecular_function	organic cation transmembrane transporter activity	1	138	0.007246376811594203
+GO:0042170	cellular_component	plastid membrane	15	138	0.10869565217391304
+GO:1901401	biological_process	regulation of tetrapyrrole metabolic process	15	138	0.10869565217391304
+GO:0005618	cellular_component	cell wall	17	138	0.12318840579710146
+GO:0032984	biological_process	macromolecular complex disassembly	15	138	0.10869565217391304
+GO:0042176	biological_process	regulation of protein catabolic process	2	138	0.014492753623188406
+GO:0042177	biological_process	negative regulation of protein catabolic process	2	138	0.014492753623188406
+GO:0032988	biological_process	ribonucleoprotein complex disassembly	15	138	0.10869565217391304
+GO:0072594	biological_process	establishment of protein localization to organelle	15	138	0.10869565217391304
+GO:0032991	cellular_component	macromolecular complex	17	138	0.12318840579710146
+GO:0072596	biological_process	establishment of protein localization to chloroplast	15	138	0.10869565217391304
+GO:0009266	biological_process	response to temperature stimulus	15	138	0.10869565217391304
+GO:0006725	biological_process	cellular aromatic compound metabolic process	15	138	0.10869565217391304
+GO:0044389	molecular_function	ubiquitin-like protein ligase binding	2	138	0.014492753623188406
+GO:0072598	biological_process	protein localization to chloroplast	15	138	0.10869565217391304
+GO:0005634	cellular_component	nucleus	17	138	0.12318840579710146
+GO:0005635	cellular_component	nuclear envelope	15	138	0.10869565217391304
+GO:0051084	biological_process	'de novo' posttranslational protein folding	15	138	0.10869565217391304
+GO:0051085	biological_process	chaperone mediated protein folding requiring cofactor	15	138	0.10869565217391304
+GO:0097501	biological_process	stress response to metal ion	15	138	0.10869565217391304
+GO:1903506	biological_process	regulation of nucleic acid-templated transcription	15	138	0.10869565217391304
+GO:0005737	cellular_component	cytoplasm	17	138	0.12318840579710146
+GO:0043335	biological_process	protein unfolding	15	138	0.10869565217391304
+GO:0044421	cellular_component	extracellular region part	2	138	0.014492753623188406
+GO:0044422	cellular_component	organelle part	17	138	0.12318840579710146
+GO:0044424	cellular_component	intracellular part	18	138	0.13043478260869565
+GO:0044425	cellular_component	membrane part	18	138	0.13043478260869565
+GO:0044428	cellular_component	nuclear part	17	138	0.12318840579710146
+GO:0044429	cellular_component	mitochondrial part	15	138	0.10869565217391304
+GO:0044430	cellular_component	cytoskeletal part	2	138	0.014492753623188406
+GO:0042221	biological_process	response to chemical	17	138	0.12318840579710146
+GO:0044434	cellular_component	chloroplast part	15	138	0.10869565217391304
+GO:0044435	cellular_component	plastid part	15	138	0.10869565217391304
+GO:0009311	biological_process	oligosaccharide metabolic process	15	138	0.10869565217391304
+GO:0019835	biological_process	cytolysis	15	138	0.10869565217391304
+GO:0044436	cellular_component	thylakoid part	15	138	0.10869565217391304
+GO:0033036	biological_process	macromolecule localization	17	138	0.12318840579710146
+GO:0031967	cellular_component	organelle envelope	15	138	0.10869565217391304
+GO:0009314	biological_process	response to radiation	15	138	0.10869565217391304
+GO:0031969	cellular_component	chloroplast membrane	15	138	0.10869565217391304
+GO:0044441	cellular_component	ciliary part	2	138	0.014492753623188406
+GO:0044444	cellular_component	cytoplasmic part	18	138	0.13043478260869565
+GO:0044445	cellular_component	cytosolic part	15	138	0.10869565217391304
+GO:0019438	biological_process	aromatic compound biosynthetic process	15	138	0.10869565217391304
+GO:0051128	biological_process	regulation of cellular component organization	2	138	0.014492753623188406
+GO:0044446	cellular_component	intracellular organelle part	17	138	0.12318840579710146
+GO:0031974	cellular_component	membrane-enclosed lumen	15	138	0.10869565217391304
+GO:0033043	biological_process	regulation of organelle organization	2	138	0.014492753623188406
+GO:0051129	biological_process	negative regulation of cellular component organization	2	138	0.014492753623188406
+GO:0031975	cellular_component	envelope	15	138	0.10869565217391304
+GO:1901463	biological_process	regulation of tetrapyrrole biosynthetic process	15	138	0.10869565217391304
+GO:0033044	biological_process	regulation of chromosome organization	2	138	0.014492753623188406
+GO:0033045	biological_process	regulation of sister chromatid segregation	2	138	0.014492753623188406
+GO:0033046	biological_process	negative regulation of sister chromatid segregation	2	138	0.014492753623188406
+GO:0033047	biological_process	regulation of mitotic sister chromatid segregation	2	138	0.014492753623188406
+GO:0010380	biological_process	regulation of chlorophyll biosynthetic process	15	138	0.10869565217391304
+GO:0033048	biological_process	negative regulation of mitotic sister chromatid segregation	2	138	0.014492753623188406
+GO:0031982	cellular_component	vesicle	2	138	0.014492753623188406
+GO:0010389	biological_process	regulation of G2/M transition of mitotic cell cycle	2	138	0.014492753623188406
+GO:0031988	cellular_component	membrane-bounded vesicle	2	138	0.014492753623188406
+GO:0044459	cellular_component	plasma membrane part	1	138	0.007246376811594203
+GO:0044462	cellular_component	external encapsulating structure part	11	138	0.07971014492753623
+GO:1903561	cellular_component	extracellular vesicle	2	138	0.014492753623188406
+GO:0044463	cellular_component	cell projection part	2	138	0.014492753623188406
+GO:0044464	cellular_component	cell part	35	138	0.2536231884057971
+GO:0006807	biological_process	nitrogen compound metabolic process	16	138	0.11594202898550725
+GO:0015200	molecular_function	methylammonium transmembrane transporter activity	1	138	0.007246376811594203
+GO:0006810	biological_process	transport	29	138	0.21014492753623187
+GO:0006811	biological_process	ion transport	12	138	0.08695652173913043
+GO:0043412	biological_process	macromolecule modification	2	138	0.014492753623188406
+GO:0006812	biological_process	cation transport	1	138	0.007246376811594203
+GO:0060255	biological_process	regulation of macromolecule metabolic process	17	138	0.12318840579710146
+GO:0034097	biological_process	response to cytokine	2	138	0.014492753623188406
+GO:0046785	biological_process	microtubule polymerization	2	138	0.014492753623188406
+GO:0006820	biological_process	anion transport	11	138	0.07971014492753623
+GO:0051171	biological_process	regulation of nitrogen compound metabolic process	15	138	0.10869565217391304
+GO:0005730	cellular_component	nucleolus	2	138	0.014492753623188406
+GO:0051173	biological_process	positive regulation of nitrogen compound metabolic process	15	138	0.10869565217391304
+GO:0022402	biological_process	cell cycle process	2	138	0.014492753623188406
+GO:0051179	biological_process	localization	29	138	0.21014492753623187
+GO:0000910	biological_process	cytokinesis	2	138	0.014492753623188406
+GO:0036211	biological_process	protein modification process	2	138	0.014492753623188406
+GO:0022411	biological_process	cellular component disassembly	15	138	0.10869565217391304
+GO:0043436	biological_process	oxoacid metabolic process	1	138	0.007246376811594203
+GO:0051193	biological_process	regulation of cofactor metabolic process	15	138	0.10869565217391304
+GO:0070011	molecular_function	peptidase activity, acting on L-amino acid peptides	15	138	0.10869565217391304
+GO:0022603	biological_process	regulation of anatomical structure morphogenesis	2	138	0.014492753623188406
+GO:0022604	biological_process	regulation of cell morphogenesis	2	138	0.014492753623188406
+GO:0005759	cellular_component	mitochondrial matrix	15	138	0.10869565217391304
+GO:1902578	biological_process	single-organism localization	29	138	0.21014492753623187
+GO:1902580	biological_process	single-organism cellular localization	17	138	0.12318840579710146
+GO:1902582	biological_process	single-organism intracellular transport	17	138	0.12318840579710146
+GO:0005768	cellular_component	endosome	2	138	0.014492753623188406
+GO:0018410	biological_process	C-terminal protein amino acid modification	2	138	0.014492753623188406
+GO:1904666	biological_process	regulation of ubiquitin protein ligase activity	2	138	0.014492753623188406
+GO:1902589	biological_process	single-organism organelle organization	17	138	0.12318840579710146
+GO:1904667	biological_process	negative regulation of ubiquitin protein ligase activity	2	138	0.014492753623188406
+GO:0009405	biological_process	pathogenesis	15	138	0.10869565217391304
+GO:0008324	molecular_function	cation transmembrane transporter activity	1	138	0.007246376811594203
+GO:0042330	biological_process	taxis	2	138	0.014492753623188406
+GO:0009408	biological_process	response to heat	15	138	0.10869565217391304
+GO:0016462	molecular_function	pyrophosphatase activity	17	138	0.12318840579710146
+GO:0051234	biological_process	establishment of localization	29	138	0.21014492753623187
+GO:0006865	biological_process	amino acid transport	11	138	0.07971014492753623
+GO:0022804	molecular_function	active transmembrane transporter activity	1	138	0.007246376811594203
+GO:0010468	biological_process	regulation of gene expression	15	138	0.10869565217391304
+GO:0010038	biological_process	response to metal ion	15	138	0.10869565217391304
+GO:0022891	molecular_function	substrate-specific transmembrane transporter activity	1	138	0.007246376811594203
+GO:0019538	biological_process	protein metabolic process	17	138	0.12318840579710146
+GO:0051246	biological_process	regulation of protein metabolic process	17	138	0.12318840579710146
+GO:0009416	biological_process	response to light stimulus	15	138	0.10869565217391304
+GO:0043231	cellular_component	intracellular membrane-bounded organelle	18	138	0.13043478260869565
+GO:0051247	biological_process	positive regulation of protein metabolic process	15	138	0.10869565217391304
+GO:0051248	biological_process	negative regulation of protein metabolic process	2	138	0.014492753623188406
+GO:0005794	cellular_component	Golgi apparatus	1	138	0.007246376811594203
+GO:0051252	biological_process	regulation of RNA metabolic process	15	138	0.10869565217391304
+GO:0016482	biological_process	cytoplasmic transport	15	138	0.10869565217391304
+GO:0006886	biological_process	intracellular protein transport	15	138	0.10869565217391304
+GO:0006887	biological_process	exocytosis	2	138	0.014492753623188406
+GO:0036267	biological_process	invasive filamentous growth	1	138	0.007246376811594203
+GO:0051258	biological_process	protein polymerization	2	138	0.014492753623188406
+GO:0051259	biological_process	protein oligomerization	15	138	0.10869565217391304
+GO:1901576	biological_process	organic substance biosynthetic process	15	138	0.10869565217391304
+GO:0005576	cellular_component	extracellular region	2	138	0.014492753623188406
+GO:0008360	biological_process	regulation of cell shape	2	138	0.014492753623188406
+GO:0097659	biological_process	nucleic acid-templated transcription	15	138	0.10869565217391304
+GO:1990904	cellular_component	ribonucleoprotein complex	2	138	0.014492753623188406
+GO:0005829	cellular_component	cytosol	17	138	0.12318840579710146
+GO:0030139	cellular_component	endocytic vesicle	2	138	0.014492753623188406
+GO:0005813	cellular_component	centrosome	2	138	0.014492753623188406
+GO:0090304	biological_process	nucleic acid metabolic process	15	138	0.10869565217391304
+GO:0005815	cellular_component	microtubule organizing center	2	138	0.014492753623188406
+GO:0005819	cellular_component	spindle	2	138	0.014492753623188406
+GO:0071702	biological_process	organic substance transport	27	138	0.1956521739130435
+GO:0046907	biological_process	intracellular transport	17	138	0.12318840579710146
+GO:0051293	biological_process	establishment of spindle localization	2	138	0.014492753623188406
+GO:0071704	biological_process	organic substance metabolic process	18	138	0.13043478260869565
+GO:0051294	biological_process	establishment of spindle orientation	2	138	0.014492753623188406
+GO:0071705	biological_process	nitrogen compound transport	12	138	0.08695652173913043
+GO:0070670	biological_process	response to interleukin-4	2	138	0.014492753623188406
+GO:0045786	biological_process	negative regulation of cell cycle	2	138	0.014492753623188406
+GO:0051301	biological_process	cell division	2	138	0.014492753623188406
+GO:0051302	biological_process	regulation of cell division	2	138	0.014492753623188406
+GO:2001057	biological_process	reactive nitrogen species metabolic process	1	138	0.007246376811594203
+GO:0043531	molecular_function	ADP binding	15	138	0.10869565217391304
+GO:0022890	molecular_function	inorganic cation transmembrane transporter activity	1	138	0.007246376811594203
+GO:0022892	molecular_function	substrate-specific transporter activity	1	138	0.007246376811594203
+GO:0034214	biological_process	protein hexamerization	15	138	0.10869565217391304
+GO:0009612	biological_process	response to mechanical stimulus	2	138	0.014492753623188406
+GO:0034220	biological_process	ion transmembrane transport	1	138	0.007246376811594203
+GO:0005856	cellular_component	cytoskeleton	2	138	0.014492753623188406
+GO:0006950	biological_process	response to stress	17	138	0.12318840579710146
+GO:0051787	molecular_function	misfolded protein binding	15	138	0.10869565217391304
+GO:0043546	molecular_function	molybdopterin cofactor binding	5	138	0.036231884057971016
+GO:0046942	biological_process	carboxylic acid transport	11	138	0.07971014492753623
+GO:0006955	biological_process	immune response	2	138	0.014492753623188406
+GO:0006959	biological_process	humoral immune response	2	138	0.014492753623188406
+GO:0005874	cellular_component	microtubule	2	138	0.014492753623188406
+GO:0005876	cellular_component	spindle microtubule	2	138	0.014492753623188406
+GO:0006970	biological_process	response to osmotic stress	2	138	0.014492753623188406
+GO:0005881	cellular_component	cytoplasmic microtubule	2	138	0.014492753623188406
+GO:0010556	biological_process	regulation of macromolecule biosynthetic process	15	138	0.10869565217391304
+GO:0010557	biological_process	positive regulation of macromolecule biosynthetic process	15	138	0.10869565217391304
+GO:0051338	biological_process	regulation of transferase activity	2	138	0.014492753623188406
+GO:0051340	biological_process	regulation of ligase activity	2	138	0.014492753623188406
+GO:0006979	biological_process	response to oxidative stress	15	138	0.10869565217391304
+GO:0045839	biological_process	negative regulation of mitotic nuclear division	2	138	0.014492753623188406
+GO:0034248	biological_process	regulation of cellular amide metabolic process	15	138	0.10869565217391304
+GO:0010564	biological_process	regulation of cell cycle process	2	138	0.014492753623188406
+GO:0045841	biological_process	negative regulation of mitotic metaphase/anaphase transition	2	138	0.014492753623188406
+GO:0034250	biological_process	positive regulation of cellular amide metabolic process	15	138	0.10869565217391304
+GO:0051348	biological_process	negative regulation of transferase activity	2	138	0.014492753623188406
+GO:0009506	cellular_component	plasmodesma	2	138	0.014492753623188406
+GO:0009507	cellular_component	chloroplast	15	138	0.10869565217391304
+GO:0031090	cellular_component	organelle membrane	15	138	0.10869565217391304
+GO:0051352	biological_process	negative regulation of ligase activity	2	138	0.014492753623188406
+GO:0070727	biological_process	cellular macromolecule localization	15	138	0.10869565217391304
+GO:0046982	molecular_function	protein heterodimerization activity	2	138	0.014492753623188406
+GO:0006996	biological_process	organelle organization	17	138	0.12318840579710146
+GO:0033554	biological_process	cellular response to stress	15	138	0.10869565217391304
+GO:0048037	molecular_function	cofactor binding	5	138	0.036231884057971016
+GO:0005911	cellular_component	cell-cell junction	2	138	0.014492753623188406
+GO:0045861	biological_process	negative regulation of proteolysis	2	138	0.014492753623188406
+GO:0015398	molecular_function	high-affinity secondary active ammonium transmembrane transporter activity	1	138	0.007246376811594203
+GO:0070887	biological_process	cellular response to chemical stimulus	17	138	0.12318840579710146
+GO:0007005	biological_process	mitochondrion organization	17	138	0.12318840579710146
+GO:0009526	cellular_component	plastid envelope	15	138	0.10869565217391304
+GO:0009528	cellular_component	plastid inner membrane	15	138	0.10869565217391304
+GO:0031109	biological_process	microtubule polymerization or depolymerization	2	138	0.014492753623188406
+GO:0009532	cellular_component	plastid stroma	15	138	0.10869565217391304
+GO:0009535	cellular_component	chloroplast thylakoid membrane	15	138	0.10869565217391304
+GO:0009536	cellular_component	plastid	15	138	0.10869565217391304
+GO:0003674	molecular_function	molecular_function	138	138	1.0
+GO:0005929	cellular_component	cilium	2	138	0.014492753623188406
+GO:0003676	molecular_function	nucleic acid binding	2	138	0.014492753623188406
+GO:0044770	biological_process	cell cycle phase transition	2	138	0.014492753623188406
+GO:0010604	biological_process	positive regulation of macromolecule metabolic process	15	138	0.10869565217391304
+GO:0031122	biological_process	cytoplasmic microtubule organization	2	138	0.014492753623188406
+GO:0010605	biological_process	negative regulation of macromolecule metabolic process	2	138	0.014492753623188406
+GO:0002376	biological_process	immune system process	2	138	0.014492753623188406
+GO:0010608	biological_process	posttranscriptional regulation of gene expression	15	138	0.10869565217391304
+GO:2001141	biological_process	regulation of RNA biosynthetic process	15	138	0.10869565217391304
+GO:0071806	biological_process	protein transmembrane transport	15	138	0.10869565217391304
+GO:1901700	biological_process	response to oxygen-containing compound	15	138	0.10869565217391304
+GO:2000112	biological_process	regulation of cellular macromolecule biosynthetic process	15	138	0.10869565217391304
+GO:0043623	biological_process	cellular protein complex assembly	2	138	0.014492753623188406
+GO:1902749	biological_process	regulation of cell cycle G2/M phase transition	2	138	0.014492753623188406
+GO:0007051	biological_process	spindle organization	2	138	0.014492753623188406
+GO:0007052	biological_process	mitotic spindle organization	2	138	0.014492753623188406
+GO:0010628	biological_process	positive regulation of gene expression	15	138	0.10869565217391304
+GO:0071822	biological_process	protein complex subunit organization	17	138	0.12318840579710146
+GO:0070783	biological_process	growth of unicellular organism as a thread of attached cells	1	138	0.007246376811594203
+GO:0009570	cellular_component	chloroplast stroma	15	138	0.10869565217391304
+GO:0044699	biological_process	single-organism process	35	138	0.2536231884057971
+GO:0071826	biological_process	ribonucleoprotein complex subunit organization	15	138	0.10869565217391304
+GO:0010639	biological_process	negative regulation of organelle organization	2	138	0.014492753623188406
+GO:0044708	biological_process	single-organism behavior	2	138	0.014492753623188406
+GO:0005975	biological_process	carbohydrate metabolic process	15	138	0.10869565217391304
+GO:0044710	biological_process	single-organism metabolic process	21	138	0.15217391304347827
+GO:0009581	biological_process	detection of external stimulus	2	138	0.014492753623188406
+GO:0008519	molecular_function	ammonium transmembrane transporter activity	1	138	0.007246376811594203
+GO:0016661	molecular_function	oxidoreductase activity, acting on other nitrogenous compounds as donors	1	138	0.007246376811594203
+GO:0009582	biological_process	detection of abiotic stimulus	2	138	0.014492753623188406
+GO:0043005	cellular_component	neuron projection	2	138	0.014492753623188406
+GO:0045930	biological_process	negative regulation of mitotic cell cycle	2	138	0.014492753623188406
+GO:0071840	biological_process	cellular component organization or biogenesis	17	138	0.12318840579710146
+GO:0005984	biological_process	disaccharide metabolic process	15	138	0.10869565217391304
+GO:0098589	cellular_component	membrane region	2	138	0.014492753623188406
+GO:0051436	biological_process	negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	2	138	0.014492753623188406
+GO:0030054	cellular_component	cell junction	2	138	0.014492753623188406
+GO:0051438	biological_process	regulation of ubiquitin-protein transferase activity	2	138	0.014492753623188406
+GO:0051439	biological_process	regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	2	138	0.014492753623188406
+GO:0044723	biological_process	single-organism carbohydrate metabolic process	15	138	0.10869565217391304
+GO:0007088	biological_process	regulation of mitotic nuclear division	2	138	0.014492753623188406
+GO:0003723	molecular_function	RNA binding	2	138	0.014492753623188406
+GO:0005991	biological_process	trehalose metabolic process	15	138	0.10869565217391304
+GO:0003725	molecular_function	double-stranded RNA binding	2	138	0.014492753623188406
+GO:0044772	biological_process	mitotic cell cycle phase transition	2	138	0.014492753623188406
+GO:0051444	biological_process	negative regulation of ubiquitin-protein transferase activity	2	138	0.014492753623188406
+GO:0009605	biological_process	response to external stimulus	17	138	0.12318840579710146
+GO:0007093	biological_process	mitotic cell cycle checkpoint	2	138	0.014492753623188406
+GO:0061136	biological_process	regulation of proteasomal protein catabolic process	2	138	0.014492753623188406
+GO:0007094	biological_process	mitotic spindle assembly checkpoint	2	138	0.014492753623188406
+GO:0042542	biological_process	response to hydrogen peroxide	15	138	0.10869565217391304
+GO:0009607	biological_process	response to biotic stimulus	2	138	0.014492753623188406
+GO:0007097	biological_process	nuclear migration	2	138	0.014492753623188406
+GO:0030529	cellular_component	intracellular ribonucleoprotein complex	2	138	0.014492753623188406
+GO:0030071	biological_process	regulation of mitotic metaphase/anaphase transition	2	138	0.014492753623188406
+GO:0032268	biological_process	regulation of cellular protein metabolic process	17	138	0.12318840579710146
+GO:0034357	cellular_component	photosynthetic membrane	15	138	0.10869565217391304
+GO:0051707	biological_process	response to other organism	2	138	0.014492753623188406
+GO:0032269	biological_process	negative regulation of cellular protein metabolic process	2	138	0.014492753623188406
+GO:0032270	biological_process	positive regulation of cellular protein metabolic process	15	138	0.10869565217391304
+GO:0019755	biological_process	one-carbon compound transport	1	138	0.007246376811594203
+GO:0044743	biological_process	intracellular protein transmembrane import	15	138	0.10869565217391304
+GO:0051726	biological_process	regulation of cell cycle	2	138	0.014492753623188406
+GO:0006457	biological_process	protein folding	15	138	0.10869565217391304
+GO:0043687	biological_process	post-translational protein modification	2	138	0.014492753623188406
+GO:0036464	cellular_component	cytoplasmic ribonucleoprotein granule	2	138	0.014492753623188406
+GO:0009628	biological_process	response to abiotic stimulus	17	138	0.12318840579710146
+GO:0031224	cellular_component	intrinsic component of membrane	1	138	0.007246376811594203
+GO:0009629	biological_process	response to gravity	2	138	0.014492753623188406
+GO:0031226	cellular_component	intrinsic component of plasma membrane	1	138	0.007246376811594203
+GO:0042623	molecular_function	ATPase activity, coupled	15	138	0.10869565217391304
+GO:0051087	molecular_function	chaperone binding	15	138	0.10869565217391304
+GO:0006986	biological_process	response to unfolded protein	15	138	0.10869565217391304
+GO:0042026	biological_process	protein refolding	15	138	0.10869565217391304
+GO:0009642	biological_process	response to light intensity	15	138	0.10869565217391304
+GO:0044763	biological_process	single-organism cellular process	19	138	0.13768115942028986
+GO:0044764	biological_process	multi-organism cellular process	15	138	0.10869565217391304
+GO:0009644	biological_process	response to high light intensity	15	138	0.10869565217391304
+GO:0044765	biological_process	single-organism transport	29	138	0.21014492753623187
+GO:0044767	biological_process	single-organism developmental process	2	138	0.014492753623188406
+GO:0031249	molecular_function	denatured protein binding	15	138	0.10869565217391304
+GO:0009651	biological_process	response to salt stress	2	138	0.014492753623188406
+GO:0033365	biological_process	protein localization to organelle	15	138	0.10869565217391304
+GO:0009657	biological_process	plastid organization	15	138	0.10869565217391304
+GO:0009658	biological_process	chloroplast organization	15	138	0.10869565217391304
+GO:0034399	cellular_component	nuclear periphery	15	138	0.10869565217391304
+GO:0042597	cellular_component	periplasmic space	17	138	0.12318840579710146
+GO:1901799	biological_process	negative regulation of proteasomal protein catabolic process	2	138	0.014492753623188406
+GO:0040007	biological_process	growth	16	138	0.11594202898550725
+GO:0007154	biological_process	cell communication	15	138	0.10869565217391304
+GO:0098655	biological_process	cation transmembrane transport	1	138	0.007246376811594203
+GO:2001251	biological_process	negative regulation of chromosome organization	2	138	0.014492753623188406
+GO:0098660	biological_process	inorganic ion transmembrane transport	1	138	0.007246376811594203
+GO:0016020	cellular_component	membrane	19	138	0.13768115942028986
+GO:0007163	biological_process	establishment or maintenance of cell polarity	2	138	0.014492753623188406
+GO:0098662	biological_process	inorganic cation transmembrane transport	1	138	0.007246376811594203
+GO:0019730	biological_process	antimicrobial humoral response	2	138	0.014492753623188406
+GO:0071941	biological_process	nitrogen cycle metabolic process	1	138	0.007246376811594203
+GO:0046686	biological_process	response to cadmium ion	15	138	0.10869565217391304
+GO:0051536	molecular_function	iron-sulfur cluster binding	6	138	0.043478260869565216
+GO:0006082	biological_process	organic acid metabolic process	1	138	0.007246376811594203
+GO:0030162	biological_process	regulation of proteolysis	2	138	0.014492753623188406
+GO:0051539	molecular_function	4 iron, 4 sulfur cluster binding	6	138	0.043478260869565216
+GO:0051540	molecular_function	metal cluster binding	6	138	0.043478260869565216
+GO:0006091	biological_process	generation of precursor metabolites and energy	1	138	0.007246376811594203
+GO:0009706	cellular_component	chloroplast inner membrane	15	138	0.10869565217391304
+GO:0016787	molecular_function	hydrolase activity	17	138	0.12318840579710146
+GO:0042651	cellular_component	thylakoid membrane	15	138	0.10869565217391304
+GO:0001319	biological_process	inheritance of oxidatively modified proteins involved in replicative cell aging	15	138	0.10869565217391304
+GO:0061640	biological_process	cytoskeleton-dependent cytokinesis	2	138	0.014492753623188406
+GO:0071963	biological_process	establishment or maintenance of cell polarity regulating cell shape	2	138	0.014492753623188406
+GO:0042802	molecular_function	identical protein binding	15	138	0.10869565217391304
+GO:0044839	biological_process	cell cycle G2/M phase transition	2	138	0.014492753623188406
+GO:0003824	molecular_function	catalytic activity	23	138	0.16666666666666666
+GO:0009719	biological_process	response to endogenous stimulus	15	138	0.10869565217391304
+GO:0001403	biological_process	invasive growth in response to glucose limitation	1	138	0.007246376811594203
+GO:0009725	biological_process	response to hormone	15	138	0.10869565217391304
+GO:0048285	biological_process	organelle fission	2	138	0.014492753623188406
+GO:0031323	biological_process	regulation of cellular metabolic process	17	138	0.12318840579710146
+GO:0019866	cellular_component	organelle inner membrane	15	138	0.10869565217391304
+GO:0031324	biological_process	negative regulation of cellular metabolic process	2	138	0.014492753623188406
+GO:0031325	biological_process	positive regulation of cellular metabolic process	15	138	0.10869565217391304
+GO:0055114	biological_process	oxidation-reduction process	6	138	0.043478260869565216
+GO:0031326	biological_process	regulation of cellular biosynthetic process	15	138	0.10869565217391304
+GO:0016491	molecular_function	oxidoreductase activity	6	138	0.043478260869565216
