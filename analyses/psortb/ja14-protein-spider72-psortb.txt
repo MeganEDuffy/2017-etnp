@@ -1,0 +1,25 @@
+SeqID	Localization	Score
+gi|54036848|sp|P63284.1|CLPB_ECOLI RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1	Cytoplasmic	10.00
+WP_018047900 hypothetical protein Nitrospina sp AB-629-B18	Periplasmic	10.00
+XP_003082284 TBA_CHLVU Tubulin alpha chain ISS  Ostreococcus tauri	Cytoplasmic	8.96
+ETNP14_120maa_PROKKA_145159 Ammonium transporter NrgA	CytoplasmicMembrane	10.00
+ETNP14_120mab_PROKKA_99350 hypothetical protein	Unknown	2.00
+ETNP14_120mab_PROKKA_157108 hypothetical protein	Unknown	2.00
+ETNP14_120maa_PROKKA_147886 General L-amino acid-binding periplasmic protein AapJ precursor	Periplasmic	9.44
+ETNP14_68mB_PROKKA_39666 Bacterial extracellular solute-binding protein	Periplasmic	9.76
+WP_011282064 amino acid ABC transporter substrate-binding protein Candidatus Pelagibacter ubique	Periplasmic	9.76
+ETNP14_120maa_PROKKA_137725 Selenate reductase subunit gamma precursor	Extracellular	9.64
+WP_018049561 hypothetical protein Nitrospina sp AB-629-B18	Unknown	2.50
+ETNP14_68mB_PROKKA_31228 General L-amino acid-binding periplasmic protein AapJ precursor	Periplasmic	9.44
+ETNP_120m_PROKKA_174946 hypothetical protein	Unknown	2.00
+ETNP14_68maa_PROKKA_75202 Selenate reductase subunit beta	Periplasmic	9.44
+NP_85m_PROKKA_04529 Selenate reductase subunit beta	Periplasmic	9.44
+WP_018047899 hypothetical protein Nitrospina sp AB-629-B18	Periplasmic	9.44
+NP_100m_PROKKA_09190 Selenate reductase subunit beta	Unknown	5.41
+ETNP_110m_PROKKA_20909 Dimethylsulfide dehydrogenase subunit beta	Unknown	5.41
+ETNP_140m_PROKKA_65480 Dimethylsulfide dehydrogenase subunit beta	Unknown	5.41
+ETNP_100m_particle_PROKKA_25885 hypothetical protein	Unknown	2.00
+ETNP14_120mab_PROKKA_144263 hypothetical protein	Unknown	2.00
+ETNP_110m_PROKKA_37982 hypothetical protein_120mF_megahit_PEDPKPGI_31644 hypothetical protein	Unknown	2.00
+ETNP_120m_free_PROKKA_149007 Selenate reductase subunit beta	Unknown	2.00
+WP_018047569 hypothetical protein Nitrospina	Unknown	2.50
