@@ -1,0 +1,80 @@
+Protein Group,Protein ID,Accession,-10lgP,Coverage (%),Coverage (%) Sample 9: 284 4-19_265m_ctl_A,Area Sample 9: 284 4-19_265m_ctl_A,#Peptides,#Unique,#Spec Sample 9: 284 4-19_265m_ctl_A,PTM,Avg. Mass,Description
+2,2,CAA76847.1,270.65,59,59,5.88E7,33,33,75,Carbamidomethylation,69324,bovine serum albumin [Bos taurus]
+1,1,54036848,234.23,11,11,6.2E8,17,13,47,,95585,RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1
+3,29,CAN98337.1,94.78,3,3,7.71E6,4,1,10,,97340,ATPase with chaperone activity  two ATP-bindingdomains [Sorangium cellulosum So ce56]
+4,128103,ETNP_110,61.06,9,9,4.82E5,3,3,4,,32534,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128104,NP_125,61.06,8,8,4.82E5,3,3,4,,39275,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128105,ETNP14_120,61.06,8,8,4.82E5,3,3,4,,39385,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128106,ETNP_100,61.06,8,8,4.82E5,3,3,4,,39291,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128107,NP_85,61.06,8,8,4.82E5,3,3,4,,39305,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128108,ETNP_160,61.06,11,11,4.82E5,3,3,4,,28182,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128109,ETNP_120,61.06,10,10,4.82E5,3,3,4,,31075,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128110,ETNP_140,61.06,9,9,4.82E5,3,3,4,,35015,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128111,ETNP_140,61.06,12,12,4.82E5,3,3,4,,24554,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128112,ETNP_120,61.06,11,11,4.82E5,3,3,4,,26356,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128113,ETNP_120,61.06,11,11,4.82E5,3,3,4,,28984,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128114,ETNP_90,61.06,10,10,4.82E5,3,3,4,,30745,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128115,ETNP_120,61.06,9,9,4.82E5,3,3,4,,35686,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128116,ETNP_120,61.06,8,8,4.82E5,3,3,4,,39319,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128117,ETNP_100,61.06,8,8,4.82E5,3,3,4,,39293,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128118,NP_300,61.06,8,8,4.82E5,3,3,4,,39379,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128119,NP_85,61.06,8,8,4.82E5,3,3,4,,39724,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128120,ETNP_120,61.06,8,8,4.82E5,3,3,4,,39559,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128121,NP_300,61.06,8,8,4.82E5,3,3,4,,39744,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+4,128122,ETNP_180,61.06,8,8,4.82E5,3,3,4,,39779,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+10,51,WP_015349883,44.46,0,0,1.43E6,2,1,2,,202176,polyketide synthase Myxococcus stipitatus
+10,42,CBE69591,44.46,2,2,1.43E6,2,1,2,,58424,Indole-3-pyruvate decarboxylase Indolepyruvate decarboxylase Candidatus Methylomirabilis oxyfera
+16,8391,ETNP_120,41.27,20,20,2.33E7,1,1,2,,5568,hypothetical protein
+16,8392,ETNP_180,41.27,20,20,2.33E7,1,1,2,,5568,hypothetical protein
+76,128126,ETNP14_120,39.14,11,11,9.58E5,1,1,1,,10699,hypothetical protein
+77,128127,ETNP_300,32.23,2,2,5.64E5,1,1,1,,38842,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2 6-diaminopimelate ligase
+8,524,WP_013305339.1,32.03,2,2,8.6E5,1,1,3,,43508,dihydrolipoamide succinyltransferase [Maribacter sp. HTCC2170]
+8,483,ETNP_70,32.03,8,8,8.6E5,1,1,3,,9587,hypothetical protein
+8,484,ETNP_70,32.03,6,6,8.6E5,1,1,3,,12144,hypothetical protein
+8,128128,ETNP14_120,32.03,6,6,8.6E5,1,1,3,,13990,6-carboxy-5 6 7 8-tetrahydropterin synthase
+8,485,ETNP_110,32.03,6,6,8.6E5,1,1,3,,14115,6-carboxy-5 6 7 8-tetrahydropterin synthase
+8,486,ETNP14_120,32.03,6,6,8.6E5,1,1,3,,14115,6-carboxy-5 6 7 8-tetrahydropterin synthase
+8,487,ETNP_120,32.03,6,6,8.6E5,1,1,3,,13990,6-carboxy-5 6 7 8-tetrahydropterin synthase
+8,128129,ETNP_100,32.03,6,6,8.6E5,1,1,3,,14115,6-carboxy-5 6 7 8-tetrahydropterin synthase
+8,488,ETNP_120,32.03,6,6,8.6E5,1,1,3,,14131,6-carboxy-5 6 7 8-tetrahydropterin synthase
+8,489,ETNP14_68,32.03,6,6,8.6E5,1,1,3,,13990,6-carboxy-5 6 7 8-tetrahydropterin synthase
+8,490,ETNP_100,32.03,6,6,8.6E5,1,1,3,,13990,6-carboxy-5 6 7 8-tetrahydropterin synthase
+8,491,WP_018049948,32.03,6,6,8.6E5,1,1,3,,14004,hypothetical protein Nitrospina sp AB-629-B18
+8,493,ETNP_120,32.03,4,4,8.6E5,1,1,3,,18082,Bifunctional protein PaaZ
+8,494,WP_015440986,32.03,4,4,8.6E5,1,1,3,,19870,hydratase Ilumatobacter coccineus
+8,528,ETNP_70,32.03,2,2,8.6E5,1,1,3,,49199,hypothetical protein
+6,128130,ETNP_160,30.38,2,2,3.36E8,1,1,4,,55391,Ribose import ATP-binding protein RbsA
+11,140,CAN91477.1,28.77,2,2,1.37E8,1,1,2,,56854,hypothetical protein sce1319 [Sorangium cellulosum So ce56]
+78,128131,ETNP14_120,28.46,5,5,1.31E5,1,1,1,,18509,hypothetical protein
+27,429,XP_003063194,28.33,1,1,2.72E6,1,1,1,,93071,predicted protein  Micromonas pusilla CCMP1545
+17,128186,WP_009603891,28.00,6,6,1.35E5,2,2,2,,39838,glucosesorbosone dehydrogenase SAR116 cluster alpha proteobacterium HIMB100
+18,128188,XP_003060623,27.32,7,7,0E0,2,2,2,Carbamidomethylation,54808,predicted protein  Micromonas pusilla CCMP1545
+43,128171,ETNP_120,27.23,6,6,8.88E3,1,1,1,,14570,hypothetical protein
+79,128313,ETNP14_68,26.46,5,5,6.14E3,1,1,1,Oxidation (M),34518,Branched-chain-amino-acid aminotransferase
+80,128321,AMC11210.1,25.81,1,1,0E0,1,1,1,,64705,hypothetical protein Lupro_08055 [Lutibacter profundi]
+81,126277,WP_014436452,25.30,10,10,8.74E5,1,1,1,,17078,hypothetical protein Phycisphaera mikurensis
+83,128331,ETNP14_68,25.11,2,2,6.21E3,1,1,1,Carbamidomethylation,47464,Serine hydroxymethyltransferase
+84,128336,ETNP14_68,24.95,15,15,3.59E5,1,1,1,,8925,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+85,128339,ETNP_110,24.90,10,10,3.03E5,1,1,1,,14877,hypothetical protein
+85,128340,ETNP14_120,24.90,10,10,3.03E5,1,1,1,,14909,hypothetical protein
+12,126105,EJK75951,24.82,0,0,2.46E6,1,1,2,,261467,hypothetical protein THAOC_02314  Thalassiosira oceanica
+86,128348,ETNP14_68,24.62,11,11,1.59E4,1,1,1,,10391,30S ribosomal protein S5
+87,128374,ETNP14_120,24.26,6,6,2.83E6,1,1,1,Carbamidomethylation,30597,Demethylmenaquinone methyltransferase
+89,128397,ETNP14_120,23.34,1,1,1.95E4,1,1,1,,93024,Cytochrome c
+91,27920,WP_014473136,22.05,2,2,1.76E4,1,1,1,Oxidation (M),94576,FeS-dependent 2-methylisocitrate dehydratase AcnD Arcobacter sp L
+45,128185,WP_041378139,21.80,4,4,3.69E5,1,1,1,Carbamidomethylation,29718,hypothetical protein Phycisphaera mikurensis
+14,128319,WP_013109866.1,21.30,1,1,1.23E4,1,1,2,,85576,hypothetical protein [Planctopirus limnophila]
+64,128410,ETNP14_68,20.99,3,3,1.87E3,1,1,1,,44233,DNA polymerase I
+99,128415,ETNP_70,20.71,2,2,4.91E4,1,1,1,,51416,Replicative DNA helicase
+99,128416,ETNP14_68,20.71,2,2,4.91E4,1,1,1,,51295,Replicative DNA helicase
+99,128417,ETNP14_68,20.71,2,2,4.91E4,1,1,1,,51416,Replicative DNA helicase
+99,128418,ETNP_70,20.71,2,2,4.91E4,1,1,1,,51362,Replicative DNA helicase
+96,128412,ETNP_120,20.71,4,4,1.4E6,1,1,1,,23377,hypothetical protein
+47,26820,ETNP14_68,20.52,5,5,5.78E6,1,1,1,,31096,Vitamin B12-dependent ribonucleotide reductase
+97,128413,ETNP14_68,20.51,30,30,2.53E3,1,1,1,Carbamidomethylation,7576,2 3 4 5-tetrahydropyridine-2 6-dicarboxylate N-succinyltransferase
+101,128420,ETNP_90,20.27,17,17,0E0,1,1,1,Carbamidomethylation,13834,hypothetical protein
+5,128426,EJK64964,20.19,1,1,2.64E8,1,1,4,,57127,hypothetical protein THAOC_14246 partial  Thalassiosira oceanica
+46,128187,ETNP_120,20.09,2,2,2E4,1,1,1,,106684,DNA polymerase III subunit alpha
+104,128423,ETNP14_68,20.07,12,12,0E0,1,1,1,,7181,Holliday junction resolvase-like protein
+104,128424,ETNP14_120,20.07,12,12,0E0,1,1,1,,7055,Holliday junction resolvase-like protein
+104,128436,ETNP_120,20.07,2,2,0E0,1,1,1,,36211,hypothetical protein

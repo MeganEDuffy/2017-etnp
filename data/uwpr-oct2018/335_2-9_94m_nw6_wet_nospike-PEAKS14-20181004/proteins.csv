@@ -1,0 +1,92 @@
+Protein Group,Protein ID,Accession,-10lgP,Coverage (%),Coverage (%) Sample 6: 335 2-9_94m_nw6_wet,Area Sample 6: 335 2-9_94m_nw6_wet,#Peptides,#Unique,#Spec Sample 6: 335 2-9_94m_nw6_wet,PTM,Avg. Mass,Description
+1,1,54036848,191.20,12,12,2.11E7,13,9,22,,95585,RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1
+2,35,WP_011469025.1,101.03,2,2,0E0,5,1,10,,97457,ATP-dependent chaperone ClpB [Saccharophagus degradans]
+14,4,XP_003061104,56.36,5,5,4.17E5,2,1,2,,41766,actin flagellar inner arm intermediate chain  Micromonas pusilla CCMP1545
+134,2745,ETNP_100,36.01,6,6,6.19E4,1,1,1,,15112,Tubulin/FtsZ family  GTPase domain
+134,2746,XP_003062500,36.01,2,2,6.19E4,1,1,1,,49730,alpha tubulin  Micromonas pusilla CCMP1545
+134,2747,XP_003058621,36.01,2,2,6.19E4,1,1,1,,49730,alpha tubulin  Micromonas pusilla CCMP1545
+134,2748,XP_003082284,36.01,2,2,6.19E4,1,1,1,,50099,TBA_CHLVU Tubulin alpha chain ISS  Ostreococcus tauri
+134,2749,XP_003080933,36.01,2,2,6.19E4,1,1,1,,52460,TBA_CHLVU Tubulin alpha chain ISS  Ostreococcus tauri
+79,2724,ActinobacteriaREDSEAS14_EEFFFEGA_01646,35.82,6,6,7.49E4,1,1,1,,13421,50S ribosomal protein L20
+79,2751,ActinobacteriaREDSEAS09_EJKBNLBD_01561,35.82,17,17,7.49E4,1,1,1,,4069,50S ribosomal protein L20
+79,2753,ETNP14_68,35.82,6,6,7.49E4,1,1,1,,13057,50S ribosomal protein L20
+79,2754,WP_015441628,35.82,6,6,7.49E4,1,1,1,,13225,50S ribosomal protein L20 Ilumatobacter coccineus
+79,2755,ACI99700.1,35.82,6,6,7.49E4,1,1,1,,13791,ribosomal protein L20 [Rhodospirillum centenum SW]
+79,2756,ABI77034.1,35.82,6,6,7.49E4,1,1,1,,13403,ribosomal protein L20 [Hyphomonas neptunium ATCC 15444]
+79,2757,ETNP14_120,35.82,6,6,7.49E4,1,1,1,,13524,50S ribosomal protein L20
+79,2758,ABF65245.1,35.82,6,6,7.49E4,1,1,1,,13672,LSU ribosomal protein L20P [Ruegeria sp. TM1040]
+79,2759,ADH87647.1,35.82,6,6,7.49E4,1,1,1,,13735,ribosomal protein L20 [Starkeya novella DSM 506]
+79,2760,ETNP14_68,35.82,6,6,7.49E4,1,1,1,,13970,50S ribosomal protein L20
+108,2807,virus_CCADEAMM_59347,33.70,0,0,7.19E3,1,1,1,,184288,hypothetical protein
+3,3113,ETNP_70,33.13,4,4,4.21E4,1,1,7,,22257,JmjC domain protein
+20,2730,ETNP14_68,32.39,2,2,1.28E7,2,2,2,,96879,UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+56,2628,ABE39818.1,31.74,3,3,4.15E5,1,1,1,,42362,signal transduction histidine kinase  nitrogen specific  NtrB [Rhodopseudomonas palustris BisB5]
+21,2735,ETNP_90,30.28,6,6,1.3E4,2,1,2,,33070,Bacterial actin-related protein
+135,3123,ETNP_120,29.70,3,3,2.86E4,1,1,1,,30958,Alpha-ketoglutarate-dependent taurine dioxygenase
+8,3122,ETNP14_120,29.67,4,4,6.69E7,1,1,3,,19183,hypothetical protein
+80,2729,ETNP_160,28.98,4,4,1.81E4,1,1,1,,25827,CTP synthase
+17,140,CAN91477.1,28.98,2,2,7.93E6,1,1,2,,56854,hypothetical protein sce1319 [Sorangium cellulosum So ce56]
+136,444,ETNP_160,28.85,5,5,1.15E5,1,1,1,,16500,hypothetical protein
+136,3126,ETNP_120,28.85,4,4,1.15E5,1,1,1,,19341,hypothetical protein
+136,447,ETNP_120,28.85,2,2,1.15E5,1,1,1,,41808,Putative isomerase YitF
+18,2737,ETNP_120,28.25,7,7,0E0,2,2,2,,28134,Levodione reductase
+18,2738,ETNP_180,28.25,7,7,0E0,2,2,2,,28134,Levodione reductase
+138,3131,ETNP_160,27.85,2,2,0E0,1,1,1,,33501,hypothetical protein
+138,3134,ETNP_120,27.85,2,2,0E0,1,1,1,,40950,hypothetical protein
+52,3129,ETNP_140,27.29,1,1,5.33E4,1,1,1,,149845,hypothetical protein
+59,2648,virus_CCADEAMM_08050,27.24,0,0,3.26E4,1,1,1,,317719,hypothetical protein
+59,2764,BAI71469.1,27.24,0,0,3.26E4,1,1,1,,301308,hypothetical protein AZL_008310 [Azospirillum sp. B510]
+59,2765,BAI72682.1,27.24,0,0,3.26E4,1,1,1,,301308,lytic transglycosylase [Azospirillum sp. B510]
+59,3130,WP_041794207,27.24,9,9,3.26E4,1,1,1,,9063,double-stranded DNA-binding protein Micavibrio aeruginosavorus
+59,3133,ETNP_90,27.24,4,4,3.26E4,1,1,1,,18081,hypothetical protein
+59,3135,WP_009779804.1,27.24,4,4,3.26E4,1,1,1,,21372,heme oxygenase [Leeuwenhoekiella blandensis]
+59,3138,ETNP_160,27.24,2,2,3.26E4,1,1,1,,41112,Putrescine transport system permease protein PotH
+59,3140,ETNP_180,27.24,2,2,3.26E4,1,1,1,,43253,D-galactonate dehydratase
+59,3141,ETNP_180,27.24,2,2,3.26E4,1,1,1,,46183,Putrescine transport system permease protein PotH
+59,3142,WP_009605174,27.24,2,2,3.26E4,1,1,1,,47255,flagellar hook-length control protein SAR116 cluster alpha proteobacterium HIMB100
+59,3143,BAI72404.1,27.24,1,1,3.26E4,1,1,1,,69410,methyl-accepting chemotaxis protein [Azospirillum sp. B510]
+82,2732,ETNP14_68,26.57,6,6,3.77E4,1,1,1,,13223,Succinyl-CoA ligase [ADP-forming] subunit alpha
+82,2733,ETNP14_68,26.57,3,3,3.77E4,1,1,1,,28016,Succinyl-CoA ligase [ADP-forming] subunit alpha
+82,2734,ETNP14_120,26.57,2,2,3.77E4,1,1,1,,30934,Succinyl-CoA ligase [ADP-forming] subunit alpha
+82,3137,virus_CCADEAMM_02352,26.57,9,9,3.77E4,1,1,1,,8668,hypothetical protein
+82,3148,ETNP14_68,26.57,1,1,3.77E4,1,1,1,,91275,Alpha-agarase precursor
+139,3136,WP_011466959.1,26.40,3,3,2.42E3,1,1,1,,34428,recombination-associated protein RdgC [Saccharophagus degradans]
+140,3139,ETNP_90,26.23,5,5,3.02E4,1,1,1,,18402,DNA primase
+4,2736,NP_125,25.46,1,1,3.82E5,1,1,4,,71177,Ycf48-like protein
+81,2731,ETNP14_68,24.95,2,2,0E0,1,1,1,,41490,primosomal protein DnaI
+58,2643,AIR93496.1,23.59,1,1,0E0,1,1,1,,109887,hypothetical protein [Prochlorococcus phage P-TIM68]
+83,2739,ETNP14_68,23.57,6,6,0E0,1,1,1,,15376,ribosomal-protein-alanine N-acetyltransferase
+83,3150,ETNP_120,23.57,7,7,0E0,1,1,1,,12328,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+83,3151,ETNP_300,23.57,7,7,0E0,1,1,1,,12328,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+83,3153,WP_014101627,23.57,5,5,0E0,1,1,1,,17509,acetyltransferase Micavibrio aeruginosavorus
+83,3154,ETNP_160,23.57,5,5,0E0,1,1,1,,18727,Mycothiol acetyltransferase
+83,3155,ETNP_180,23.57,4,4,0E0,1,1,1,,21383,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+83,3156,ETNP_120,23.57,3,3,0E0,1,1,1,,31073,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+83,3157,ETNP_120,23.57,3,3,0E0,1,1,1,,31059,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+144,3159,ACL71358.1,23.00,1,1,1.02E4,1,1,1,,91852,peptidase S16 lon domain protein [Thioalkalivibrio sulfidiphilus HL-EbGr7]
+121,3183,ETNP_180,22.41,1,1,0E0,1,1,1,,77282,4-hydroxybenzoyl-CoA reductase subunit alpha
+121,3184,ETNP14_120,22.41,1,1,0E0,1,1,1,,77326,4-hydroxybenzoyl-CoA reductase subunit alpha
+121,3185,ETNP_120,22.41,1,1,0E0,1,1,1,,77296,4-hydroxybenzoyl-CoA reductase subunit alpha
+145,3161,NP_125,22.28,10,10,4.04E6,1,1,1,,9946,Dual-specificity RNA methyltransferase RlmN
+145,3162,ETNP_100,22.28,6,6,4.04E6,1,1,1,,18578,putative dual-specificity RNA methyltransferase RlmN
+145,3163,ETNP_140,22.28,5,5,4.04E6,1,1,1,,21139,putative dual-specificity RNA methyltransferase RlmN
+145,3164,ETNP_120,22.28,4,4,4.04E6,1,1,1,,24074,putative dual-specificity RNA methyltransferase RlmN
+145,3165,ETNP_180,22.28,4,4,4.04E6,1,1,1,,26940,putative dual-specificity RNA methyltransferase RlmN
+145,3166,ETNP_160,22.28,4,4,4.04E6,1,1,1,,28256,putative dual-specificity RNA methyltransferase RlmN
+145,3167,NP_85,22.28,2,2,4.04E6,1,1,1,,42483,putative dual-specificity RNA methyltransferase RlmN
+145,3168,ETNP_90,22.28,2,2,4.04E6,1,1,1,,42387,putative dual-specificity RNA methyltransferase RlmN
+146,3169,ETNP_90,22.24,7,7,2.21E4,1,1,1,,11738,hypothetical protein
+57,2641,ETNP14_68,22.06,2,2,6.61E4,1,1,1,,55330,Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+30,2622,XP_003079195,22.02,1,1,5.08E4,1,1,1,,94210,possible site-specific DNA-methyltransferase ISS  Ostreococcus tauri
+7,2627,AMC11284.1,21.98,1,1,1.1E7,1,1,3,,170778,hypothetical protein Lupro_08465 [Lutibacter profundi]
+85,2743,XP_003064111,21.97,1,1,0E0,1,1,1,,83099,predicted protein  Micromonas pusilla CCMP1545
+147,3170,CAN95481.1,21.92,3,3,1.36E5,1,1,1,,54814,Protein kinase [Sorangium cellulosum So ce56]
+149,3172,NP_30,21.79,7,7,0E0,1,1,1,,14926,Excalibur calcium-binding domain protein
+150,3173,ETNP14_120,21.66,13,13,0E0,1,1,1,,8210,50S ribosomal protein L29
+151,3175,ETNP14_68,21.45,7,7,6.29E4,1,1,1,,15889,hypothetical protein
+162,3214,WP_015346231,21.15,1,1,2.37E4,1,1,1,,105690,serinethreonine protein kinase Myxococcus stipitatus
+84,2740,ETNP_160,20.56,1,1,5.12E3,1,1,1,,70092,Threonine--tRNA ligase
+84,3188,WP_019307009,20.56,1,1,5.12E3,1,1,1,,68423,threonine--tRNA ligase SAR324 cluster bacterium SCGC AAA240-J09
+152,3186,virus_CCADEAMM_22149,20.29,7,7,1.52E5,1,1,1,,15092,hypothetical protein
+153,3187,ETNP_120,20.27,1,1,0E0,1,1,1,,122548,Protein translocase subunit SecA
+87,2763,ETNP_120,20.16,9,9,0E0,1,1,1,,9062,hypothetical protein
