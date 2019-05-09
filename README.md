@@ -8,13 +8,12 @@
 
 Megan E. Duffy<sup>1</sup>, Jacquelyn A. Neibauer<sup>1</sup>, Jamee Adams<sup>1</sup>, Clara A. Fuchsman<sup>2</sup>, and Richard G. Keil<sup>1</sup>
 
-<sup>1</sup>School of Oceanography, University of Washington, Seattle, WA
-
+<sup>1</sup>School of Oceanography, University of Washington, Seattle, WA;
 <sup>2</sup>Horn Point Laboratory, University of Maryland Center for Environmental Science, Cambridge, MD
 
 - Corresponding author: duffyme@uw.edu
 
-What is is:
+What it is:
 
 Broadly, part of work to illuminate details of carbon cycling. How does organic matter break down, particularly in dymanic regions like an oxygen deficient zone?  Here we use a new approach to environmental protein sequencing, de novo-assisted sequencing, to better detect the protineacous organic matter of both living and degraded organisms. 
 
