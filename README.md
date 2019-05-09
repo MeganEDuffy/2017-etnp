@@ -1,12 +1,15 @@
 ## 2017-etnp
 
+
 ### Directory containing all data and analyses pertaining to Master's thesis and paper in prep
+
 
 ### *Potentials for de novo-assisted peptide sequencing in the study of marine protein degradation*
 
 Megan E. Duffy<sup>1</sup>, Jacquelyn A. Neibauer<sup>1</sup>, Jamee Adams<sup>1</sup>, Clara A. Fuchsman<sup>2</sup>, and Richard G. Keil<sup>1</sup>
 
 <sup>1</sup>School of Oceanography, University of Washington, Seattle, WA
+
 <sup>2</sup>Horn Point Laboratory, University of Maryland Center for Environmental Science, Cambridge, MD
 
 - Corresponding author: duffyme@uw.edu
