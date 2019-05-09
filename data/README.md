@@ -1,6 +1,8 @@
 ## ETNP 2017 and MED4 data
 
-### All RAW data are Thermo RAW files from the QExactive
+### Most RAW data are Thermo RAW files from the QExactive
+
+- There are some Waters .raw files from the Keil lab QTof, but I don't use these data in the paper
 
 ### Dates that samples were run on the UW Proteomics Resource Center instrument:
 
