@@ -12,7 +12,11 @@
   -  `375-peaks3-protein.csv`
   -  `375-peaks3-protein.fasta`
   
-3. Processed the de novo only (`dno.csv`) files in `uwpr-date-dno.ipynb` notebook. Usied pandas to read in `.csv` and export peptides to new `.txt`. Removed modifications from `.txt` files and creaded mods only files.
+3. Processed the de novo only (`dno.csv`) files in `uwpr-date-dno.ipynb` notebook. 
+  -  Used pandas to read in `.csv` and export peptides to new `dnopeps.txt` and `dnopeps.csv` 
+  -  Removed modifications from `dnopeps.txt` files and creaded mods only files, `dno-mods.txt`
+  -  Used `wc -l` to enumerate mods and total peptides, then calculated the percentage of peptides modified
+  -  Made files with mods removed, `dno-nomods.txt`
   
   
   
