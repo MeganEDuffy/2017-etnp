@@ -16,7 +16,7 @@
   -  Used pandas to read in `.csv` and export peptides to new `dnopeps.txt` and `dnopeps.csv` 
   -  Removed modifications from `dnopeps.txt` files and creaded mods only files, `dno-mods.txt`
   -  Used `wc -l` to enumerate mods and total peptides, then calculated the percentage of peptides modified
-  -  Made files with mods removed, `nomods.txt`
+  -  Made files with mods removed, `dno-nomods.txt`
   
   
   
