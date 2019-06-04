@@ -19,11 +19,11 @@ From 2017 timeseries station P2 (offshore):
 |depth |0.3 um GF75 |2.7 um GFD| trap material            |
 |------|------------|----------|--------------------------|
 |100 m |231 (JA2)   |247       |378 (top)                 |
-|265 m |233 (JA4)   |249       | 278 (top, +P), 279, 280  |
-|1000 m|243 (JA14)  |465       | 268, 269, 272, 273* (nw) |
+|265 m |233 (JA4)   |249       |278 (top, +P), 279, 280   |
+|1000 m|243 (JA14)  |465       |268, 269, 272, 273* (nw)  |
 
 *268, 269 are netwash; 272, 273 are +P and top collector\
 279, 280 are netwash; 278 is +P and top collector\
-378 is top collector
+378 is top collector (UWPR Dec 2018)
 
 ### MED4 MS/MS aquired on Ingalls QExactive by R. Lundeen (2016?)
