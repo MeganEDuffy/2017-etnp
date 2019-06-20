@@ -1,0 +1,1468 @@
+Protein Group,Protein ID,Accession,-10lgP,Coverage (%),Coverage (%) etnp-ja02-20170410,Area etnp-ja02-20170410,#Peptides,#Unique,#Spec etnp-ja02-20170410,PTM,Avg. Mass,Description
+4,133820,ETNP_90,290.27,89,89,,58,0,103,Oxidation (M),11111,Photosystem II 12 kDa extrinsic protein
+4,133821,ETNP_100,290.27,76,76,,58,0,103,Oxidation (M),13052,Photosystem II 12 kDa extrinsic protein precursor
+4,133822,ETNP_120,290.27,76,76,,58,0,103,Oxidation (M),13052,Photosystem II 12 kDa extrinsic protein precursor
+4,133823,ETNP_140,290.27,76,76,,58,0,103,Oxidation (M),13052,Photosystem II 12 kDa extrinsic protein precursor
+7,133826,ETNP_120,277.74,76,76,7.62E7,52,27,97,Oxidation (M),13019,Photosystem II 12 kDa extrinsic protein precursor
+7,133827,ETNP_90,277.74,76,76,7.62E7,52,27,97,Oxidation (M),13019,Photosystem II 12 kDa extrinsic protein precursor
+7,133828,ETNP_100,277.74,76,76,7.62E7,52,27,97,Oxidation (M),13019,Photosystem II 12 kDa extrinsic protein precursor
+7,133828,ETNP_100,277.74,76,76,7.62E7,52,27,97,Oxidation (M),13019,Photosystem II 12 kDa extrinsic protein precursor
+8,133824,ETNP_160,276.15,76,76,5.42E6,54,8,90,Oxidation (M),13076,Photosystem II 12 kDa extrinsic protein precursor
+8,133825,ETNP_110,276.15,76,76,5.42E6,54,8,90,Oxidation (M),13042,Photosystem II 12 kDa extrinsic protein precursor
+15,133923,NP_100,233.91,72,72,3.56E7,36,36,60,,7685,Photosystem I reaction center subunit IV
+15,133924,ETNP_140,233.91,72,72,3.56E7,36,36,60,,7685,Photosystem I reaction center subunit IV
+15,133925,ETNP_110,233.91,72,72,3.56E7,36,36,60,,7685,Photosystem I reaction center subunit IV
+15,133926,ETNP_100,233.91,72,72,3.56E7,36,36,60,,7671,Photosystem I reaction center subunit IV
+15,133927,ETNP_120,233.91,72,72,3.56E7,36,36,60,,7685,Photosystem I reaction center subunit IV
+15,133926,ETNP_100,233.91,72,72,3.56E7,36,36,60,,7671,Photosystem I reaction center subunit IV
+5,102239,ETNP_140,228.17,93,93,3.86E7,67,3,100,Carbamidomethylation; Oxidation (M),12752,hypothetical protein
+5,102240,ETNP_110,228.17,93,93,3.86E7,67,3,100,Carbamidomethylation; Oxidation (M),12752,hypothetical protein
+5,102246,ETNP14_68,228.17,93,93,3.86E7,67,3,100,Carbamidomethylation; Oxidation (M),12752,hypothetical protein
+5,102241,ETNP_100,228.17,93,93,3.86E7,67,3,100,Carbamidomethylation; Oxidation (M),12752,hypothetical protein
+5,102244,NP_85,228.17,93,93,3.86E7,67,3,100,Carbamidomethylation; Oxidation (M),12752,hypothetical protein
+5,102248,ETNP_90,228.17,93,93,3.86E7,67,3,100,Carbamidomethylation; Oxidation (M),12752,hypothetical protein
+6,102245,ETNP_140,226.84,93,93,2.63E7,67,3,99,Carbamidomethylation; Oxidation (M),12780,hypothetical protein
+6,102242,ETNP_90,226.84,93,93,2.63E7,67,3,99,Carbamidomethylation; Oxidation (M),12780,hypothetical protein
+6,102247,ETNP_100,226.84,93,93,2.63E7,67,3,99,Carbamidomethylation; Oxidation (M),12780,hypothetical protein
+6,102243,ETNP_110,226.84,93,93,2.63E7,67,3,99,Carbamidomethylation; Oxidation (M),12780,hypothetical protein
+19,133819,ETNP_90,226.75,57,57,,37,0,55,Oxidation (M),29344,Photosystem II manganese-stabilizing polypeptide precursor
+17,133818,ETNP_100,226.20,59,59,3.16E5,38,1,57,Oxidation (M),29257,Photosystem II manganese-stabilizing polypeptide precursor
+25,102211,ETNP_120,226.15,68,68,2.32E7,34,23,47,Carbamidomethylation; Oxidation (M),18407,C-phycoerythrin class 2 subunit beta
+25,102211,ETNP_120,226.15,68,68,2.32E7,34,23,47,Carbamidomethylation; Oxidation (M),18407,C-phycoerythrin class 2 subunit beta
+25,102210,ETNP_90,226.15,68,68,2.32E7,34,23,47,Carbamidomethylation; Oxidation (M),18407,C-phycoerythrin class 2 subunit beta
+16,133817,ETNP_90,224.44,65,65,3.78E6,39,11,57,,29123,Photosystem II manganese-stabilizing polypeptide precursor
+9,102719,ETNP_120,217.91,73,73,4.41E7,51,41,78,Carbamidomethylation; Oxidation (M),17736,C-phycoerythrin class 2 subunit alpha
+9,102720,ETNP_90,217.91,73,73,4.41E7,51,41,78,Carbamidomethylation; Oxidation (M),17736,C-phycoerythrin class 2 subunit alpha
+9,102718,ETNP_100,217.91,73,73,4.41E7,51,41,78,Carbamidomethylation; Oxidation (M),17736,C-phycoerythrin class 2 subunit alpha
+1,545,WP_011129843,216.09,68,68,,58,0,89,Carbamidomethylation; Oxidation (M),12922,hypothetical protein Prochlorococcus
+1,102249,ETNP_120,216.09,68,68,,58,0,89,Carbamidomethylation; Oxidation (M),12950,hypothetical protein
+27,133848,NP_85,214.36,60,60,3.09E7,32,32,41,Oxidation (M),18036,Cytochrome c-550 precursor
+27,133849,ETNP14_68,214.36,60,60,3.09E7,32,32,41,Oxidation (M),18007,Cytochrome c-550 precursor
+27,133850,ETNP_100,214.36,60,60,3.09E7,32,32,41,Oxidation (M),18007,Cytochrome c-550 precursor
+2,101767,54036848,209.47,11,11,1.06E9,8,8,84,,95585,RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1
+32,101796,ETNP_100,206.69,40,40,5.55E6,17,4,37,,51643,Glutamine synthetase
+35,96,WP_011129980,205.32,36,36,1.24E6,16,1,34,Carbamidomethylation,52689,glutamine synthetase Prochlorococcus marinus
+35,97,WP_036915357,205.32,36,36,1.24E6,16,1,34,Carbamidomethylation,52679,glutamine synthetase Prochlorococcus sp MIT 0701
+11,715,WP_011128382,202.02,50,50,,44,0,67,,13024,hypothetical protein Synechococcus
+29,24996,WP_036913864,201.65,41,41,4.34E6,28,4,39,Oxidation (M),29231,photosystem II manganese-stabilizing polypeptide Prochlorococcus
+26,101734,|#CONTAM#TRYP_PIG|,201.37,52,52,3.94E8,17,17,42,Carbamidomethylation; Oxidation (M),24409,sp|#CONTAM#TRYP_PIG|
+38,101758,ETNP_110,200.34,45,45,9.62E4,14,1,32,Carbamidomethylation,45186,Glutamine synthetase
+28,102022,ETNP_90,189.76,46,46,1.26E7,29,18,39,Oxidation (M),18490,C-phycoerythrin class 2 subunit beta
+20,102369,ETNP_120,189.18,39,39,,35,0,54,Oxidation (M),15617,hypothetical protein
+20,102369,ETNP_120,189.18,39,39,,35,0,54,Oxidation (M),15617,hypothetical protein
+20,102370,ETNP_90,189.18,39,39,,35,0,54,Oxidation (M),15617,hypothetical protein
+20,133862,ETNP_100,189.18,39,39,,35,0,54,Oxidation (M),15617,hypothetical protein
+31,133841,ETNP14_68,187.45,73,73,,20,0,38,Carbamidomethylation; Oxidation (M),15623,Photosystem I reaction center subunit II
+30,133832,ETNP_90,185.03,79,79,8.5E6,20,2,38,Carbamidomethylation; Oxidation (M),15726,Photosystem I reaction center subunit II
+3,167,WP_011130763,183.18,66,66,7.32E6,36,8,64,Oxidation (M),9826,DNA-binding protein Prochlorococcus
+13,101886,ETNP14_68,180.02,87,87,2.77E6,46,8,63,Carbamidomethylation; Oxidation (M),13363,hypothetical protein
+34,133858,ETNP_120,179.75,69,69,,17,0,34,Carbamidomethylation; Oxidation (M),15782,Photosystem I reaction center subunit II
+34,24984,WP_036911259,179.75,69,69,,17,0,34,Carbamidomethylation; Oxidation (M),15782,photosystem I reaction center subunit II Prochlorococcus
+34,24985,WP_011131077,179.75,69,69,,17,0,34,Carbamidomethylation; Oxidation (M),15752,photosystem I protein PsaD Prochlorococcus marinus
+42,101787,ETNP14_68,178.61,92,92,,20,0,30,,10831,10 kDa chaperonin
+42,101784,ETNP_90,178.61,92,92,,20,0,30,,10831,10 kDa chaperonin
+42,101785,ETNP_100,178.61,92,92,,20,0,30,,10831,10 kDa chaperonin
+42,101786,ETNP_110,178.61,92,92,,20,0,30,,10831,10 kDa chaperonin
+42,101788,ETNP_160,178.61,81,81,,20,0,30,,12462,10 kDa chaperonin
+42,101789,ETNP_90,178.61,81,81,,20,0,30,,12462,10 kDa chaperonin
+10,132,XP_003062500,176.38,46,46,5.09E4,63,3,73,Carbamidomethylation; Oxidation (M),49730,alpha tubulin  Micromonas pusilla CCMP1545
+10,133,XP_003058621,176.38,46,46,5.09E4,63,3,73,Carbamidomethylation; Oxidation (M),49730,alpha tubulin  Micromonas pusilla CCMP1545
+37,101938,ETNP14_68,172.39,41,41,1.33E5,25,1,33,Carbamidomethylation,37294,General L-amino acid-binding periplasmic protein AapJ precursor
+12,151,XP_003080933,171.69,39,39,,55,0,65,Carbamidomethylation; Oxidation (M),52460,TBA_CHLVU Tubulin alpha chain ISS  Ostreococcus tauri
+18,101872,CAK24354.1,170.96,65,65,1.28E6,31,3,55,Oxidation (M),9855,DNA-binding protein HU [Synechococcus sp. WH 7803]
+18,101873,ETNP_100,170.96,65,65,1.28E6,31,3,55,Oxidation (M),9840,DNA-binding protein HU
+18,101874,ETNP_140,170.96,65,65,1.28E6,31,3,55,Oxidation (M),9840,DNA-binding protein HU
+18,101875,ETNP_90,170.96,65,65,1.28E6,31,3,55,Oxidation (M),9840,DNA-binding protein HU
+18,304,WP_028952679,170.96,65,65,1.28E6,31,3,55,Oxidation (M),9798,DNA-binding protein Synechococcus
+24,102250,ETNP_100,170.68,50,50,,32,0,47,Carbamidomethylation; Oxidation (M),13968,hypothetical protein
+24,102252,ETNP_120,170.68,50,50,,32,0,47,Carbamidomethylation; Oxidation (M),13968,hypothetical protein
+24,102251,ETNP_90,170.68,50,50,,32,0,47,Carbamidomethylation; Oxidation (M),13968,hypothetical protein
+24,102252,ETNP_120,170.68,50,50,,32,0,47,Carbamidomethylation; Oxidation (M),13968,hypothetical protein
+33,100,WP_011282064,169.58,45,45,,26,0,34,Carbamidomethylation,37685,amino acid ABC transporter substrate-binding protein Candidatus Pelagibacter ubique
+14,152,XP_003082284,169.29,40,40,0E0,54,1,63,Carbamidomethylation; Oxidation (M),50099,TBA_CHLVU Tubulin alpha chain ISS  Ostreococcus tauri
+40,102137,ETNP14_68,168.86,43,43,,24,0,31,Carbamidomethylation,37467,General L-amino acid-binding periplasmic protein AapJ precursor
+44,101833,ETNP_140,168.64,92,92,1.7E6,19,1,29,,10815,10 kDa chaperonin
+44,101834,ETNP_120,168.64,81,81,1.7E6,19,1,29,,12446,10 kDa chaperonin
+44,101835,ETNP_100,168.64,81,81,1.7E6,19,1,29,,12446,10 kDa chaperonin
+49,101753,CAK24425.1,167.59,79,79,,18,0,26,,10774,10 kDa chaperonin (Protein Cpn10) (groES protein) [Synechococcus sp. WH 7803]
+78,21,WP_011127938,164.75,27,27,,12,0,20,,52468,glutamine synthetase Synechococcus sp WH 8102
+22,102172,ETNP14_68,164.05,69,69,4.4E5,33,1,49,Oxidation (M),12780,hypothetical protein
+46,102129,ETNP14_68,160.60,35,35,,21,0,29,Carbamidomethylation,37979,General L-amino acid-binding periplasmic protein AapJ precursor
+81,101760,WP_011823483.1,160.17,21,21,,10,0,19,Carbamidomethylation,52655,type I glutamate--ammonia ligase [Prochlorococcus marinus]
+81,17,WP_038652138,160.17,21,21,,10,0,19,Carbamidomethylation,52654,glutamine synthetase Prochlorococcus sp MIT 0801
+45,101885,ETNP14_120,159.00,36,36,,21,0,29,Carbamidomethylation,37337,General L-amino acid-binding periplasmic protein AapJ precursor
+58,101746,WP_011295315.1,157.64,75,75,,16,0,24,,10877,co-chaperone GroES [Prochlorococcus marinus]
+58,101747,ETNP_70,157.64,75,75,,16,0,24,,10877,10 kDa chaperonin
+58,41,WP_036905521,157.64,75,75,,16,0,24,,10891,chaperonin Prochlorococcus
+71,133860,ETNP14_68,157.60,53,53,1.64E7,17,16,21,,19236,Secreted effector protein pipB2
+53,101939,ETNP14_68,157.55,60,60,,19,0,26,Carbamidomethylation,19715,General L-amino acid-binding periplasmic protein AapJ precursor
+61,101759,ETNP14_68,156.68,79,79,,17,0,24,,10829,10 kDa chaperonin
+47,24970,WP_018047900,154.92,13,13,5.58E6,22,3,27,Oxidation (M),133487,hypothetical protein Nitrospina sp AB-629-B18
+51,133855,NP_100,153.68,38,38,,20,0,26,Carbamidomethylation,35769,General L-amino acid-binding periplasmic protein AapJ precursor
+50,102124,ETNP14_68,153.51,46,46,,20,0,26,Carbamidomethylation,27000,General L-amino acid-binding periplasmic protein AapJ precursor
+56,133838,NP_85,153.32,35,35,,19,0,25,Carbamidomethylation,36415,General L-amino acid-binding periplasmic protein AapJ precursor
+55,102119,ETNP14_68,152.73,55,55,,19,0,25,Carbamidomethylation,22930,General L-amino acid-binding periplasmic protein AapJ precursor
+59,102142,SAR11,152.59,30,30,,17,0,24,Carbamidomethylation,38010,Putative amino-acid ABC transporter-binding protein YhdW
+59,102143,SAR11,152.59,30,30,,17,0,24,Carbamidomethylation,38368,Putative amino-acid ABC transporter-binding protein YhdW
+59,102144,SAR11,152.59,29,29,,17,0,24,Carbamidomethylation,38623,Putative amino-acid ABC transporter-binding protein YhdW
+23,75,WP_011130818,151.95,88,88,,17,0,24,,10889,molecular chaperone GroES Prochlorococcus
+23,101791,ETNP_90,151.95,88,88,,17,0,24,,10889,10 kDa chaperonin
+64,101793,ETNP_90,151.02,88,88,,16,0,23,,10903,10 kDa chaperonin
+48,101934,ETNP14_120,150.65,35,35,,19,0,27,Carbamidomethylation,37413,General L-amino acid-binding periplasmic protein AapJ precursor
+70,101773,ETNP_120,149.85,75,75,,14,0,21,,10831,10 kDa chaperonin
+70,101772,ETNP14_68,149.85,75,75,,14,0,21,,10831,10 kDa chaperonin
+57,102130,ETNP14_120,149.76,31,31,,17,0,24,Carbamidomethylation,37502,General L-amino acid-binding periplasmic protein AapJ precursor
+99,133864,ETNP_100,149.42,27,27,,14,0,15,Carbamidomethylation,30921,General L-amino acid-binding periplasmic protein AapJ precursor
+74,101730,ETNP_100,149.36,22,22,3.94E6,17,5,20,,57358,60 kDa chaperonin 1
+74,101731,ETNP_90,149.36,22,22,3.94E6,17,5,20,,57358,60 kDa chaperonin 1
+74,101728,ETNP_90,149.36,22,22,3.94E6,17,5,20,,57387,60 kDa chaperonin 1
+74,101729,ETNP_120,149.36,22,22,3.94E6,17,5,20,,57387,60 kDa chaperonin 1
+60,101933,SAR11,148.92,32,32,,17,0,24,Carbamidomethylation,37561,Putative amino-acid ABC transporter-binding protein YhdW
+65,101841,ETNP_90,148.50,23,23,,11,0,23,Carbamidomethylation,52721,Glutamine synthetase
+36,493,WP_038548030,147.83,44,44,,23,0,33,Carbamidomethylation,12865,AbrB family transcriptional regulator Synechococcus sp KORDI-100
+63,101817,CAK22918.1,147.24,35,35,2.51E6,18,8,23,,17825,C-phycoerythrin class II alpha chain [Synechococcus sp. WH 7803]
+54,133842,NP_85,146.03,40,40,1.08E7,21,9,25,Carbamidomethylation; Oxidation (M),49419,Selenate reductase subunit beta
+54,133843,ETNP14_68,146.03,40,40,1.08E7,21,9,25,Carbamidomethylation; Oxidation (M),49437,Selenate reductase subunit beta
+54,24976,WP_018047899,146.03,40,40,1.08E7,21,9,25,Carbamidomethylation; Oxidation (M),49419,hypothetical protein Nitrospina sp AB-629-B18
+85,102167,ETNP14_120,145.97,58,58,5.82E5,15,1,17,Carbamidomethylation,19778,General L-amino acid-binding periplasmic protein AapJ precursor
+68,133852,ETNP14_68,145.70,35,35,,16,0,22,Carbamidomethylation,32890,General L-amino acid-binding periplasmic protein AapJ precursor
+62,102462,ETNP14_68,143.86,48,48,1.16E7,17,13,23,Carbamidomethylation,27433,Photosystem II manganese-stabilizing polypeptide precursor
+72,133863,ETNP14_120,143.17,47,47,,15,0,21,Carbamidomethylation,22916,General L-amino acid-binding periplasmic protein AapJ precursor
+88,133839,ETNP14_68,142.38,49,49,1.18E7,12,9,17,Carbamidomethylation; Oxidation (M),16351,hypothetical protein
+82,25099,WP_036913959,141.99,42,42,1.83E6,10,1,18,,13062,photosystem II complex extrinsic protein precursor U Prochlorococcus
+39,102221,WP_011376129.1,139.62,63,63,,22,0,31,Carbamidomethylation; Oxidation (M),12506,AbrB family transcriptional regulator [Prochlorococcus marinus]
+52,461,XP_002180656,137.00,20,20,6.92E4,25,2,26,Carbamidomethylation; Oxidation (M),49747,predicted protein  Phaeodactylum tricornutum CCAP 1055
+75,252,WP_027307190,136.37,23,23,0E0,13,1,20,Carbamidomethylation,37246,amino acid ABC transporter substrate-binding protein Candidatus Pelagibacter ubique
+76,101863,ETNP_100,135.72,79,79,5.86E5,17,3,20,Oxidation (M),10550,Major carboxysome shell protein 1A
+76,101864,ETNP_90,135.72,79,79,5.86E5,17,3,20,Oxidation (M),10550,Major carboxysome shell protein 1A
+43,101811,ETNP_100,134.56,77,77,1.58E7,25,16,29,Oxidation (M),14624,Tubulin/FtsZ family  GTPase domain
+92,133876,ETNP_120,134.30,17,17,2.6E6,10,1,16,,39122,Chlorate reductase subunit gamma precursor
+87,101895,CAK23773.1,134.16,22,22,,12,0,17,,52509,Glutamine synthetase  glutamate ammonia ligase [Synechococcus sp. WH 7803]
+89,101790,WP_011376435.1,132.35,22,22,,11,0,17,,52810,type I glutamate--ammonia ligase [Prochlorococcus marinus]
+77,101859,ETNP_90,131.64,79,79,1.08E6,16,2,20,Oxidation (M),10552,Major carboxysome shell protein 1A
+77,133877,ETNP_120,131.64,79,79,1.08E6,16,2,20,Oxidation (M),10552,Major carboxysome shell protein 1A
+77,101862,ETNP14_68,131.64,79,79,1.08E6,16,2,20,Oxidation (M),10552,Major carboxysome shell protein 1A
+77,133878,ETNP_100,131.64,79,79,1.08E6,16,2,20,Oxidation (M),10552,Major carboxysome shell protein 1A
+77,101860,ETNP_160,131.64,79,79,1.08E6,16,2,20,Oxidation (M),10552,Major carboxysome shell protein 1A
+77,101865,ETNP_110,131.64,79,79,1.08E6,16,2,20,Oxidation (M),10552,Major carboxysome shell protein 1A
+100,133888,ETNP14_68,130.89,51,51,1.02E5,12,1,15,Carbamidomethylation,15614,Photosystem I reaction center subunit II
+79,133871,NP_85,129.93,15,15,2.78E4,16,1,19,Oxidation (M),95451,Perchlorate reductase subunit alpha precursor
+79,133872,ETNP14_120,129.93,15,15,2.78E4,16,1,19,Oxidation (M),96721,Perchlorate reductase subunit alpha precursor
+98,133866,ETNP14_120,129.10,26,26,2.74E5,11,2,15,Oxidation (M),32866,Ethylbenzene dehydrogenase
+111,134016,ETNP_100,128.05,59,59,3.9E6,11,2,13,,8598,Acyl carrier protein
+111,134017,ETNP14_68,128.05,59,59,3.9E6,11,2,13,,8598,Acyl carrier protein
+111,134018,ETNP_160,128.05,53,53,3.9E6,11,2,13,,9468,Acyl carrier protein
+111,134019,ETNP_140,128.05,53,53,3.9E6,11,2,13,,9498,Acyl carrier protein
+111,134020,ETNP_90,128.05,53,53,3.9E6,11,2,13,,9498,Acyl carrier protein
+80,102096,ETNP_120,125.57,48,48,,16,0,19,Carbamidomethylation; Oxidation (M),14995,hypothetical protein
+80,102097,ETNP_120,125.57,46,46,,16,0,19,Carbamidomethylation; Oxidation (M),15516,hypothetical protein
+67,133918,CAK24629.1,125.43,32,32,,12,0,22,Oxidation (M),13898,Photosystem II 12 kDa extrinsic PsbU protein [Synechococcus sp. WH 7803]
+157,133853,ETNP_100,125.30,36,36,4.82E6,6,1,8,Carbamidomethylation,23940,Photosystem I reaction center subunit III precursor
+86,133988,ETNP_100,123.29,34,34,3.34E6,15,8,17,Carbamidomethylation,16306,hypothetical protein
+69,134309,CAK22623.1,123.26,40,40,5.54E6,10,1,11,,8641,Acyl carrier protein [Synechococcus sp. WH 7803]
+69,25692,WP_007099572,123.26,40,40,5.54E6,10,1,11,,8641,acyl carrier protein Synechococcus
+69,134310,ETNP_120,123.26,40,40,5.54E6,10,1,11,,8658,Acyl carrier protein
+69,25694,WP_011131320,123.26,40,40,5.54E6,10,1,11,,8658,acyl carrier protein Prochlorococcus
+69,134311,ETNP_100,123.26,36,36,5.54E6,10,1,11,,9548,Acyl carrier protein
+69,134312,NP_30,123.26,36,36,5.54E6,10,1,11,,9512,Acyl carrier protein
+69,134313,ETNP_90,123.26,36,36,5.54E6,10,1,11,,9518,Acyl carrier protein
+69,134314,NP_85,123.26,36,36,5.54E6,10,1,11,,9548,Acyl carrier protein
+69,134315,ETNP_110,123.26,36,36,5.54E6,10,1,11,,9548,Acyl carrier protein
+69,134316,ETNP14_68,123.26,36,36,5.54E6,10,1,11,,9503,Acyl carrier protein
+69,134317,ETNP_120,123.26,36,36,5.54E6,10,1,11,,9503,Acyl carrier protein
+69,134318,ETNP_90,123.26,36,36,5.54E6,10,1,11,,9548,Acyl carrier protein
+69,134319,ETNP_120,123.26,36,36,5.54E6,10,1,11,,9548,Acyl carrier protein
+137,133887,NP_85,122.51,24,24,1.95E6,7,3,9,,28964,Ethylbenzene dehydrogenase
+21,106,WP_006169870,122.17,75,75,2.65E5,15,1,18,Oxidation (M),10584,carbon dioxide-concentrating mechanism protein CcmK Cyanobacteria
+66,339,WP_038543623,121.07,40,40,,17,0,22,Carbamidomethylation; Oxidation (M),12811,AbrB family transcriptional regulator Synechococcus sp KORDI-100
+167,134490,ETNP_90,120.64,16,16,4.62E6,4,2,7,Oxidation (M),12305,Plastocyanin precursor
+95,102497,ETNP_90,120.55,65,65,,10,0,15,Carbamidomethylation; Oxidation (M),8876,Photosystem I iron-sulfur center
+106,102100,ETNP14_68,120.10,37,37,3.65E6,11,6,13,,28050,Photosystem II manganese-stabilizing polypeptide precursor
+41,102312,ETNP_70,119.45,57,57,,10,0,15,Carbamidomethylation; Oxidation (M),8842,Photosystem I iron-sulfur center
+41,102315,ETNP14_68,119.45,57,57,,10,0,15,Carbamidomethylation; Oxidation (M),8842,Photosystem I iron-sulfur center
+41,718,WP_006850103,119.45,57,57,,10,0,15,Carbamidomethylation; Oxidation (M),8842,photosystem I iron-sulfur center Chroococcales
+41,102316,ETNP14_68,119.45,57,57,,10,0,15,Carbamidomethylation; Oxidation (M),8842,Photosystem I iron-sulfur center
+103,101726,WP_011377072.1,118.71,17,17,,13,0,14,,57653,molecular chaperone GroEL [Prochlorococcus marinus]
+103,1,WP_042850982,118.71,17,17,,13,0,14,,57654,molecular chaperone GroEL Prochlorococcus sp MIT 0604
+103,101727,WP_011133065.1,118.71,17,17,,13,0,14,,57441,molecular chaperone GroEL [Prochlorococcus marinus]
+83,102231,ETNP_110,118.04,77,77,4.61E6,10,1,17,Carbamidomethylation; Oxidation (M),8846,Photosystem I iron-sulfur center
+83,134062,ETNP_100,118.04,77,77,4.61E6,10,1,17,Carbamidomethylation; Oxidation (M),8846,Photosystem I iron-sulfur center
+83,102233,ETNP_90,118.04,77,77,4.61E6,10,1,17,Carbamidomethylation; Oxidation (M),8846,Photosystem I iron-sulfur center
+83,102233,ETNP_90,118.04,77,77,4.61E6,10,1,17,Carbamidomethylation; Oxidation (M),8846,Photosystem I iron-sulfur center
+83,102232,ETNP14_68,118.04,77,77,4.61E6,10,1,17,Carbamidomethylation; Oxidation (M),8846,Photosystem I iron-sulfur center
+83,134062,ETNP_100,118.04,77,77,4.61E6,10,1,17,Carbamidomethylation; Oxidation (M),8846,Photosystem I iron-sulfur center
+105,25018,WP_042251421,117.10,9,9,0E0,12,1,13,,131969,nitrate oxidoreductase subunit alpha  partial Nitrospina gracilis
+91,152310,ETNP_110,115.97,40,40,8.12E4,13,1,16,Carbamidomethylation; Oxidation (M),25167,Dimethylsulfide dehydrogenase subunit beta
+185,134209,ETNP_120,114.47,15,15,8.02E6,4,4,6,,24509,hypothetical protein
+127,133903,ETNP_100,113.87,29,29,1.02E6,7,2,10,Oxidation (M),21395,Ethylbenzene dehydrogenase
+156,134254,ETNP_100,112.41,27,27,3.5E6,6,3,8,,12390,Nitrogen regulatory protein P-II
+156,134255,ETNP_90,112.41,27,27,3.5E6,6,3,8,,12390,Nitrogen regulatory protein P-II
+156,134256,ETNP_120,112.41,27,27,3.5E6,6,3,8,,12390,Nitrogen regulatory protein P-II
+156,25562,WP_011130849,112.41,27,27,3.5E6,6,3,8,,12362,nitrogen regulatory protein P-II Prochlorococcus marinus
+156,134257,NP_85,112.41,27,27,3.5E6,6,3,8,,12376,Nitrogen regulatory protein P-II
+156,134254,ETNP_100,112.41,27,27,3.5E6,6,3,8,,12390,Nitrogen regulatory protein P-II
+156,134259,ETNP_120,112.41,27,27,3.5E6,6,3,8,,12376,Nitrogen regulatory protein P-II
+156,134260,ETNP_100,112.41,27,27,3.5E6,6,3,8,,12376,Nitrogen regulatory protein P-II
+156,134261,ETNP_90,112.41,27,27,3.5E6,6,3,8,,12376,Nitrogen regulatory protein P-II
+156,134262,ETNP14_68,112.41,27,27,3.5E6,6,3,8,,12376,Nitrogen regulatory protein P-II
+156,25563,WP_036911385,112.41,27,27,3.5E6,6,3,8,,12390,nitrogen regulatory protein P-II Prochlorococcus
+101,102313,WP_007099573.1,111.51,57,57,,9,0,14,Carbamidomethylation; Oxidation (M),8828,MULTISPECIES: photosystem I iron-sulfur center protein PsaC [Synechococcales]
+101,102314,NP_30,111.51,57,57,,9,0,14,Carbamidomethylation; Oxidation (M),8828,Photosystem I iron-sulfur center
+101,697,WP_007099573,111.51,57,57,,9,0,14,Carbamidomethylation; Oxidation (M),8828,photosystem I iron-sulfur center Cyanobacteria
+101,698,WP_006172463,111.51,57,57,,9,0,14,Carbamidomethylation; Oxidation (M),8844,photosystem I iron-sulfur center Synechococcus sp WH 5701
+161,134065,ETNP14_68,111.32,18,18,,6,0,8,Carbamidomethylation,24962,General L-amino acid-binding periplasmic protein AapJ precursor
+96,102334,ETNP_100,110.73,74,74,5.34E5,13,2,15,Oxidation (M),8411,hypothetical protein
+97,133880,ETNP_120,109.65,79,79,3.21E7,9,9,15,,5091,hypothetical protein
+160,102610,NP_85,109.60,27,27,1.41E6,4,1,8,,17602,30S ribosomal protein S7
+160,102609,ETNP_160,109.60,32,32,1.41E6,4,1,8,,14820,30S ribosomal protein S7
+160,102612,ETNP_100,109.60,27,27,1.41E6,4,1,8,,17558,30S ribosomal protein S7
+164,133909,ETNP_120,109.36,24,24,6.28E6,5,5,8,,28624,hypothetical protein
+125,102662,ETNP_90,108.96,18,18,2.68E6,8,8,10,,36689,Glyceraldehyde-3-phosphate dehydrogenase 2
+125,102663,ETNP14_68,108.96,18,18,2.68E6,8,8,10,,36689,Glyceraldehyde-3-phosphate dehydrogenase 2
+125,203425,ETNP_100,108.96,18,18,2.68E6,8,8,10,,36256,Glyceraldehyde-3-phosphate dehydrogenase 2
+125,1070,WP_036913110,108.96,18,18,2.68E6,8,8,10,,36764,glyceraldehyde-3-phosphate dehydrogenase Prochlorococcus
+125,1072,WP_041384819,108.96,18,18,2.68E6,8,8,10,,36707,glyceraldehyde-3-phosphate dehydrogenase Prochlorococcus marinus
+125,203426,ETNP_120,108.96,18,18,2.68E6,8,8,10,,36589,Glyceraldehyde-3-phosphate dehydrogenase 2
+102,152266,ETNP_120,107.38,45,45,5.93E6,10,8,14,Oxidation (M),19139,C-phycoerythrin class 1 subunit beta
+102,152266,ETNP_120,107.38,45,45,5.93E6,10,8,14,Oxidation (M),19139,C-phycoerythrin class 1 subunit beta
+102,152268,ETNP_100,107.38,45,45,5.93E6,10,8,14,Oxidation (M),19139,C-phycoerythrin class 1 subunit beta
+109,102423,ETNP_120,106.86,60,60,1.42E6,13,5,13,Carbamidomethylation; Oxidation (M),17863,C-phycoerythrin class 1 subunit alpha
+109,102425,ETNP_100,106.86,60,60,1.42E6,13,5,13,Carbamidomethylation; Oxidation (M),17863,C-phycoerythrin class 1 subunit alpha
+109,102424,ETNP_140,106.86,60,60,1.42E6,13,5,13,Carbamidomethylation; Oxidation (M),17863,C-phycoerythrin class 1 subunit alpha
+109,102423,ETNP_120,106.86,60,60,1.42E6,13,5,13,Carbamidomethylation; Oxidation (M),17863,C-phycoerythrin class 1 subunit alpha
+115,133953,ETNP_140,106.76,53,53,6.54E6,7,2,12,Carbamidomethylation,10557,Ferredoxin-1
+115,133954,NP_85,106.76,53,53,6.54E6,7,2,12,Carbamidomethylation,10557,Ferredoxin-1
+115,133955,ETNP_120,106.76,53,53,6.54E6,7,2,12,Carbamidomethylation,10557,Ferredoxin-1
+115,133956,ETNP_100,106.76,53,53,6.54E6,7,2,12,Carbamidomethylation,10557,Ferredoxin-1
+115,133957,ETNP_110,106.76,53,53,6.54E6,7,2,12,Carbamidomethylation,10557,Ferredoxin-1
+186,133884,ETNP_90,106.32,32,32,8.72E5,5,4,6,,20410,hypothetical protein
+186,133885,ETNP_120,106.32,29,29,8.72E5,5,4,6,,22196,hypothetical protein
+262,134072,|#CONTAM#K1C9_HUMAN|,106.32,15,15,9.56E5,4,4,4,,62129,sp|#CONTAM#K1C9_HUMAN|
+133,133969,ETNP_120,106.09,19,19,1.06E6,6,3,9,Carbamidomethylation; Oxidation (M),47218,Aliphatic amidase expression-regulating protein
+133,133970,ETNP_90,106.09,19,19,1.06E6,6,3,9,Carbamidomethylation; Oxidation (M),47219,Aliphatic amidase expression-regulating protein
+133,133971,ETNP_100,106.09,19,19,1.06E6,6,3,9,Carbamidomethylation; Oxidation (M),47252,Aliphatic amidase expression-regulating protein
+110,133896,ETNP14_68,105.87,46,46,3.01E6,13,10,13,Carbamidomethylation,15535,hypothetical protein
+110,133897,NP_85,105.87,42,42,3.01E6,13,10,13,Carbamidomethylation,17070,hypothetical protein
+110,133898,ETNP14_120,105.87,41,41,3.01E6,13,10,13,Carbamidomethylation,17527,hypothetical protein
+110,133899,ETNP_120,105.87,41,41,3.01E6,13,10,13,Carbamidomethylation,17527,hypothetical protein
+129,230666,NP_85,105.23,20,20,5.03E6,9,8,9,,34628,Divinyl chlorophyll a/b light-harvesting protein PcbB
+129,230667,ETNP_90,105.23,18,18,5.03E6,9,8,9,,38538,Divinyl chlorophyll a/b light-harvesting protein PcbB
+129,230668,NP_85,105.23,18,18,5.03E6,9,8,9,,38586,Divinyl chlorophyll a/b light-harvesting protein PcbB
+122,134038,ETNP_140,105.21,31,31,1.37E6,8,1,10,Carbamidomethylation; Oxidation (M),11493,RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)
+122,134039,ETNP14_68,105.21,30,30,1.37E6,8,1,10,Carbamidomethylation; Oxidation (M),11721,RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)
+122,134042,ETNP_110,105.21,31,31,1.37E6,8,1,10,Carbamidomethylation; Oxidation (M),12110,RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)
+122,25226,WP_011130453,105.21,30,30,1.37E6,8,1,10,Carbamidomethylation; Oxidation (M),11828,RNA-binding protein Prochlorococcus marinus
+171,133931,ETNP_100,105.14,28,28,3.49E5,7,3,7,,33083,Fructose-bisphosphate aldolase class 2
+171,133932,ETNP_120,105.14,27,27,3.49E5,7,3,7,,34130,Fructose-bisphosphate aldolase class 2
+171,133933,ETNP_100,105.14,25,25,3.49E5,7,3,7,,37818,Fructose-bisphosphate aldolase class 2
+171,133934,ETNP_90,105.14,25,25,3.49E5,7,3,7,,37818,Fructose-bisphosphate aldolase class 2
+93,323,WP_011130499,104.76,49,49,7.05E6,8,8,8,Oxidation (M),11592,thioredoxin Prochlorococcus
+193,133904,ETNP_110,104.56,32,32,,4,0,6,Carbamidomethylation,18507,Photosystem I reaction center subunit III precursor
+193,133905,ETNP_140,104.56,32,32,,4,0,6,Carbamidomethylation,18507,Photosystem I reaction center subunit III precursor
+193,133906,NP_85,104.56,32,32,,4,0,6,Carbamidomethylation,18507,Photosystem I reaction center subunit III precursor
+116,101979,ETNP_90,104.09,46,46,7.78E6,9,8,12,Oxidation (M),13144,50S ribosomal protein L7/L12
+116,101976,ETNP_120,104.09,46,46,7.78E6,9,8,12,Oxidation (M),13144,50S ribosomal protein L7/L12
+116,101977,ETNP_100,104.09,46,46,7.78E6,9,8,12,Oxidation (M),13144,50S ribosomal protein L7/L12
+116,101980,ETNP_110,104.09,46,46,7.78E6,9,8,12,Oxidation (M),13144,50S ribosomal protein L7/L12
+116,101977,ETNP_100,104.09,46,46,7.78E6,9,8,12,Oxidation (M),13144,50S ribosomal protein L7/L12
+112,134040,ETNP_120,104.03,59,59,1.73E7,9,9,13,,7159,hypothetical protein
+148,134133,ETNP_120,103.98,40,40,8.19E6,4,4,8,,6863,hypothetical protein
+150,101749,NP_30,103.75,50,50,,6,0,8,,10731,10 kDa chaperonin
+150,101751,WP_011133066.1,103.75,50,50,,6,0,8,,10789,co-chaperone GroES [Prochlorococcus marinus]
+150,45,WP_002806275,103.75,50,50,,6,0,8,,10761,molecular chaperone GroES Prochlorococcus
+150,101750,WP_011377073.1,103.75,50,50,,6,0,8,,10731,MULTISPECIES: co-chaperone GroES [Prochlorococcus]
+172,134051,ETNP_100,103.68,7,7,5.53E6,4,4,7,Carbamidomethylation,81826,Photosystem I P700 chlorophyll a apoprotein A2
+172,25074,WP_036912722,103.68,7,7,5.53E6,4,4,7,Carbamidomethylation,83193,photosystem I P700 chlorophyll a apoprotein A2 Prochlorococcus
+172,134052,NP_85,103.68,7,7,5.53E6,4,4,7,Carbamidomethylation,83226,Photosystem I P700 chlorophyll a apoprotein A2
+107,133921,ETNP_100,103.12,41,41,,12,0,13,Carbamidomethylation; Oxidation (M),17714,hypothetical protein
+174,134007,ETNP_140,102.62,9,9,3.45E6,3,3,7,,50603,Ribulose bisphosphate carboxylase
+174,134008,ETNP_90,102.62,9,9,3.45E6,3,3,7,,50603,Ribulose bisphosphate carboxylase
+174,134009,ETNP_100,102.62,9,9,3.45E6,3,3,7,,50603,Ribulose bisphosphate carboxylase
+174,134010,ETNP_160,102.62,9,9,3.45E6,3,3,7,,50637,Ribulose bisphosphate carboxylase
+174,134009,ETNP_100,102.62,9,9,3.45E6,3,3,7,,50603,Ribulose bisphosphate carboxylase
+174,134012,ETNP14_68,102.62,9,9,3.45E6,3,3,7,,50635,Ribulose bisphosphate carboxylase
+174,134013,ETNP_110,102.62,9,9,3.45E6,3,3,7,,50603,Ribulose bisphosphate carboxylase
+131,134043,ETNP_120,102.44,29,29,4.94E5,8,1,9,Oxidation (M),11847,RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)
+200,134045,ETNP_120,101.19,37,37,1.19E6,5,5,6,Carbamidomethylation,22724,Pentapeptide repeats (8 copies)
+200,134046,ETNP_120,101.19,30,30,1.19E6,5,5,6,Carbamidomethylation,27881,Pentapeptide repeats (8 copies)
+200,134047,ETNP_90,101.19,29,29,1.19E6,5,5,6,Carbamidomethylation,29028,Pentapeptide repeats (8 copies)
+200,134048,ETNP_100,101.19,29,29,1.19E6,5,5,6,Carbamidomethylation,29028,Pentapeptide repeats (8 copies)
+73,242,XP_003056479,100.99,26,26,,18,0,20,Carbamidomethylation; Oxidation (M),49615,beta tubulin  Micromonas pusilla CCMP1545
+145,26,WP_011819053,99.56,18,18,9.94E5,8,5,8,Oxidation (M),52183,ATP synthase subunit beta Prochlorococcus
+145,101740,WP_011377074.1,99.56,18,18,9.94E5,8,5,8,Oxidation (M),52199,ATP synthase subunit beta [Prochlorococcus marinus]
+145,101763,WP_011133067.1,99.56,18,18,9.94E5,8,5,8,Oxidation (M),51980,ATP synthase subunit beta [Prochlorococcus marinus]
+145,101745,CAK24426.1,99.56,18,18,9.94E5,8,5,8,Oxidation (M),51867,ATP synthase beta chain [Synechococcus sp. WH 7803]
+145,101755,WP_011824380.1,99.56,18,18,9.94E5,8,5,8,Oxidation (M),52209,ATP synthase subunit beta [Prochlorococcus marinus]
+145,27,WP_038654074,99.56,18,18,9.94E5,8,5,8,Oxidation (M),52254,ATP F0F1 synthase subunit beta Prochlorococcus sp MIT 0801
+136,230706,ETNP14_120,99.48,73,73,9.32E5,8,1,9,Carbamidomethylation,4575,hypothetical protein
+117,25033,WP_018047897,99.37,20,20,1.16E5,9,1,11,Oxidation (M),36029,hypothetical protein Nitrospina sp AB-629-B18
+84,663,XP_003074279,98.29,22,22,,16,0,17,Carbamidomethylation; Oxidation (M),52955,TBB1_VOLCA Tubulin beta chain ISS  Ostreococcus tauri
+154,134006,ETNP_90,98.20,39,39,9.42E4,5,2,8,Carbamidomethylation; Oxidation (M),24636,Aliphatic amidase expression-regulating protein
+309,134267,ETNP_120,98.01,28,28,4.67E6,2,2,3,,12564,hypothetical protein
+104,102611,ETNP_90,97.56,27,27,4.8E4,4,1,7,,17572,30S ribosomal protein S7
+104,1243,WP_011131147,97.56,27,27,4.8E4,4,1,7,,17572,30S ribosomal protein S7 Prochlorococcus
+249,103754,ETNP_100,97.53,6,6,3.03E5,4,4,4,Carbamidomethylation,84210,Carboxysome shell peptide mid-region
+249,103755,ETNP_100,97.53,6,6,3.03E5,4,4,4,Carbamidomethylation,84240,Carboxysome shell peptide mid-region
+194,133907,ETNP_160,97.51,32,32,,4,0,6,Carbamidomethylation,18547,Photosystem I reaction center subunit III precursor
+194,133908,ETNP_90,97.51,32,32,,4,0,6,Carbamidomethylation,18547,Photosystem I reaction center subunit III precursor
+191,134629,ETNP_100,97.28,19,19,4E5,6,6,6,Carbamidomethylation,10766,CP12 domain protein
+191,134631,ETNP_90,97.28,19,19,4E5,6,6,6,Carbamidomethylation,10766,CP12 domain protein
+191,134632,ETNP14_68,97.28,19,19,4E5,6,6,6,Carbamidomethylation,10766,CP12 domain protein
+191,134629,ETNP_100,97.28,19,19,4E5,6,6,6,Carbamidomethylation,10766,CP12 domain protein
+191,134636,ETNP_110,97.28,19,19,4E5,6,6,6,Carbamidomethylation,10766,CP12 domain protein
+191,26128,WP_011825073,97.28,25,25,4E5,6,6,6,Carbamidomethylation,8398,hypothetical protein Prochlorococcus
+191,134624,ETNP_120,97.28,25,25,4E5,6,6,6,Carbamidomethylation,8398,CP12 domain protein
+191,26130,WP_011130909,97.28,25,25,4E5,6,6,6,Carbamidomethylation,8412,hypothetical protein Prochlorococcus marinus
+191,134625,ETNP_120,97.28,25,25,4E5,6,6,6,Carbamidomethylation,8327,CP12 domain protein
+191,134626,ETNP_110,97.28,19,19,4E5,6,6,6,Carbamidomethylation,10616,CP12 domain protein
+191,134627,ETNP_100,97.28,19,19,4E5,6,6,6,Carbamidomethylation,10616,CP12 domain protein
+191,134628,ETNP_90,97.28,19,19,4E5,6,6,6,Carbamidomethylation,10616,CP12 domain protein
+191,134630,ETNP_120,97.28,19,19,4E5,6,6,6,Carbamidomethylation,10616,CP12 domain protein
+191,134630,ETNP_120,97.28,19,19,4E5,6,6,6,Carbamidomethylation,10616,CP12 domain protein
+191,134627,ETNP_100,97.28,19,19,4E5,6,6,6,Carbamidomethylation,10616,CP12 domain protein
+231,134158,ETNP14_120,96.85,36,36,2.7E6,5,3,5,,10489,10 kDa chaperonin
+126,25014,WP_011131137,95.28,7,7,9.65E6,6,6,10,Carbamidomethylation,84981,photosystem I P700 chlorophyll a apoprotein A1 Prochlorococcus marinus
+126,25015,WP_036912725,95.28,7,7,9.65E6,6,6,10,Carbamidomethylation,85008,photosystem I P700 chlorophyll a apoprotein A1 Prochlorococcus
+119,133958,ETNP_110,94.97,53,53,5.33E6,7,2,10,Carbamidomethylation,10602,Ferredoxin
+119,133959,ETNP_120,94.97,53,53,5.33E6,7,2,10,Carbamidomethylation,10602,Ferredoxin
+119,133959,ETNP_120,94.97,53,53,5.33E6,7,2,10,Carbamidomethylation,10602,Ferredoxin
+119,133961,ETNP_100,94.97,53,53,5.33E6,7,2,10,Carbamidomethylation,10602,Ferredoxin
+119,133962,ETNP_140,94.97,53,53,5.33E6,7,2,10,Carbamidomethylation,10602,Ferredoxin
+119,133963,ETNP_90,94.97,53,53,5.33E6,7,2,10,Carbamidomethylation,10602,Ferredoxin
+119,133961,ETNP_100,94.97,53,53,5.33E6,7,2,10,Carbamidomethylation,10602,Ferredoxin
+119,133959,ETNP_120,94.97,53,53,5.33E6,7,2,10,Carbamidomethylation,10602,Ferredoxin
+168,133975,ETNP_120,94.85,72,72,3.33E5,6,1,7,Oxidation (M),11385,hypothetical protein
+168,133976,ETNP_100,94.85,72,72,3.33E5,6,1,7,Oxidation (M),11385,hypothetical protein
+168,133977,ETNP_110,94.85,72,72,3.33E5,6,1,7,Oxidation (M),11385,hypothetical protein
+124,134000,ETNP_110,94.18,19,19,,8,0,10,,34468,Chlorate reductase subunit gamma precursor
+124,134001,ETNP14_120,94.18,18,18,,8,0,10,,36320,Chlorate reductase subunit gamma precursor
+124,134002,ETNP_100,94.18,18,18,,8,0,10,,36380,Chlorate reductase subunit gamma precursor
+124,134003,NP_85,94.18,18,18,,8,0,10,,36412,Chlorate reductase subunit gamma precursor
+217,133986,ETNP_100,94.13,79,79,7.77E5,4,2,5,,6791,hypothetical protein
+237,134288,ETNP_90,94.08,28,28,4.78E5,5,1,5,Carbamidomethylation,11572,Photosystem I reaction center subunit II
+237,134289,ETNP_100,94.08,20,20,4.78E5,5,1,5,Carbamidomethylation,15899,Photosystem I reaction center subunit II
+237,134290,ETNP_120,94.08,20,20,4.78E5,5,1,5,Carbamidomethylation,15899,Photosystem I reaction center subunit II
+94,134027,ETNP_100,93.90,33,33,,13,0,15,Carbamidomethylation,30242,hypothetical protein
+94,134028,ETNP_120,93.90,29,29,,13,0,15,Carbamidomethylation,34262,hypothetical protein
+159,101964,ETNP_160,93.77,18,18,3.99E5,6,2,8,,43606,Elongation factor Tu
+159,101965,NP_85,93.77,18,18,3.99E5,6,2,8,,43606,Elongation factor Tu
+159,101966,ETNP14_68,93.77,18,18,3.99E5,6,2,8,,43606,Elongation factor Tu
+159,101967,ETNP_110,93.77,18,18,3.99E5,6,2,8,,43650,Elongation factor Tu
+187,230674,ETNP_120,93.28,51,51,3.46E6,4,4,6,Carbamidomethylation,9360,hypothetical protein
+187,230675,ETNP_100,93.28,51,51,3.46E6,4,4,6,Carbamidomethylation,9360,hypothetical protein
+187,230676,ETNP_120,93.28,51,51,3.46E6,4,4,6,Carbamidomethylation,9300,hypothetical protein
+151,94,WP_011128874,92.65,32,32,,8,0,8,Carbamidomethylation,17817,bleomycin hydrolase Synechococcus
+142,219,WP_011130835,92.19,12,12,,7,0,9,,54046,ATP synthase subunit alpha Prochlorococcus marinus
+142,394,WP_011825158,92.19,12,12,,7,0,9,,53980,ATP synthase subunit alpha Prochlorococcus
+158,133985,ETNP_120,91.97,60,60,1.43E6,6,5,8,Oxidation (M),13780,hypothetical protein
+152,230903,ETNP_90,91.94,28,28,4.72E6,3,3,8,,10026,hypothetical protein
+152,230904,ETNP_100,91.94,28,28,4.72E6,3,3,8,,10026,hypothetical protein
+152,230905,ETNP_110,91.94,28,28,4.72E6,3,3,8,,10053,hypothetical protein
+219,134223,|#CONTAM#K2C1_HUMAN|,91.83,9,9,2.85E6,4,4,5,Carbamidomethylation,65886,sp|#CONTAM#K2C1_HUMAN|
+278,133967,ETNP_120,91.80,12,12,5.37E4,4,1,4,,39611,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+118,212,EJK63755,91.80,10,10,1.05E6,10,2,11,Oxidation (M),39773,hypothetical protein THAOC_15573 partial  Thalassiosira oceanica
+118,208,XP_002179286,91.80,38,38,1.05E6,10,2,11,Oxidation (M),11383,histone H4 isoform 1b  Phaeodactylum tricornutum CCAP 1055
+118,209,EJK69577,91.80,38,38,1.05E6,10,2,11,Oxidation (M),11383,hypothetical protein THAOC_09145  Thalassiosira oceanica
+118,210,XP_002179505,91.80,38,38,1.05E6,10,2,11,Oxidation (M),11383,histone H4 isoform 1a  Phaeodactylum tricornutum CCAP 1055
+118,211,EJK72475,91.80,33,33,1.05E6,10,2,11,Oxidation (M),13036,hypothetical protein THAOC_05990  Thalassiosira oceanica
+149,348,WP_038543222,91.05,30,30,,8,0,8,,17821,bleomycin hydrolase Synechococcus sp KORDI-100
+114,224,XP_003063038,90.36,47,47,4.03E6,11,3,12,Oxidation (M),11395,predicted protein  Micromonas pusilla CCMP1545
+114,102042,ETNP_70,90.36,47,47,4.03E6,11,3,12,Oxidation (M),11395,Core histone H2A/H2B/H3/H4
+114,226,XP_003061514,90.36,47,47,4.03E6,11,3,12,Oxidation (M),11395,histone H4  Micromonas pusilla CCMP1545
+114,102039,ETNP_120,90.36,47,47,4.03E6,11,3,12,Oxidation (M),11365,Core histone H2A/H2B/H3/H4
+114,228,XP_003061756,90.36,47,47,4.03E6,11,3,12,Oxidation (M),11395,predicted protein  Micromonas pusilla CCMP1545
+114,229,XP_003059520,90.36,47,47,4.03E6,11,3,12,Oxidation (M),11395,predicted protein  Micromonas pusilla CCMP1545
+202,102827,ETNP_100,90.36,17,17,2.62E6,3,3,6,Carbamidomethylation,23304,50S ribosomal protein L3
+202,102827,ETNP_100,90.36,17,17,2.62E6,3,3,6,Carbamidomethylation,23304,50S ribosomal protein L3
+202,102828,ETNP_110,90.36,17,17,2.62E6,3,3,6,Carbamidomethylation,23304,50S ribosomal protein L3
+202,102830,ETNP_90,90.36,17,17,2.62E6,3,3,6,Carbamidomethylation,23304,50S ribosomal protein L3
+202,102831,ETNP_120,90.36,17,17,2.62E6,3,3,6,Carbamidomethylation,23767,50S ribosomal protein L3
+144,102260,ETNP_120,90.35,12,12,4.66E5,7,1,9,,53875,ATP synthase subunit alpha
+153,133929,ETNP_140,90.04,63,63,4.81E6,6,2,8,Oxidation (M),8750,hypothetical protein
+153,133930,ETNP_100,90.04,49,49,4.81E6,6,2,8,Oxidation (M),11297,hypothetical protein
+135,101879,WP_011824391.1,89.98,12,12,3.74E5,7,1,9,,53976,ATP synthase subunit alpha [Prochlorococcus marinus]
+135,139,WP_038654094,89.98,12,12,3.74E5,7,1,9,,54020,ATP F0F1 synthase subunit alpha Prochlorococcus sp MIT 0801
+228,25228,WP_011129916,88.06,15,15,0E0,5,1,5,,38622,fructose-bisphosphate aldolase Prochlorococcus marinus
+215,133936,ETNP_140,87.12,35,35,4.83E6,5,1,5,Oxidation (M),12199,hypothetical protein
+215,133937,ETNP_90,87.12,35,35,4.83E6,5,1,5,Oxidation (M),12199,hypothetical protein
+215,133938,ETNP_100,87.12,35,35,4.83E6,5,1,5,Oxidation (M),12199,hypothetical protein
+215,133939,ETNP_110,87.12,35,35,4.83E6,5,1,5,Oxidation (M),12199,hypothetical protein
+215,133940,NP_85,87.12,35,35,4.83E6,5,1,5,Oxidation (M),12199,hypothetical protein
+215,230665,ETNP_100,87.12,57,57,4.83E6,5,1,5,Oxidation (M),7622,hypothetical protein
+123,133984,ETNP_180,86.88,7,7,7.08E6,7,6,10,,81192,Multicopper oxidase
+108,25205,WP_011129557,86.88,40,40,7.47E5,7,1,13,,13101,photosystem II complex extrinsic protein precursor U Prochlorococcus marinus
+233,102288,NP_85,86.53,14,14,2.43E6,5,5,5,Oxidation (M),40932,Cell division protein FtsZ
+138,134134,ETNP_180,86.35,8,8,,7,0,9,,57639,60 kDa chaperonin 5
+301,134325,ETNP_120,85.87,24,24,1.84E6,2,2,3,Carbamidomethylation,10021,hypothetical protein
+141,102502,ETNP_120,85.73,14,14,7.77E5,8,2,9,Oxidation (M),57514,60 kDa chaperonin
+141,102472,ETNP_120,85.73,14,14,7.77E5,8,2,9,Oxidation (M),57580,60 kDa chaperonin
+128,134068,ETNP14_120,85.46,8,8,1.96E6,5,5,9,Carbamidomethylation,39447,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+128,134069,ETNP14_68,85.46,8,8,1.96E6,5,5,9,Carbamidomethylation,39447,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+128,152223,ETNP_120,85.46,8,8,1.96E6,5,5,9,Carbamidomethylation,39493,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+128,134067,ETNP14_120,85.46,10,10,1.96E6,5,5,9,Carbamidomethylation,31627,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+128,134066,NP_100,85.46,9,9,1.96E6,5,5,9,Carbamidomethylation,33157,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+128,134070,ETNP14_68,85.46,15,15,1.96E6,5,5,9,Carbamidomethylation,19964,Alpha-keto acid-binding periplasmic protein TakP precursor
+128,134071,NP_300,85.46,15,15,1.96E6,5,5,9,Carbamidomethylation,20814,Alpha-keto acid-binding periplasmic protein TakP precursor
+128,134184,ETNP14_68,85.46,15,15,1.96E6,5,5,9,Carbamidomethylation,21083,Alpha-keto acid-binding periplasmic protein TakP precursor
+90,1038,WP_011294510,84.97,14,14,3.14E6,7,7,8,Carbamidomethylation,52427,ribulose bisphosphate carboxylase large chain Prochlorococcus
+90,1045,WP_036914423,84.97,14,14,3.14E6,7,7,8,Carbamidomethylation,52572,ribulose 1 5-bisphosphate carboxylase Prochlorococcus
+90,133974,WP_011294510.1,84.97,14,14,3.14E6,7,7,8,Carbamidomethylation,52427,MULTISPECIES: ribulose bisphosphate carboxylase large chain [Prochlorococcus]
+90,1040,WP_011130576,84.97,14,14,3.14E6,7,7,8,Carbamidomethylation,52573,ribulose bisphosphate carboxylase large chain Prochlorococcus marinus
+90,1041,WP_002805854,84.97,14,14,3.14E6,7,7,8,Carbamidomethylation,52574,ribulose bisphosphate carboxylase large chain Prochlorococcus
+90,133972,WP_002805854.1,84.97,14,14,3.14E6,7,7,8,Carbamidomethylation,52574,MULTISPECIES: ribulose bisphosphate carboxylase large chain [Prochlorococcus]
+90,133973,ETNP_70,84.97,14,14,3.14E6,7,7,8,Carbamidomethylation,52544,Ribulose bisphosphate carboxylase large chain
+188,134143,ETNP_90,84.74,31,31,1.48E7,4,4,6,Carbamidomethylation,20071,Photosystem I reaction center subunit XI
+188,134144,ETNP_120,84.74,31,31,1.48E7,4,4,6,Carbamidomethylation,20071,Photosystem I reaction center subunit XI
+188,134135,ETNP_120,84.74,31,31,1.48E7,4,4,6,Carbamidomethylation,20020,Photosystem I reaction center subunit XI
+188,134136,ETNP_100,84.74,31,31,1.48E7,4,4,6,Carbamidomethylation,20020,Photosystem I reaction center subunit XI
+188,134137,ETNP_90,84.74,31,31,1.48E7,4,4,6,Carbamidomethylation,20020,Photosystem I reaction center subunit XI
+188,134145,ETNP_100,84.74,31,31,1.48E7,4,4,6,Carbamidomethylation,20071,Photosystem I reaction center subunit XI
+188,134146,ETNP_140,84.74,31,31,1.48E7,4,4,6,Carbamidomethylation,20071,Photosystem I reaction center subunit XI
+188,134147,ETNP_110,84.74,31,31,1.48E7,4,4,6,Carbamidomethylation,20071,Photosystem I reaction center subunit XI
+188,134138,ETNP_110,84.74,31,31,1.48E7,4,4,6,Carbamidomethylation,20020,Photosystem I reaction center subunit XI
+188,134145,ETNP_100,84.74,31,31,1.48E7,4,4,6,Carbamidomethylation,20071,Photosystem I reaction center subunit XI
+188,134139,NP_85,84.74,31,31,1.48E7,4,4,6,Carbamidomethylation,20038,Photosystem I reaction center subunit XI
+170,102948,ETNP14_68,84.61,24,24,,5,0,7,,10685,10 kDa chaperonin 1
+240,101962,ETNP_140,84.38,18,18,2.2E6,4,4,5,,31697,50S ribosomal protein L2
+240,101963,ETNP_100,84.38,16,16,2.2E6,4,4,5,,35740,50S ribosomal protein L2
+162,134080,ETNP_120,84.36,11,11,,7,0,8,,32680,60 kDa chaperonin 5
+140,134339,ETNP_120,84.08,83,83,1.93E6,7,7,9,,3885,hypothetical protein
+140,134340,ETNP_90,84.08,47,47,1.93E6,7,7,9,,6975,putative cold shock protein A
+180,134041,ETNP_100,84.06,25,25,,5,0,6,,18040,General L-amino acid-binding periplasmic protein AapJ precursor
+227,133968,ETNP_90,84.05,26,26,7.17E6,3,3,5,,12531,Photosystem I P700 chlorophyll a apoprotein A1
+143,25165,WP_012844412,83.72,8,8,0E0,8,1,9,,57666,molecular chaperone GroEL Rhodothermus marinus
+226,134491,NP_85,83.39,14,14,2.41E6,3,1,5,Oxidation (M),12331,Plastocyanin precursor
+226,134492,ETNP_90,83.39,14,14,2.41E6,3,1,5,Oxidation (M),12331,Plastocyanin precursor
+226,134493,ETNP_120,83.39,13,13,2.41E6,3,1,5,Oxidation (M),12648,Plastocyanin precursor
+226,134494,ETNP_140,83.39,13,13,2.41E6,3,1,5,Oxidation (M),12648,Plastocyanin precursor
+139,102681,ETNP14_120,83.27,7,7,,7,0,9,,58039,60 kDa chaperonin
+201,134064,ETNP_120,82.06,10,10,,6,0,6,,35748,60 kDa chaperonin
+204,360,XP_003061104,82.02,7,7,4.21E6,5,2,6,,41766,actin flagellar inner arm intermediate chain  Micromonas pusilla CCMP1545
+296,134076,ETNP_100,81.90,21,21,7.21E5,3,1,3,,18999,Ribosome-recycling factor
+296,134077,ETNP14_68,81.90,21,21,7.21E5,3,1,3,,19470,Ribosome-recycling factor
+296,134078,ETNP_160,81.90,20,20,7.21E5,3,1,3,,20502,Ribosome-recycling factor
+296,134079,ETNP_100,81.90,20,20,7.21E5,3,1,3,,20490,Ribosome-recycling factor
+241,102728,ETNP_90,81.78,9,9,,4,0,5,,50481,Photosystem II 44 kDa reaction center protein
+241,102729,ETNP_120,81.78,9,9,,4,0,5,,52469,Photosystem II 44 kDa reaction center protein
+255,134118,ETNP_120,81.71,21,21,,3,0,4,,18998,Ribosome-recycling factor
+255,134119,ETNP_110,81.71,21,21,,3,0,4,,19457,Ribosome-recycling factor
+255,134121,ETNP_90,81.71,20,20,,3,0,4,,20489,Ribosome-recycling factor
+255,134122,ETNP_100,81.71,20,20,,3,0,4,,20503,Ribosome-recycling factor
+255,134123,ETNP_120,81.71,20,20,,3,0,4,,20473,Ribosome-recycling factor
+255,25299,WP_036914501,81.71,20,20,,3,0,4,,20419,ribosome recycling factor Prochlorococcus
+255,134120,ETNP_90,81.71,20,20,,3,0,4,,20433,Ribosome-recycling factor
+255,25301,WP_011130614,81.71,20,20,,3,0,4,,20476,ribosome-recycling factor Prochlorococcus marinus
+197,246,XP_002185049,81.23,28,28,7.86E5,5,5,6,,16829,calmoduline  Phaeodactylum tricornutum CCAP 1055
+197,247,EJK77863,81.23,28,28,7.86E5,5,5,6,,16858,hypothetical protein THAOC_00268  Thalassiosira oceanica
+197,248,EJK58168,81.23,28,28,7.86E5,5,5,6,,16858,hypothetical protein THAOC_21730  Thalassiosira oceanica
+197,101935,ETNP_90,81.23,26,26,7.86E5,5,5,6,,18514,EF hand
+209,133989,ETNP14_120,81.19,13,13,8.88E5,5,4,5,,38992,hypothetical protein
+209,133987,ETNP14_68,81.19,14,14,8.88E5,5,4,5,,38516,Bacterial extracellular solute-binding protein
+209,134021,ETNP_60,81.19,14,14,8.88E5,5,4,5,,38494,hypothetical protein
+134,134470,ETNP_120,81.19,27,27,1.12E6,5,2,9,,12263,Nitrogen regulatory protein P-II
+300,134270,ETNP_100,81.09,29,29,1.27E6,2,2,3,,11204,hypothetical protein
+300,134271,ETNP_120,81.09,29,29,1.27E6,2,2,3,,11204,hypothetical protein
+146,152281,ETNP14_120,81.06,4,4,4.3E6,8,7,8,Carbamidomethylation,181476,Multicopper oxidase
+173,134208,ETNP_140,80.62,28,28,,6,0,7,Oxidation (M),18682,Selenate reductase subunit gamma precursor
+305,134153,NP_300,79.50,9,9,1.74E6,3,2,3,,39772,Alpha-keto acid-binding periplasmic protein TakP precursor
+305,134154,ETNP_120,79.50,9,9,1.74E6,3,2,3,,39772,Alpha-keto acid-binding periplasmic protein TakP precursor
+305,134154,ETNP_120,79.50,9,9,1.74E6,3,2,3,,39772,Alpha-keto acid-binding periplasmic protein TakP precursor
+305,134156,ETNP_110,79.50,9,9,1.74E6,3,2,3,,39772,Alpha-keto acid-binding periplasmic protein TakP precursor
+232,134240,ETNP14_120,79.44,37,37,2.99E5,5,1,5,,8062,hypothetical protein
+211,102190,ETNP_100,79.39,15,15,8.13E5,5,5,5,,34999,Cysteine synthase A
+130,102005,ETNP_100,78.61,23,23,8.32E6,8,8,9,,13678,Core histone H2A/H2B/H3/H4
+181,152772,AMC11818.1,77.98,6,6,,5,0,6,,57707,molecular chaperone GroEL [Lutibacter profundi]
+181,922,WP_048498475,77.98,6,6,,5,0,6,,57087,molecular chaperone GroEL Chryseobacterium koreense
+181,230691,ETNP14_68,77.98,7,7,,5,0,6,,50427,60 kDa chaperonin
+285,134190,ETNP14_120,77.52,9,9,1.26E5,2,1,4,Carbamidomethylation,39216,Bacterial extracellular solute-binding protein
+285,134191,ETNP14_68,77.52,9,9,1.26E5,2,1,4,Carbamidomethylation,39216,Bacterial extracellular solute-binding protein
+263,134219,NP_300,76.89,11,11,1.11E6,3,3,4,Carbamidomethylation,39385,Bacterial extracellular solute-binding protein
+263,134220,ETNP_120,76.89,11,11,1.11E6,3,3,4,Carbamidomethylation,39375,Bacterial extracellular solute-binding protein
+263,134221,ETNP_120,76.89,11,11,1.11E6,3,3,4,Carbamidomethylation,39385,Bacterial extracellular solute-binding protein
+263,134222,ETNP_140,76.89,11,11,1.11E6,3,3,4,Carbamidomethylation,39385,Bacterial extracellular solute-binding protein
+176,134151,NP_100,76.74,49,49,1.83E6,7,7,7,Carbamidomethylation,15011,hypothetical protein
+257,102628,ETNP_120,76.23,5,5,,3,0,4,,57902,60 kDa chaperonin
+243,102726,ETNP_90,76.16,11,11,,4,0,5,,43911,Photosystem II protein
+243,102727,ETNP_100,76.16,11,11,,4,0,5,,44761,Photosystem II protein
+223,25476,WP_014473290,75.87,4,4,,5,0,5,,57734,molecular chaperone GroEL Arcobacter sp L
+242,102353,ETNP_90,75.72,8,8,3.12E5,4,1,5,,41218,60 kDa chaperonin 1
+318,134440,ETNP_100,75.59,31,31,2.19E5,3,1,3,,11016,hypothetical protein
+318,134441,ETNP_150,75.59,21,21,2.19E5,3,1,3,,15920,hypothetical protein
+318,134443,SAR11,75.59,12,12,2.19E5,3,1,3,,28039,Leu/Ile/Val-binding protein
+318,134444,ETNP14_68,75.59,11,11,2.19E5,3,1,3,,30096,hypothetical protein
+318,134355,ETNP14_120,75.59,10,10,2.19E5,3,1,3,,33554,hypothetical protein
+318,134445,SAR11,75.59,10,10,2.19E5,3,1,3,,35304,Leu/Ile/Val-binding protein
+311,230743,ETNP14_68,75.42,36,36,4.25E5,3,3,3,,10139,DNA-binding protein HU 1
+311,230744,ETNP14_120,75.42,36,36,4.25E5,3,3,3,,10139,DNA-binding protein HU 1
+283,168891,ETNP14_120,75.01,28,28,1.34E5,4,2,4,,15766,hypothetical protein
+283,168892,ETNP_110,75.01,25,25,1.34E5,4,2,4,,17483,hypothetical protein
+283,168893,ETNP_120,75.01,25,25,1.34E5,4,2,4,,17483,hypothetical protein
+283,168894,ETNP_100,75.01,25,25,1.34E5,4,2,4,,17483,hypothetical protein
+378,134496,ETNP14_68,74.80,7,7,3.51E5,2,2,2,,29122,hypothetical protein
+182,134104,ETNP14_68,74.75,42,42,4.23E5,5,4,6,Carbamidomethylation,19595,Pentapeptide repeats (8 copies)
+273,134272,ETNP_140,74.36,18,18,1.05E6,3,3,4,,18733,putative nucleotide-binding protein
+273,134273,ETNP14_68,74.36,18,18,1.05E6,3,3,4,,18733,putative nucleotide-binding protein
+273,134274,ETNP_100,74.36,18,18,1.05E6,3,3,4,,18733,putative nucleotide-binding protein
+273,134275,ETNP_160,74.36,18,18,1.05E6,3,3,4,,18733,putative nucleotide-binding protein
+273,134276,ETNP_100,74.36,18,18,1.05E6,3,3,4,,18829,putative nucleotide-binding protein
+273,134277,ETNP_160,74.36,18,18,1.05E6,3,3,4,,18829,putative nucleotide-binding protein
+273,134278,ETNP_110,74.36,18,18,1.05E6,3,3,4,,18733,putative nucleotide-binding protein
+273,134279,ETNP_90,74.36,18,18,1.05E6,3,3,4,,18733,putative nucleotide-binding protein
+273,134280,ETNP_90,74.36,18,18,1.05E6,3,3,4,,18829,putative nucleotide-binding protein
+273,134276,ETNP_100,74.36,18,18,1.05E6,3,3,4,,18829,putative nucleotide-binding protein
+328,134059,ETNP_180,74.33,9,9,0E0,3,1,3,,39732,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+328,134060,ETNP_300,74.33,9,9,0E0,3,1,3,,39732,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+328,134061,ETNP_160,74.33,9,9,0E0,3,1,3,,39732,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+175,133993,ETNP14_68,74.30,20,20,5.4E6,3,3,7,,18314,Photosystem Q(B) protein precursor
+175,133994,ETNP14_68,74.30,17,17,5.4E6,3,3,7,,21658,Photosystem Q(B) protein precursor
+175,133995,ETNP_70,74.30,15,15,5.4E6,3,3,7,,24312,Photosystem Q(B) protein 1 precursor
+175,133996,NP_100,74.30,14,14,5.4E6,3,3,7,,26989,Photosystem Q(B) protein precursor
+175,133997,ETNP_120,74.30,10,10,5.4E6,3,3,7,,35515,Photosystem Q(B) protein precursor
+175,25213,WP_011129798,74.30,9,9,5.4E6,3,3,7,,39412,photosystem II protein D1 Prochlorococcus marinus
+175,133998,ETNP14_68,74.30,9,9,5.4E6,3,3,7,,39397,Photosystem Q(B) protein precursor
+175,133999,ETNP_160,74.30,9,9,5.4E6,3,3,7,,39397,Photosystem Q(B) protein precursor
+175,25216,WP_036916046,74.30,9,9,5.4E6,3,3,7,,39428,photosystem II protein D1 Prochlorococcus
+306,2971,WP_041384810,74.23,58,58,,3,0,3,Oxidation (M),10253,hypothetical protein Prochlorococcus marinus
+306,2972,WP_036914908,74.23,58,58,,3,0,3,Oxidation (M),10250,hypothetical protein Prochlorococcus
+306,204006,ETNP_90,74.23,52,52,,3,0,3,Oxidation (M),11359,hypothetical protein
+306,204007,ETNP_120,74.23,52,52,,3,0,3,Oxidation (M),11371,hypothetical protein
+248,134094,ETNP_100,73.74,45,45,4.09E4,3,1,4,,9890,hypothetical protein
+248,134095,ETNP_90,73.74,45,45,4.09E4,3,1,4,,9890,hypothetical protein
+248,134096,NP_85,73.74,45,45,4.09E4,3,1,4,,9890,hypothetical protein
+195,134055,ETNP_90,73.59,25,25,4.8E6,4,4,6,Oxidation (M),18151,R-phycocyanin-2 beta chain
+195,134056,ETNP_120,73.59,25,25,4.8E6,4,4,6,Oxidation (M),18151,R-phycocyanin-2 beta chain
+195,134056,ETNP_120,73.59,25,25,4.8E6,4,4,6,Oxidation (M),18151,R-phycocyanin-2 beta chain
+195,134058,ETNP_100,73.59,25,25,4.8E6,4,4,6,Oxidation (M),18151,R-phycocyanin-2 beta chain
+280,25244,WP_053820550,73.55,15,15,6.47E4,3,2,4,Carbamidomethylation,39362,hypothetical protein Candidatus Thioglobus singularis
+267,134469,ETNP14_120,73.53,37,37,,4,0,4,,8083,hypothetical protein
+113,25291,WP_011130797,73.50,47,47,2.21E5,5,3,6,Carbamidomethylation,10652,ferredoxin Prochlorococcus
+113,134030,ETNP_120,73.50,39,39,2.21E5,5,3,6,Carbamidomethylation,12812,Ferredoxin
+113,25292,WP_006171932,73.50,47,47,2.21E5,5,3,6,Carbamidomethylation,10737,ferredoxin Synechococcus sp WH 5701
+113,134029,CAK24405.1,73.50,47,47,2.21E5,5,3,6,Carbamidomethylation,10666,Ferredoxin [Synechococcus sp. WH 7803]
+113,25293,WP_006043345,73.50,47,47,2.21E5,5,3,6,Carbamidomethylation,10666,ferredoxin Synechococcus
+266,912,WP_037979357,73.16,6,6,8.85E5,4,4,4,,75859,polynucleotide phosphorylase Synechococcus sp WH 5701
+212,103525,ETNP_100,73.03,24,24,5.45E4,5,2,5,,22020,hypothetical protein
+212,103528,ETNP_300,73.03,21,21,5.45E4,5,2,5,,25132,hypothetical protein
+212,103530,ETNP_140,73.03,21,21,5.45E4,5,2,5,,25132,hypothetical protein
+212,103529,ETNP_180,73.03,21,21,5.45E4,5,2,5,,25132,hypothetical protein
+268,134707,ETNP14_120,72.99,37,37,,4,0,4,,8094,hypothetical protein
+268,134708,ETNP14_120,72.99,37,37,,4,0,4,,8094,hypothetical protein
+268,134710,ETNP14_68,72.99,37,37,,4,0,4,,8094,hypothetical protein
+268,134712,ETNP14_68,72.99,37,37,,4,0,4,,8072,hypothetical protein
+268,134713,ETNP14_120,72.99,37,37,,4,0,4,,8072,hypothetical protein
+319,25233,WP_017952242,72.93,38,38,2.12E6,3,3,3,,7275,cold-shock protein Nitrospina
+319,134182,ETNP14_120,72.93,38,38,2.12E6,3,3,3,,7275,Cold shock protein CspB
+319,134183,ETNP_100,72.93,38,38,2.12E6,3,3,3,,7275,Cold shock protein CspB
+387,134210,ETNP_140,72.92,16,16,2.63E5,2,2,2,,18348,Pentapeptide repeats (8 copies)
+387,134211,ETNP_100,72.92,16,16,2.63E5,2,2,2,,18348,Pentapeptide repeats (8 copies)
+387,134212,ETNP_120,72.92,16,16,2.63E5,2,2,2,,18348,Pentapeptide repeats (8 copies)
+387,134212,ETNP_120,72.92,16,16,2.63E5,2,2,2,,18348,Pentapeptide repeats (8 copies)
+387,134214,ETNP_100,72.92,16,16,2.63E5,2,2,2,,18378,Pentapeptide repeats (8 copies)
+387,134215,ETNP_90,72.92,16,16,2.63E5,2,2,2,,18348,Pentapeptide repeats (8 copies)
+269,134505,ETNP14_120,72.74,37,37,2.53E4,4,1,4,,7989,hypothetical protein
+269,134506,NP_85,72.74,37,37,2.53E4,4,1,4,,7989,hypothetical protein
+269,134508,NP_300,72.74,37,37,2.53E4,4,1,4,,7989,hypothetical protein
+269,134509,NP_100,72.74,37,37,2.53E4,4,1,4,,7989,hypothetical protein
+276,134548,ETNP_180,72.55,29,29,1.67E6,3,3,4,,9916,DNA-binding protein HU 1
+276,134549,ETNP_120,72.55,29,29,1.67E6,3,3,4,,9916,DNA-binding protein HU 1
+276,134549,ETNP_120,72.55,29,29,1.67E6,3,3,4,,9916,DNA-binding protein HU 1
+276,134551,ETNP_300,72.55,29,29,1.67E6,3,3,4,,9916,DNA-binding protein HU 1
+276,134552,ETNP_140,72.55,29,29,1.67E6,3,3,4,,9916,DNA-binding protein HU 1
+276,134553,ETNP_160,72.55,29,29,1.67E6,3,3,4,,9916,DNA-binding protein HU 1
+276,134554,ETNP_110,72.55,29,29,1.67E6,3,3,4,,9916,DNA-binding protein HU 1
+276,134555,ETNP_100,72.55,29,29,1.67E6,3,3,4,,9916,DNA-binding protein HU 1
+279,152472,ETNP_90,72.45,9,9,1.72E6,3,3,4,Oxidation (M),44812,Photosystem II 44 kDa reaction center protein
+279,152473,ETNP_160,72.45,8,8,1.72E6,3,3,4,Oxidation (M),45882,Photosystem II 44 kDa reaction center protein
+199,134263,ETNP_160,71.68,4,4,2.6E5,5,1,6,Oxidation (M),58077,60 kDa chaperonin
+408,134609,ETNP_90,71.16,23,23,3.4E5,1,1,2,,7006,50S ribosomal protein L27
+408,2446,WP_011825214,71.16,17,17,3.4E5,1,1,2,,9347,50S ribosomal protein L27 Prochlorococcus
+408,134610,ETNP_120,71.16,17,17,3.4E5,1,1,2,,9362,50S ribosomal protein L27
+408,2448,WP_011127415,71.16,17,17,3.4E5,1,1,2,,9336,50S ribosomal protein L27 Synechococcus sp WH 8102
+408,134611,ETNP_120,71.16,17,17,3.4E5,1,1,2,,9371,50S ribosomal protein L27
+408,134612,ETNP_90,71.16,17,17,3.4E5,1,1,2,,9371,50S ribosomal protein L27
+408,134613,ETNP14_68,71.16,17,17,3.4E5,1,1,2,,9372,50S ribosomal protein L27
+408,134614,ETNP_100,71.16,17,17,3.4E5,1,1,2,,9371,50S ribosomal protein L27
+408,2453,WP_011130789,71.16,17,17,3.4E5,1,1,2,,9317,50S ribosomal protein L27 Prochlorococcus marinus
+408,134615,NP_85,71.16,17,17,3.4E5,1,1,2,,9345,50S ribosomal protein L27
+408,134616,ETNP_120,71.16,17,17,3.4E5,1,1,2,,9372,50S ribosomal protein L27
+408,134617,ETNP_90,71.16,17,17,3.4E5,1,1,2,,9372,50S ribosomal protein L27
+408,134618,ETNP14_68,71.16,17,17,3.4E5,1,1,2,,9417,50S ribosomal protein L27
+155,230680,ETNP_100,71.09,29,29,,8,0,8,Carbamidomethylation,20575,hypothetical protein
+206,134497,ETNP_90,70.77,24,24,6.12E5,2,1,3,Carbamidomethylation,14850,30S ribosomal protein S8
+206,134498,ETNP_140,70.77,24,24,6.12E5,2,1,3,Carbamidomethylation,14850,30S ribosomal protein S8
+206,25846,WP_011131112,70.77,24,24,6.12E5,2,1,3,Carbamidomethylation,14859,30S ribosomal protein S8 Prochlorococcus
+206,134499,ETNP_120,70.77,24,24,6.12E5,2,1,3,Carbamidomethylation,14836,30S ribosomal protein S8
+206,134500,NP_85,70.77,24,24,6.12E5,2,1,3,Carbamidomethylation,14850,30S ribosomal protein S8
+206,134501,ETNP_140,70.77,24,24,6.12E5,2,1,3,Carbamidomethylation,14862,30S ribosomal protein S8
+206,134502,ETNP_120,70.77,24,24,6.12E5,2,1,3,Carbamidomethylation,14850,30S ribosomal protein S8
+147,101969,CAK22911.1,70.37,15,15,3.15E5,4,2,8,Oxidation (M),19059,C-phycoerythrin class I beta chain [Synechococcus sp. WH 7803]
+147,222,WP_028953685,70.37,15,15,3.15E5,4,2,8,Oxidation (M),19143,bleomycin hydrolase Synechococcus
+224,102558,ETNP_90,70.08,10,10,3.79E5,4,1,5,,33070,Bacterial actin-related protein
+178,134249,ACY19055.1,70.06,9,9,,5,0,7,,58602,chaperonin GroEL [Haliangium ochraceum DSM 14365]
+216,134088,ETNP_140,69.81,29,29,1.3E6,4,4,5,,16526,hypothetical protein
+216,134089,ETNP_90,69.81,29,29,1.3E6,4,4,5,,16482,hypothetical protein
+216,134090,ETNP_120,69.81,29,29,1.3E6,4,4,5,,16510,hypothetical protein
+216,134091,ETNP_100,69.81,29,29,1.3E6,4,4,5,,16510,hypothetical protein
+216,134092,ETNP_110,69.81,29,29,1.3E6,4,4,5,,16482,hypothetical protein
+216,134099,NP_85,69.81,41,41,1.3E6,4,4,5,,12029,hypothetical protein
+196,101931,ETNP_100,69.40,12,12,1.22E5,5,1,6,,43619,Elongation factor Tu
+196,101932,ETNP_120,69.40,12,12,1.22E5,5,1,6,,43619,Elongation factor Tu
+196,101940,ETNP_120,69.40,12,12,1.22E5,5,1,6,,43575,Elongation factor Tu
+169,25379,WP_018049561,69.31,20,20,1.89E6,5,2,7,,17055,hypothetical protein Nitrospina sp AB-629-B18
+312,103315,ETNP_90,69.07,9,9,2.74E5,2,1,3,,34537,50S ribosomal protein L6
+225,134385,ETNP_300,68.52,5,5,,5,0,5,Oxidation (M),54116,60 kDa chaperonin
+225,134386,NP_300,68.52,4,4,,5,0,5,Oxidation (M),58010,60 kDa chaperonin
+189,352,WP_011128712,68.31,10,10,3.33E5,6,3,6,,58909,molecular chaperone GroEL Synechococcus sp WH 8102
+323,134199,ETNP14_120,67.53,32,32,1.41E6,3,3,3,Carbamidomethylation; Oxidation (M),15727,hypothetical protein
+323,134200,ETNP_110,67.53,32,32,1.41E6,3,3,3,Carbamidomethylation; Oxidation (M),15727,hypothetical protein
+323,134201,NP_85,67.53,32,32,1.41E6,3,3,3,Carbamidomethylation; Oxidation (M),15727,hypothetical protein
+323,134202,ETNP_120,67.53,32,32,1.41E6,3,3,3,Carbamidomethylation; Oxidation (M),15727,hypothetical protein
+323,134202,ETNP_120,67.53,32,32,1.41E6,3,3,3,Carbamidomethylation; Oxidation (M),15727,hypothetical protein
+284,152854,WP_013751159.1,67.40,6,6,,4,0,4,,57220,molecular chaperone GroEL [Dokdonia sp. 4H-3-7-5]
+284,152855,WP_021778235.1,67.40,6,6,,4,0,4,,57379,MULTISPECIES: molecular chaperone GroEL [Dokdonia]
+258,291,WP_011127357,67.14,16,16,3.78E6,2,2,4,,17372,allophycocyanin subunit alpha Synechococcus
+258,290,WP_038546571,67.14,16,16,3.78E6,2,2,4,,17386,allophycocyanin Synechococcus sp KORDI-100
+258,101889,CAK24452.1,67.14,16,16,3.78E6,2,2,4,,17375,Allophycocyanin alpha chain [Synechococcus sp. WH 7803]
+258,101905,ETNP_120,67.14,16,16,3.78E6,2,2,4,,17474,Allophycocyanin alpha chain
+258,101905,ETNP_120,67.14,16,16,3.78E6,2,2,4,,17474,Allophycocyanin alpha chain
+258,101907,ETNP_100,67.14,16,16,3.78E6,2,2,4,,17474,Allophycocyanin alpha chain
+332,134487,ETNP14_120,66.76,28,28,4.1E4,3,1,3,,8242,hypothetical protein
+250,152469,ETNP14_120,66.72,29,29,3.04E5,4,1,4,,13496,hypothetical protein
+259,134073,CAK23940.1,66.22,22,22,9.51E4,4,1,4,Oxidation (M),12260,RNA-binding protein  RRM domain [Synechococcus sp. WH 7803]
+369,230730,ETNP_90,65.83,19,19,2.42E5,2,2,2,,29617,hypothetical protein
+256,230713,ETNP_120,65.79,27,27,1.76E5,4,1,4,Oxidation (M),8523,hypothetical protein
+256,230714,ETNP_100,65.79,27,27,1.76E5,4,1,4,Oxidation (M),8523,hypothetical protein
+256,5962,WP_038544070,65.79,27,27,1.76E5,4,1,4,Oxidation (M),8722,hypothetical protein Synechococcus sp KORDI-100
+256,25483,WP_011127692,65.79,24,24,1.76E5,4,1,4,Oxidation (M),9701,hypothetical protein Synechococcus sp WH 8102
+203,134369,ETNP14_68,65.79,49,49,2.4E5,5,3,6,Oxidation (M),12420,Coproporphyrinogen-III oxidase  aerobic
+203,134370,ETNP_100,65.79,45,45,2.4E5,5,3,6,Oxidation (M),13336,Coproporphyrinogen-III oxidase  aerobic
+239,134518,ETNP_90,65.11,36,36,,4,0,5,,11341,hypothetical protein
+239,134521,ETNP14_68,65.11,36,36,,4,0,5,,11341,hypothetical protein
+183,103087,ETNP_120,64.62,8,8,,5,0,6,Oxidation (M),57178,60 kDa chaperonin
+389,134464,ETNP_90,64.09,20,20,2.74E5,2,2,2,,11338,50S ribosomal protein L23
+389,134465,ETNP_140,64.09,20,20,2.74E5,2,2,2,,11338,50S ribosomal protein L23
+389,134466,ETNP_100,64.09,20,20,2.74E5,2,2,2,,11338,50S ribosomal protein L23
+389,134466,ETNP_100,64.09,20,20,2.74E5,2,2,2,,11338,50S ribosomal protein L23
+389,25578,WP_036912641,64.09,20,20,2.74E5,2,2,2,,11335,50S ribosomal protein L23 Prochlorococcus
+389,25579,WP_011131101,64.09,20,20,2.74E5,2,2,2,,11423,50S ribosomal protein L23 Prochlorococcus marinus
+389,134466,ETNP_100,64.09,20,20,2.74E5,2,2,2,,11338,50S ribosomal protein L23
+354,102926,ETNP14_68,63.86,4,4,,2,0,2,,57165,Photosystem II 44 kDa reaction center protein
+354,102401,WP_011131952.1,63.86,4,4,,2,0,2,,56091,photosystem II chlorophyll-binding protein CP47 [Prochlorococcus marinus]
+354,102400,WP_011375882.1,63.86,4,4,,2,0,2,,56030,photosystem II chlorophyll-binding protein CP47 [Prochlorococcus marinus]
+354,102405,ETNP_60,63.86,7,7,,2,0,2,,31083,Photosystem II protein
+163,61217,KJS06682,63.84,7,7,,6,0,8,,58236,molecular chaperone GroEL Flavobacteriales bacterium BRH_c54
+236,102443,Verrucomicrobia_HGEPPPGB_01857,63.46,5,5,,3,0,5,,57930,60 kDa chaperonin
+221,396,WP_013046767,63.14,7,7,,5,0,5,,58177,molecular chaperone GroEL Candidatus Puniceispirillum marinum
+367,134287,ETNP_90,62.98,19,19,6.23E5,2,2,2,,11942,50S ribosomal protein L10
+252,134185,ETNP_100,62.86,19,19,,4,0,4,,20304,hypothetical protein
+229,102757,ETNP_120,62.84,18,18,7.74E3,3,1,5,,17476,30S ribosomal protein S7
+229,102757,ETNP_120,62.84,18,18,7.74E3,3,1,5,,17476,30S ribosomal protein S7
+229,102760,ETNP_90,62.84,18,18,7.74E3,3,1,5,,17476,30S ribosomal protein S7
+229,102758,ETNP_100,62.84,18,18,7.74E3,3,1,5,,17476,30S ribosomal protein S7
+218,134238,ETNP14_68,62.73,9,9,0E0,5,1,5,,36405,General L-amino acid-binding periplasmic protein AapJ precursor
+287,102112,ETNP_100,62.64,47,47,1.79E6,4,4,4,Oxidation (M),3855,hypothetical protein
+287,101918,ETNP_100,62.64,34,34,1.79E6,4,4,4,Oxidation (M),5311,hypothetical protein
+329,25493,Fosmid_PROKKA_01409,62.64,7,7,6.99E5,3,2,3,,38486,Bacterial extracellular solute-binding protein
+230,25252,WP_005009266,62.44,7,7,,3,0,5,,35568,nitrite oxidoreductase gamma subunit Nitrospina gracilis
+254,25378,WP_026292851,62.22,3,3,,3,0,4,,58087,molecular chaperone GroEL Rubritalea marina
+254,102643,ETNP_120,62.22,3,3,,3,0,4,,57521,60 kDa chaperonin
+254,102644,ETNP_160,62.22,3,3,,3,0,4,,57521,60 kDa chaperonin
+254,102645,ETNP_100,62.22,3,3,,3,0,4,,57521,60 kDa chaperonin
+166,134474,ACL67061.1,62.18,7,7,,6,0,7,,58111,chaperonin GroEL [Anaeromyxobacter dehalogenans 2CP-1]
+121,706,XP_003062035,62.07,21,21,3.21E6,5,1,10,,12701,predicted protein  Micromonas pusilla CCMP1545
+121,707,XP_003058519,62.07,21,21,3.21E6,5,1,10,,12701,predicted protein  Micromonas pusilla CCMP1545
+121,708,XP_003055512,62.07,21,21,3.21E6,5,1,10,,12701,histone H2B  Micromonas pusilla CCMP1545
+121,102226,ETNP_70,62.07,20,20,3.21E6,5,1,10,,13742,Core histone H2A/H2B/H3/H4
+121,701,XP_003080759,62.07,19,19,3.21E6,5,1,10,,13731,histone H2B ISS  Ostreococcus tauri
+121,702,XP_003082252,62.07,17,17,3.21E6,5,1,10,,15314,histone H2B ISS  Ostreococcus tauri
+121,102227,ETNP_70,62.07,16,16,3.21E6,5,1,10,,16840,Core histone H2A/H2B/H3/H4
+222,102053,ABE39462.1,61.99,7,7,,4,0,5,,57974,chaperonin GroEL [Rhodopseudomonas palustris BisB5]
+222,371,WP_011342550,61.99,7,7,,4,0,5,,58460,molecular chaperone GroEL Pelobacter carbinolicus
+341,134420,ETNP_100,61.92,11,11,1.67E5,2,1,2,,24911,Translation initiation factor IF-3
+341,134421,ETNP_90,61.92,11,11,1.67E5,2,1,2,,24911,Translation initiation factor IF-3
+341,134422,ETNP_90,61.92,11,11,1.67E5,2,1,2,,25293,Translation initiation factor IF-3
+341,25899,WP_011129498,61.92,11,11,1.67E5,2,1,2,,25323,translation initiation factor IF-3 Prochlorococcus marinus
+341,25897,WP_036913285,61.92,11,11,1.67E5,2,1,2,,25309,translation initiation factor IF-3 Prochlorococcus
+324,203519,ETNP_100,61.81,21,21,8.68E5,3,3,3,,16361,50S ribosomal protein L13
+324,203443,ETNP_100,61.81,20,20,8.68E5,3,3,3,,16859,50S ribosomal protein L13
+324,203443,ETNP_100,61.81,20,20,8.68E5,3,3,3,,16859,50S ribosomal protein L13
+324,203520,ETNP_90,61.81,20,20,8.68E5,3,3,3,,16762,50S ribosomal protein L13
+324,203521,ETNP_110,61.81,20,20,8.68E5,3,3,3,,16762,50S ribosomal protein L13
+324,203446,NP_85,61.81,20,20,8.68E5,3,3,3,,16863,50S ribosomal protein L13
+324,203522,ETNP_120,61.81,20,20,8.68E5,3,3,3,,16762,50S ribosomal protein L13
+324,203523,ETNP_100,61.81,20,20,8.68E5,3,3,3,,16762,50S ribosomal protein L13
+324,203447,ETNP_110,61.81,20,20,8.68E5,3,3,3,,16859,50S ribosomal protein L13
+324,203445,ETNP_90,61.81,20,20,8.68E5,3,3,3,,16859,50S ribosomal protein L13
+220,134232,ETNP_100,61.81,27,27,1.7E5,4,1,5,,12248,Nitrogen regulatory protein P-II
+220,134233,ETNP_90,61.81,27,27,1.7E5,4,1,5,,12248,Nitrogen regulatory protein P-II
+220,134234,ETNP_120,61.81,27,27,1.7E5,4,1,5,,12248,Nitrogen regulatory protein P-II
+220,134235,ETNP_140,61.81,27,27,1.7E5,4,1,5,,12248,Nitrogen regulatory protein P-II
+220,134234,ETNP_120,61.81,27,27,1.7E5,4,1,5,,12248,Nitrogen regulatory protein P-II
+220,134234,ETNP_120,61.81,27,27,1.7E5,4,1,5,,12248,Nitrogen regulatory protein P-II
+253,134160,NP_300,61.67,11,11,9.15E5,3,2,4,Carbamidomethylation,36427,General L-amino acid-binding periplasmic protein AapJ precursor
+253,134161,ETNP14_120,61.67,11,11,9.15E5,3,2,4,Carbamidomethylation,36427,General L-amino acid-binding periplasmic protein AapJ precursor
+251,102080,ETNP14_120,61.65,10,10,8.35E5,4,4,4,Carbamidomethylation,33714,glycine betaine transporter periplasmic subunit
+391,152635,NP_300,61.50,7,7,1.9E5,2,1,2,,36819,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+391,152497,ETNP_180,61.50,7,7,1.9E5,2,1,2,,36493,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+391,152350,ETNP_300,61.50,7,7,1.9E5,2,1,2,,37108,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+391,152351,ETNP_120,61.50,6,6,1.9E5,2,1,2,,39818,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+390,134482,NP_100,61.13,16,16,4.7E5,2,2,2,,24160,S-adenosylmethionine synthase
+390,134483,ETNP_100,61.13,9,9,4.7E5,2,2,2,,41584,S-adenosylmethionine synthase
+390,134484,ETNP_90,61.13,8,8,4.7E5,2,2,2,,44399,S-adenosylmethionine synthase
+390,134485,ETNP_110,61.13,8,8,4.7E5,2,2,2,,44355,S-adenosylmethionine synthase
+390,134486,ETNP_140,61.13,8,8,4.7E5,2,2,2,,44355,S-adenosylmethionine synthase
+388,134365,ETNP14_120,60.28,20,20,3.62E5,2,1,2,,10997,NADH dehydrogenase subunit I
+388,134463,ETNP_100,60.28,20,20,3.62E5,2,1,2,,10983,NAD(P)H-quinone oxidoreductase subunit I  chloroplastic
+388,134366,ETNP_120,60.28,20,20,3.62E5,2,1,2,,10983,NAD(P)H-quinone oxidoreductase subunit I  chloroplastic
+388,134367,ETNP14_120,60.28,18,18,3.62E5,2,1,2,,12229,NADH dehydrogenase subunit I
+246,134410,ETNP14_68,59.91,27,27,1.03E5,4,1,4,,12220,Nitrogen regulatory protein P-II
+190,134326,NP_30,59.90,20,20,2.32E6,2,1,6,,11039,NADH dehydrogenase subunit I
+190,134423,ETNP14_68,59.90,20,20,2.32E6,2,1,6,,10995,NADH dehydrogenase subunit I
+190,134327,ETNP14_120,59.90,20,20,2.32E6,2,1,6,,11025,NADH dehydrogenase subunit I
+190,134424,ETNP_70,59.90,20,20,2.32E6,2,1,6,,11011,NAD(P)H-quinone oxidoreductase subunit I  chloroplastic
+190,134328,ETNP_100,59.90,20,20,2.32E6,2,1,6,,11025,NAD(P)H-quinone oxidoreductase subunit I  chloroplastic
+190,134424,ETNP_70,59.90,20,20,2.32E6,2,1,6,,11011,NAD(P)H-quinone oxidoreductase subunit I  chloroplastic
+190,134426,ETNP14_120,59.90,20,20,2.32E6,2,1,6,,11011,NADH dehydrogenase subunit I
+190,134329,ETNP14_120,59.90,20,20,2.32E6,2,1,6,,11011,NADH dehydrogenase subunit I
+190,134330,ETNP14_120,59.90,20,20,2.32E6,2,1,6,,11039,NADH dehydrogenase subunit I
+190,134331,NP_85,59.90,20,20,2.32E6,2,1,6,,11025,NADH dehydrogenase subunit I
+190,134332,ETNP14_68,59.90,20,20,2.32E6,2,1,6,,11025,NADH dehydrogenase subunit I
+190,134327,ETNP14_120,59.90,20,20,2.32E6,2,1,6,,11025,NADH dehydrogenase subunit I
+190,25604,WP_048106091,59.90,20,20,2.32E6,2,1,6,,11011,4Fe-4S ferredoxin Candidatus Nitrosopelagicus brevis
+190,134327,ETNP14_120,59.90,20,20,2.32E6,2,1,6,,11025,NADH dehydrogenase subunit I
+190,134330,ETNP14_120,59.90,20,20,2.32E6,2,1,6,,11039,NADH dehydrogenase subunit I
+190,25607,WP_007403030,59.90,20,20,2.32E6,2,1,6,,11039,4Fe-4S ferredoxin Nitrosopumilaceae
+190,134336,ETNP14_120,59.90,20,20,2.32E6,2,1,6,,11025,NADH dehydrogenase subunit I
+190,134427,ETNP14_68,59.90,20,20,2.32E6,2,1,6,,11011,NADH dehydrogenase subunit I
+281,134269,ETNP_140,59.83,21,21,,3,0,4,,16636,Photosystem II protein
+275,230788,ETNP_60,59.82,24,24,2.4E5,4,1,4,,10585,Nitrogen regulatory protein P-II
+275,230790,ETNP_70,59.82,21,21,2.4E5,4,1,4,,12384,Nitrogen regulatory protein P-II
+400,134586,ETNP_140,59.68,13,13,3.27E5,2,2,2,Carbamidomethylation,21057,glycine betaine transporter periplasmic subunit
+400,134587,ETNP14_120,59.68,13,13,3.27E5,2,2,2,Carbamidomethylation,22211,glycine betaine transporter periplasmic subunit
+400,134588,ETNP_120,59.68,9,9,3.27E5,2,2,2,Carbamidomethylation,30036,glycine betaine transporter periplasmic subunit
+400,134589,ETNP_120,59.68,8,8,3.27E5,2,2,2,Carbamidomethylation,36432,glycine betaine transporter periplasmic subunit
+347,134404,ETNP_160,59.36,19,19,1.3E6,2,2,2,,14346,30S ribosomal protein S16
+347,134405,ETNP14_68,59.36,19,19,1.3E6,2,2,2,,14346,30S ribosomal protein S16
+347,134591,ETNP_120,59.36,37,37,1.3E6,2,2,2,,7155,hypothetical protein
+247,152322,NP_100,59.17,19,19,2.39E4,3,1,4,,22997,General L-amino acid-binding periplasmic protein AapJ precursor
+247,152319,NP_125,59.17,12,12,2.39E4,3,1,4,,35665,General L-amino acid-binding periplasmic protein AapJ precursor
+320,815,WP_052041225,58.68,14,14,5.09E5,3,3,3,,23484,antitermination protein NusG Prochlorococcus sp MIT 0801
+320,134374,WP_011823060.1,58.68,14,14,5.09E5,3,3,3,,24902,transcription termination/antitermination factor NusG [Prochlorococcus marinus]
+320,134375,ETNP_100,58.68,13,13,5.09E5,3,3,3,,24584,hypothetical protein
+320,134376,ETNP_110,58.68,13,13,5.09E5,3,3,3,,24584,hypothetical protein
+320,134377,ETNP_140,58.68,13,13,5.09E5,3,3,3,,24584,hypothetical protein
+320,134378,ETNP_90,58.68,13,13,5.09E5,3,3,3,,24584,hypothetical protein
+210,103404,ETNP14_120,58.58,14,14,1.43E6,5,2,5,,25395,hypothetical protein
+235,230707,ETNP14_68,58.58,9,9,1.92E6,3,3,5,,27242,Taurine-binding periplasmic protein precursor
+235,230708,ETNP14_120,58.58,8,8,1.92E6,3,3,5,,33133,Taurine-binding periplasmic protein precursor
+297,103190,CAI85358.1,58.56,6,6,9.13E4,3,1,3,,57143,60 kDa chaperonin (Protein Cpn60) (groEL protein) [Pseudoalteromonas haloplanktis TAC125]
+265,230683,ETNP_160,58.28,25,25,2.76E6,4,4,4,,12138,Core histone H2A/H2B/H3/H4
+265,230684,ETNP_140,58.28,25,25,2.76E6,4,4,4,,12112,Core histone H2A/H2B/H3/H4
+265,230685,ETNP_120,58.28,19,19,2.76E6,4,4,4,,15175,Core histone H2A/H2B/H3/H4
+265,230686,ETNP_180,58.28,17,17,2.76E6,4,4,4,,17568,Core histone H2A/H2B/H3/H4
+313,134603,Verrucomicrobia_HGEPPPGB_01858,58.06,23,23,4.99E4,3,1,3,,10262,10 kDa chaperonin
+604,134645,ETNP_110,58.02,11,11,2.92E5,1,1,1,,14304,RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)
+264,102284,ETNP_90,57.90,7,7,,3,0,4,Oxidation (M),57923,60 kDa chaperonin 5
+198,102121,ETNP_150,57.28,10,10,,5,0,6,,50980,60 kDa chaperonin 1
+198,102122,ETNP_120,57.28,10,10,,5,0,6,,52118,60 kDa chaperonin 1
+198,102123,ETNP_300,57.28,9,9,,5,0,6,,58282,60 kDa chaperonin 1
+325,230689,ETNP14_120,57.15,11,11,2.87E4,3,1,3,,27946,hypothetical protein
+325,230690,NP_300,57.15,11,11,2.87E4,3,1,3,,27860,hypothetical protein
+208,230712,ETNP_100,56.89,9,9,9.3E4,5,1,5,,38460,Respiratory nitrate reductase 2 alpha chain
+271,203332,ETNP14_120,56.75,3,3,,3,0,4,,57067,60 kDa chaperonin 2
+333,230879,ETNP_90,56.60,22,22,,3,0,3,,10662,Photosystem I reaction center subunit II
+291,167607,NP_300,56.56,9,9,4.64E4,3,1,3,Carbamidomethylation,35723,General L-amino acid-binding periplasmic protein AapJ precursor
+291,167604,NP_300,56.56,9,9,4.64E4,3,1,3,Carbamidomethylation,35624,General L-amino acid-binding periplasmic protein AapJ precursor
+238,627,XP_003061754,56.46,13,13,1.03E6,3,2,5,,15356,histone H3  Micromonas pusilla CCMP1545
+238,628,XP_003059221,56.46,13,13,1.03E6,3,2,5,,15356,predicted protein  Micromonas pusilla CCMP1545
+238,629,XP_003057560,56.46,13,13,1.03E6,3,2,5,,15436,histone H3  Micromonas pusilla CCMP1545
+238,630,XP_003061708,56.46,13,13,1.03E6,3,2,5,,15356,predicted protein  Micromonas pusilla CCMP1545
+238,632,XP_003082036,56.46,11,11,1.03E6,3,2,5,,18865,Histones H3 and H4 ISS  Ostreococcus tauri
+238,102180,ETNP_100,56.46,10,10,1.03E6,3,2,5,,21085,Core histone H2A/H2B/H3/H4
+238,634,XP_003079482,56.46,8,8,1.03E6,3,2,5,,23974,Histones H3 and H4 ISS  Ostreococcus tauri
+238,631,EJK48130,56.46,10,10,1.03E6,3,2,5,,18750,hypothetical protein THAOC_33105  Thalassiosira oceanica
+244,102117,ABI78727.1,56.24,6,6,,4,0,5,,57853,chaperonin GroEL [Hyphomonas neptunium ATCC 15444]
+352,230715,ETNP_90,55.66,14,14,1.25E6,2,2,2,,15901,RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)
+352,230716,NP_85,55.66,14,14,1.25E6,2,2,2,,15847,RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)
+352,230717,ETNP_120,55.66,14,14,1.25E6,2,2,2,,15884,RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)
+352,230718,ETNP_140,55.66,14,14,1.25E6,2,2,2,,15901,RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)
+352,230719,ETNP_110,55.66,14,14,1.25E6,2,2,2,,15901,RNA recognition motif. (a.k.a. RRM  RBD  or RNP domain)
+352,25386,WP_011131367,55.66,14,14,1.25E6,2,2,2,,15879,RNA-binding protein Prochlorococcus marinus
+352,25393,WP_036911511,55.66,14,14,1.25E6,2,2,2,,15879,RNA-binding protein Prochlorococcus
+307,134395,ETNP_160,55.33,16,16,,3,0,3,Oxidation (M),26534,60 kDa chaperonin 5
+307,134396,ETNP_140,55.33,11,11,,3,0,3,Oxidation (M),38034,60 kDa chaperonin 1
+307,883,WP_010511257,55.33,7,7,,3,0,3,Oxidation (M),58012,molecular chaperone GroEL SAR324 cluster bacterium SCGC AAA001-C10
+307,102229,NP_300,55.33,7,7,,3,0,3,Oxidation (M),58009,60 kDa chaperonin 5
+307,102230,ETNP_70,55.33,7,7,,3,0,3,Oxidation (M),58045,60 kDa chaperonin
+132,102627,ETNP_100,55.27,37,37,1.22E4,5,1,9,,7412,Core histone H2A/H2B/H3/H4
+272,134872,ETNP14_120,55.12,5,5,1.83E6,4,1,4,,58050,60 kDa chaperonin
+409,134646,ETNP_100,54.65,7,7,4.49E5,1,1,2,,25582,Poly(beta-D-mannuronate) C5 epimerase 7
+120,102306,ETNP_90,54.57,13,13,5.17E6,5,2,10,,13120,Core histone H2A/H2B/H3/H4
+120,102307,ETNP_70,54.57,13,13,5.17E6,5,2,10,,13147,Core histone H2A/H2B/H3/H4
+207,158,WP_011128867,54.21,25,25,4.93E5,4,1,5,,17729,C-phycoerythrin class 2 subunit alpha Synechococcus
+532,102534,ETNP_70,53.94,4,4,1.3E4,1,1,1,,41848,Bacterial actin-related protein
+353,134205,ETNP_90,53.78,4,4,,2,0,2,,54279,60 kDa chaperonin 1
+353,134206,ETNP14_120,53.78,4,4,,2,0,2,,57254,60 kDa chaperonin 1
+321,168531,ETNP14_68,53.11,35,35,,3,0,3,,8107,hypothetical protein
+335,134740,ETNP_120,53.10,2,2,9.48E5,2,2,3,,54486,60 kDa chaperonin 2
+335,134741,ETNP_120,53.10,2,2,9.48E5,2,2,3,,56506,60 kDa chaperonin 2
+282,748,WP_040927250,53.06,9,9,2.23E6,3,3,4,,38988,ABC transporter substrate-binding protein SAR116 cluster alpha proteobacterium HIMB100
+490,102361,NP_85,52.84,5,5,1.91E5,1,1,1,,31253,D-ribose-binding periplasmic protein precursor
+490,102203,ETNP_300,52.84,5,5,1.91E5,1,1,1,,31178,D-ribose-binding periplasmic protein precursor
+490,102205,ETNP14_120,52.84,5,5,1.91E5,1,1,1,,31212,D-ribose-binding periplasmic protein precursor
+490,102208,ETNP_110,52.84,4,4,1.91E5,1,1,1,,35639,D-ribose-binding periplasmic protein precursor
+490,102573,ETNP_180,52.84,9,9,1.91E5,1,1,1,,15846,hypothetical protein
+490,102574,NP_125,52.84,7,7,1.91E5,1,1,1,,19974,hypothetical protein
+490,102577,NP_300,52.84,7,7,1.91E5,1,1,1,,19947,hypothetical protein
+490,102578,NP_100,52.84,5,5,1.91E5,1,1,1,,26865,D-ribose transporter subunit RbsB
+490,102821,ETNP_100,52.84,5,5,1.91E5,1,1,1,,26864,D-ribose-binding periplasmic protein precursor
+490,102360,ETNP_90,52.84,5,5,1.91E5,1,1,1,,28502,D-ribose-binding periplasmic protein precursor
+490,102201,ETNP_180,52.84,5,5,1.91E5,1,1,1,,28404,D-ribose-binding periplasmic protein precursor
+490,102202,ETNP14_68,52.84,5,5,1.91E5,1,1,1,,31086,D-ribose-binding periplasmic protein precursor
+490,102204,ETNP_160,52.84,5,5,1.91E5,1,1,1,,31086,D-ribose-binding periplasmic protein precursor
+490,102207,ETNP_110,52.84,5,5,1.91E5,1,1,1,,31086,D-ribose-binding periplasmic protein precursor
+490,102206,ETNP_100,52.84,5,5,1.91E5,1,1,1,,31086,D-ribose-binding periplasmic protein precursor
+490,102960,ETNP14_68,52.84,21,21,1.91E5,1,1,1,,6923,hypothetical protein
+490,102961,ETNP14_68,52.84,11,11,1.91E5,1,1,1,,13575,hypothetical protein
+490,102820,ETNP14_68,52.84,8,8,1.91E5,1,1,1,,18675,hypothetical protein
+490,102575,NP_85,52.84,7,7,1.91E5,1,1,1,,19909,hypothetical protein
+490,102576,ETNP14_120,52.84,7,7,1.91E5,1,1,1,,19909,hypothetical protein
+399,25790,WP_036911828,52.74,7,7,2.03E5,2,2,2,,35729,ketol-acid reductoisomerase Prochlorococcus
+260,1661,YP_007673882.1,52.71,4,4,2.28E6,1,1,4,,40191,photosystem II reaction center D2 [Prochlorococcus phage MED4-213]
+260,1662,AGH26237.1,52.71,4,4,2.28E6,1,1,4,,40191,photosystem II reaction center D2 [Prochlorococcus phage MED4-213]
+260,1663,YP_004323582.1,52.71,4,4,2.28E6,1,1,4,,40173,photosystem II D2 protein [Prochlorococcus phage P-HM2]
+260,1664,ADO99991.1,52.71,4,4,2.28E6,1,1,4,,40173,photosystem II D2 protein [Prochlorococcus phage P-HM2]
+260,1665,YP_009213745.1,52.71,4,4,2.28E6,1,1,4,,40145,photosystem II D2 protein [Prochlorococcus phage P-TIM68]
+260,1666,AIR93570.1,52.71,4,4,2.28E6,1,1,4,,40145,photosystem II D2 protein [Prochlorococcus phage P-TIM68]
+260,102939,WP_002807316.1,52.71,4,4,2.28E6,1,1,4,,39975,MULTISPECIES: photosystem II D2 protein (photosystem q(a) protein) [Prochlorococcus]
+260,102940,WP_011132791.1,52.71,4,4,2.28E6,1,1,4,,39943,photosystem II D2 protein (photosystem q(a) protein) [Prochlorococcus marinus]
+260,102935,NP_300,52.71,8,8,2.28E6,1,1,4,,17444,Photosystem II D2 protein
+260,1377,AOO11929.1,52.71,4,4,2.28E6,1,1,4,,39267,photosystem II protein D2 [Cyanophage S-RIM44]
+260,1378,YP_004324588.1,52.71,4,4,2.28E6,1,1,4,,39267,photosystem II D2 protein [Prochlorococcus phage Syn1]
+260,1379,AOO11697.1,52.71,4,4,2.28E6,1,1,4,,39267,photosystem II protein D2 [Cyanophage S-RIM44]
+260,1380,AOO12630.1,52.71,4,4,2.28E6,1,1,4,,39267,photosystem II protein D2 [Cyanophage S-RIM44]
+260,1386,AGH57838.1,52.71,4,4,2.28E6,1,1,4,,39411,photosystem II D2 protein [Synechococcus phage KBS-M-1A]
+260,102936,virus_ANPENILN_00105,52.71,4,4,2.28E6,1,1,4,,39461,hypothetical protein
+260,1381,AOO12398.1,52.71,4,4,2.28E6,1,1,4,,39267,photosystem II protein D2 [Cyanophage S-RIM44]
+260,102938,ACS36809.1,52.71,4,4,2.28E6,1,1,4,,39122,photosystem II D2 protein (chloroplast) [Aureococcus anophagefferens]
+260,1362,YP_004323821.1,52.71,4,4,2.28E6,1,1,4,,39295,photosystem II D2 protein [Prochlorococcus phage Syn33]
+260,1382,ADO99318.1,52.71,4,4,2.28E6,1,1,4,,39267,photosystem II D2 protein [Prochlorococcus phage Syn1]
+260,102937,cyanophage_EEBLHMBA_02086,52.71,4,4,2.28E6,1,1,4,,39278,hypothetical protein
+260,1363,AOO12163.1,52.71,4,4,2.28E6,1,1,4,,39201,photosystem II protein D2 [Cyanophage S-RIM44]
+260,1383,AOO13096.1,52.71,4,4,2.28E6,1,1,4,,39267,photosystem II protein D2 [Cyanophage S-RIM44]
+260,102704,CAK24665.1,52.71,4,4,2.28E6,1,1,4,,39283,Photosystem II D2 protein [Synechococcus sp. WH 7803]
+260,1364,ADO99569.1,52.71,4,4,2.28E6,1,1,4,,39295,photosystem II D2 protein [Prochlorococcus phage Syn33]
+260,102703,CAK24073.1,52.71,4,4,2.28E6,1,1,4,,39283,Photosystem II D2 protein [Synechococcus sp. WH 7803]
+260,1384,AOO12863.1,52.71,4,4,2.28E6,1,1,4,,39267,photosystem II protein D2 [Cyanophage S-RIM44]
+260,1385,AMO43457.1,52.71,4,4,2.28E6,1,1,4,,39267,photosystem II protein D2 [Cyanophage S-RIM44]
+260,1365,YP_003097254.1,52.71,4,4,2.28E6,1,1,4,,39639,D2 [Synechococcus phage S-RSM4]
+260,1366,CAR63217.1,52.71,4,4,2.28E6,1,1,4,,39639,D2 [Synechococcus phage S-RSM4]
+260,102941,WP_011824173.1,52.71,4,4,2.28E6,1,1,4,,39929,photosystem II D2 protein (photosystem q(a) protein) [Prochlorococcus marinus]
+205,25513,WP_006172775,52.58,16,16,9.93E5,2,2,3,Carbamidomethylation,13069,50S ribosomal protein L20 Synechococcus sp WH 5701
+205,230772,ETNP_110,52.58,17,17,9.93E5,2,2,3,Carbamidomethylation,11767,50S ribosomal protein L20
+205,230773,ETNP_100,52.58,16,16,9.93E5,2,2,3,Carbamidomethylation,13123,50S ribosomal protein L20
+205,230774,ETNP_90,52.58,16,16,9.93E5,2,2,3,Carbamidomethylation,13104,50S ribosomal protein L20
+205,25740,WP_011129434,52.58,16,16,9.93E5,2,2,3,Carbamidomethylation,13205,50S ribosomal protein L20 Prochlorococcus
+205,230775,ETNP_120,52.58,16,16,9.93E5,2,2,3,Carbamidomethylation,13161,50S ribosomal protein L20
+205,230776,ETNP_90,52.58,16,16,9.93E5,2,2,3,Carbamidomethylation,13123,50S ribosomal protein L20
+205,230777,ETNP_120,52.58,16,16,9.93E5,2,2,3,Carbamidomethylation,13123,50S ribosomal protein L20
+205,230778,ETNP_90,52.58,16,16,9.93E5,2,2,3,Carbamidomethylation,13161,50S ribosomal protein L20
+205,230779,ETNP_120,52.58,16,16,9.93E5,2,2,3,Carbamidomethylation,13104,50S ribosomal protein L20
+205,230780,ETNP_120,52.58,16,16,9.93E5,2,2,3,Carbamidomethylation,13161,50S ribosomal protein L20
+322,184152,ETNP14_68,52.56,35,35,,3,0,3,,8065,hypothetical protein
+322,184153,ETNP14_68,52.56,35,35,,3,0,3,,8093,hypothetical protein
+394,230769,ETNP_120,52.17,67,67,1.1E5,2,2,2,,7033,hypothetical protein
+394,230770,ETNP_110,52.17,67,67,1.1E5,2,2,2,,7019,hypothetical protein
+394,230771,ETNP_100,52.17,67,67,1.1E5,2,2,2,,7033,hypothetical protein
+330,152314,ETNP_120,52.09,10,10,4.99E5,3,3,3,,27177,hypothetical protein
+531,134320,ETNP_120,51.88,6,6,2.82E4,1,1,1,Carbamidomethylation,29408,glycine betaine transporter periplasmic subunit
+531,134321,ETNP_120,51.88,6,6,2.82E4,1,1,1,Carbamidomethylation,32648,glycine betaine transporter periplasmic subunit
+531,134322,ETNP_180,51.88,5,5,2.82E4,1,1,1,Carbamidomethylation,34636,glycine betaine transporter periplasmic subunit
+531,134516,ETNP_160,51.88,8,8,2.82E4,1,1,1,Carbamidomethylation,23585,Substrate binding domain of ABC-type glycine betaine transport system
+373,102083,ETNP14_68,51.78,31,31,8.75E4,2,2,2,Oxidation (M),12638,Plastocyanin precursor
+234,230681,ETNP_100,51.26,11,11,5.89E5,4,2,5,,39510,Coproporphyrinogen-III oxidase  aerobic
+234,230682,ETNP_160,51.26,11,11,5.89E5,4,2,5,,39480,Coproporphyrinogen-III oxidase  aerobic
+395,230781,ETNP_140,51.17,4,4,1.19E5,2,2,2,,66767,PA14 domain protein
+293,230722,ETNP_120,50.59,14,14,4.34E6,2,2,3,Oxidation (M),11234,hypothetical protein
+605,134574,ETNP_120,50.28,7,7,3.16E4,1,1,1,,26987,3-oxoacyl-[acyl-carrier-protein] reductase FabG
+605,134575,ETNP_90,50.28,7,7,3.16E4,1,1,1,,26987,3-oxoacyl-[acyl-carrier-protein] reductase FabG
+605,134576,ETNP_100,50.28,7,7,3.16E4,1,1,1,,26987,3-oxoacyl-[acyl-carrier-protein] reductase FabG
+605,134577,ETNP_120,50.28,7,7,3.16E4,1,1,1,,26987,3-oxoacyl-[acyl-carrier-protein] reductase FabG
+605,134578,ETNP_90,50.28,7,7,3.16E4,1,1,1,,26987,3-oxoacyl-[acyl-carrier-protein] reductase FabG
+184,134488,ETNP_120,50.26,22,22,2.81E6,3,3,6,Carbamidomethylation,10266,hypothetical protein
+213,103255,ETNP_140,50.09,8,8,1.12E6,2,1,5,Oxidation (M),18960,R-phycoerythrin subunit beta
+213,103256,ETNP14_68,50.09,8,8,1.12E6,2,1,5,Oxidation (M),18751,R-phycoerythrin subunit beta
+213,103257,ETNP_100,50.09,8,8,1.12E6,2,1,5,Oxidation (M),18751,R-phycoerythrin subunit beta
+213,103258,ETNP_120,50.09,8,8,1.12E6,2,1,5,Oxidation (M),18907,R-phycoerythrin subunit beta
+213,103259,ETNP_90,50.09,8,8,1.12E6,2,1,5,Oxidation (M),18751,R-phycoerythrin subunit beta
+213,103260,ETNP_140,50.09,8,8,1.12E6,2,1,5,Oxidation (M),18751,R-phycoerythrin subunit beta
+213,103261,NP_85,50.09,8,8,1.12E6,2,1,5,Oxidation (M),18796,R-phycoerythrin subunit beta
+213,102525,ETNP14_68,50.09,8,8,1.12E6,2,1,5,Oxidation (M),19133,R-phycoerythrin subunit beta
+213,102526,ETNP14_68,50.09,7,7,1.12E6,2,1,5,Oxidation (M),21801,R-phycoerythrin subunit beta
+393,230761,ETNP_110,50.02,16,16,9.61E5,2,2,2,,13239,Photosystem II reaction center Psb28 protein
+393,230762,NP_85,50.02,16,16,9.61E5,2,2,2,,13239,Photosystem II reaction center Psb28 protein
+393,230763,ETNP_100,50.02,16,16,9.61E5,2,2,2,,13239,Photosystem II reaction center Psb28 protein
+393,230764,ETNP14_68,50.02,16,16,9.61E5,2,2,2,,13239,Photosystem II reaction center Psb28 protein
+393,230765,ETNP_140,50.02,16,16,9.61E5,2,2,2,,13239,Photosystem II reaction center Psb28 protein
+393,230766,ETNP_90,50.02,16,16,9.61E5,2,2,2,,13239,Photosystem II reaction center Psb28 protein
+393,230767,ETNP_120,50.02,16,16,9.61E5,2,2,2,,13239,Photosystem II reaction center Psb28 protein
+392,25785,WP_011127181,49.92,15,15,3.73E5,2,2,2,,15773,hypothetical protein Synechococcus
+392,25786,WP_038542998,49.92,13,13,3.73E5,2,2,2,,17414,protein family PM-3 Synechococcus sp KORDI-100
+392,25787,WP_052043467,49.92,11,11,3.73E5,2,2,2,,19960,hypothetical protein  partial Prochlorococcus sp MIT 0701
+274,25782,KUK93587,49.86,3,3,,4,0,4,,60336,60 kDa chaperonin Marinimicrobia bacterium 46_43
+327,184155,ETNP14_120,49.71,32,32,,3,0,3,,8057,hypothetical protein
+326,230692,ETNP_90,49.54,14,14,1.23E6,3,3,3,,20949,30S ribosomal protein S3
+326,230693,ETNP_140,49.54,14,14,1.23E6,3,3,3,,21021,30S ribosomal protein S3
+326,230694,ETNP_120,49.54,14,14,1.23E6,3,3,3,,21021,30S ribosomal protein S3
+326,230695,ETNP_120,49.54,12,12,1.23E6,3,3,3,,24155,30S ribosomal protein S3
+326,230696,ETNP_90,49.54,12,12,1.23E6,3,3,3,,24155,30S ribosomal protein S3
+326,230697,ETNP_100,49.54,11,11,1.23E6,3,3,3,,27327,30S ribosomal protein S3
+326,230698,ETNP14_68,49.54,11,11,1.23E6,3,3,3,,27351,30S ribosomal protein S3
+326,230699,ETNP_90,49.54,11,11,1.23E6,3,3,3,,27327,30S ribosomal protein S3
+326,230700,ETNP14_68,49.54,11,11,1.23E6,3,3,3,,27255,30S ribosomal protein S3
+326,230701,WP_011131105,49.54,11,11,1.23E6,3,3,3,,27312,30S ribosomal protein S3 Prochlorococcus marinus
+326,230702,NP_85,49.54,11,11,1.23E6,3,3,3,,27255,30S ribosomal protein S3
+326,230703,ETNP_100,49.54,11,11,1.23E6,3,3,3,,27255,30S ribosomal protein S3
+326,230704,WP_036912650,49.54,11,11,1.23E6,3,3,3,,27298,30S ribosomal protein S3 Prochlorococcus
+302,2017,WP_007280132,48.84,5,5,1.4E6,2,1,3,,41662,phosphoglycerate kinase Lentisphaera araneosa
+371,152655,ETNP_110,48.33,16,16,4.1E5,2,2,2,,19102,Serine/threonine-protein kinase B
+371,152656,ETNP_90,48.33,16,16,4.1E5,2,2,2,,19102,Serine/threonine-protein kinase B
+371,152657,ETNP_120,48.33,16,16,4.1E5,2,2,2,,19102,Serine/threonine-protein kinase B
+371,152658,ETNP_140,48.33,16,16,4.1E5,2,2,2,,19102,Serine/threonine-protein kinase B
+371,152659,ETNP_100,48.33,16,16,4.1E5,2,2,2,,19102,Serine/threonine-protein kinase B
+371,152657,ETNP_120,48.33,16,16,4.1E5,2,2,2,,19102,Serine/threonine-protein kinase B
+371,152659,ETNP_100,48.33,16,16,4.1E5,2,2,2,,19102,Serine/threonine-protein kinase B
+308,230709,ETNP_90,48.29,27,27,6.74E4,3,3,3,,12297,Nitrogen regulatory protein P-II
+308,230710,ETNP_300,48.29,27,27,6.74E4,3,3,3,,12370,Nitrogen regulatory protein P-II
+308,230711,ETNP_180,48.29,27,27,6.74E4,3,3,3,,12370,Nitrogen regulatory protein P-II
+410,134717,ETNP_100,48.15,14,14,8.99E5,1,1,2,,10162,hypothetical protein
+410,134718,ETNP_120,48.15,14,14,8.99E5,1,1,2,,10192,hypothetical protein
+410,134717,ETNP_100,48.15,14,14,8.99E5,1,1,2,,10162,hypothetical protein
+410,134720,ETNP_90,48.15,13,13,8.99E5,1,1,2,,10770,hypothetical protein
+411,230942,ETNP_90,47.98,19,19,1.45E6,1,1,2,,6887,hypothetical protein
+298,1527,WP_036911068,47.93,6,6,1.45E6,2,1,3,,42204,phosphoglycerate kinase Prochlorococcus
+607,134698,ETNP14_68,47.83,2,2,1.86E5,1,1,1,,61417,Periplasmic dipeptide transport protein precursor
+245,230720,virus_CCADEAMM_20349,47.39,1,1,1.42E7,4,4,4,Oxidation (M),433364,hypothetical protein
+359,230876,ETNP_120,47.34,6,6,3.46E6,2,2,2,Oxidation (M),28972,hypothetical protein
+359,230877,ETNP14_68,47.34,6,6,3.46E6,2,2,2,Oxidation (M),28985,hypothetical protein
+359,230878,ETNP_100,47.34,6,6,3.46E6,2,2,2,Oxidation (M),28957,hypothetical protein
+493,4049,WP_011281581,47.16,3,3,3.35E5,1,1,1,,42158,C4-dicarboxylate ABC transporter Candidatus Pelagibacter ubique
+493,134742,ETNP14_68,47.16,15,15,3.35E5,1,1,1,,9186,hypothetical protein
+493,134743,ETNP14_120,47.16,10,10,3.35E5,1,1,1,,14491,hypothetical protein
+493,134744,ETNP_120,47.16,10,10,3.35E5,1,1,1,,14415,hypothetical protein
+493,134745,ETNP14_68,47.16,10,10,3.35E5,1,1,1,,14418,hypothetical protein
+493,134746,ETNP_70,47.16,10,10,3.35E5,1,1,1,,14491,hypothetical protein
+493,134747,ETNP_100,47.16,10,10,3.35E5,1,1,1,,14431,hypothetical protein
+493,134748,ETNP14_120,47.16,7,7,3.35E5,1,1,1,,20472,Alpha-keto acid-binding periplasmic protein TakP precursor
+493,134749,ETNP_120,47.16,5,5,3.35E5,1,1,1,,26833,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+493,134750,ETNP14_68,47.16,5,5,3.35E5,1,1,1,,28696,Alpha-keto acid-binding periplasmic protein TakP precursor
+493,134751,ETNP14_68,47.16,4,4,3.35E5,1,1,1,,31504,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+493,134752,ETNP_90,47.16,4,4,3.35E5,1,1,1,,35852,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+420,231004,ETNP_90,47.06,10,10,2.91E5,2,2,2,,15119,hypothetical protein
+420,231005,ETNP_100,47.06,10,10,2.91E5,2,2,2,,15119,hypothetical protein
+412,230943,ETNP_120,46.90,7,7,1.65E5,1,1,2,,24942,Hemolysin  chromosomal
+443,134523,ETNP_100,46.84,13,13,8.03E5,1,1,1,,11988,30S ribosomal protein S16
+443,134524,ETNP_120,46.84,11,11,8.03E5,1,1,1,,14348,30S ribosomal protein S16
+443,134525,ETNP_110,46.84,11,11,8.03E5,1,1,1,,14348,30S ribosomal protein S16
+443,134526,ETNP_100,46.84,11,11,8.03E5,1,1,1,,14334,30S ribosomal protein S16
+443,134527,NP_85,46.84,11,11,8.03E5,1,1,1,,14348,30S ribosomal protein S16
+397,230812,ETNP_140,46.38,7,7,4.37E5,2,2,2,,26376,hypothetical protein
+397,230813,ETNP_120,46.38,7,7,4.37E5,2,2,2,,26406,hypothetical protein
+397,230814,ETNP_90,46.38,7,7,4.37E5,2,2,2,,26406,hypothetical protein
+397,230815,ETNP_120,46.38,7,7,4.37E5,2,2,2,,26367,hypothetical protein
+397,230816,WP_036912514,46.38,7,7,4.37E5,2,2,2,,26373,hypothetical protein Prochlorococcus
+397,230817,WP_011130252,46.38,7,7,4.37E5,2,2,2,,26383,hypothetical protein Prochlorococcus marinus
+397,230818,ETNP_110,46.38,7,7,4.37E5,2,2,2,,26416,hypothetical protein
+372,102295,ETNP_180,46.28,11,11,3.16E5,2,1,2,,25993,60 kDa chaperonin 5
+413,230944,ETNP_100,46.25,9,9,6.2E4,1,1,2,,21316,Ferritin
+396,230793,ETNP_120,46.22,14,14,1.46E6,2,2,2,,15100,30S ribosomal protein S4
+396,230794,ETNP_140,46.22,14,14,1.46E6,2,2,2,,15100,30S ribosomal protein S4
+396,230795,ETNP_100,46.22,14,14,1.46E6,2,2,2,,15114,30S ribosomal protein S4
+396,230796,ETNP_100,46.22,14,14,1.46E6,2,2,2,,15114,30S ribosomal protein S4
+396,230797,ETNP_90,46.22,14,14,1.46E6,2,2,2,,15100,30S ribosomal protein S4
+396,230798,ETNP_90,46.22,14,14,1.46E6,2,2,2,,15100,30S ribosomal protein S4
+396,230799,ETNP_100,46.22,14,14,1.46E6,2,2,2,,15100,30S ribosomal protein S4
+396,230800,ETNP_110,46.22,14,14,1.46E6,2,2,2,,15100,30S ribosomal protein S4
+396,230801,ETNP_140,46.22,14,14,1.46E6,2,2,2,,15114,30S ribosomal protein S4
+396,230802,ETNP_120,46.22,10,10,1.46E6,2,2,2,,21138,30S ribosomal protein S4
+396,230803,ETNP_120,46.22,10,10,1.46E6,2,2,2,,22325,30S ribosomal protein S4
+396,25780,WP_036914701,46.22,9,9,1.46E6,2,2,2,,22881,30S ribosomal protein S4 Prochlorococcus
+396,25781,WP_011129606,46.22,9,9,1.46E6,2,2,2,,22939,30S ribosomal protein S4 Prochlorococcus marinus
+486,134353,WP_011824630.1,46.14,3,3,0E0,1,1,1,,44256,NAD-dependent dehydratase [Prochlorococcus marinus]
+486,1806,WP_038654757,46.14,3,3,0E0,1,1,1,,44233,NAD-dependent dehydratase Prochlorococcus sp MIT 0801
+486,134556,ETNP_90,46.14,4,4,0E0,1,1,1,,36395,NAD dependent epimerase/dehydratase family protein
+486,134557,ETNP_140,46.14,4,4,0E0,1,1,1,,36329,UDP-glucose 4-epimerase
+486,134563,ETNP_100,46.14,4,4,0E0,1,1,1,,41592,NAD dependent epimerase/dehydratase family protein
+486,134564,CAK22479.1,46.14,3,3,0E0,1,1,1,,44162,sulfolipid biosynthesis protein (UDP-sulfoquinovose synthase) [Synechococcus sp. WH 7803]
+486,1807,WP_011129429,46.14,3,3,0E0,1,1,1,,44267,NAD-dependent dehydratase Prochlorococcus marinus
+486,134565,ETNP14_68,46.14,3,3,0E0,1,1,1,,44370,UDP-glucose 4-epimerase
+486,134566,ETNP_100,46.14,3,3,0E0,1,1,1,,44321,UDP-glucose 4-epimerase
+486,134567,ETNP14_68,46.14,3,3,0E0,1,1,1,,44360,CDP-paratose 2-epimerase
+486,1809,WP_036913158,46.14,3,3,0E0,1,1,1,,44175,NAD-dependent dehydratase Prochlorococcus
+486,134568,NP_85,46.14,3,3,0E0,1,1,1,,44431,UDP-glucose 4-epimerase
+486,134569,ETNP_100,46.14,3,3,0E0,1,1,1,,44327,UDP-glucose 4-epimerase
+486,134570,ETNP_120,46.14,3,3,0E0,1,1,1,,44327,UDP-glucose 4-epimerase
+486,1813,WP_011126930,46.14,3,3,0E0,1,1,1,,44291,NAD-dependent dehydratase Synechococcus
+486,1814,WP_038542491,46.14,3,3,0E0,1,1,1,,44199,NAD-dependent dehydratase Synechococcus sp KORDI-100
+486,134571,ETNP_90,46.14,3,3,0E0,1,1,1,,44327,UDP-glucose 4-epimerase
+486,134572,ETNP_100,46.14,3,3,0E0,1,1,1,,44554,UDP-glucose 4-epimerase
+486,134573,ETNP_120,46.14,3,3,0E0,1,1,1,,44554,UDP-glucose 4-epimerase
+486,134685,ETNP_120,46.14,14,14,0E0,1,1,1,,9812,hypothetical protein
+486,134686,NP_30,46.14,14,14,0E0,1,1,1,,9774,hypothetical protein
+486,134687,ETNP_120,46.14,14,14,0E0,1,1,1,,9896,hypothetical protein
+486,134688,ETNP_90,46.14,14,14,0E0,1,1,1,,10548,hypothetical protein
+486,134689,ETNP_90,46.14,14,14,0E0,1,1,1,,10506,hypothetical protein
+486,134535,ETNP_120,46.14,9,9,0E0,1,1,1,,16010,hypothetical protein
+486,134536,ETNP_120,46.14,8,8,0E0,1,1,1,,17161,hypothetical protein
+486,134542,ETNP_120,46.14,6,6,0E0,1,1,1,,26007,NAD dependent epimerase/dehydratase family protein
+270,102101,ABS62233.1,46.08,6,6,2.22E3,4,1,4,Oxidation (M),58235,chaperonin GroEL [Parvibaculum lavamentivorans DS-1]
+401,230851,ETNP_110,45.95,33,33,4.1E5,2,2,2,,7667,F0F1 ATP synthase subunit B'
+401,230852,ETNP14_68,45.95,18,18,4.1E5,2,2,2,,14408,ATP synthase subunit b precursor
+401,230853,ETNP_120,45.95,15,15,4.1E5,2,2,2,,16650,ATP synthase subunit b
+401,111745,ETNP_100,45.95,15,15,4.1E5,2,2,2,,16546,ATP synthase subunit b
+401,230854,ETNP_160,45.95,15,15,4.1E5,2,2,2,,16546,ATP synthase subunit b
+401,230855,ETNP_110,45.95,15,15,4.1E5,2,2,2,,16546,ATP synthase subunit b
+401,230856,ETNP_90,45.95,15,15,4.1E5,2,2,2,,16650,ATP synthase subunit b
+401,230857,ETNP_120,45.95,15,15,4.1E5,2,2,2,,16546,ATP synthase subunit b
+401,230858,ETNP_90,45.95,15,15,4.1E5,2,2,2,,16546,ATP synthase subunit b
+338,101804,NP_85,45.88,6,6,2.92E5,2,1,2,,32906,ATP synthase subunit beta
+303,134622,ETNP_120,45.81,20,20,1.05E6,1,1,3,,8660,hypothetical protein
+606,230946,ETNP_120,45.41,29,29,3.46E4,1,1,1,,4837,Flagellar filament 33 kDa core protein
+606,230947,ETNP_120,45.41,7,7,3.46E4,1,1,1,,19673,Flagellar filament 35 kDa core protein
+357,203500,ETNP14_68,45.07,4,4,5.11E3,2,1,2,,54395,60 kDa chaperonin
+414,230950,ETNP_120,44.97,14,14,3.8E4,1,1,2,,9060,hypothetical protein
+414,230951,ETNP_90,44.97,10,10,3.8E4,1,1,2,,13190,hypothetical protein
+414,230952,ETNP_120,44.97,10,10,3.8E4,1,1,2,,13190,hypothetical protein
+414,230953,ETNP_100,44.97,10,10,3.8E4,1,1,2,,13190,hypothetical protein
+415,230954,ETNP_120,44.65,2,2,9.89E4,1,1,2,,62024,hypothetical protein
+415,230955,ETNP_160,44.65,2,2,9.89E4,1,1,2,,63035,hypothetical protein
+415,203755,ETNP_90,44.65,2,2,9.89E4,1,1,2,,73568,PA14 domain protein
+415,230956,ETNP_180,44.65,2,2,9.89E4,1,1,2,,92714,hypothetical protein
+415,203612,ETNP_300,44.65,1,1,9.89E4,1,1,2,,134406,PA14 domain protein
+416,230957,ETNP14_120,44.52,17,17,1.3E6,1,1,2,,10008,DNA-binding protein HU 1
+416,169261,ETNP_90,44.52,17,17,1.3E6,1,1,2,,10024,DNA-binding protein HU 1
+416,230958,ETNP_100,44.52,17,17,1.3E6,1,1,2,,9978,DNA-binding protein HU 1
+416,169262,ETNP14_68,44.52,17,17,1.3E6,1,1,2,,9994,DNA-binding protein HU 1
+165,103424,ETNP_90,44.51,16,16,1.08E5,3,1,7,,12542,Core histone H2A/H2B/H3/H4
+417,134769,ETNP_100,44.49,19,19,2.28E5,1,1,2,,9623,hypothetical protein
+417,134770,ETNP_120,44.49,15,15,2.28E5,1,1,2,,11705,hypothetical protein
+417,134771,ETNP14_68,44.49,15,15,2.28E5,1,1,2,,11705,hypothetical protein
+417,134772,NP_85,44.49,15,15,2.28E5,1,1,2,,11705,hypothetical protein
+417,134772,NP_85,44.49,15,15,2.28E5,1,1,2,,11705,hypothetical protein
+417,134774,ETNP_100,44.49,15,15,2.28E5,1,1,2,,11705,hypothetical protein
+417,134775,ETNP_90,44.49,15,15,2.28E5,1,1,2,,11758,hypothetical protein
+417,134776,ETNP_120,44.49,15,15,2.28E5,1,1,2,,11758,hypothetical protein
+331,102474,ETNP14_68,44.48,19,19,3.73E6,2,2,3,Oxidation (M),8665,Ubiquitin family protein
+331,102854,ETNP_90,44.48,19,19,3.73E6,2,2,3,Oxidation (M),8704,Ubiquitin family protein
+331,102855,ETNP14_120,44.48,19,19,3.73E6,2,2,3,Oxidation (M),8704,Ubiquitin family protein
+331,102475,ETNP_100,44.48,19,19,3.73E6,2,2,3,Oxidation (M),8674,Ubiquitin family protein
+331,102476,ETNP_100,44.48,19,19,3.73E6,2,2,3,Oxidation (M),9076,Ubiquitin family protein
+331,102477,ETNP_100,44.48,19,19,3.73E6,2,2,3,Oxidation (M),9064,Ubiquitin family protein
+331,102478,ETNP_60,44.48,19,19,3.73E6,2,2,3,Oxidation (M),9047,Ubiquitin family protein
+331,671,XP_002182250,44.48,12,12,3.73E6,2,2,3,Oxidation (M),14454,ubiquitin extension protein 1 2  Phaeodactylum tricornutum CCAP 1055
+331,673,XP_002179851,44.48,10,10,3.73E6,2,2,3,Oxidation (M),17809,ubiquitin extension protein 3  Phaeodactylum tricornutum CCAP 1055
+331,102480,|#CONTAM#RS27A_HUMAN|,44.48,10,10,3.73E6,2,2,3,Oxidation (M),17965,sp|#CONTAM#RS27A_HUMAN|
+331,102856,ETNP_100,44.48,10,10,3.73E6,2,2,3,Oxidation (M),18197,Ubiquitin family protein
+331,675,XP_002183736,44.48,7,7,3.73E6,2,2,3,Oxidation (M),22982,predicted protein  Phaeodactylum tricornutum CCAP 1055
+331,676,EJK68681,44.48,7,7,3.73E6,2,2,3,Oxidation (M),23088,hypothetical protein THAOC_10112  Thalassiosira oceanica
+331,677,EJK62831,44.48,6,6,3.73E6,2,2,3,Oxidation (M),26844,hypothetical protein THAOC_16543  Thalassiosira oceanica
+331,694,XP_002180198,44.48,4,4,3.73E6,2,2,3,Oxidation (M),42876,ubiquitin extension protein 4 partial  Phaeodactylum tricornutum CCAP 1055
+331,695,XP_002180197,44.48,4,4,3.73E6,2,2,3,Oxidation (M),42876,predicted protein  Phaeodactylum tricornutum CCAP 1055
+214,104,WP_011128875,44.44,8,8,1.26E4,2,1,5,Oxidation (M),19147,bleomycin hydrolase Synechococcus
+214,970,WP_011823147,44.44,8,8,1.26E4,2,1,5,Oxidation (M),19298,bleomycin hydrolase Prochlorococcus
+214,102858,ETNP_70,44.44,8,8,1.26E4,2,1,5,Oxidation (M),19186,R-phycoerythrin subunit beta
+214,102859,WP_011823147.1,44.44,8,8,1.26E4,2,1,5,Oxidation (M),19298,MULTISPECIES: bleomycin hydrolase [Prochlorococcus]
+374,230819,ETNP_140,44.17,13,13,2.24E5,2,2,2,,16430,Dihydroxy-acid dehydratase
+374,230820,ETNP_100,44.17,13,13,2.24E5,2,2,2,,16430,Dihydroxy-acid dehydratase
+374,230821,NP_85,44.17,10,10,2.24E5,2,2,2,,21109,Dihydroxy-acid dehydratase
+374,230822,ETNP_100,44.17,10,10,2.24E5,2,2,2,,22675,Dihydroxy-acid dehydratase
+374,230823,ETNP_160,44.17,6,6,2.24E5,2,2,2,,38202,Dihydroxy-acid dehydratase
+374,230824,ETNP14_68,44.17,5,5,2.24E5,2,2,2,,46552,Dihydroxy-acid dehydratase
+398,230825,ETNP_90,43.96,10,10,6.24E5,2,2,2,Carbamidomethylation,24468,Outer membrane protein alpha precursor
+398,230828,ETNP_100,43.96,8,8,6.24E5,2,2,2,Carbamidomethylation,29509,Outer membrane protein alpha precursor
+398,230829,ETNP_100,43.96,4,4,6.24E5,2,2,2,Carbamidomethylation,56295,Carbohydrate-selective porin  OprB family
+286,102408,WP_011131808.1,43.85,8,8,1.76E6,2,2,4,,27426,DNA-binding response regulator [Prochlorococcus marinus]
+286,522,WP_042849671,43.85,8,8,1.76E6,2,2,4,,27466,chemotaxis protein CheY Prochlorococcus sp MIT 0604
+286,102085,WP_011375737.1,43.85,8,8,1.76E6,2,2,4,,27371,DNA-binding response regulator [Prochlorococcus marinus]
+310,230731,ETNP_90,43.77,3,3,1.23E6,2,2,3,,52682,hypothetical protein
+310,25500,WP_011130894,43.77,3,3,1.23E6,2,2,3,,54286,transcription termination factor NusA Prochlorococcus marinus
+310,25501,WP_036911322,43.77,3,3,1.23E6,2,2,3,,54371,transcription termination factor NusA Prochlorococcus
+310,230732,ETNP_100,43.77,3,3,1.23E6,2,2,3,,54724,hypothetical protein
+310,230733,ETNP_100,43.77,3,3,1.23E6,2,2,3,,54724,hypothetical protein
+310,230734,ETNP_100,43.77,3,3,1.23E6,2,2,3,,54846,hypothetical protein
+310,230735,ETNP_90,43.77,3,3,1.23E6,2,2,3,,54846,hypothetical protein
+310,230736,ETNP_120,43.77,3,3,1.23E6,2,2,3,,55460,hypothetical protein
+310,230804,ETNP_90,43.77,12,12,1.23E6,2,2,3,,14586,hypothetical protein
+310,230805,ETNP_90,43.77,10,10,1.23E6,2,2,3,,17492,hypothetical protein
+310,230806,ETNP_110,43.77,10,10,1.23E6,2,2,3,,18069,hypothetical protein
+310,230807,ETNP14_68,43.77,9,9,1.23E6,2,2,3,,20570,hypothetical protein
+310,230808,ETNP_120,43.77,7,7,1.23E6,2,2,3,,24588,hypothetical protein
+310,230809,ETNP_160,43.77,7,7,1.23E6,2,2,3,,26799,hypothetical protein
+608,26046,WP_036916018,43.67,15,15,1.97E5,1,1,1,,8637,Nif11-like leader peptide family natural product precursor Prochlorococcus
+608,26047,WP_052039612,43.67,13,13,1.97E5,1,1,1,,9563,hypothetical protein Prochlorococcus
+608,26246,WP_011131493,43.67,12,12,1.97E5,1,1,1,,10481,hypothetical protein Prochlorococcus marinus
+418,230959,ETNP_140,43.59,14,14,3.69E5,1,1,2,,10026,30S ribosomal protein S17
+418,230960,ETNP_160,43.59,14,14,3.69E5,1,1,2,,10026,30S ribosomal protein S17
+418,230961,ETNP_100,43.59,14,14,3.69E5,1,1,2,,10026,30S ribosomal protein S17
+418,230962,ETNP_120,43.59,14,14,3.69E5,1,1,2,,10026,30S ribosomal protein S17
+418,230963,ETNP_100,43.59,14,14,3.69E5,1,1,2,,10026,30S ribosomal protein S17
+418,230964,NP_100,43.59,14,14,3.69E5,1,1,2,,10026,30S ribosomal protein S17
+355,102328,ABA59515.1,42.73,5,5,6.23E4,2,1,2,Oxidation (M),49953,ATP synthase F1 subcomplex beta subunit [Nitrosococcus oceani ATCC 19707]
+488,167574,ETNP_140,42.51,3,3,0E0,1,1,1,,66680,putative ABC transporter-binding protein precursor
+370,230755,ETNP_90,42.05,16,16,3.3E4,2,1,2,,15757,ATP synthase subunit beta
+370,230756,ETNP14_68,42.05,16,16,3.3E4,2,1,2,,15802,ATP synthase subunit beta
+294,102724,ADH90194.1,41.80,5,5,2.28E5,2,1,3,,57276,chaperonin GroEL [Starkeya novella DSM 506]
+261,203731,ETNP_110,41.75,30,30,8.91E5,2,2,2,,6748,30S ribosomal protein S21 A
+261,203732,NP_85,41.75,30,30,8.91E5,2,2,2,,6748,30S ribosomal protein S21 A
+261,203733,ETNP_90,41.75,30,30,8.91E5,2,2,2,,6748,30S ribosomal protein S21 A
+261,203734,ETNP_120,41.75,30,30,8.91E5,2,2,2,,6748,30S ribosomal protein S21 A
+261,203735,ETNP_90,41.75,30,30,8.91E5,2,2,2,,6762,30S ribosomal protein S21 A
+261,203734,ETNP_120,41.75,30,30,8.91E5,2,2,2,,6748,30S ribosomal protein S21 A
+261,2163,WP_006172073,41.75,30,30,8.91E5,2,2,2,,6750,30S ribosomal protein S21 Chroococcales
+261,203736,ETNP_120,41.75,30,30,8.91E5,2,2,2,,6762,30S ribosomal protein S21 A
+261,203742,ETNP_100,41.75,30,30,8.91E5,2,2,2,,6748,30S ribosomal protein S21 A
+261,203737,CAK24564.1,41.75,30,30,8.91E5,2,2,2,,6762,30S ribosomal protein S21 [Synechococcus sp. WH 7803]
+261,203734,ETNP_120,41.75,30,30,8.91E5,2,2,2,,6748,30S ribosomal protein S21 A
+261,203736,ETNP_120,41.75,30,30,8.91E5,2,2,2,,6762,30S ribosomal protein S21 A
+261,203733,ETNP_90,41.75,30,30,8.91E5,2,2,2,,6748,30S ribosomal protein S21 A
+261,203736,ETNP_120,41.75,30,30,8.91E5,2,2,2,,6762,30S ribosomal protein S21 A
+261,2170,WP_002806486,41.75,29,29,8.91E5,2,2,2,,7019,30S ribosomal protein S21 Prochlorococcus
+261,203745,WP_002806486.1,41.75,29,29,8.91E5,2,2,2,,7019,MULTISPECIES: 30S ribosomal protein S21 [Prochlorococcus]
+261,203744,WP_011295405.1,41.75,29,29,8.91E5,2,2,2,,7033,MULTISPECIES: 30S ribosomal protein S21 [Prochlorococcus]
+261,2171,WP_011295405,41.75,29,29,8.91E5,2,2,2,,7033,30S ribosomal protein S21 Prochlorococcus sp MIT 0801
+487,230842,ETNP_90,41.60,3,3,1.62E5,1,1,1,,61637,Phycoerythrin class 2 subunit gamma  linker polypeptide
+487,230895,ETNP_120,41.60,3,3,1.62E5,1,1,1,,61513,Phycobilisome 27.9 kDa linker polypeptide  phycoerythrin-associated  rod
+334,230912,ETNP_120,41.42,5,5,,3,0,3,,50518,60 kDa chaperonin
+368,230729,ETNP_160,41.39,28,28,4.78E5,2,1,2,,10071,50S ribosomal protein L15
+368,25569,WP_011131116,41.39,17,17,4.78E5,2,1,2,,16132,50S ribosomal protein L15 Prochlorococcus marinus
+368,230835,ETNP_140,41.39,28,28,4.78E5,2,1,2,,10083,50S ribosomal protein L15
+368,230836,ETNP14_68,41.39,17,17,4.78E5,2,1,2,,16113,50S ribosomal protein L15
+368,230837,NP_85,41.39,17,17,4.78E5,2,1,2,,16113,50S ribosomal protein L15
+368,230838,ETNP_110,41.39,17,17,4.78E5,2,1,2,,16113,50S ribosomal protein L15
+368,230839,ETNP_100,41.39,17,17,4.78E5,2,1,2,,16113,50S ribosomal protein L15
+403,230882,ETNP14_120,40.65,9,9,9.45E3,2,1,2,,22486,PTS-dependent dihydroxyacetone kinase  ADP-binding subunit DhaL
+609,230978,ETNP_120,40.39,11,11,2.99E5,1,1,1,,9973,hypothetical protein
+609,152640,ETNP_120,40.39,2,2,2.99E5,1,1,1,,54046,Serralysin B precursor
+489,134435,NP_85,40.29,4,4,9.12E4,1,1,1,,40252,Bacterial extracellular solute-binding protein
+489,134436,ETNP14_68,40.29,4,4,9.12E4,1,1,1,,40252,Bacterial extracellular solute-binding protein
+489,134437,SAR11,40.29,4,4,9.12E4,1,1,1,,40222,hypothetical protein
+489,134438,SAR11,40.29,4,4,9.12E4,1,1,1,,40252,hypothetical protein
+489,134439,NP_300,40.29,4,4,9.12E4,1,1,1,,40252,Bacterial extracellular solute-binding protein
+494,230927,CAN91504.1,39.60,1,1,0E0,1,1,1,,102223,Hybrid histidine kinase [Sorangium cellulosum So ce56]
+419,152462,ETNP_120,39.37,5,5,0E0,1,1,2,,35984,hypothetical protein
+419,152463,ETNP_300,39.37,3,3,0E0,1,1,2,,66245,hypothetical protein
+610,230979,ETNP_100,39.36,14,14,3.36E5,1,1,1,,8501,hypothetical protein
+346,135055,ETNP14_68,39.34,9,9,4.12E3,2,1,2,,25517,Translation initiation factor IF-3
+611,134672,ETNP_110,39.02,10,10,1.58E5,1,1,1,,16858,hypothetical protein
+611,134673,ETNP_90,39.02,10,10,1.58E5,1,1,1,,16856,hypothetical protein
+611,134674,NP_85,39.02,10,10,1.58E5,1,1,1,,16856,hypothetical protein
+402,25950,WP_002805232,38.70,13,13,3.74E5,2,2,2,,14715,50S ribosomal protein L11 Prochlorococcus
+402,230859,NP_30,38.70,13,13,3.74E5,2,2,2,,14781,50S ribosomal protein L11
+404,167744,ETNP_180,38.36,7,7,3.43E5,2,2,2,,35635,Alpha-keto acid-binding periplasmic protein TakP precursor
+350,104385,ETNP14_68,38.02,22,22,0E0,2,1,2,,10431,10 kDa chaperonin 1
+350,103392,ETNP14_68,38.02,22,22,0E0,2,1,2,,10302,10 kDa chaperonin 1
+350,103392,ETNP14_68,38.02,22,22,0E0,2,1,2,,10302,10 kDa chaperonin 1
+350,105139,ETNP14_68,38.02,22,22,0E0,2,1,2,,10412,10 kDa chaperonin 1
+350,103394,NP_300,38.02,22,22,0E0,2,1,2,,10433,10 kDa chaperonin 1
+350,103395,SAR11,38.02,22,22,0E0,2,1,2,,10387,10 kDa chaperonin 1
+350,103395,SAR11,38.02,22,22,0E0,2,1,2,,10387,10 kDa chaperonin 1
+350,103395,SAR11,38.02,22,22,0E0,2,1,2,,10387,10 kDa chaperonin 1
+350,103398,NP_300,38.02,22,22,0E0,2,1,2,,10475,10 kDa chaperonin 1
+536,134666,ETNP_100,37.82,8,8,1.25E6,1,1,1,,24259,Ribulose-phosphate 3-epimerase
+536,26214,WP_036915413,37.82,8,8,1.25E6,1,1,1,,24176,ribulose-phosphate 3-epimerase Prochlorococcus
+536,134667,NP_85,37.82,8,8,1.25E6,1,1,1,,24218,Ribulose-phosphate 3-epimerase
+536,134668,ETNP_90,37.82,8,8,1.25E6,1,1,1,,24218,Ribulose-phosphate 3-epimerase
+536,134669,ETNP_140,37.82,8,8,1.25E6,1,1,1,,24259,Ribulose-phosphate 3-epimerase
+536,134670,ETNP_140,37.82,8,8,1.25E6,1,1,1,,24218,Ribulose-phosphate 3-epimerase
+536,26219,WP_011129948,37.82,8,8,1.25E6,1,1,1,,24673,ribulose-phosphate 3-epimerase Prochlorococcus marinus
+536,134671,ETNP_120,37.82,7,7,1.25E6,1,1,1,,26722,Ribulose-phosphate 3-epimerase
+405,230884,ETNP14_68,37.71,36,36,5.84E5,2,2,2,,7030,hypothetical protein
+405,230885,ETNP_90,37.71,36,36,5.84E5,2,2,2,,7030,hypothetical protein
+405,230886,ETNP_110,37.71,36,36,5.84E5,2,2,2,,7030,hypothetical protein
+405,230887,ETNP_100,37.71,36,36,5.84E5,2,2,2,,7030,hypothetical protein
+405,230888,ETNP_140,37.71,36,36,5.84E5,2,2,2,,7030,hypothetical protein
+406,152590,NP_300,37.39,7,7,,2,0,2,,29377,hypothetical protein
+406,152591,NP_125,37.39,5,5,,2,0,2,,38885,hypothetical protein
+406,152593,ETNP14_120,37.39,5,5,,2,0,2,,38885,hypothetical protein
+406,152594,NP_100,37.39,5,5,,2,0,2,,38885,hypothetical protein
+406,152595,NP_85,37.39,5,5,,2,0,2,,38885,hypothetical protein
+491,26280,EJK49658,36.96,1,1,3.51E5,1,1,1,,142738,hypothetical protein THAOC_31441  Thalassiosira oceanica
+348,103053,ETNP14_120,36.73,21,21,,2,0,2,,10643,10 kDa chaperonin 5
+348,135414,ETNP14_68,36.73,21,21,,2,0,2,,10675,10 kDa chaperonin 1
+407,230915,ETNP_90,36.53,15,15,2.11E5,2,2,2,Carbamidomethylation,13484,hypothetical protein
+407,230916,ETNP_140,36.53,15,15,2.11E5,2,2,2,Carbamidomethylation,13504,hypothetical protein
+407,230917,NP_85,36.53,13,13,2.11E5,2,2,2,Carbamidomethylation,15038,hypothetical protein
+356,134899,ABA59367.1,36.45,3,3,0E0,2,1,2,,58284,Chaperonin Cpn60/TCP-1 [Nitrosococcus oceani ATCC 19707]
+612,230995,ETNP_90,36.12,8,8,6.53E4,1,1,1,,12199,hypothetical protein
+612,230996,ETNP_120,36.12,5,5,6.53E4,1,1,1,,21467,hypothetical protein
+613,230997,ETNP_90,35.95,8,8,4.18E5,1,1,1,,15819,hypothetical protein
+614,230998,ETNP_90,35.60,6,6,2.32E5,1,1,1,,16246,Tetratricopeptide repeat protein
+314,26359,WP_036521542,35.12,12,12,,2,0,3,,14215,nitrite oxidoreductase gamma subunit  partial Nitrospina sp AB-629-B18
+533,134953,NP_85,35.11,6,6,0E0,1,1,1,,19993,50S ribosomal protein L5
+192,231201,ETNP_120,35.07,14,14,3.32E5,3,3,3,,6605,Photosystem I reaction center subunit PsaK precursor
+192,231202,ETNP_160,35.07,14,14,3.32E5,3,3,3,,6826,Photosystem I reaction center subunit PsaK precursor
+192,231203,ETNP_140,35.07,14,14,3.32E5,3,3,3,,6826,Photosystem I reaction center subunit PsaK precursor
+192,152819,ETNP_90,35.07,14,14,3.32E5,3,3,3,,6824,Photosystem I reaction center subunit PsaK precursor
+192,152820,NP_85,35.07,10,10,3.32E5,3,3,3,,8983,Photosystem I reaction center subunit PsaK precursor
+192,26602,WP_011130065,35.07,10,10,3.32E5,3,3,3,,8994,photosystem I PsaK protein subunit X Prochlorococcus
+192,231204,ETNP_110,35.07,10,10,3.32E5,3,3,3,,8985,Photosystem I reaction center subunit PsaK precursor
+192,152821,ETNP_120,35.07,10,10,3.32E5,3,3,3,,8985,Photosystem I reaction center subunit PsaK precursor
+192,152821,ETNP_120,35.07,10,10,3.32E5,3,3,3,,8985,Photosystem I reaction center subunit PsaK precursor
+192,152822,ETNP_90,35.07,8,8,3.32E5,3,3,3,,12267,Photosystem I reaction center subunit PsaK precursor
+358,136575,ActinobacteriaREDSEAS14_EEFFFEGA_00303,34.70,4,4,2.49E5,2,1,2,,56329,60 kDa chaperonin 2
+534,152587,NP_300,34.63,5,5,5.27E5,1,1,1,,19250,Peptidoglycan-associated lipoprotein precursor
+534,184079,NP_100,34.63,8,8,5.27E5,1,1,1,,12181,Peptidoglycan-associated lipoprotein precursor
+534,152582,NP_300,34.63,8,8,5.27E5,1,1,1,,12166,Peptidoglycan-associated lipoprotein precursor
+534,152583,SAR11,34.63,6,6,5.27E5,1,1,1,,17768,Outer membrane lipoprotein Omp16
+534,152584,SAR11,34.63,6,6,5.27E5,1,1,1,,18015,Outer membrane lipoprotein Omp16
+534,231002,NP_100,34.63,5,5,5.27E5,1,1,1,,18073,Outer membrane lipoprotein Omp16 precursor
+534,168533,SAR11,34.63,5,5,5.27E5,1,1,1,,18128,Outer membrane lipoprotein Omp16
+534,168534,NP_300,34.63,5,5,5.27E5,1,1,1,,18732,Outer membrane lipoprotein Omp16 precursor
+534,168488,SAR11,34.63,5,5,5.27E5,1,1,1,,20020,Outer membrane lipoprotein Omp16
+534,231003,ABA56679.1,34.63,5,5,5.27E5,1,1,1,,20163,OmpA/MotB [Nitrosococcus oceani ATCC 19707]
+615,231001,ETNP_120,34.61,3,3,2.58E4,1,1,1,,59111,von Willebrand factor type A domain protein
+616,134875,NP_85,34.59,6,6,4.53E4,1,1,1,,17516,hypothetical protein
+616,134876,NP_85,34.59,5,5,4.53E4,1,1,1,,20685,hypothetical protein
+616,26307,WP_038545388,34.59,5,5,4.53E4,1,1,1,,19819,hypothetical protein Synechococcus sp KORDI-100
+616,26308,WP_011129800,34.59,4,4,4.53E4,1,1,1,,22246,hypothetical protein Prochlorococcus marinus
+616,134877,ETNP_110,34.59,4,4,4.53E4,1,1,1,,22628,hypothetical protein
+616,134878,ETNP_100,34.59,4,4,4.53E4,1,1,1,,22628,hypothetical protein
+616,134879,ETNP_90,34.59,4,4,4.53E4,1,1,1,,22713,hypothetical protein
+616,134880,ETNP_120,34.59,4,4,4.53E4,1,1,1,,22628,hypothetical protein
+616,134881,ETNP_100,34.59,4,4,4.53E4,1,1,1,,22656,hypothetical protein
+616,134882,ETNP_90,34.59,4,4,4.53E4,1,1,1,,25009,hypothetical protein
+375,105819,ETNP_100,34.43,11,11,8.26E5,2,2,2,,16766,50S ribosomal protein L9
+375,105821,ETNP_120,34.43,11,11,8.26E5,2,2,2,,16765,50S ribosomal protein L9
+375,104609,ETNP_120,34.43,11,11,8.26E5,2,2,2,,16917,50S ribosomal protein L9
+375,230929,ETNP_160,34.43,13,13,8.26E5,2,2,2,,14370,50S ribosomal protein L9
+315,230933,ETNP14_120,34.32,8,8,1.62E5,2,2,3,,25534,hypothetical protein
+315,230934,ETNP_140,34.32,8,8,1.62E5,2,2,3,,25578,hypothetical protein
+379,152685,ETNP14_68,33.98,27,27,,2,0,2,,8048,hypothetical protein
+382,105614,ETNP_100,33.89,10,10,4.98E5,2,2,2,,13208,Core histone H2A/H2B/H3/H4
+492,103182,ETNP_180,33.07,4,4,5.68E5,1,1,1,,40371,hypothetical protein
+492,103183,ETNP_140,33.07,4,4,5.68E5,1,1,1,,40371,hypothetical protein
+492,103184,ETNP_160,33.07,4,4,5.68E5,1,1,1,,40371,hypothetical protein
+421,231010,ETNP_90,32.86,11,11,1.04E6,1,1,2,,12329,Nitrogen fixation protein of unknown function
+351,152797,ETNP_160,32.77,5,5,1.6E5,2,1,2,,44643,Elongation factor Tu
+618,231016,ETNP_120,32.42,11,11,9.04E5,1,1,1,,7581,MOSC domain protein
+618,231026,ETNP_120,32.42,3,3,9.04E5,1,1,1,,33600,Penicillin-binding protein 1A/1B
+618,231032,ETNP14_68,32.42,1,1,9.04E5,1,1,1,,109128,Penicillin-binding protein 1F
+617,231015,ETNP_100,32.37,4,4,1.05E5,1,1,1,,23379,Sialic acid-binding periplasmic protein SiaP precursor
+617,231017,SAR11,32.37,3,3,1.05E5,1,1,1,,34996,Solute-binding protein
+617,231018,SAR11,32.37,3,3,1.05E5,1,1,1,,35012,Solute-binding protein
+422,231019,ETNP_100,32.36,3,3,1.02E6,1,1,2,,38927,Uroporphyrinogen decarboxylase
+422,231020,ETNP_140,32.36,3,3,1.02E6,1,1,2,,38950,Uroporphyrinogen decarboxylase
+422,231021,ETNP_110,32.36,3,3,1.02E6,1,1,2,,38950,Uroporphyrinogen decarboxylase
+422,26334,WP_038545444,32.36,3,3,1.02E6,1,1,2,,39023,uroporphyrinogen decarboxylase Synechococcus sp KORDI-100
+422,231022,ETNP_120,32.36,3,3,1.02E6,1,1,2,,38953,Uroporphyrinogen decarboxylase
+422,231023,ETNP_120,32.36,3,3,1.02E6,1,1,2,,38956,Uroporphyrinogen decarboxylase
+422,231024,ETNP_90,32.36,3,3,1.02E6,1,1,2,,38950,Uroporphyrinogen decarboxylase
+377,230880,ETNP_90,32.27,17,17,5.58E4,2,1,2,,16108,50S ribosomal protein L15
+377,26358,WP_036912674,32.27,17,17,5.58E4,2,1,2,,16138,50S ribosomal protein L15 Prochlorococcus
+451,102220,WP_011133137.1,31.61,1,1,5.48E5,1,1,1,,75690,elongation factor G [Prochlorococcus marinus]
+451,861,WP_042851049,31.61,1,1,5.48E5,1,1,1,,75614,elongation factor G Prochlorococcus sp MIT 0604
+451,868,WP_011128993,31.61,1,1,5.48E5,1,1,1,,75112,elongation factor G Synechococcus sp WH 8102
+451,102214,CAK22806.1,31.61,1,1,5.48E5,1,1,1,,75364,Elongation factor G [Synechococcus sp. WH 7803]
+451,865,WP_038543042,31.61,1,1,5.48E5,1,1,1,,75168,elongation factor G Synechococcus sp KORDI-100
+451,102237,NP_85,31.61,1,1,5.48E5,1,1,1,,69977,Elongation factor G
+451,1076,WP_011131148,31.61,1,1,5.48E5,1,1,1,,75639,elongation factor G Prochlorococcus marinus
+451,427,WP_038654264,31.61,1,1,5.48E5,1,1,1,,75545,elongation factor G Prochlorococcus sp MIT 0801
+451,102081,WP_011824477.1,31.61,1,1,5.48E5,1,1,1,,75598,elongation factor G [Prochlorococcus marinus]
+451,1077,WP_036915921,31.61,1,1,5.48E5,1,1,1,,75630,elongation factor G Prochlorococcus
+451,102238,ETNP_100,31.61,1,1,5.48E5,1,1,1,,75533,Elongation factor G
+451,102254,NP_30,31.61,2,2,5.48E5,1,1,1,,44792,Elongation factor G
+451,103473,NP_30,31.61,4,4,5.48E5,1,1,1,,26235,Elongation factor G
+451,103474,ETNP14_68,31.61,3,3,5.48E5,1,1,1,,29981,Elongation factor G
+451,102267,ETNP_120,31.61,2,2,5.48E5,1,1,1,,39197,Elongation factor G
+451,103383,ETNP14_120,31.61,20,20,5.48E5,1,1,1,,4945,Elongation factor G
+451,103384,ETNP_60,31.61,10,10,5.48E5,1,1,1,,9800,Elongation factor G
+451,103466,ETNP14_68,31.61,7,7,5.48E5,1,1,1,,13961,Elongation factor G
+451,103468,ETNP_120,31.61,7,7,5.48E5,1,1,1,,14056,Elongation factor G
+451,103467,ETNP_100,31.61,7,7,5.48E5,1,1,1,,14154,Elongation factor G
+451,103470,ETNP_100,31.61,6,6,5.48E5,1,1,1,,16418,Elongation factor G
+451,103469,ETNP_160,31.61,6,6,5.48E5,1,1,1,,16418,Elongation factor G
+451,103385,ETNP_70,31.61,6,6,5.48E5,1,1,1,,16232,Elongation factor G
+451,103471,ETNP_90,31.61,6,6,5.48E5,1,1,1,,16324,Elongation factor G
+451,103472,ETNP_140,31.61,5,5,5.48E5,1,1,1,,19160,Elongation factor G
+380,103177,ETNP_90,31.11,4,4,5.97E5,1,1,2,,32833,Phycobilisome 31.8 kDa linker polypeptide  phycoerythrin-associated  rod
+380,103178,ETNP_120,31.11,4,4,5.97E5,1,1,2,,32833,Phycobilisome 31.8 kDa linker polypeptide  phycoerythrin-associated  rod
+380,103179,ETNP_100,31.11,4,4,5.97E5,1,1,2,,32833,Phycobilisome 31.8 kDa linker polypeptide  phycoerythrin-associated  rod
+380,103178,ETNP_120,31.11,4,4,5.97E5,1,1,2,,32833,Phycobilisome 31.8 kDa linker polypeptide  phycoerythrin-associated  rod
+380,2180,WP_011128857,31.11,4,4,5.97E5,1,1,2,,33147,photosystem I reaction center subunit XII Synechococcus
+380,103181,CAK22929.1,31.11,4,4,5.97E5,1,1,2,,33173,Phycobilisome linker polypeptide  C-phycoerythrin class I-associated [Synechococcus sp. WH 7803]
+535,99,WP_011294882,30.75,7,7,2.11E4,1,1,1,,18594,flavodoxin Prochlorococcus
+535,101808,WP_011294882.1,30.75,7,7,2.11E4,1,1,1,,18594,MULTISPECIES: flavodoxin [Prochlorococcus]
+535,102016,ETNP14_68,30.75,7,7,2.11E4,1,1,1,,18682,Flavodoxin
+619,26412,WP_015897137,30.61,2,2,4.1E5,1,1,1,,59063,hypothetical protein Acidobacterium capsulatum
+621,203528,ETNP_120,30.06,4,4,0E0,1,1,1,,22898,ATP synthase gamma chain
+621,231058,ETNP_100,30.06,3,3,0E0,1,1,1,,35142,ATP synthase gamma chain
+621,231059,ETNP_100,30.06,3,3,0E0,1,1,1,,35170,ATP synthase gamma chain
+621,231060,CAK24442.1,30.06,3,3,0E0,1,1,1,,34844,ATP synthase gamma chain [Synechococcus sp. WH 7803]
+621,231061,ETNP_90,30.06,3,3,0E0,1,1,1,,35084,ATP synthase gamma chain
+620,134784,ETNP_120,29.87,5,5,2.02E4,1,1,1,,23857,Thymidylate synthase ThyX
+620,134785,ETNP_100,29.87,5,5,2.02E4,1,1,1,,23916,Thymidylate synthase ThyX
+620,134786,ETNP_100,29.87,5,5,2.02E4,1,1,1,,23814,Thymidylate synthase ThyX
+620,134787,ETNP_110,29.87,5,5,2.02E4,1,1,1,,23916,Thymidylate synthase ThyX
+620,134788,ETNP_90,29.87,5,5,2.02E4,1,1,1,,23841,Thymidylate synthase ThyX
+620,134789,ETNP_160,29.87,5,5,2.02E4,1,1,1,,23841,Thymidylate synthase ThyX
+620,134790,ETNP_100,29.87,5,5,2.02E4,1,1,1,,23841,Thymidylate synthase ThyX
+360,205581,ETNP_120,29.41,2,2,1.39E4,2,2,2,,86392,Putative type II secretion system protein E
+622,152927,ETNP_150,29.37,18,18,3.74E5,1,1,1,,4399,10 kDa chaperonin
+622,152928,ETNP_150,29.37,9,9,3.74E5,1,1,1,,7967,10 kDa chaperonin
+622,134957,ETNP14_68,29.37,7,7,3.74E5,1,1,1,,10352,10 kDa chaperonin
+622,134958,ETNP_120,29.37,7,7,3.74E5,1,1,1,,10506,10 kDa chaperonin
+622,134959,ETNP14_120,29.37,7,7,3.74E5,1,1,1,,10468,10 kDa chaperonin
+622,134960,NP_300,29.37,7,7,3.74E5,1,1,1,,10454,10 kDa chaperonin
+622,134961,ETNP14_120,29.37,7,7,3.74E5,1,1,1,,10454,10 kDa chaperonin
+622,134959,ETNP14_120,29.37,7,7,3.74E5,1,1,1,,10468,10 kDa chaperonin
+622,134963,ETNP_180,29.37,7,7,3.74E5,1,1,1,,10454,10 kDa chaperonin
+622,134964,ETNP_160,29.37,7,7,3.74E5,1,1,1,,10454,10 kDa chaperonin
+622,134965,ETNP_90,29.37,7,7,3.74E5,1,1,1,,10506,10 kDa chaperonin
+622,134966,ETNP_120,29.37,7,7,3.74E5,1,1,1,,10454,10 kDa chaperonin
+622,134966,ETNP_120,29.37,7,7,3.74E5,1,1,1,,10454,10 kDa chaperonin
+622,134968,ETNP_160,29.37,7,7,3.74E5,1,1,1,,10506,10 kDa chaperonin
+622,134969,ETNP_180,29.37,7,7,3.74E5,1,1,1,,10506,10 kDa chaperonin
+622,134970,ETNP_300,29.37,7,7,3.74E5,1,1,1,,10454,10 kDa chaperonin
+622,134958,ETNP_120,29.37,7,7,3.74E5,1,1,1,,10506,10 kDa chaperonin
+622,134972,NP_85,29.37,7,7,3.74E5,1,1,1,,10468,10 kDa chaperonin
+622,134958,ETNP_120,29.37,7,7,3.74E5,1,1,1,,10506,10 kDa chaperonin
+622,134974,ETNP14_120,29.37,7,7,3.74E5,1,1,1,,10393,10 kDa chaperonin
+622,134966,ETNP_120,29.37,7,7,3.74E5,1,1,1,,10454,10 kDa chaperonin
+622,134976,ETNP_100,29.37,7,7,3.74E5,1,1,1,,10506,10 kDa chaperonin
+381,203335,ACS36804.1,29.14,4,4,,2,0,2,,57094,60 kDa chaperonin (chloroplast) [Aureococcus anophagefferens]
+537,231036,ETNP_70,29.13,2,2,4.74E5,1,1,1,,39385,hypothetical protein
+495,231006,ETNP_120,29.05,8,8,1.37E4,1,1,1,,21845,hypothetical protein
+424,102357,NP_30,28.72,8,8,2.93E4,2,2,2,,40636,hypothetical protein
+538,134806,ETNP_140,28.56,2,2,3.29E5,1,1,1,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+538,134807,ETNP_120,28.56,2,2,3.29E5,1,1,1,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+538,134808,ETNP_160,28.56,2,2,3.29E5,1,1,1,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+538,134807,ETNP_120,28.56,2,2,3.29E5,1,1,1,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+538,134810,ETNP_180,28.56,2,2,3.29E5,1,1,1,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+538,134811,ETNP_300,28.56,2,2,3.29E5,1,1,1,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+623,231071,ETNP_70,28.10,13,13,3.13E4,1,1,1,,10012,Sulfur carrier protein CysO
+623,231072,ETNP_160,28.10,13,13,3.13E4,1,1,1,,10008,Sulfur carrier protein CysO
+623,231073,ETNP_180,28.10,13,13,3.13E4,1,1,1,,10008,Sulfur carrier protein CysO
+623,231074,ETNP14_68,28.10,13,13,3.13E4,1,1,1,,10093,Sulfur carrier protein CysO
+623,231075,ETNP_140,28.10,13,13,3.13E4,1,1,1,,10008,Sulfur carrier protein CysO
+623,231076,ETNP_300,28.10,13,13,3.13E4,1,1,1,,10008,Sulfur carrier protein CysO
+623,231077,ETNP_100,28.10,13,13,3.13E4,1,1,1,,10008,Sulfur carrier protein CysO
+623,231078,ETNP_90,28.10,13,13,3.13E4,1,1,1,,10012,Sulfur carrier protein CysO
+623,231079,Verrucomicrobia_HGEPPPGB_02971,28.10,13,13,3.13E4,1,1,1,,10196,Sulfur carrier protein CysO
+623,231080,ETNP_90,28.10,13,13,3.13E4,1,1,1,,10100,Sulfur carrier protein CysO
+623,231081,ETNP_90,28.10,13,13,3.13E4,1,1,1,,9941,Sulfur carrier protein CysO
+623,231082,ETNP_120,28.10,13,13,3.13E4,1,1,1,,10008,Sulfur carrier protein CysO
+623,231083,ETNP_90,28.10,13,13,3.13E4,1,1,1,,9924,Sulfur carrier protein CysO
+623,231084,ETNP14_68,28.10,13,13,3.13E4,1,1,1,,10026,Sulfur carrier protein CysO
+623,231085,ETNP14_68,28.10,13,13,3.13E4,1,1,1,,10063,Sulfur carrier protein CysO
+623,231086,ETNP_120,28.10,13,13,3.13E4,1,1,1,,10008,Sulfur carrier protein CysO
+623,231087,ETNP_90,28.10,13,13,3.13E4,1,1,1,,9967,Sulfur carrier protein CysO
+623,231088,ETNP_120,28.10,13,13,3.13E4,1,1,1,,10071,Sulfur carrier protein CysO
+623,231089,ETNP_70,28.10,13,13,3.13E4,1,1,1,,10194,Sulfur carrier protein CysO
+623,231090,ETNP_120,28.10,11,11,3.13E4,1,1,1,,11502,Sulfur carrier protein CysO
+464,134830,SAR11,28.05,4,4,8.11E4,1,1,1,,40675,hypothetical protein
+464,134829,ETNP_120,28.05,4,4,8.11E4,1,1,1,,40632,hypothetical protein
+464,134831,ETNP_160,28.05,4,4,8.11E4,1,1,1,,40618,hypothetical protein
+464,134832,ETNP_180,28.05,4,4,8.11E4,1,1,1,,40618,hypothetical protein
+624,231092,ETNP_300,27.50,13,13,7.45E5,1,1,1,,12417,hypothetical protein
+624,231093,ETNP_140,27.50,12,12,7.45E5,1,1,1,,13440,hypothetical protein
+423,231096,ETNP_90,27.30,6,6,1.26E6,1,1,2,,16801,PEP-CTERM motif protein
+343,231133,virus_CCADEAMM_21832,27.18,0,0,1.98E4,2,2,2,Oxidation (M),472274,hypothetical protein
+343,231134,virus_CCADEAMM_21792,27.18,0,0,1.98E4,2,2,2,Oxidation (M),472246,hypothetical protein
+361,231147,WP_012625500,27.15,1,1,1.29E6,2,2,2,,131650,hydrogenase Desulfovibrio desulfuricans
+625,231097,ETNP_140,27.14,8,8,2.21E5,1,1,1,,13438,50S ribosomal protein L24
+626,231102,ETNP_100,26.81,13,13,1.96E5,1,1,1,,9307,Nitrogen fixation protein of unknown function
+452,230883,ETNP_120,26.75,1,1,2.19E5,1,1,1,,146342,hypothetical protein
+466,136901,ETNP_120,26.67,1,1,4.06E5,1,1,1,,134936,Calpain family cysteine protease
+539,2558,CBE69591,26.62,2,2,3.44E5,1,1,1,,58424,Indole-3-pyruvate decarboxylase Indolepyruvate decarboxylase Candidatus Methylomirabilis oxyfera
+539,2496,WP_015349883,26.62,0,0,3.44E5,1,1,1,,202176,polyketide synthase Myxococcus stipitatus
+453,102413,AAV93836.1,26.58,2,2,9.76E4,1,1,1,,40104,glutamate/glutamine/aspartate/asparagine ABC transporter  periplasmic substrate-binding protein [Ruegeria pomeroyi DSS-3]
+453,1210,WP_013963181,26.58,2,2,9.76E4,1,1,1,,35570,amino acid ABC transporter substrate-binding protein Roseobacter litoralis
+453,135188,ABG31082.1,26.58,2,2,9.76E4,1,1,1,,35528,glutamate/glutamine/aspartate/asparagine-binding protein [Roseobacter denitrificans OCh 114]
+453,203616,ETNP_120,26.58,2,2,9.76E4,1,1,1,,39194,General L-amino acid-binding periplasmic protein AapJ precursor
+453,135542,NP_30,26.58,3,3,9.76E4,1,1,1,,26253,General L-amino acid-binding periplasmic protein AapJ precursor
+453,135543,ETNP14_68,26.58,3,3,9.76E4,1,1,1,,30019,General L-amino acid-binding periplasmic protein AapJ precursor
+453,231103,ABE39788.1,26.58,2,2,9.76E4,1,1,1,,36458,Lysine-arginine-ornithine-binding periplasmic protein [Rhodopseudomonas palustris BisB5]
+453,135215,ABF63027.1,26.58,2,2,9.76E4,1,1,1,,35560,Lysine-arginine-ornithine-binding periplasmic protein [Ruegeria sp. TM1040]
+453,153178,EAQ05163.1,26.58,2,2,9.76E4,1,1,1,,35712,glutamate/glutamine/aspartate/asparagine ABC transporter  periplasmic substrate-binding protein [Pseudooceanicola batsensis HTCC2597]
+540,231067,ETNP_100,26.53,8,8,1.74E5,1,1,1,,10599,50S ribosomal protein L4
+345,200083,BAJ32818.1,25.92,0,0,1.55E6,2,2,2,,680135,putative modular polyketide synthase [Kitasatospora setae KM-6054]
+627,231114,ETNP_120,25.77,13,13,1.19E5,1,1,1,,8952,Nitrogen fixation protein of unknown function
+434,184117,NP_300,25.33,12,12,2.12E5,1,1,1,,8307,Acyl carrier protein
+434,184136,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8540,Acyl carrier protein
+434,184130,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8576,Acyl carrier protein
+434,184111,NP_85,25.33,28,28,2.12E5,1,1,1,,3594,Acyl carrier protein
+434,184112,ETNP14_68,25.33,26,26,2.12E5,1,1,1,,3761,Acyl carrier protein
+434,184113,ETNP14_68,25.33,26,26,2.12E5,1,1,1,,3709,Acyl carrier protein
+434,184114,ETNP14_68,25.33,26,26,2.12E5,1,1,1,,3749,Acyl carrier protein
+434,184115,ETNP14_68,25.33,19,19,2.12E5,1,1,1,,5096,Acyl carrier protein
+434,184116,NP_300,25.33,12,12,2.12E5,1,1,1,,8320,Acyl carrier protein
+434,184118,ETNP14_120,25.33,12,12,2.12E5,1,1,1,,8349,Acyl carrier protein
+434,184119,ADH88406.1,25.33,12,12,2.12E5,1,1,1,,8454,acyl carrier protein [Starkeya novella DSM 506]
+434,184120,ETNP14_68,25.33,12,12,2.12E5,1,1,1,,8440,Acyl carrier protein
+434,184121,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8496,Acyl carrier protein
+434,184122,SAR11,25.33,11,11,2.12E5,1,1,1,,8547,Acyl carrier protein
+434,184123,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8639,Acyl carrier protein
+434,184124,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8554,Acyl carrier protein
+434,184125,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8594,Acyl carrier protein
+434,184126,ETNP14_120,25.33,11,11,2.12E5,1,1,1,,8490,Acyl carrier protein
+434,184127,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8568,Acyl carrier protein
+434,184128,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8554,Acyl carrier protein
+434,184129,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8657,Acyl carrier protein
+434,184131,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8529,Acyl carrier protein
+434,184132,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8551,Acyl carrier protein
+434,184133,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8570,Acyl carrier protein
+434,184134,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8627,Acyl carrier protein
+434,184135,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8492,Acyl carrier protein
+434,184137,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8527,Acyl carrier protein
+434,184138,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8554,Acyl carrier protein
+434,184139,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8737,Acyl carrier protein
+434,184140,ETNP14_68,25.33,11,11,2.12E5,1,1,1,,8670,Acyl carrier protein
+177,152412,CAN91477.1,25.32,2,2,2.23E8,1,1,7,,56854,hypothetical protein sce1319 [Sorangium cellulosum So ce56]
+628,231120,ETNP_90,24.89,4,4,1.22E5,1,1,1,,29327,Outer membrane protein assembly factor BamA
+630,231131,ETNP14_120,24.88,2,2,1.79E5,1,1,1,,33670,Putative oxidoreductase SadH
+386,103452,ETNP_160,24.58,8,8,4.51E5,2,1,2,,12691,50S ribosomal protein L7/L12
+386,103453,ETNP_180,24.58,8,8,4.51E5,2,1,2,,12691,50S ribosomal protein L7/L12
+631,26666,WP_011294568,24.50,7,7,1.35E5,1,1,1,,18283,hypothetical protein Prochlorococcus
+631,134921,WP_011823838.1,24.50,7,7,1.35E5,1,1,1,,18299,hypothetical protein [Prochlorococcus marinus]
+631,26667,WP_038652944,24.50,6,6,1.35E5,1,1,1,,20728,protein family PM-3 Prochlorococcus sp MIT 0801
+631,134922,WP_011823848.1,24.50,6,6,1.35E5,1,1,1,,20649,hypothetical protein [Prochlorococcus marinus]
+632,135985,ETNP_100,24.42,10,10,4.43E5,1,1,1,,13234,hypothetical protein
+632,135986,ETNP_100,24.42,10,10,4.43E5,1,1,1,,13204,hypothetical protein
+632,135987,ETNP_90,24.42,10,10,4.43E5,1,1,1,,13234,hypothetical protein
+632,135988,ETNP_140,24.42,9,9,4.43E5,1,1,1,,14330,hypothetical protein
+632,135989,ETNP_120,24.42,9,9,4.43E5,1,1,1,,15099,hypothetical protein
+633,231145,ETNP14_120,23.88,7,7,2.34E4,1,1,1,,21451,Flagellin
+546,135539,NP_300,23.85,6,6,4.33E5,1,1,1,,12438,Flagellar assembly protein FliX
+544,231119,ETNP_120,23.54,4,4,2.9E5,1,1,1,,21699,FK506-binding protein
+636,231159,ETNP14_68,22.92,3,3,0E0,1,1,1,Carbamidomethylation,29577,invasion protein regulator
+545,231135,WP_083772868.1,22.88,2,2,4.1E5,1,1,1,,48738,bifunctional o-acetylhomoserine/o-acetylserine sulfhydrylase [marine actinobacterium PHSC20C1]
+545,231146,ETNP14_68,22.88,2,2,4.1E5,1,1,1,,46635,Methionine gamma-lyase
+545,231155,SAR11,22.88,2,2,4.1E5,1,1,1,,47145,L-methionine gamma-lyase
+545,101897,WP_038132783.1,22.88,2,2,4.1E5,1,1,1,,47285,O-acetylhomoserine aminocarboxypropyltransferase [Verrucomicrobia bacterium SCGC AAA168-F10]
+545,231156,WP_010205027.1,22.88,2,2,4.1E5,1,1,1,,46880,bifunctional o-acetylhomoserine/o-acetylserine sulfhydrylase [Salinibacterium sp. PAMC 21357]
+545,231157,SAR11,22.88,2,2,4.1E5,1,1,1,,47558,L-methionine gamma-lyase
+545,269,WP_038544140,22.88,2,2,4.1E5,1,1,1,,47702,O-acetylhomoserine aminocarboxypropyltransferase Synechococcus sp KORDI-100
+545,101738,WP_011376198.1,22.88,2,2,4.1E5,1,1,1,,47854,MULTISPECIES: O-acetylhomoserine aminocarboxypropyltransferase [Prochlorococcus]
+545,101814,CAK23833.1,22.88,2,2,4.1E5,1,1,1,,47559,O-Acetyl homoserine sulfhydrylase [Synechococcus sp. WH 7803]
+545,101824,WP_011132276.1,22.88,2,2,4.1E5,1,1,1,,48059,O-acetylhomoserine aminocarboxypropyltransferase [Prochlorococcus marinus]
+545,231158,NP_300,22.88,2,2,4.1E5,1,1,1,,47922,Methionine gamma-lyase
+545,102007,WP_011823424.1,22.88,2,2,4.1E5,1,1,1,,48962,O-acetylhomoserine aminocarboxypropyltransferase [Prochlorococcus marinus]
+179,230999,virus_ANPENILN_00460,22.87,1,1,1.06E6,1,1,6,Oxidation (M),234570,hypothetical protein
+639,231165,virus_CCADEAMM_47277,22.68,3,3,5.7E5,1,1,1,,26040,hypothetical protein
+637,231161,ETNP_70,22.20,3,3,3.74E5,1,1,1,,29062,hypothetical protein
+435,231110,virus_CCADEAMM_20514,22.20,1,1,0E0,1,1,1,Carbamidomethylation,59330,hypothetical protein
+498,231136,SAR202_JMBHMLPD,21.81,1,1,1.33E4,1,1,1,,67052,DNA primase
+438,231188,virus_CCADEAMM_14300,21.69,0,0,,1,0,1,,322694,hypothetical protein
+640,231190,ETNP14_68,21.28,4,4,2.92E5,1,1,1,,33016,hypothetical protein
+641,231193,WP_011783907,21.07,3,3,4.76E4,1,1,1,,38655,C4-dicarboxylate ABC transporter Marinobacter
+550,231177,NP_85,20.89,2,2,5E5,1,1,1,,40723,Rubrerythrin
+454,231113,ACA17723.1,20.87,1,1,0E0,1,1,1,,216385,structural toxin protein RtxA [Methylobacterium sp. 4-46]
+304,154207,WP_012564642,20.72,2,2,0E0,1,1,3,,55674,ABC transporter substrate-binding protein Oligotropha carboxidovorans
+643,231198,ETNP_160,20.63,1,1,3.14E5,1,1,1,,67693,Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+644,231228,ADI90297.1,20.54,5,5,6.95E5,1,1,1,,18529,hypothetical protein AOLE_07020 [Acinetobacter oleivorans DR1]
+471,231171,EJK73666,20.19,0,0,8.39E5,1,1,1,,295143,hypothetical protein THAOC_04698 partial  Thalassiosira oceanica
+655,231270,ETNP_120,20.14,2,2,2.15E5,1,1,1,,28985,NADH dehydrogenase
+655,231307,ETNP_160,20.14,1,1,2.15E5,1,1,1,,56882,hypothetical protein
+655,231308,ETNP_120,20.14,1,1,2.15E5,1,1,1,,56882,hypothetical protein
+555,136381,ETNP14_120,20.08,6,6,1.37E4,1,1,1,,17303,cAMP receptor protein
+558,135568,EAQ04242.1,20.01,2,2,2.24E4,1,1,1,,54270,putative D-ribose ABC transporter ATP-binding protein [Pseudooceanicola batsensis HTCC2597]
