@@ -27,3 +27,10 @@ From 2017 timeseries station P2 (offshore):
 378 is top collector (UWPR Dec 2018)
 
 ### MED4 MS/MS aquired on Ingalls QExactive by R. Lundeen (2016?)
+
+### Where the data processing lives:
+
+|Sample running # | UWPR batch run | _de novo_ only peptides (dno) | database ID'd peptides (db) | dno Unipept LCA | db Unipept LCA |
+|-----------------|----------------|-------------------------------|-----------------------------|-----------------|----------------|
+| 231             |
+
