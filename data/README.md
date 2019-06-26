@@ -27,3 +27,15 @@ From 2017 timeseries station P2 (offshore):
 378 is top collector (UWPR Dec 2018)
 
 ### MED4 MS/MS aquired on Ingalls QExactive by R. Lundeen (2016?)
+
+### Where the data processing lives:
+
+|Sample running # | UWPR batch run | _de novo_ only peptides (dno) | database ID'd peptides (db) | dno Unipept LCA | db Unipept LCA |
+|-----------------|----------------|-------------------------------|-----------------------------|-----------------|----------------|
+| 231             | April 2017     | [uwpr-apr2017-dno notebook](https://github.com/MeganEDuffy/2017-etnp/blob/master/notebooks/uwpr-apr2017-dno.ipynb)     | [uwpr-apr2017-db notebook](https://github.com/MeganEDuffy/2017-etnp/blob/master/notebooks/uwpr-apr2017-db.ipynb) | to do | to do |
+|233              | April 2017    | [uwpr-apr2017-dno notebook](https://github.com/MeganEDuffy/2017-etnp/blob/master/notebooks/uwpr-apr2017-dno.ipynb) | [uwpr-apr2017-db notebook](https://github.com/MeganEDuffy/2017-etnp/blob/master/notebooks/uwpr-apr2017-db.ipynb) | to do | to do |
+| 243             | May 2017      | [uwpr-may2017-dno notebook](https://github.com/MeganEDuffy/2017-etnp/blob/master/notebooks/uwpr-may2017-dno.ipynb) | [uwpr-may2017-db notebook](https://github.com/MeganEDuffy/2017-etnp/blob/master/notebooks/uwpr-may2017-db.ipynb) | to do | to do |
+| 378             | December 2018 | [uwpr-dec2018-dno notebook](https://github.com/MeganEDuffy/2017-etnp/blob/master/notebooks/uwpr-dec2018-dno.ipynb) | [uwpr-dec2018-db notebook](https://github.com/MeganEDuffy/2017-etnp/blob/master/notebooks/uwpr-dec2018-db.ipynb) | to do | to do |
+| 278             | October 2018  | [uwpr-oct2018-dno notebook](https://github.com/MeganEDuffy/2017-etnp/blob/master/notebooks/uwpr-oct2018-dno.ipynb) | [uwpr-oct2018-db notebook](https://github.com/MeganEDuffy/2017-etnp/blob/master/notebooks/uwpr-oct2018-db.ipynb) | to do | to do |
+| 273             | October 2018  | [uwpr-oct2018-dno notebook](https://github.com/MeganEDuffy/2017-etnp/blob/master/notebooks/uwpr-oct2018-dno.ipynb) | [uwpr-oct2018-db notebook](https://github.com/MeganEDuffy/2017-etnp/blob/master/notebooks/uwpr-oct2018-db.ipynb) | to do | to do |
+
