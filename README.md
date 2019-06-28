@@ -4,7 +4,7 @@
 ### Directory containing all data and analyses pertaining to Master's thesis and paper in prep
 
 
-### *Potentials for de novo-assisted peptide sequencing in the study of marine protein degradation*
+### *De novo-assisted peptidomics helps in the studies of marine carbon flux and protein degradation *
 
 Megan E. Duffy<sup>1</sup>, Jacquelyn A. Neibauer<sup>1</sup>, Jamee Adams<sup>1</sup>, Clara A. Fuchsman<sup>2</sup>, and Richard G. Keil<sup>1</sup>
 
