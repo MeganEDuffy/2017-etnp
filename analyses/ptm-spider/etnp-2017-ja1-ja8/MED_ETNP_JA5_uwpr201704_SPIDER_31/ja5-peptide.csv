@@ -1,0 +1,13 @@
+Name,?Mass,Position,#PSM,-10lgP,Area,AScore
+Carbamidomethyl,57.02,C,69,77.41,3.80E+07,1000
+Deamidation,0.98,NQ,49,64.5,4.36E+06,51.26
+Oxidation,15.99,M,36,55.29,1.31E+06,1000
+Sodium,21.98,"DE,C-term",17,71.02,2.71E+06,128.38
+Methylation(KR),14.02,KR,13,56.35,1.02E+06,1000
+Cation:Ca[II],37.95,DE,12,63.12,8.48E+06,51.01
+Ethyl,28.03,N-term,11,59.42,1.12E+06,181.92
+Dimethylation(KR),28.03,K,10,77.41,3.80E+07,1000
+Dehydration,-18.01,DT,7,42.6,2.92E+06,27.83
+Formylation,27.99,"K,N-term",7,30.2,2.42E+05,47.94
+Acetylation,42.01,N-term,6,29.2,6.83E+05,1000
+Pyro-glu from Q,-17.03,N-term,5,37,1.86E+06,1000

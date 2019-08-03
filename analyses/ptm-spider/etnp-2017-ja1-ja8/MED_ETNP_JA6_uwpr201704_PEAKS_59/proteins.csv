@@ -1,0 +1,38 @@
+Protein Group,Protein ID,Accession,-10lgP,Coverage (%),Coverage (%) etnp-ja06-20170410,Area etnp-ja06-20170410,#Peptides,#Unique,#Spec etnp-ja06-20170410,PTM,Avg. Mass,Description
+1,64,gi|54036848,90.98,11,11,8.86E+08,6,5,80,Deamination,95585,RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1
+8,25379,WP_018049561,35.96,11,11,7.13E+06,3,3,3,,17055,hypothetical protein Nitrospina sp AB-629-B18
+3,1479,BAL59480,30.63,3,3,1.79E+05,2,1,13,Deamination,100280,ATP-dependent Clp protease ATP-binding subunit ClpC Candidatus Acetothermus autotrophicum
+10,98844,ETNP14_120mab_PROKKA_99350,29,42,42,3.42E+06,1,1,3,,3672,hypothetical protein
+10,98845,ETNP14_120mab_PROKKA_157108,29,42,42,3.42E+06,1,1,3,,3658,hypothetical protein
+10,98846,ETNP14_120maa_PROKKA_145159,29,8,8,3.42E+06,1,1,3,,17825,Ammonium transporter NrgA
+4,335,ETNP14_120maa_PROKKA_173526,27.58,10,10,2.23E+06,2,2,7,,22868,General L-amino acid-binding periplasmic protein AapJ precursor
+4,274,NP_100m_PROKKA_12960,27.58,6,6,2.23E+06,2,2,7,,35769,General L-amino acid-binding periplasmic protein AapJ precursor
+4,25026,Fosmid_PROKKA_01487,27.58,6,6,2.23E+06,2,2,7,,37431,General L-amino acid-binding periplasmic protein AapJ precursor
+9,24974,NP_85m_PROKKA_04529,24.78,4,4,3.03E+06,2,2,3,,49419,Selenate reductase subunit beta
+9,24976,WP_018047899,24.78,4,4,3.03E+06,2,2,3,,49419,hypothetical protein Nitrospina sp AB-629-B18
+9,24975,ETNP14_68maa_PROKKA_75202,24.78,4,4,3.03E+06,2,2,3,,49437,Selenate reductase subunit beta
+6,1266,ETNP_100m_particle_PROKKA_145657,21.59,15,15,1.67E+06,1,1,4,,6240,hypothetical protein
+6,1267,EJK73857,21.59,12,12,1.67E+06,1,1,4,,7545,hypothetical protein THAOC_04498 partial  Thalassiosira oceanica
+6,1268,ETNP_100m_particle_PROKKA_137338,21.59,11,11,1.67E+06,1,1,4,,8411,hypothetical protein
+6,1269,ETNP_120m_PROKKA_182906,21.59,11,11,1.67E+06,1,1,4,,8616,hypothetical protein
+6,1270,ETNP_100m_particle_PROKKA_39670,21.59,11,11,1.67E+06,1,1,4,,8616,hypothetical protein
+6,437,ETNP_120m_particle_PROKKA_209581,21.59,6,6,1.67E+06,1,1,4,,14995,hypothetical protein
+6,438,ETNP_120m_particle_PROKKA_30032,21.59,6,6,1.67E+06,1,1,4,,15516,hypothetical protein
+6,1604,ETNP_60m_PROKKA_12823,21.59,4,4,1.67E+06,1,1,4,,22764,hypothetical protein
+6,461,XP_002180656,21.59,2,2,1.67E+06,1,1,4,,49747,predicted protein  Phaeodactylum tricornutum CCAP 1055
+6,132,XP_003062500,21.59,2,2,1.67E+06,1,1,4,,49730,alpha tubulin  Micromonas pusilla CCMP1545
+6,133,XP_003058621,21.59,2,2,1.67E+06,1,1,4,,49730,alpha tubulin  Micromonas pusilla CCMP1545
+6,152,XP_003082284,21.59,2,2,1.67E+06,1,1,4,,50099,TBA_CHLVU Tubulin alpha chain ISS  Ostreococcus tauri
+6,151,XP_003080933,21.59,2,2,1.67E+06,1,1,4,,52460,TBA_CHLVU Tubulin alpha chain ISS  Ostreococcus tauri
+6,26281,XP_003057202,21.59,1,1,1.67E+06,1,1,4,,65406,predicted protein  Micromonas pusilla CCMP1545
+11,25068,ETNP_100m_PROKKA_74107,21.43,8,8,1.43E+06,1,1,2,,16306,hypothetical protein
+11,25687,WP_018048164,21.43,8,8,1.43E+06,1,1,2,,16454,hypothetical protein Nitrospina sp AB-629-B18
+11,25857,ETNP_120m_free_PROKKA_218974,21.43,29,29,1.43E+06,1,1,2,,4341,hypothetical protein
+11,25317,ETNP14_120mab_PROKKA_101646,21.43,27,27,1.43E+06,1,1,2,,4575,hypothetical protein
+11,26111,ETNP14_120mac_PROKKA_31841,21.43,13,13,1.43E+06,1,1,2,,9203,hypothetical protein
+11,25858,ETNP_160m_PROKKA_162981,21.43,12,12,1.43E+06,1,1,2,,10390,hypothetical protein
+11,26112,WP_005010074,21.43,9,9,1.43E+06,1,1,2,,14028,exported hypothetical protein Nitrospina gracilis
+11,25859,ETNP_100m_PROKKA_16075,21.43,7,7,1.43E+06,1,1,2,,16599,hypothetical protein
+11,25862,ETNP_110m_PROKKA_29854,21.43,6,6,1.43E+06,1,1,2,,19892,hypothetical protein
+11,25860,ETNP_120m_PROKKA_17782,21.43,6,6,1.43E+06,1,1,2,,19892,hypothetical protein
+11,25861,ETNP14_120maa_PROKKA_16216,21.43,6,6,1.43E+06,1,1,2,,19892,hypothetical protein
