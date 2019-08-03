@@ -5,3 +5,11 @@ library(plotly)
 + add_histogram(x = dnopeps$Tag.Length, name = 'de novo only peptides') %>%
 + layout(barmode = "overlay", title="Peptide length distribution", yaxis=list(title="# peptides", showline = TRUE, showgrid = FALSE), xaxis=list(title="# residues"))
 > p
+
+purple and coral:
+
+p <- plot_ly(alpha = 0.6) %>%
++ add_histogram(x = dbpeps$Length, name = "database ID'd peptides", marker = list(color="slateblue")) %>%
++ add_histogram(x = dnopeps$Tag.Length, name = 'de novo only peptides', marker = list(color="coral")) %>%
++ layout(barmode = "overlay", title="Peptide length distribution", yaxis=list(title="# peptides", showline = TRUE, showgrid = FALSE), xaxis=list(title="# residues"))
+> p
