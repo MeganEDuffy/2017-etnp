@@ -1,491 +1,74 @@
-""
-
 Carbamidomethylation; Dimethylation(KR)
-
 Sodium adduct
 Deamidation (NQ)
-
 Carbamidomethylation; Dimethylation(KR)
 Ethylation; Carbamidomethylation
-
 Carbamidomethylation
-
 Oxidation (M)
 Replacement of proton by potassium
-
 Sodium adduct
 Carbamylation
 Dehydration
 Dehydration
-
 Carbamidomethylation
-
-
 Carbamidomethylation; Dimethylation(KR)
 Oxidation (M)
 Oxidation (M)
 Deamidation (NQ)
-
-
-
 Deamidation (NQ)
 Deamidation (NQ)
-
-
-
 Mutation
-
-
-
-
-
 Dehydration
-
-
-
-
-
 Replacement of proton by potassium
-
-
 Methylation(others); Carbamidomethylation
 Replacement of 2 protons by calcium
-
-
 Deamidation (NQ)
 Oxidation (M)
 Oxidation (M)
 Dehydration
-
 Carbamidomethylation; Methylation(KR)
-
-
-
-
-
-
-
 Deamidation (NQ)
 Mutation
-
-
-
-
 Mutation
 Deamidation (NQ)
-
-
-
-
-
-
 Mutation
 Sodium adduct
-
-
-
-
-
-
-
-
-
 Ethylation
-
 Oxidation (HW)
-
-
-
-
-
 Pyro-glu from Q
-
-
-
-
-
-
-
-
-
 Deamidation (NQ)
-
-
-
 Methylation(others); Carbamidomethylation
-
-
-
-
 Pyro-glu from Q
-
-
-
-
 Carbamidomethylation; Carboxylation (DKW)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Oxidation (M)
-
-
-
-
-
-
 Carbamidomethylation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Ethyl amino
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Acetylation (N-term)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ISD (z+2)-series
-
 ISD (z+2)-series
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Oxidation (M)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Deamidation (NQ)
-
-
-
-
-
-
-
 Deamidation (NQ)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Ethylation
-
-
-
 Replacement of proton by potassium
-
-
-
-
-
-
-
 Oxidation (M)
-
-
-
 Replacement of proton by potassium
-
-
-
-
-
 Oxidation (M)
-
 Carbamidomethylation
-
-
 Mutation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Mutation
-
-
-
-
-
-
-
 Sodium adduct
-
-
-
-
-
-
-
 Dimethylation(KR)
-
-
-
 Pyro-glu from Q
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Carbamidomethylation
-
-
-
 Menadione hydroquinone derivative
-
-
-
 Carbamidomethylation
-
 Menadione hydroquinone derivative
-
-
-
-
-
-
-
-
-
-
-Oxidation (M)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Oxidation (M)
-
-
-
-
-
-
-
-
-
-
-
-
-
-Oxidation (M)
-
-
 Oxidation (M)
 Oxidation (M)
 Oxidation (M)
 Oxidation (M)
-
-
-
-
-
-
-
+Oxidation (M)
+Oxidation (M)
+Oxidation (M)
 Mutation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
