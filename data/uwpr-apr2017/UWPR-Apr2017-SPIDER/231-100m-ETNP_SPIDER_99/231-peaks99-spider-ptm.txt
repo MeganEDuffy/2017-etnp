@@ -1,0 +1,2220 @@
+""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carbamidomethylation; Dimethylation(KR)
+
+Carbamidomethylation
+Oxidation (M)
+
+Deamidation (NQ)
+
+
+
+
+Sodium adduct
+
+
+
+
+
+
+
+
+Deoxy
+
+
+
+
+
+
+
+
+Sodium adduct
+Sodium adduct
+
+
+
+Oxidation (M)
+
+Carbamidomethylation
+
+
+Ethylation
+
+
+
+Oxidation (M); Methylation(KR)
+Carbamidomethylation
+
+Methylation(KR)
+Oxidation (M)
+
+
+
+
+
+
+
+
+Carbamidomethylation
+
+
+
+Oxidation (M)
+Oxidation (M)
+
+
+
+Carbamidomethylation
+Oxidation (M)
+
+
+Sodium adduct
+Pyro-glu from Q
+Carbamidomethylation
+
+
+
+
+
+
+Carbamidomethylation
+
+
+
+
+
+
+Oxidation (M)
+Sodium adduct
+Methylation(others)
+
+
+Pyro-glu from Q
+
+
+
+
+
+Deamidation (NQ)
+Carbamidomethylation
+Carbamidomethylation
+Oxidation (M)
+Carbamidomethylation; Deamidation (NQ); Dimethylation(KR)
+
+Oxidation (M)
+
+
+
+
+Carbamidomethylation
+Sodium adduct
+Carbamidomethylation
+Oxidation (M)
+
+
+
+
+
+
+
+
+Oxidation (M)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deoxy
+
+Acetylation (N-term)
+
+Acetylation (Protein N-term)
+Acetylation (N-term)
+
+
+Oxidation (M)
+
+
+
+
+
+
+Pyro-glu from Q
+
+
+
+
+
+Oxidation (M)
+
+
+
+
+Acetylation (Protein N-term)
+Acetylation (N-term)
+
+
+Oxidation (M)
+
+
+
+Carbamidomethylation
+
+Sodium adduct
+Sodium adduct
+
+
+Replacement of 2 protons by calcium
+Oxidation (M)
+Oxidation (M)
+
+
+Ethylation; Carbamidomethylation
+
+
+
+
+
+
+
+
+Pyro-glu from Q
+
+
+Sodium adduct
+
+Sodium adduct
+
+
+
+Ethylation
+
+
+
+
+
+
+
+
+
+
+Carbamidomethylation
+
+
+
+
+
+
+
+
+
+
+
+
+
+Replacement of 2 protons by calcium
+
+
+Carbamidomethylation
+
+
+
+Methylation(others)
+
+Pyro-glu from Q
+Carbamidomethylation
+
+
+
+
+Carbamidomethylation
+
+Oxidation (M)
+
+Carbamidomethylation
+Carbamidomethylation
+
+
+
+
+
+
+
+Carbamidomethylation
+
+Carbamidomethylation
+
+
+
+
+
+
+
+
+Oxidation (M)
+
+
+
+Carbamidomethylation
+Carbamidomethylation
+
+
+
+
+
+
+
+
+
+
+
+
+Sodium adduct
+
+
+
+
+
+Propionamide (K  X@N-term)
+
+
+
+
+Carbamidomethylation
+
+
+
+
+
+Oxidation (M)
+
+
+
+
+
+
+
+Tryptophan oxidation to kynurenin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carbamidomethylation
+Oxidation (M)
+
+Carbamidomethylation
+
+
+
+Oxidation (M)
+
+Oxidation (M)
+
+
+
+
+
+
+
+
+
+Hydroxymethyl
+
+
+
+
+
+
+
+
+Oxidation (M)
+
+
+Carbamidomethylation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dehydration
+
+
+Pyro-glu from Q
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carbamidomethylation
+Oxidation (M)
+Oxidation (M)
+
+
+Sodium adduct
+Carbamidomethylation
+
+
+
+Carbamidomethylation; Methylation(others)
+
+Carbamidomethylation; Carboxyethyl
+
+
+
+
+
+Carboxymethyl (KW  X@N-term)
+
+
+
+
+
+Oxidation (M)
+
+
+
+Oxidation (M)
+
+
+
+
+
+
+
+Carbamylation
+
+
+
+
+
+
+Oxidation (M)
+
+Replacement of 2 protons by calcium
+Replacement of 2 protons by calcium
+
+
+
+Deamidation (NQ)
+
+
+
+
+
+
+
+Oxidation (M)
+Oxidation (M)
+
+
+
+
+
+
+
+
+
+
+Oxidation (M)
+Replacement of 2 protons by nickel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carbamidomethylation
+
+
+
+
+Oxidation (M)
+
+
+
+Oxidation (M)
+
+
+
+
+
+
+
+
+
+
+Deamidation (NQ)
+
+
+Oxidation (M)
+
+
+
+
+
+Acetylation (N-term); Deamidation (NQ)
+
+
+
+
+
+
+Oxidation (M)
+
+
+
+
+Dehydration
+
+
+
+Mutation
+
+
+
+
+
+Mutation
+Dehydration
+
+
+Sodium adduct
+
+
+
+
+
+
+Oxidation (M)
+
+
+
+Oxidation (M)
+
+
+
+
+
+
+
+
+Carbamylation
+
+
+Formylation
+
+
+
+
+
+
+
+
+
+
+Oxidation (M)
+
+Mutation
+
+
+
+Methylation(others)
+
+
+
+
+
+
+
+Replacement of 2 protons by calcium
+
+
+
+
+
+Replacement of 2 protons by calcium
+
+
+
+
+
+
+
+
+
+
+Oxidation or Hydroxylation
+
+
+
+
+Formylation
+Mutation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Formylation; Carbamidomethylation
+
+
+
+Carbamidomethylation; Sodium adduct
+
+
+Sodium adduct
+
+Mutation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Replacement of 2 protons by calcium
+Mutation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Acetylation (N-term)
+
+
+
+Carbamylation
+
+
+
+
+
+
+
+
+
+
+
+Mutation
+
+
+Methylation(others)
+
+
+Carbamidomethylation
+
+
+Mutation
+
+
+
+Replacement of proton by potassium
+Propionamide (K  X@N-term)
+
+
+
+
+Carbamidomethylation
+Carbamidomethylation
+Replacement of proton by potassium
+Mutation
+
+Carbamidomethylation
+Oxidation (M)
+Carboxylation (DKW); Deamidation (NQ)
+Mutation
+
+Sodium adduct
+
+
+
+
+
+
+Formylation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deamidation (NQ)
+
+Dehydration
+Dehydration
+
+Oxidation (M)
+
+
+
+Carboxylation (E); Methylation(KR)
+
+
+
+Mutation
+
+
+
+
+
+
+
+Oxidation (M)
+
+
+
+
+
+
+Deamidation (NQ)
+
+
+
+
+
+
+Glycidamide adduct
+
+Deamidation (NQ)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ethylation
+
+
+
+Acetylation (N-term)
+
+
+
+
+
+Deamidation (NQ)
+
+
+Sodium adduct
+
+
+
+
+
+
+
+
+Carbamidomethylation; Oxidation (M)
+Carbamidomethylation
+
+
+Mutation
+
+
+
+
+
+
+
+Carbamidomethylation
+Carbamidomethylation
+Carbamidomethylation
+
+
+
+Carbamidomethylation
+
+
+
+
+
+
+
+
+
+
+Carbamidomethylation
+
+
+
+Replacement of 2 protons by calcium
+
+
+
+Replacement of 2 protons by magnesium
+
+
+
+
+Methylation(others)
+
+Oxidation (M)
+
+
+Oxidation (M)
+
+
+Carbamidomethylation
+
+
+
+
+
+
+
+
+
+Formylation
+
+
+
+
+Deamidation (NQ)
+
+
+Acetylation (N-term)
+
+Acetylation (TSCYH)
+Oxidation (M)
+
+Acetylation (N-term)
+
+
+
+
+
+
+
+Acetylation (N-term)
+
+
+
+Oxidation (M)
+Carbamidomethylation
+
+
+
+
+
+
+
+Ubiquitin
+
+Carbamidomethylation
+
+
+Sulphone
+
+
+Deamidation (NQ)
+
+Carbamidomethylation
+
+
+Oxidation (M)
+Deamidation (NQ)
+
+Mutation
+
+
+
+
+Dehydration
+
+Deamidation (NQ)
+Deamidation (NQ)
+Carbamidomethylation
+
+
+
+
+
+Oxidation (M)
+
+
+
+
+
+
+Oxidation (M)
+Formylation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oxidation (M)
+
+Dimethylation(KR)
+
+
+
+
+
+
+
+
+
+
+Mutation
+
+Dihydroxy
+
+
+
+
+
+
+
+
+
+
+
+
+Oxidation (M)
+Oxidation (M)
+
+
+
+Tyrosine oxidation to 2-aminotyrosine
+
+
+
+
+
+
+
+
+Oxidation (M)
+
+
+
+Formylation
+
+
+
+Carbamidomethylation
+
+Deamidation (NQ)
+
+
+Carbamidomethylation
+
+Mutation
+
+
+
+Mutation
+
+Oxidation (M)
+Carbamidomethylation
+Oxidation (M)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carbamidomethylation; Deamidation (NQ); Methylation(KR)
+
+
+
+
+Mutation
+
+
+
+Acetylation (Protein N-term)
+
+
+Oxidation (M)
+
+
+
+Carbamidomethylation
+
+Ethylation
+Mutation
+
+
+Oxidation (M)
+Deamidation (NQ)
+
+
+
+
+
+
+
+
+
+
+Methylation(KR)
+
+
+
+
+Mutation
+
+Methylation(others)
+
+Methylation(KR)
+
+
+
+
+Oxidation (M)
+
+
+Methylation(KR)
+
+Ethylation
+
+
+
+
+
+
+
+
+
+Pyro-glu from Q
+
+Carbamidomethylation
+Mutation
+
+Acetylation (Protein N-term)
+
+
+Deamidation (NQ)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deamidation (NQ)
+Carbamidomethylation
+
+Oxidation (M)
+
+
+Carbamidomethylation
+Oxidation (M); Mutation
+
+Deamidation (NQ)
+
+
+Formylation (Protein N-term)
+Formylation
+Ammonia-loss (N)
+
+
+
+
+
+
+
+
+Deamidation (NQ)
+
+Carbamidomethylation
+
+
+Mutation
+
+
+
+
+Propionamide (K  X@N-term)
+
+Deamidation (NQ)
+
+
+
+Oxidation (M)
+
+
+
+
+
+
+
+Carboxymethyl (KW  X@N-term)
+
+
+
+
+Dethiomethyl
+Sodium adduct
+Acetylation (N-term)
+
+
+
+
+
+
+
+
+
+Mutation
+
+
+
+
+
+
+
+Oxidation (M)
+
+Methylation(others)
+Oxidation (M)
+
+
+
+
+
+Carbamylation
+Mutation
+
+Mutation
+
+
+
+Deamidation (NQ)
+
+
+Carbamidomethylation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mutation
+
+
+
+
+
+
+
+
+
+
+
+Oxidation (M)
+
+Carbamidomethylation
+
+
+
+
+
+
+
+
+
+
+
+
+Formylation (Protein N-term)
+Formylation
+
+
+
+
+
+
+
+
+
+Dethiomethyl
+
+Oxidation (M)
+Mutation
+
+
+Deamidation (NQ)
+
+
+Carbamidomethylation
+
+
+Mutation
+
+
+
+
+
+Mutation
+Deamidation (NQ); Oxidation (M)
+
+Oxidation (M)
+
+
+
+
+
+
+
+
+
+
+Acetylation (N-term)
+
+Carbamidomethylation
+
+
+Mutation
+
+
+
+
+Oxidation or Hydroxylation
+Replacement of 2 protons by calcium
+
+
+
+Oxidation or Hydroxylation
+
+Mutation
+
+
+
+
+Sulphone
+Propionamide (K  X@N-term)
+
+
+
+
+Oxidation (M)
+
+Mutation
+
+
+
+
+Mutation
+Pyro-glu from Q
+Carbamidomethylation
+
+
+
+Amidation
+
+
+
+Carbamidomethylation
+Mutation
+Mutation
+
+
+
+
+
+Carbamidomethylation
+Mutation
+Replacement of proton with ammonium ion
+
+
+Deamidation (NQ)
+
+
+
+
+Oxidation (M); Mutation
+Carbamidomethylation
+Carbamidomethylation
+
+
+
+Deamidation (NQ)
+
+
+
+
+
+Carbamidomethylation; Replacement of proton with ammonium ion
+
+Mutation
+
+
+
+
+
+
+Mutation
+
+
+
+
+
+
+
+
+Mutation
+
+Deamidation followed by a methylation
+
+Dehydration
+
+Mutation
+Methylation(others)
+
+
+
+Deamidation (NQ)
+Methylation(others)
+
+
+Mutation
+Mutation
+Formylation
+
+
+Mutation
+
+Oxidation (M)
+
+Oxidation (M)
+
+
+Mutation
+Mutation
+
+Deoxy
+
+Oxidation (M)
+
+
+
+Carbamidomethylation
+Oxidation (M)
+
+
+Mutation
+
+Mutation
+Amidation
+
+
+
+Formylation
+Oxidation (M)
+
+Mutation
+
+
+
+
+
+Mutation
+
+
+
+
+Deamidation (NQ)
+Mutation
+
+
+Carbamidomethylation
+
+
+
+
+
+
+
+
+
+
+
+Oxidation or Hydroxylation
+
+
+
+
+
+Carbamidomethylation
+
+Carbamidomethylation
+
+
+
+
+
+
+
+
+
+Carbamidomethylation; Mutation
+Carbamidomethylation
+
+
+Deamidation (NQ)
+Mutation
+
+Deamidation (NQ)
+Methylation(KR)
+Pyro-glu from Q
+Mutation
+
+
+
+Mutation
+
+Deamidation (NQ)
+
+
+Oxidation (M)
+
+
+
+
+Dihydroxy
+
+Mutation
+
+
+Oxidation (M); Methylation(KR)
+
+Replacement of proton by potassium
+Replacement of 2 protons by calcium
+
+
+
+
+Mutation
+
+Deamidation (NQ)
+
+
+
+Replacement of 2 protons by iron
+
+Carbamidomethylation
+Deamidation (NQ)
+
+
+Oxidation (M); Mutation
+
+
+
+
+Deamidation (NQ)
+Carbamidomethylation
+
+Mutation
+
+
+Carbamidomethylation
+Mutation
+Mutation
+
+
+
+
+Deamidation (NQ)
+
+Deamidation (NQ)
+Carbamidomethylation
+
+
+
+
+
+
+
+Carbamidomethylation
+
+
+Deamidation (NQ)
+
+
+
+
+
+Dehydration; Phosphorylation (STY)
+
+
+
+
+
+
+
+
+
+Mutation
+
+
+
+
+Oxidation or Hydroxylation
+
+
+
+
+Methylation(KR)
+
+Replacement of 2 protons by calcium
+
+
+
+
+Deoxy
+
+ISD (z+2)-series
+
+
+
+Deamidation (NQ)
+Mutation
+Deamidation (NQ)
+Methylation(KR)
+Pyro-glu from Q
+
+
+
+Mutation
+
+Carbamylation
+ISD (z+2)-series
+
+
+
+
+
+
+Amidination of lysines or N-terminal amines with methyl acetimidate
+
+
+
+
+
+
+
+
+
+Oxidation (M)
+
+Mutation
+
+
+
+
+
+
+
+Formylation
+
+Glycidamide adduct
+Formylation
+
+Mutation
+Deamidation (NQ)
+
+Oxidation (M)
+
+
+
+
+
+
+
+
+
+
+
+Oxidation (M)
+
+
+
+Mutation
+
+
+
+
+Carbamidomethylation
+
+
+
+
+
+
+
+
+Deamidation (NQ)
+
+
+
+
+Phosphorylation (STY)
+
+
+Deamidation followed by esterification with ethanol
+
+
+
+Mutation
+Dimethylation(KR)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mutation
+Oxidation (M)
+
+
+Carbamylation
+
+
+
+
+
+
+
+
+
+
+Deamidation (NQ)
+
+
+
+
+
+Dimethylation(KR)
+Oxidation (M)
+
+
+Oxidation (M)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oxidation (M)
+
+
+
+
+
+Carbamidomethylation
+
+Deoxy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mutation
+Oxidation (M)
+
+
+
+
+
+
+
+
+
+
+
+Carbamidomethylation
+
+Oxidation (M)
+
+
+
+Methylation(others)
+
+
+
+
+
+
+Carbamidomethylation
+Deamidation (NQ)
+
+
+
+
+Sodium adduct; Deamidation (NQ)
+
+
+Carbamidomethylation
+
+
+
+
+Carbamidomethylation
+
+
+Methylation(others)
+
+Mutation
+
+
+Deoxy
+Sodium adduct
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carbamylation
+
+
+
+
+Carbamidomethylation
+Carbamidomethylation
+Carbamidomethylation
+
+
+Carbamidomethylation
+
+Oxidation (M)
+
+Carbamidomethylation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oxidation (M)
+Oxidation (M)
+
+
+
+
+Replacement of 2 protons by calcium
+
+Carbamidomethylation
+
+
+Tyrosine oxidation to 2-aminotyrosine
+
+Oxidation (M)
+Carbamidomethylation
+Methylation(KR)
+
+
+Deamidation (NQ); Amidation
+Carbamidomethylation
+
+
+
+Mutation
+
+
+
+
+Oxidation (M)
+Oxidation (M)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carbamidomethylation
+Carbamidomethylation
+Carbamidomethylation
+
+
+Carbamidomethylation
+Oxidation (M)
+
+
+
+
+
+
+
+
+
+
+
+Oxidation (M)
+
+
+
+
+
+
+Oxidation (M)
+
+
+
+
+Oxidation (M); Deamidation (NQ)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carbamidomethylation
+Mutation
+Amidation
+
+Ubiquitin
+Formylation
+
+
+
+
+
+
+
+
+
+
+Oxidation (M); Carbamidomethylation
+Carbamidomethylation
+
+Oxidation (M)
+
+
+Pyridylacetyl
+Mutation
+
+
+
+Formylation
+
+
+
+
+Mutation
+Oxidation (M)
+
+Mutation
+
+
+Formylation
+
+
+
+
+Mutation
+
+
+
+
+Oxidation (M)
+Mutation
+Carbamidomethylation
+
+
+
+
+
+
+
+
+Propionamide (K  X@N-term)
+
+
+
+Oxidation (M)
+
+
+
+Mutation
+
+
+
+
+
+
+Oxidation (M)
+Oxidation (M)
+
+
+
+
+
+
+
+Oxidation (M)
+
+
+
+
+
+Sodium adduct
+
+
+
+Mutation
+
+Mutation
+
+Mutation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Formylation
+Oxidation (M)
+
+Carbamidomethylation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ethyl amino
+
+
+
+Carbamylation; Methylation(KR)
+Mutation
+
+
+Oxidation (M)
+
+
+Phosphoadenosine
+
+Oxidation (M)
+
+
+
+
+
+
+
+Carbamidomethylation
+Mutation
+
+
+Deamidation (NQ)
+
+
+Bis(hydroxphenylglyoxal) arginine
+
+
+
+
+
+
+Carbamidomethylation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mutation
+
+
+
+
+
+
+
+
+Oxidation (M)
+
+
+Sulfation
+
+
+
+
+
+
+Mutation
