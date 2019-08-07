@@ -1,0 +1,117 @@
+﻿entry no.,protein,protein probability,protein description,percent coverage,tot indep spectra,percent share of spectrum ids,peptides
+1a,EJK58168 EJK77863 ETNP_90m_PROKKA_55079 XP_002185049 ,1,hypothetical protein THAOC_21730  Thalassiosira oceanica;hypothetical protein THAOC_00268  Thalassiosira oceanica;EF hand;calmoduline  Phaeodactylum tricornutum CCAP 1055,22.1,2,0.34,EAFSLFDKDGDGTITTK+VFDKDGNGFISAAELR
+2a,ETNP_70m_PROKKA_54543 ETNP_70m_PROKKA_90241 ETNP_90m_PROKKA_183406 XP_003055512 XP_003058519 XP_003062035 XP_003080759 XP_003082252 ,1,Core histone H2A/H2B/H3/H4;Core histone H2A/H2B/H3/H4;Core histone H2A/H2B/H3/H4;histone H2B  Micromonas pusilla CCMP1545;predicted protein  Micromonas pusilla CCMP1545;predicted protein  Micromonas pusilla CCMP1545;histone H2B ISS  Ostreococcus tauri;histone H2B ISS  Ostreococcus tauri,12.1,2,0.34,QVHPDTGISSK+VLKQVHPDTGISSK
+3a,gi|54036848|sp|P63284.1|CLPB_ECOLI ,1,RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1,9.7,10,1.7,AIDLIDEAASSIR+AIQQQIENPLAQQILSGELVPGK+LPQVEGTGGDVQPSQDLVR+VIGQNEAVDAVSNAIR+VTDAEIAEVLAR
+4a,CAI85920.1 WP_041393911.1 WP_041394424.1 ,0.9999,peroxiredoxin 2 (Thioredoxin peroxidase 1) (Thioredoxin-dependent peroxide reductase 1) (Thiol-specific antioxidant protein) (TSA) (PRP) [Pseudoalteromonas haloplanktis TAC125];peroxidase [Photobacterium profundum];peroxidase [Photobacterium profundum],12.5,2,0.31,AYDVEHPEAGVAFR+HQVVNDLPLGR
+5a,WP_012520087 ,0.9999,molecular chaperone GroEL Alteromonas mediterranea,6.4,2,0.29,VAAVKAPGFGDR+VVINKDNTTVVDGNGDQEAIEGR
+6,ABS64292.1 ETNP_120m_PROKKA_178059 ETNP_120m_PROKKA_87096 ETNP_120m_free_PROKKA_301802 ETNP_140m_PROKKA_72149 ETNP_160m_PROKKA_11664 ETNP_160m_PROKKA_137663 ETNP_160m_PROKKA_176382 ETNP_180m_PROKKA_12844 ETNP_180m_PROKKA_170601 ETNP_300m_PROKKA_47919 ETNP_300m_PROKKA_78349 ,0.999,acyl-CoA dehydrogenase domain protein [Parvibaculum lavamentivorans DS-1];Acyl-CoA dehydrogenase fadE12;Acyl-CoA dehydrogenase fadE12;Acyl-CoA dehydrogenase fadE12;Acyl-CoA dehydrogenase fadE12;Acyl-CoA dehydrogenase fadE12;Glutaryl-CoA dehydrogenase;Acyl-CoA dehydrogenase fadE12;Acyl-CoA dehydrogenase fadE12;Acyl-CoA dehydrogenase fadE12;Acyl-CoA dehydrogenase fadE12;Acyl-CoA dehydrogenase fadE12,3.1,1,0.17,KMWTSTAQTANK
+7,ACJ00923.1 ,0.999,"methyl-accepting chemotaxis protein, putative [Rhodospirillum centenum SW]",7.5,1,0.17,NVQQASMGTMEVTRNITSLETAAQETGQTANEMLDAARALSK
+8,CAN91792.1 ,0.999,Lysine--tRNA ligase [Sorangium cellulosum So ce56],3.3,1,0.17,SGLPADVPQRVAADDAPIK
+9,EAQ04152.1 ,0.999,probable 4-hydroxybenzoyl CoA thioesterase [Pseudooceanicola batsensis HTCC2597],14.4,1,0.17,ALGWSFRQMHMVERLGVPMR
+10,EJK55589 EJK63755 EJK69577 EJK72475 ETNP14_68mB_PROKKA_59955 ETNP_100m_particle_PROKKA_140022 ETNP_120m_particle_PROKKA_44959 ETNP_70m_PROKKA_132488 ETNP_70m_PROKKA_144910 ETNP_90m_PROKKA_109358 XP_002179286 XP_002179505 XP_003059520 XP_003061514 XP_003061756 XP_003063038 XP_003074685 ,0.999,hypothetical protein THAOC_24669 partial  Thalassiosira oceanica;hypothetical protein THAOC_15573 partial  Thalassiosira oceanica;hypothetical protein THAOC_09145  Thalassiosira oceanica;hypothetical protein THAOC_05990  Thalassiosira oceanica;Core histone H2A/H2B/H3/H4;Core histone H2A/H2B/H3/H4;Core histone H2A/H2B/H3/H4;Core histone H2A/H2B/H3/H4;Core histone H2A/H2B/H3/H4;Core histone H2A/H2B/H3/H4;histone H4 isoform 1b  Phaeodactylum tricornutum CCAP 1055;histone H4 isoform 1a  Phaeodactylum tricornutum CCAP 1055;predicted protein  Micromonas pusilla CCMP1545;histone H4  Micromonas pusilla CCMP1545;predicted protein  Micromonas pusilla CCMP1545;predicted protein  Micromonas pusilla CCMP1545;Histone H4 ISS  Ostreococcus tauri,33.3,1,0.17,DNIQGITKPAIR
+11,EJK76033 ,0.999,hypothetical protein THAOC_02224  Thalassiosira oceanica,0.8,1,0.17,TVSIFDYVCR
+12,EJK77773 ,0.999,hypothetical protein THAOC_00374  Thalassiosira oceanica,2.6,1,0.17,GATLGDVSKRR
+13,ETNP14_120maa_PROKKA_33350 ETNP_100m_PROKKA_11195 ,0.999,hypothetical protein;hypothetical protein,23.5,1,0.17,MGIADRGSFMWLLTSATNAWLYVK
+14,ETNP14_120maa_PROKKA_59479 ,0.999,hypothetical protein,2.5,1,0.17,MAKSHNPSMMRR
+15,ETNP14_120mab_PROKKA_132796 ,0.999,hypothetical protein,28.6,2,0.31,AALDALEPAIEISAASSKGDGAPLAISR
+16,ETNP14_120mab_PROKKA_145867 ,0.999,hypothetical protein,91.7,1,0.17,MESVTVSMADESIGILSFKFFDKDVFVETSDGK
+17,ETNP14_120mab_PROKKA_25455 ,0.999,DNA-3-methyladenine glycosylase,6.4,1,0.17,QELNPSSLKEGLK
+18,ETNP14_120mab_PROKKA_28477 ,0.999,hypothetical protein,16.1,1,0.17,SVFVLVALSVLAAPTMVSAQTVISR
+19,ETNP14_120mab_PROKKA_55222 ,0.999,hypothetical protein,26.2,1,0.17,TLANHGFRTPMELCQMK
+20,ETNP14_120mab_PROKKA_73200 ,0.999,hypothetical protein,37.5,1,0.17,TVLEDIELIIILVKAVMISAK
+21,ETNP14_120mab_PROKKA_90331 ,0.999,hypothetical protein,16.8,1,0.17,MDIYESYYKICPINYR
+22,ETNP14_68mB_PROKKA_105583 ,0.999,hypothetical protein,66.7,1,0.17,VKNERSNSSASTTVTLVPFR
+23,ETNP14_68maa_PROKKA_119104 ,0.999,Calcium-transporting ATPase,4.2,1,0.17,TMCFCVFIVYQLFNVMNCRSSEDSVFK
+24,ETNP14_68maa_PROKKA_189322 ,0.999,Elongation factor G 1,4.6,1,0.17,VDVFTPDDHVGDVIGDLNR
+25,ETNP14_68maa_PROKKA_197127 ,0.999,hypothetical protein,25.5,1,0.17,AKNYNNESNLKNSK
+26,ETNP14_68maa_PROKKA_30865 ETNP_90m_PROKKA_194128 NP_85m_PROKKA_26429 ,0.999,hypothetical protein;hypothetical protein;hypothetical protein,10.8,1,0.17,DTTTGIVHMPPSR
+27,ETNP14_68maa_PROKKA_60817 ETNP_60m_PROKKA_07321 ETNP_90m_PROKKA_43490 ,0.999,hypothetical protein;hypothetical protein;hypothetical protein,43.3,1,0.17,ALAALAIHRPIYFYTETLKDLALSLR
+28,ETNP_100m_PROKKA_94508 NP_300m_PROKKA_02121 NP_85m_PROKKA_05533 ,0.999,hypothetical protein;Monocarboxylate 2-oxoacid-binding periplasmic protein precursor;Monocarboxylate 2-oxoacid-binding periplasmic protein precursor,17.8,1,0.17,LAASAVFLALLGFIAGPLHAK
+29,ETNP_100m_particle_PROKKA_125309 ETNP_120m_PROKKA_81556 ETNP_120m_particle_PROKKA_44719 ETNP_180m_PROKKA_95688 ,0.999,hypothetical protein;hypothetical protein;hypothetical protein;hypothetical protein,16.5,1,0.17,KRAMSWLILPYDEK
+30,ETNP_100m_particle_PROKKA_39308 ETNP_120m_PROKKA_293153 ETNP_120m_particle_PROKKA_178173 ETNP_140m_PROKKA_112252 ETNP_150m_particle_PROKKA_37625 ETNP_180m_PROKKA_57917 ,0.999,hypothetical protein;Cytidylyltransferase;Cytidylyltransferase;hypothetical protein;Cytidylyltransferase;Cytidylyltransferase,11.5,1,0.17,KLITTKFEESGNMNTK
+31,ETNP_100m_particle_PROKKA_63275 ETNP_120m_free_PROKKA_314169 ETNP_120m_particle_PROKKA_226830 ETNP_160m_PROKKA_89580 ,0.999,Inositol 2-dehydrogenase;Inositol 2-dehydrogenase;Inositol 2-dehydrogenase;Inositol 2-dehydrogenase,7.3,1,0.17,ELLKTGTAAIALPMFVPAAVLGRDGAAPPSETVR
+32,ETNP_110m_PROKKA_13793 ,0.999,hypothetical protein,25.5,1,0.17,EATKLDLGHGAHPT
+33,ETNP_120m_PROKKA_01610 ,0.999,50S ribosomal protein L4,5.7,1,0.17,SEVSGGGAKPWR
+34,ETNP_120m_PROKKA_165712 ETNP_140m_PROKKA_37130 NP_300m_PROKKA_13942 ,0.999,hypothetical protein;Fructosamine kinase;Fructosamine kinase,26.5,1,0.17,ATGTKFSGAHLTPIGNDK
+35,ETNP_120m_PROKKA_84016 ,0.999,putative diguanylate cyclase YcdT,6.8,1,0.17,QLEEFSKITEDLLTNFAKGTLLILK
+36,ETNP_120m_free_PROKKA_189637 ,0.999,Elongation factor P,11.7,1,0.17,MKIDGNAIRPGMVIEHQGGLWR
+37,ETNP_120m_free_PROKKA_27830 ETNP_300m_PROKKA_91429 ,0.999,hypothetical protein;hypothetical protein,6.4,1,0.17,TVDPKSPTWR
+38,ETNP_120m_free_PROKKA_289375 ,0.999,Diaminopimelate epimerase,10.9,1,0.17,LGNDYIYIDAIGQDLSDCDLEDLAIKLSDR
+39,ETNP_120m_particle_PROKKA_163419 ,0.999,T-protein,3,1,0.17,QALVMSIGEIK
+40,ETNP_120m_particle_PROKKA_211308 ,0.999,Competence protein ComM,4.8,1,0.17,LHGVPGGLATAAAAREAGLSSLVAPMATAR
+41,ETNP_140m_PROKKA_50030 ETNP_160m_PROKKA_71900 NP_85m_PROKKA_17035 ,0.999,hypothetical protein;hypothetical protein;hypothetical protein,2.6,1,0.17,EHSLPGAVLTR
+42,ETNP_160m_PROKKA_81958 ETNP_180m_PROKKA_70122 ,0.999,HTH-type transcriptional activator CmpR;HTH-type transcriptional activator CmpR,8.4,1,0.17,ITEVGETVLAYSQQIFSLSQKLTETVR
+43,ETNP_180m_PROKKA_160007 ,0.999,hypothetical protein,9.9,1,0.17,IDGINEFHTVTKVLSTPVGEHLAR
+44,ETNP_300m_PROKKA_00576 ,0.999,Putative asparagine synthetase [glutamine-hydrolyzing],9.1,2,0.3,LERGLDFFTRFYLTEDILLK
+45,ETNP_300m_PROKKA_50809 ,0.999,30S ribosomal protein S1,14.8,1,0.17,DSGASLGDIFSDK
+46,ETNP_60m_PROKKA_32322 ,0.999,Sensor histidine kinase YycG,11.5,1,0.17,ENGGAIFTVTFPLVNK
+47,ETNP_70m_PROKKA_142252 ,0.999,Bacterial actin-related protein,4.2,1,0.17,SYELPDGQVITIGNER
+48,ETNP_70m_PROKKA_23778 ,0.999,hypothetical protein,16,1,0.17,AEDKKLPSDSFLVSYK
+49,ETNP_90m_PROKKA_149297 ,0.999,CotH protein,0.9,1,0.17,MTDLPAIFRR
+50,WP_008253586 ,0.999,oxidoreductase Flavobacteria bacterium BAL38,10.9,1,0.17,SINASSVAVISDSPDITNARIEFENGCVANITSSR
+51,WP_011217386.1 ,0.999,polyribonucleotide nucleotidyltransferase [Photobacterium profundum],1.8,1,0.17,EGRPSEGETLTAR
+52,WP_011220004.1 ,0.999,glutamine synthetase [Photobacterium profundum],2.8,1,0.17,SASIRIPVVPSPK
+53,WP_011310702 ,0.999,delta-aminolevulinic acid dehydratase Thiobacillus denitrificans,4.2,1,0.17,DAVGSAANLGKGDK
+54,WP_011372040.1 ,0.999,peptidase M16 [Sulfurimonas denitrificans],2.3,1,0.17,LGHSDEELER
+55,WP_018969151 ,0.999,peptide chain release factor 1 Rubritalea marina,7,1,0.17,IGFTSHNIEGILSGAIDEFTENLQK
+56,WP_038126765.1 ,0.999,"hypothetical protein, partial [Verrucomicrobia bacterium SCGC AAA168-F10]",14.9,1,0.17,KTLPGYGNYVDHK
+57,WP_041486027 ,0.999,hypothetical protein gamma proteobacterium HdN1,2,1,0.17,DQAGPWVDASLQRR
+58,XP_003055784 ,0.999,predicted protein  Micromonas pusilla CCMP1545,1.5,1,0.17,DLTFDMKSR
+59,XP_003061104 ,0.999,actin flagellar inner arm intermediate chain  Micromonas pusilla CCMP1545,3.2,1,0.17,DAYVGDEAQSKR
+60,XP_003063208 ,0.999,predicted protein  Micromonas pusilla CCMP1545,14.6,1,0.17,GNDGGSGGGGGGSVR
+61,virus_CCADEAMM_12384 virus_CCADEAMM_12504 ,0.999,hypothetical protein;hypothetical protein,4.1,1,0.17,TVQLTKTQVTLAK
+62a,ETNP14_68mB_PROKKA_83488 ,0.999,UDP-glucose 6-dehydrogenase YwqF,12.5,1,0,MVKYCINSFLATK
+63,AMC11243.1 ,0.9761,hypothetical protein Lupro_08240 [Lutibacter profundi],1.3,1,0.17,IYSHQNNKK
+64,WP_014435414 ,0.9744,hypothetical protein Phycisphaera mikurensis,11.1,1,0.17,AAAAGDAAAAAAALAALDR
+65,ETNP14_120mab_PROKKA_155045 ,0.9668,hypothetical protein,21.7,1,0.16,KAFVEHPELMPAKQT
+66,ETNP_160m_PROKKA_83362 ,0.9661,hypothetical protein,4.7,1,0.16,RAIRPPATLGVVGTK
+67,ETNP_90m_PROKKA_126709 ,0.9654,4-formylbenzenesulfonate dehydrogenase TsaC1/TsaC2,10.4,1,0.16,LDVLANIAGVVWAERVADITEEGWNR
+68,ETNP_110m_PROKKA_10278 ETNP_120m_PROKKA_05847 ETNP_120m_PROKKA_289269 ETNP_120m_free_PROKKA_09602 ETNP_120m_free_PROKKA_36525 ETNP_140m_PROKKA_136929 ETNP_140m_PROKKA_156563 ,0.9652,1-pyrroline-5-carboxylate dehydrogenase 1;1-pyrroline-5-carboxylate dehydrogenase 1;1-pyrroline-5-carboxylate dehydrogenase 1;1-pyrroline-5-carboxylate dehydrogenase 1;1-pyrroline-5-carboxylate dehydrogenase 1;1-pyrroline-5-carboxylate dehydrogenase 1;1-pyrroline-5-carboxylate dehydrogenase 1,7.9,1,0.16,SPENMELARR
+69,Fosmid_PROKKA_03163 ,0.9638,N-5'-phosphoribosylanthranilate isomerase,6.8,1,0.16,DYSEISDIILFDSK
+70,ETNP_120m_free_PROKKA_247643 ,0.9627,hypothetical protein,20.4,1,0.16,QCAFDSGIVGQPLIINVAR
+71,ETNP_120m_free_PROKKA_178036 ETNP_140m_PROKKA_152632 ETNP_160m_PROKKA_159192 ETNP_180m_PROKKA_212567 ,0.9604,putative oxidoreductase/MSMEI_1564;putative oxidoreductase/MSMEI_1564;putative oxidoreductase/MSMEI_1564;putative oxidoreductase/MSMEI_1564,10.4,1,0.16,ALVSGADAVMLGTPFAQAEEAPGR
+72,ETNP_120m_PROKKA_14908 ,0.9602,Alcohol dehydrogenase,5.1,1,0.16,AMGARVIALDIGK
+73,ETNP_100m_particle_PROKKA_142780 ETNP_90m_PROKKA_181838 ,0.9572,hypothetical protein;hypothetical protein,9.2,1,0.16,FPQSIMFRVVTSGFGGTK
+74,ACL66556.1 ,0.9544,acyl-CoA dehydrogenase domain protein [Anaeromyxobacter dehalogenans 2CP-1],3,1,0.16,DPALRPAVQAATGALAR
+75,ETNP_300m_PROKKA_68056 ,0.949,hypothetical protein,30.2,1,0.16,LAADGSDQSMVTL
+76,BAE53296.1 ,0.9487,Kinesin-like protein K39 [Magnetospirillum magneticum AMB-1],2.7,1,0.16,GEAPPVEIVLPERIFRNPLAR
+77a,ETNP_120m_free_PROKKA_227987 ,0.9433,Arginine biosynthesis bifunctional protein ArgJ,19,1,0,MGGVVIADKGER
+78,ETNP_120m_free_PROKKA_187930 ,0.9416,Protein-glutamine gamma-glutamyltransferase,2.1,1,0.16,WSAAMSPVTERVDRVGR
+79,ETNP14_68maa_PROKKA_125855 ,0.94,Peptidase family M28,6.4,1,0.16,CSSYTLGIVGNLVCQYLYR
+80,ETNP_120m_free_PROKKA_237701 ,0.9392,Glutamine amidotransferase subunit PdxT,12.7,1,0.16,EVRLPGQLCGLDGLIIPGGESTTIGK
+81,ETNP_100m_particle_PROKKA_74746 ,0.938,hypothetical protein,7.6,1,0.16,HGRGRAGPCPR
+82,WP_015350094 ,0.9377,fatty acid desaturase Myxococcus stipitatus,4.7,1,0.16,AVDAESPAASNGLQAHGA
+83,ETNP14_120maa_PROKKA_172558 ETNP14_120mab_PROKKA_23322 ETNP14_68mB_PROKKA_05412 ETNP14_68maa_PROKKA_34547 ,0.9362,Succinyl-CoA ligase [ADP-forming] subunit alpha;Succinyl-CoA ligase [ADP-forming] subunit alpha;Succinyl-CoA ligase [ADP-forming] subunit alpha;Succinyl-CoA ligase [ADP-forming] subunit alpha,14.2,1,0.16,GNIGVISKSGTLTYEAIDQLVK
+84,ETNP14_120maa_PROKKA_37156 ,0.936,Demethylrebeccamycin-D-glucose O-methyltransferase,5.1,1,0.16,DLDIGSGIGGPAR
+85,ETNP_120m_free_PROKKA_292873 ETNP_120m_particle_PROKKA_182377 ETNP_140m_PROKKA_40972 ETNP_150m_particle_PROKKA_49142 ETNP_160m_PROKKA_185806 ETNP_180m_PROKKA_52576 ETNP_300m_PROKKA_46450 ,0.9354,hypothetical protein;hypothetical protein;hypothetical protein;hypothetical protein;hypothetical protein;hypothetical protein;hypothetical protein,6,1,0.16,VRVAGAMPGGPPLLEARSVELR
+86,WP_012625069 ,0.9352,RNA polymerase sigma70 Desulfovibrio desulfuricans,2.8,1,0.16,MVKIGTTQVQRK
+87,ETNP_110m_PROKKA_10695 ETNP_120m_PROKKA_166424 NP_100m_PROKKA_16531 ,0.9349,Single-stranded DNA-binding protein;Single-stranded DNA-binding protein;Single-stranded DNA-binding protein,7.2,1,0.16,MAGVRPEINK
+88,ETNP14_68maa_PROKKA_106163 ,0.9348,hypothetical protein,6.8,1,0.16,SMLSRANMAMPNNEHVSSAMTHLGV
+89,WP_012844203 ,0.9338,acetyl-CoA acetyltransferase Rhodothermus marinus,7.3,1,0.16,VKGLEPELIDDVIMGCAFPEGPQGMNMGR
+90,ETNP14_120mab_PROKKA_117359 ,0.9326,D-3-phosphoglycerate dehydrogenase,12.1,1,0.16,EPIILNTARGLIIDLSALEQTMR
+91,ETNP_120m_particle_PROKKA_10024 ,0.9316,4-hydroxy-tetrahydrodipicolinate reductase,5.1,1,0.16,GATAGVMVVGAQGR
+92,ETNP_120m_particle_PROKKA_91414 ,0.9311,hypothetical protein,7.1,1,0.16,VAPGAGLTVRWTR
+93,ETNP14_120maa_PROKKA_109975 ETNP14_68maa_PROKKA_25192 ETNP_100m_PROKKA_41121 ,0.9293,Iron-sulfur cluster insertion protein ErpA;Iron-sulfur cluster insertion protein ErpA;Iron-sulfur cluster insertion protein ErpA,14.7,1,0.16,ILSLANSEDDSNNLNLR
+94,ETNP_150m_particle_PROKKA_26935 ,0.9275,hypothetical protein,22.4,1,0.16,HAQQLHQHMNVQCFAHLRLDHPQVATHVSEDAR
+95,ETNP_120m_particle_PROKKA_143927 ,0.9252,hypothetical protein,6.2,1,0.16,TYSTDESICTYCCAPLICILTGIINGK
+96,ETNP_90m_PROKKA_128710 ,0.9245,hypothetical protein,24.3,1,0.16,IGHGVGRQQATDHMLGPGVNANTIAWHR
+97,WP_037980780 ,0.9245,NADH-flavin reductase Synechococcus sp WH 5701,11.7,1,0.16,VVLVSSLCSGRWLHPLNLFGLILVWK
+98,WP_015897652 ,0.9205,hypothetical protein Acidobacterium capsulatum,1.6,1,0.16,GLHRWLNPF
+99,ETNP14_120maa_PROKKA_165555 ,0.9177,Acetylene hydratase,7.5,1,0.16,EVGANTNILVSADDLLQRYTGMTR
+100,CAN95606.1 ,0.9139,Protein kinase [Sorangium cellulosum So ce56],1,1,0.16,LGLRYGNAESSAHAYAAFAR
+101,ETNP_60m_PROKKA_15356 ,0.9137,50S ribosomal protein L13,56.8,1,0.16,KLHIYPDANHPHQSQNPKELVFNIK
+102,ETNP_90m_PROKKA_70630 ,0.9134,hypothetical protein,20.9,1,0.16,DTKFYKVIDISTSK
+103a,ETNP_120m_PROKKA_337726 ETNP_120m_free_PROKKA_61807 ETNP_140m_PROKKA_24922 ETNP_300m_PROKKA_74420 WP_007231575 WP_011219654.1 WP_011588447.1 WP_015403446 ,0.9078,Enolase;Enolase;Enolase;Enolase;enolase gamma proteobacterium HTCC2207;enolase [Photobacterium profundum];MULTISPECIES: enolase [Alcanivorax];enolase Desulfocapsa sulfexigens,9.7,1,0.15,DAGYTAVISHR
+104,ETNP14_120mab_PROKKA_74758 ,0.909,hypothetical protein,8.8,1,0.15,TLSCMSKSGHHTK
+105,ETNP_120m_PROKKA_274954 ETNP_140m_PROKKA_69971 ,0.9074,DNA gyrase subunit B;DNA gyrase subunit B,33.3,1,0.15,FKGLGEMNVDELAECALDPATRILR
+106,XP_003062694 ,0.9052,predicted protein  Micromonas pusilla CCMP1545,2.4,1,0.15,VAVLAGAHRGKR
+107,WP_052571481 ,0.9045,hypothetical protein Geothrix fermentans,12.7,1,0.15,DPAAAKKAGLLMPDK
+108,ETNP_100m_particle_PROKKA_134371 ETNP_120m_PROKKA_114734 ,0.9044,hypothetical protein;hypothetical protein,20.4,1,0.15,IETACSSDAPPNTTPTQVR
+109,ETNP_120m_free_PROKKA_90263 ETNP_140m_PROKKA_161148 ,0.9034,Glutamate 5-kinase;Glutamate 5-kinase,11.5,1,0.15,EITPEIEAMAGSQAGLMGSGGMMTK
+110,ETNP_120m_PROKKA_131627 ,0.9026,Branched-chain-amino-acid aminotransferase,8,1,0.15,INSNQVSPYKF
+111,WP_053951722 ,0.9022,sirohydrochlorin ferrochelatase Candidatus Thioglobus autotrophica,2.4,1,0.15,DAELIYVGKER
+112,ETNP_120m_PROKKA_240082 ETNP_120m_particle_PROKKA_129884 ,0.902,hypothetical protein;hypothetical protein,35.9,1,0.15,KAVVTFDSKGNDGK
+113,NP_30m_PROKKA_02665 ,0.9018,hypothetical protein,7.5,1,0.15,QEPFLEYPAGLPKK
+114,ETNP_120m_free_PROKKA_231363 ,0.9016,Radical SAM superfamily protein,3.2,1,0.15,QRDSSSQPTR
+115,WP_011468244.1 ,0.9014,MBL fold metallo-hydrolase [Saccharophagus degradans],4.9,1,0.15,QGLSEEDVVVKNPLKK
+116,WP_007276588 ,0.9008,levanase Lentisphaera araneosa,2.9,1,0.15,TQKWVMAVIIAGPDK
