@@ -1,0 +1,10 @@
+entry no.	protein	protein probability	protein description	percent coverage	tot indep spectra	percent share of spectrum ids	peptides
+1a	gi|54036848|sp|P63284.1|CLPB_ECOLI 	1.0000	RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1	9.7	8	16.43	AIDLIDEAASSIR+AIQQQIENPLAQQILSGELVPGK+LPQVEGTGGDVQPSQDLVR+VIGQNEAVDAVSNAIR+VTDAEIAEVLAR
+2	ETNP_120m_free_PROKKA_248336 	0.9988	hypothetical protein	55.4	1	2.05	GDGGVAGGAGFGGLGDPAEEIHIVHGAVPLWVPAAFSAGCH
+3	ETNP_120m_particle_PROKKA_128737 	0.9988	Propanediol utilization protein PduA	17.9	1	2.05	GLVGAVEAADAMVKAAR
+4	ETNP_120m_particle_PROKKA_89076 	0.9988	PBS lyase HEAT-like repeat protein	11.9	1	2.05	LWVEAVLSLGKMGPSATQTIPTLLSLLSQQPDR
+5	WP_015349894 	0.9833	hypothetical protein Myxococcus stipitatus	1.5	7	7.38	AHSKLLLTSKAK
+6	CAK22873.1 	0.9793	Possible metal-dependent protease of the PAD1/JAB1 superfamily [Synechococcus sp. WH 7803]	7.3	1	2.02	STAGPASAPATLAK
+7	ETNP_120m_PROKKA_239281 	0.9551	hypothetical protein	6.5	1	1.98	TRPVRRSGSSPLAMFSDPDMTR
+8	ETNP_100m_particle_PROKKA_02265 	0.9332	hypothetical protein	5.8	1	1.94	LGTDATPGRLRMLTR
+9	BAJ27995.1 	0.9179	putative sugar kinase [Kitasatospora setae KM-6054]	3.3	1	1.91	LADRPEAAMR
