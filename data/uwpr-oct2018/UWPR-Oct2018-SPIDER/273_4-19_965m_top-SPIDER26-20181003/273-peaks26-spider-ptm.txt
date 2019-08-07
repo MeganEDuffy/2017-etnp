@@ -1,0 +1,138 @@
+Deamidation (NQ)
+Deamidation (NQ)
+Replacement of proton with ammonium ion
+Sodium adduct
+Deamidation (NQ)
+Monoglutamyl
+Deamidation (NQ)
+Sodium adduct
+Deamidation (NQ)
+Replacement of proton by potassium
+Mutation
+Dehydration
+Dehydration
+Replacement of 2 protons by calcium
+Mutation
+Mutation
+Mutation
+Dehydration
+Carbamylation
+Sodium adduct
+Oxidation (M)
+Methylation(others)
+Carbamylation
+Oxidation (M)
+Replacement of proton by potassium
+Replacement of proton by potassium
+Mutation
+Carbamidomethylation
+Carbamidomethylation
+Carbamidomethylation
+Replacement of 2 protons by nickel
+Mutation
+Oxidation (M)
+Ethylation
+Carbamidomethylation
+Amidination of lysines or N-terminal amines with methyl acetimidate
+Deamidation (NQ)
+Methylation(others)
+Oxidation (M)
+Mutation
+Oxidation (M)
+Carbamidomethylation
+Carbamidomethylation
+Carbamidomethylation
+Carbamidomethylation
+Deamidation (NQ)
+Carbamidomethylation
+Oxidation (M)
+Carbamidomethylation
+Oxidation (M)
+Carbamidomethylation
+Oxidation (M)
+Deoxy
+Dehydration
+Dehydration
+Carbamidomethylation
+Carbamidomethylation
+Carbamidomethylation
+Mutation
+Propionamide (K  X@N-term)
+Dihydroxy
+Oxidation (M)
+Carbamidomethylation
+Sodium adduct
+Oxidation (M)
+Sodium adduct
+Deamidation (NQ)
+Mutation
+Carbamidomethylation
+Carbamidomethylation
+Mutation
+Oxidation (M)
+Mutation
+Oxidation (M)
+Mutation
+Carbamidomethylation
+Oxidation (M)
+Deamidation (NQ); Oxidation (HW)
+Deamidation (NQ); Dehydration
+Oxidation (M)
+Mutation
+Methylation(others)
+Mutation
+Carbamidomethylation
+Mutation
+Oxidation (M)
+Mutation
+Oxidation (M)
+Phosphorylation (STY)
+Sodium adduct
+Sodium adduct
+Phosphorylation (STY)
+Oxidation (M)
+Carbamidomethylation
+Oxidation (M)
+Deoxy
+Oxidation (M)
+Oxidation (M)
+Dimethylation(KR)
+Oxidation (M)
+Oxidation (M)
+Mutation
+Acetylation (N-term)
+Oxidation (M)
+Oxidation (M)
+Oxidation (M)
+Oxidation (M)
+Dehydration
+Replacement of proton by potassium
+Oxidation (M)
+Mutation
+Mutation
+Oxidation (M)
+Carbamidomethylation
+Oxidation (M)
+Carbamidomethylation
+Oxidation (M)
+Carbamidomethylation
+Formylation
+Deamidation (NQ); Formylation
+Mutation
+Oxidation (M)
+Oxidation (M)
+Carbamidomethylation; Oxidation (M)
+Mutation
+Oxidation (M)
+Carbamidomethylation
+Carbamidomethylation
+Oxidation (M)
+Phosphorylation to amine thiol
+Acetylation (N-term)
+Oxidation (M)
+Carbamidomethylation
+Amidation
+Oxidation (M)
+Oxidation (M)
+Oxidation (M)
+Carbamidomethylation; Oxidation (M)
