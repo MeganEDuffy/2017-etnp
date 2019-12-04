@@ -1,0 +1,238 @@
+Peptides,GO term,Name
+52,GO:0006412,translation
+38,GO:0006457,protein folding
+24,GO:0005975,carbohydrate metabolic process
+23,GO:0006351,"transcription, DNA-templated"
+20,GO:0006189,'de novo' IMP biosynthetic process
+18,GO:0015995,chlorophyll biosynthetic process
+17,GO:0015979,photosynthesis
+17,GO:0008152,metabolic process
+17,GO:0006260,DNA replication
+16,GO:0009097,isoleucine biosynthetic process
+15,GO:0051301,cell division
+15,GO:0006950,response to stress
+13,GO:0042026,protein refolding
+12,GO:0006541,glutamine metabolic process
+12,GO:0045454,cell redox homeostasis
+11,GO:0006265,DNA topological change
+11,GO:0009099,valine biosynthetic process
+11,GO:0009089,lysine biosynthetic process via diaminopimelate
+11,GO:0006526,arginine biosynthetic process
+10,GO:0006355,"regulation of transcription, DNA-templated"
+9,GO:0007049,cell cycle
+9,GO:0018298,protein-chromophore linkage
+9,GO:0009073,aromatic amino acid family biosynthetic process
+8,GO:0016117,carotenoid biosynthetic process
+8,GO:0015986,ATP synthesis coupled proton transport
+8,GO:0009088,threonine biosynthetic process
+8,GO:0009058,biosynthetic process
+8,GO:0009772,photosynthetic electron transport in photosystem II
+8,GO:0009423,chorismate biosynthetic process
+8,GO:0006096,glycolytic process
+7,GO:0019288,"isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway"
+7,GO:0006396,RNA processing
+7,GO:0009245,lipid A biosynthetic process
+7,GO:0006006,glucose metabolic process
+7,GO:0006605,protein targeting
+7,GO:0006098,pentose-phosphate shunt
+7,GO:0009236,cobalamin biosynthetic process
+6,GO:0030163,protein catabolic process
+6,GO:0005978,glycogen biosynthetic process
+6,GO:0006099,tricarboxylic acid cycle
+6,GO:0008360,regulation of cell shape
+6,GO:0006633,fatty acid biosynthetic process
+6,GO:0019538,protein metabolic process
+6,GO:0009098,leucine biosynthetic process
+5,GO:0055085,transmembrane transport
+5,GO:0009228,thiamine biosynthetic process
+5,GO:0006782,protoporphyrinogen IX biosynthetic process
+5,GO:0006261,DNA-dependent DNA replication
+5,GO:0006281,DNA repair
+5,GO:0071555,cell wall organization
+5,GO:0009252,peptidoglycan biosynthetic process
+5,GO:0006432,phenylalanyl-tRNA aminoacylation
+5,GO:0065002,intracellular protein transmembrane transport
+5,GO:0009767,photosynthetic electron transport chain
+5,GO:0009432,SOS response
+5,GO:0055129,L-proline biosynthetic process
+5,GO:0008033,tRNA processing
+4,GO:0044208,'de novo' AMP biosynthetic process
+4,GO:0008616,queuosine biosynthetic process
+4,GO:0016114,terpenoid biosynthetic process
+4,GO:0000160,phosphorelay signal transduction system
+4,GO:0006177,GMP biosynthetic process
+4,GO:0006431,methionyl-tRNA aminoacylation
+4,GO:0035999,tetrahydrofolate interconversion
+4,GO:0009229,thiamine diphosphate biosynthetic process
+4,GO:0015031,protein transport
+4,GO:0044205,'de novo' UMP biosynthetic process
+4,GO:0036068,light-independent chlorophyll biosynthetic process
+4,GO:0006310,DNA recombination
+4,GO:0006426,glycyl-tRNA aminoacylation
+4,GO:0006364,rRNA processing
+4,GO:0006419,alanyl-tRNA aminoacylation
+4,GO:0009086,methionine biosynthetic process
+4,GO:0006289,nucleotide-excision repair
+4,GO:0006427,histidyl-tRNA aminoacylation
+4,GO:0019521,D-gluconate metabolic process
+4,GO:0000105,histidine biosynthetic process
+4,GO:0042558,pteridine-containing compound metabolic process
+4,GO:0043952,protein transport by the Sec complex
+4,GO:0006535,cysteine biosynthetic process from serine
+3,GO:0006402,mRNA catabolic process
+3,GO:0019684,"photosynthesis, light reaction"
+3,GO:0090529,cell septum assembly
+3,GO:0043093,FtsZ-dependent cytokinesis
+3,GO:0019264,glycine biosynthetic process from serine
+3,GO:0019877,diaminopimelate biosynthetic process
+3,GO:0019685,"photosynthesis, dark reaction"
+3,GO:0019427,acetyl-CoA biosynthetic process from acetate
+3,GO:0006730,one-carbon metabolic process
+3,GO:0006401,RNA catabolic process
+3,GO:0000902,cell morphogenesis
+3,GO:0006788,heme oxidation
+3,GO:0005985,sucrose metabolic process
+3,GO:0006614,SRP-dependent cotranslational protein targeting to membrane
+3,GO:0017038,protein import
+3,GO:0008295,spermidine biosynthetic process
+3,GO:0006450,regulation of translational fidelity
+3,GO:0006418,tRNA aminoacylation for protein translation
+3,GO:0031564,transcription antitermination
+3,GO:0006353,"DNA-templated transcription, termination"
+3,GO:0006417,regulation of translation
+3,GO:0006430,lysyl-tRNA aminoacylation
+3,GO:0010207,photosystem II assembly
+3,GO:0006537,glutamate biosynthetic process
+3,GO:0000271,polysaccharide biosynthetic process
+3,GO:0006438,valyl-tRNA aminoacylation
+3,GO:1901137,carbohydrate derivative biosynthetic process
+3,GO:0006424,glutamyl-tRNA aminoacylation
+3,GO:0006546,glycine catabolic process
+3,GO:0009102,biotin biosynthetic process
+3,GO:0015977,carbon fixation
+3,GO:0016260,selenocysteine biosynthetic process
+3,GO:0042372,phylloquinone biosynthetic process
+3,GO:0009234,menaquinone biosynthetic process
+2,GO:0006564,L-serine biosynthetic process
+2,GO:0042773,ATP synthesis coupled electron transport
+2,GO:0007623,circadian rhythm
+2,GO:0006779,porphyrin-containing compound biosynthetic process
+2,GO:0019464,glycine decarboxylation via glycine cleavage system
+2,GO:0018160,peptidyl-pyrromethane cofactor linkage
+2,GO:0032955,regulation of division septum assembly
+2,GO:0006826,iron ion transport
+2,GO:0006879,cellular iron ion homeostasis
+2,GO:0019430,removal of superoxide radicals
+2,GO:0006048,UDP-N-acetylglucosamine biosynthetic process
+2,GO:0009103,lipopolysaccharide biosynthetic process
+2,GO:0009082,branched-chain amino acid biosynthetic process
+2,GO:0006527,arginine catabolic process
+2,GO:0044210,'de novo' CTP biosynthetic process
+2,GO:0051258,protein polymerization
+2,GO:0009116,nucleoside metabolic process
+2,GO:0006298,mismatch repair
+2,GO:0016075,rRNA catabolic process
+2,GO:0006397,mRNA processing
+2,GO:0006741,NADP biosynthetic process
+2,GO:0019674,NAD metabolic process
+2,GO:0042549,photosystem II stabilization
+2,GO:0009166,nucleotide catabolic process
+2,GO:0009408,response to heat
+2,GO:0030001,metal ion transport
+2,GO:0015937,coenzyme A biosynthetic process
+2,GO:0006086,acetyl-CoA biosynthetic process from pyruvate
+2,GO:0006437,tyrosyl-tRNA aminoacylation
+2,GO:0006434,seryl-tRNA aminoacylation
+2,GO:0097056,selenocysteinyl-tRNA(Sec) biosynthetic process
+2,GO:0009306,protein secretion
+2,GO:0006428,isoleucyl-tRNA aminoacylation
+2,GO:0000162,tryptophan biosynthetic process
+2,GO:0051479,mannosylglycerate biosynthetic process
+2,GO:0006464,cellular protein modification process
+2,GO:0006534,cysteine metabolic process
+2,GO:0006571,tyrosine biosynthetic process
+2,GO:0042450,arginine biosynthetic process via ornithine
+2,GO:0006094,gluconeogenesis
+2,GO:0046854,phosphatidylinositol phosphorylation
+2,GO:0019510,S-adenosylhomocysteine catabolic process
+2,GO:0006796,phosphate-containing compound metabolic process
+2,GO:0019305,dTDP-rhamnose biosynthetic process
+2,GO:0006429,leucyl-tRNA aminoacylation
+2,GO:0065003,protein-containing complex assembly
+2,GO:0018307,enzyme active site formation
+2,GO:0019627,urea metabolic process
+2,GO:0042779,tRNA 3'-trailer cleavage
+2,GO:0042274,ribosomal small subunit biogenesis
+2,GO:0046656,folic acid biosynthetic process
+2,GO:0046654,tetrahydrofolate biosynthetic process
+1,GO:0006865,amino acid transport
+1,GO:0052889,"9,9'-di-cis-zeta-carotene desaturation to 7,9,7',9'-tetra-cis-lycopene"
+1,GO:0050992,dimethylallyl diphosphate biosynthetic process
+1,GO:0002949,tRNA threonylcarbamoyladenosine modification
+1,GO:0052865,1-deoxy-D-xylulose 5-phosphate biosynthetic process
+1,GO:0006352,"DNA-templated transcription, initiation"
+1,GO:0051304,chromosome separation
+1,GO:0006808,regulation of nitrogen utilization
+1,GO:0006729,tetrahydrobiopterin biosynthetic process
+1,GO:0006556,S-adenosylmethionine biosynthetic process
+1,GO:0006662,glycerol ether metabolic process
+1,GO:0006813,potassium ion transport
+1,GO:2001295,malonyl-CoA biosynthetic process
+1,GO:0008654,phospholipid biosynthetic process
+1,GO:0048511,rhythmic process
+1,GO:0042752,regulation of circadian rhythm
+1,GO:0015969,guanosine tetraphosphate metabolic process
+1,GO:0009249,protein lipoylation
+1,GO:0009231,riboflavin biosynthetic process
+1,GO:0006422,aspartyl-tRNA aminoacylation
+1,GO:0006555,methionine metabolic process
+1,GO:0006886,intracellular protein transport
+1,GO:0045892,"negative regulation of transcription, DNA-templated"
+1,GO:0032784,"regulation of DNA-templated transcription, elongation"
+1,GO:0006354,"DNA-templated transcription, elongation"
+1,GO:0000103,sulfate assimilation
+1,GO:0044209,AMP salvage
+1,GO:0043953,protein transport by the Tat complex
+1,GO:0046417,chorismate metabolic process
+1,GO:0097171,ADP-L-glycero-beta-D-manno-heptose biosynthetic process
+1,GO:0042256,mature ribosome assembly
+1,GO:0090071,negative regulation of ribosome biogenesis
+1,GO:0017148,negative regulation of translation
+1,GO:0006221,pyrimidine nucleotide biosynthetic process
+1,GO:0009113,purine nucleobase biosynthetic process
+1,GO:0030261,chromosome condensation
+1,GO:0007062,sister chromatid cohesion
+1,GO:0009435,NAD biosynthetic process
+1,GO:0046855,inositol phosphate dephosphorylation
+1,GO:0010206,photosystem II repair
+1,GO:0019856,pyrimidine nucleobase biosynthetic process
+1,GO:0006304,DNA modification
+1,GO:1901891,regulation of cell septum assembly
+1,GO:0071266,'de novo' L-methionine biosynthetic process
+1,GO:0006241,CTP biosynthetic process
+1,GO:0006228,UTP biosynthetic process
+1,GO:0006183,GTP biosynthetic process
+1,GO:0008299,isoprenoid biosynthetic process
+1,GO:0019673,GDP-mannose metabolic process
+1,GO:0006520,cellular amino acid metabolic process
+1,GO:0006207,'de novo' pyrimidine nucleobase biosynthetic process
+1,GO:1901135,carbohydrate derivative metabolic process
+1,GO:0055114,oxidation-reduction process
+1,GO:0019354,siroheme biosynthetic process
+1,GO:0006233,dTDP biosynthetic process
+1,GO:0009052,"pentose-phosphate shunt, non-oxidative branch"
+1,GO:0000725,recombinational repair
+1,GO:0006433,prolyl-tRNA aminoacylation
+1,GO:0006012,galactose metabolic process
+1,GO:0008615,pyridoxine biosynthetic process
+1,GO:0006231,dTMP biosynthetic process
+1,GO:0006799,polyphosphate biosynthetic process
+1,GO:0006420,arginyl-tRNA aminoacylation
+1,GO:0006106,fumarate metabolic process
+1,GO:0044238,primary metabolic process
+1,GO:0001522,pseudouridine synthesis
+1,GO:0048034,heme O biosynthetic process
+1,GO:0006807,nitrogen compound metabolic process
+1,GO:0008643,carbohydrate transport
+1,GO:0019509,L-methionine salvage from methylthioadenosine
+1,GO:0006166,purine ribonucleoside salvage

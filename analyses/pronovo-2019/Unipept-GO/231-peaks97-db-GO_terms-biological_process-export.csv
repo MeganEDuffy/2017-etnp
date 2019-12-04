@@ -1,0 +1,36 @@
+Peptides,GO term,Name
+19,GO:0015979,photosynthesis
+19,GO:0006412,translation
+11,GO:0018298,protein-chromophore linkage
+8,GO:0055114,oxidation-reduction process
+7,GO:0042549,photosystem II stabilization
+4,GO:0010207,photosystem II assembly
+3,GO:0006457,protein folding
+3,GO:0015986,ATP synthesis coupled proton transport
+3,GO:0006096,glycolytic process
+2,GO:0042026,protein refolding
+2,GO:0006415,translational termination
+2,GO:0006542,glutamine biosynthetic process
+2,GO:0009399,nitrogen fixation
+2,GO:0006006,glucose metabolic process
+2,GO:0009772,photosynthetic electron transport in photosystem II
+2,GO:0009767,photosynthetic electron transport chain
+2,GO:0006351,"transcription, DNA-templated"
+2,GO:0006355,"regulation of transcription, DNA-templated"
+1,GO:0019684,"photosynthesis, light reaction"
+1,GO:0022904,respiratory electron transport chain
+1,GO:0018063,cytochrome c-heme linkage
+1,GO:0000027,ribosomal large subunit assembly
+1,GO:0031564,transcription antitermination
+1,GO:0032784,"regulation of DNA-templated transcription, elongation"
+1,GO:0006354,"DNA-templated transcription, elongation"
+1,GO:0006353,"DNA-templated transcription, termination"
+1,GO:0009773,photosynthetic electron transport in photosystem I
+1,GO:0008643,carbohydrate transport
+1,GO:0009097,isoleucine biosynthetic process
+1,GO:0009099,valine biosynthetic process
+1,GO:0000160,phosphorelay signal transduction system
+1,GO:0051258,protein polymerization
+1,GO:0090529,cell septum assembly
+1,GO:0043093,FtsZ-dependent cytokinesis
+1,GO:0006808,regulation of nitrogen utilization

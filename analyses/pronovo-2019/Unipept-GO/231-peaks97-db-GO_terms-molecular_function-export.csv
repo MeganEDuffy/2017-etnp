@@ -1,0 +1,39 @@
+Peptides,GO term,Name
+17,GO:0003735,structural constituent of ribosome
+15,GO:0019843,rRNA binding
+10,GO:0005524,ATP binding
+8,GO:0003677,DNA binding
+7,GO:0009055,electron transfer activity
+6,GO:0016168,chlorophyll binding
+5,GO:0046872,metal ion binding
+4,GO:0000049,tRNA binding
+4,GO:0010242,oxygen evolving activity
+4,GO:0000287,magnesium ion binding
+4,GO:0051539,"4 iron, 4 sulfur cluster binding"
+3,GO:0046933,"proton-transporting ATP synthase activity, rotational mechanism"
+3,GO:0008270,zinc ion binding
+3,GO:0004332,fructose-bisphosphate aldolase activity
+3,GO:0050661,NADP binding
+3,GO:0003924,GTPase activity
+3,GO:0005525,GTP binding
+3,GO:0016491,oxidoreductase activity
+3,GO:0016787,hydrolase activity
+2,GO:0016740,transferase activity
+2,GO:0051082,unfolded protein binding
+2,GO:0004356,glutamate-ammonia ligase activity
+2,GO:0051287,NAD binding
+2,GO:0016620,"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"
+2,GO:0003746,translation elongation factor activity
+2,GO:0045156,"electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity"
+2,GO:0003676,nucleic acid binding
+2,GO:0005507,copper ion binding
+1,GO:0020037,heme binding
+1,GO:0005506,iron ion binding
+1,GO:0003729,mRNA binding
+1,GO:0003743,translation initiation factor activity
+1,GO:0004365,glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+1,GO:0015288,porin activity
+1,GO:0016853,isomerase activity
+1,GO:0004455,ketol-acid reductoisomerase activity
+1,GO:0004252,serine-type endopeptidase activity
+1,GO:0030234,enzyme regulator activity

@@ -1,0 +1,41 @@
+Peptides,GO term,Name
+232,GO:0005737,cytoplasm
+134,GO:0016021,integral component of membrane
+43,GO:0042651,thylakoid membrane
+33,GO:0005840,ribosome
+16,GO:0005886,plasma membrane
+12,GO:0015935,small ribosomal subunit
+11,GO:0005622,intracellular
+10,GO:0005623,cell
+9,GO:0009523,photosystem II
+7,GO:0005694,chromosome
+7,GO:0016020,membrane
+7,GO:0019867,outer membrane
+6,GO:0009360,DNA polymerase III complex
+5,GO:0045261,"proton-transporting ATP synthase complex, catalytic core F(1)"
+5,GO:0009521,photosystem
+5,GO:0015934,large ribosomal subunit
+4,GO:0043190,ATP-binding cassette (ABC) transporter complex
+4,GO:0030956,glutamyl-tRNA(Gln) amidotransferase complex
+4,GO:0009380,excinuclease repair complex
+3,GO:0005829,cytosol
+3,GO:0009522,photosystem I
+3,GO:0045263,"proton-transporting ATP synthase complex, coupling factor F(o)"
+2,GO:0005960,glycine cleavage complex
+2,GO:0031226,intrinsic component of plasma membrane
+2,GO:0009538,photosystem I reaction center
+2,GO:0032153,cell division site
+2,GO:0000015,phosphopyruvate hydratase complex
+2,GO:0005576,extracellular region
+2,GO:0009986,cell surface
+2,GO:0009654,photosystem II oxygen evolving complex
+2,GO:0043231,intracellular membrane-bounded organelle
+1,GO:0009317,acetyl-CoA carboxylase complex
+1,GO:0048500,signal recognition particle
+1,GO:0033281,TAT protein transport complex
+1,GO:0005887,integral component of plasma membrane
+1,GO:0009295,nucleoid
+1,GO:0031977,thylakoid lumen
+1,GO:0009358,polyphosphate kinase complex
+1,GO:0045239,tricarboxylic acid cycle enzyme complex
+1,GO:0031361,integral component of thylakoid membrane
