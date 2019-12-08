@@ -1,0 +1,15 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+> setwd("Documents/git-repos/2017-etnp/analyses/MED4")\
+\
+> MED4 <- read.csv(file = "med4-length-specificity.csv", header = TRUE, sep = ",")\
+\
+> p <- plot_ly(alpha = 0.6) %>%\
++ add_histogram(x = MED4$crosskingdom, name = "cross-kingdom") %>%\
++ layout(barmode = "overlay", title="Peptide length distribution", yaxis=list(title="# peptides", showline = TRUE, showgrid = FALSE), xaxis=list(title="# residues"))}
