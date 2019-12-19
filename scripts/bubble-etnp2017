@@ -1,0 +1,21 @@
+library(tidyverse)
+library(plotly)
+
+# Get info
+> setwd("Documents/git-repos/2017-etnp/analyses/pronovo-2019”)
+> etnp2017 <- read.csv(file = “etnp2017-pronovo-bubble.csv", header = TRUE, sep = ",")
+
+
+# Set colors
+colors <- c('#4AC6B7', '#1972A4', '#965F8A', '#FF7070', '#C61951’, ‘#FF000’)
+
+# Using Plotly
+r1 <- plot_ly(
+  etnp2017, x = ~`% Bubble plot spacer`, y = ~`% Depth`,  
+  color = ~`Peptides`, type = "scatter",
+  mode="markers", colors=~colors, size=~`DB peptides trypsin`,
+  marker = list(symbol = 'circle', sizemode = 'diameter',
+                      line = list(width = 2, color = '#FFFFFF'), opacity=0.4)
+
+  )
+r1

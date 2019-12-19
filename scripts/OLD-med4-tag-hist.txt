@@ -1,4 +1,6 @@
 
+OLD - newer figure script exists!
+
 library(plotly)
 > p <- plot_ly(alpha = 0.6) %>%
 + add_histogram(x = dbpeps$Length, name = "database ID'd peptides") %>%

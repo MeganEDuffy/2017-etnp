@@ -1,0 +1,16 @@
+library(plotly)
+
+x <- c("carbamidomethylation", "oxidation", "acetylation", "formylation", "deamidation", "dehydration", "ubiquitination")
+y1db <- c(12.07093169, 4.835214962, 0.456152355, 0.91230471, 3.124643631, 0.91230471, 0.216672369)
+y2dno <- c(13.02853395, 10.36688798, 8.32285586, 6.241580602, 6.165244724, 4.939380332, 3.369106421)
+data <- data.frame(x, y1db, y2dno)
+
+#The default order will be alphabetized unless specified as below:
+data$x <- factor(data$x, levels = data[["x"]])
+
+p <- plot_ly(data, x = ~x, y = ~y1db, type = 'bar', name = 'Database-identified', marker = list(color = 'rgb(204,204,204)')) %>%
+  add_trace(y = ~y2dno, name = 'De novo-only', marker = list(color = 'rgb(49,130,189)')) %>%
+  layout(xaxis = list(title = "", tickangle = 45),
+         yaxis = list(title = "% peptides with mod.", showline = TRUE, showgrid = FALSE,
+         margin = list(b = 100),
+         barmode = 'group')

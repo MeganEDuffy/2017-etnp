@@ -1,0 +1,8 @@
+
+> MED4len <- read.csv(file = "med4-db-dno-lengths.csv", header = TRUE, sep = ",")
+
+> med4his <- plot_ly(alpha = 0.6) %>%
++ add_histogram(x = MED4len$dbpeps, name = "database ID'd peptides", marker = list(color="rgb(204,204,204)")) %>%
++ add_histogram(x = MED4len$dnopeps, name = 'de novo-only peptides', marker = list(color="rgb(49,130,189)")) %>%
++ layout(barmode = "overlay", title="A. Peptide length distribution", yaxis=list(title="# peptides", showline = TRUE, showgrid = FALSE), xaxis=list(title="# residues"))
+> med4his
