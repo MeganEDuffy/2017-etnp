@@ -1,21 +1,25 @@
 library(tidyverse)
 library(plotly)
 
-# Get info
-> setwd("Documents/git-repos/2017-etnp/analyses/pronovo-2019”)
-> etnp2017 <- read.csv(file = “etnp2017-pronovo-bubble.csv", header = TRUE, sep = ",")
+
+# Separate plots for suspened and sinking POM
+
+> bubble <- read_csv(file = "bubble-db-dno-tryp-no.csv")
+
+> suspep <- plot_ly(bubble, x = bubble$Spacer, y = bubble$Depth, mode = "markers", type = "scatter", size = bubble$SusPeptides, marker = list(symbol = 'circle', sizemode = 'diameter', color = bubble$SusMod100, showscale = TRUE, line = list(width = 1, color = "grey"), opacity = 0.4)) %>%
++ layout(title = "Suspended POM peptides", yaxis = list(title = "Depth (m)", showline = TRUE, showgrid = FALSE, autorange = "reversed"), xaxis = list(title = "", showticklabels = FALSE, range = c(0,2.5)))
+> suspep
 
 
-# Set colors
-colors <- c('#4AC6B7', '#1972A4', '#965F8A', '#FF7070', '#C61951’, ‘#FF000’)
+> sinkpep <- plot_ly(bubble, x = bubble$Spacer, y = bubble$Depth, mode = "markers", type = "scatter", size = bubble$SinkPeptides, marker = list(symbol = 'circle', sizemode = 'diameter', color = bubble$SinkMod100, showscale = TRUE, line = list(width = 1, color = "grey"), opacity = 0.4)) %>%
++ layout(title = "Sinking POM peptides", yaxis = list(title = "Depth (m)", showline = TRUE, showgrid = FALSE, autorange = "reversed"), xaxis = list(title = "", showticklabels = FALSE, range = c(0,2.5)))
+> sinkpep
 
-# Using Plotly
-r1 <- plot_ly(
-  etnp2017, x = ~`% Bubble plot spacer`, y = ~`% Depth`,  
-  color = ~`Peptides`, type = "scatter",
-  mode="markers", colors=~colors, size=~`DB peptides trypsin`,
-  marker = list(symbol = 'circle', sizemode = 'diameter',
-                      line = list(width = 2, color = '#FFFFFF'), opacity=0.4)
 
-  )
-r1
+# Combined plot for suspended and sinking POM
+
+> combubb <- read_csv(file = "bubble-combined-sus-sink.csv")
+
+> comb <- plot_ly(combubb, x = combubb$Spacer, y = combubb$Depth, mode = "markers", type = "scatter", size = combubb$Peptides, marker = list(symbol = 'circle', sizemode = 'diameter', color = combubb$Mod100, showscale = TRUE, line = list(width = 1, color = "grey"), opacity = 0.4)) %>%
++ layout(title = "", yaxis = list(title = "Depth (m)", showline = TRUE, showgrid = FALSE, autorange = "reversed"), xaxis = list(title = "", showticklabels = FALSE, range = c(0,5)))
+> comb

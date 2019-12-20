@@ -1,0 +1,27 @@
+library(plotly)
+
+> spider <- read_csv(file = "spider-mods-summ.csv")
+
+y <- c('Epipelagic',
+       'Mesopelagic',
+       'Bathypelagic')
+
+> susbar <- plot_ly(data, x = spider$`oxidation-sus`, y = ~y, type = 'bar', orientation = 'h', name = 'oxidation', marker = list(color = 'rgba(51, 153, 51, 0.6)', line = list(color = 'rgba(51, 153, 51, 1.0)', width = 3))) %>%
++ add_trace(x = spider$`methylation-sus`, name = 'methylation', marker = list(color = 'rgba(251, 101, 66, 0.6)', line = list(color = 'rgba(251, 101, 66, 1.0)', width = 3))) %>%
++ add_trace(x = spider$`deamidation-sus`, name = 'deamidation', marker = list(color = 'rgba(55, 94, 151, 0.6)', line = list(color = 'rgba(55, 94, 151, 1.0)', width = 3))) %>%
++ add_trace(x = spider$`acetylation-sus`, name = 'acetylation', marker = list(color = 'rgba(255, 187, 0, 0.6)', line = list(color = 'rgba(255, 187, 0, 1.0)', width = 3))) %>%
++ add_trace(x = spider$`dehydration-sus`, name = 'dehydration', marker = list(color = 'rgba(102, 101, 210, 0.6)', line = list(color = 'rgba(102, 101, 210, 1.0)', width = 3))) %>%
++ add_trace(x = spider$`ethylation-sus`, name = 'ethylation', marker = list(color = 'rgba(114, 137, 218, 0.6)', line = list(color = 'rgba(114, 137, 218, 1.0)', width = 3))) %>%
++ add_trace(x = spider$`other-sus`, name = 'other', marker = list(color = 'rgba(161, 255, 182, 0.6)', line = list(color = 'rgba(161, 255, 182, 1.0)', width = 3))) %>%
++ layout(barmode = 'stack', xaxis = list(title = "% with modification"), yaxis = list(title ="", categoryorder = "array", categoryarray = ~y, autorange = "reversed"))
+> susbar
+
+> snkbar <- plot_ly(data, x = spider$`oxidation-sink`, y = ~y, type = 'bar', orientation = 'h', name = 'oxidation', marker = list(color = 'rgba(51, 153, 51, 0.6)', line = list(color = 'rgba(51, 153, 51, 1.0)', width = 3))) %>%
++ add_trace(x = spider$`methylation-sink`, name = 'methylation', marker = list(color = 'rgba(251, 101, 66, 0.6)', line = list(color = 'rgba(251, 101, 66, 1.0)', width = 3))) %>%
++ add_trace(x = spider$`deamidation-sink`, name = 'deamidation', marker = list(color = 'rgba(55, 94, 151, 0.6)', line = list(color = 'rgba(55, 94, 151, 1.0)', width = 3))) %>%
++ add_trace(x = spider$`acetylation-sink`, name = 'acetylation', marker = list(color = 'rgba(255, 187, 0, 0.6)', line = list(color = 'rgba(255, 187, 0, 1.0)', width = 3))) %>%
++ add_trace(x = spider$`dehydration-sink`, name = 'dehydration', marker = list(color = 'rgba(102, 101, 210, 0.6)', line = list(color = 'rgba(102, 101, 210, 1.0)', width = 3))) %>%
++ add_trace(x = spider$`ethylation-sink`, name = 'ethylation', marker = list(color = 'rgba(114, 137, 218, 0.6)', line = list(color = 'rgba(114, 137, 218, 1.0)', width = 3))) %>%
++ add_trace(x = spider$`other-sink`, name = 'other', marker = list(color = 'rgba(161, 255, 182, 0.6)', line = list(color = 'rgba(161, 255, 182, 1.0)', width = 3))) %>%
++ layout(barmode = 'stack', xaxis = list(title = "% with modification"), yaxis = list(title ="", categoryorder = "array", categoryarray = ~y, autorange = "reversed"))
+> snkbar
