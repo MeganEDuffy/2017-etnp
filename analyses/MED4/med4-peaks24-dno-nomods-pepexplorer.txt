@@ -1,0 +1,803 @@
+#PROT	ID	Alignments	SpecCounts	Unique	Coverage	Description			
+#ALN	FileName	ScanNo	Z	Redundancy	DeNovoScore	DeNovoSeq	DBSeq	SimilarityScore	Identity
+PROT	A8WI02	4	4	4	0.44	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1800 PE=4 SV=1			
+ALN	Provided	22	1	1	1	KNLTLLENK	EIITLLENK	36	7 (0.778)
+ALN	Provided	348	1	1	1	MPSSLEFDKGK	DISSLEFDKGK	43	9 (0.818)
+ALN	Provided	205	1	1	1	KEDLSSLEFDK	EKDISSLEFDK	54	9 (0.818)
+ALN	Provided	1701	1	1	1	WWLSSLEFDKGK	KDISSLEFDKGK	40	10 (0.833)
+PROT	A8WI29	2	2	2	0.157	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1816 PE=4 SV=1			
+ALN	Provided	528	1	1	1	YTSVFTQPSLVK	YTSVFTQPSLVK	87	12 (1)
+ALN	Provided	68	1	1	1	EALSDEDYELLDYLR	AELSDEDYELIDYIR	90	13 (0.867)
+PROT	A8WI38	2	2	2	0.263	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1825 PE=4 SV=1			
+ALN	Provided	21	1	1	1	DETECDDSDLVELLR	EDTECDDSDIVELLR	97	13 (0.867)
+ALN	Provided	123	1	1	1	ETDECDDSDLVELLR	EDTECDDSDIVELLR	84	13 (0.867)
+PROT	A8WI40	1	1	1	0.214	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1827 PE=4 SV=1			
+ALN	Provided	880	1	1	1	YALSDNCLK	YAISDLSIK	38	7 (0.778)
+PROT	A8WI44	2	2	2	0.361	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1831 PE=4 SV=1			
+ALN	Provided	92	1	1	1	STPFSLLNK	TSPFSILNK	48	7 (0.778)
+ALN	Provided	284	1	1	1	ESLQTQDVLMLDR	DTIQTQDVLMIDR	82	11 (0.846)
+PROT	A8WI45	1	1	1	0.212	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1832 PE=4 SV=1			
+ALN	Provided	15	1	1	1	TDEELLEEETR	SEEELLEEETR	67	9 (0.818)
+PROT	A8WI50	1	1	1	0.18	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1837 PE=4 SV=1			
+ALN	Provided	137	1	1	1	QVECLTWFEWK	LNECITWFEWK	65	9 (0.818)
+PROT	A8WI51	1	1	1	0.146	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1838 PE=4 SV=1			
+ALN	Provided	79	1	1	1	FFDLCR	FFDLCR	49	6 (1)
+PROT	A8WI54	8	8	8	0.151	Type III restriction system endonuclease OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1841 PE=4 SV=1			
+ALN	Provided	2067	1	1	1	KLNFEDTFLR	KLNEFDTFIR	29	8 (0.8)
+ALN	Provided	1874	1	1	1	QWRETYAYPFLHK	DELETYAYPFIHK	53	10 (0.769)
+ALN	Provided	77	1	1	1	FGLASNLLK	FGIASNIIK	57	9 (1)
+ALN	Provided	160	1	1	1	YSDNELYSK	YSDNELYSK	68	9 (1)
+ALN	Provided	420	1	1	1	LVDYPEAK	IVDYPEAK	59	8 (1)
+ALN	Provided	183	1	1	1	TEGDLNLLTSK	ETGDLNLITSK	45	9 (0.818)
+ALN	Provided	819	1	1	1	KAETGDLNLLTSK	AKETGDLNLITSK	58	11 (0.846)
+ALN	Provided	67	1	1	1	EYLDSEELNFLEK	YELDSEEINFIEK	61	11 (0.846)
+PROT	A8WI63	1	1	1	0.123	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1846 PE=4 SV=1			
+ALN	Provided	59	1	1	1	QPVELTYR	QPVELTYR	61	8 (1)
+PROT	A8WI64	2	4	2	0.239	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1847 PE=4 SV=1			
+ALN	Provided	6	1	1	1	RGLVFEK	VGIVFEK	34	6 (0.857)
+ALN	Provided	13	1	1	1	RGLVFEK	VGIVFEK	34	6 (0.857)
+ALN	Provided	69	1	1	1	RGLVFEK	VGIVFEK	34	6 (0.857)
+ALN	Provided	216	1	1	1	QFNDELGEK	QFNDELGEK	67	9 (1)
+PROT	A8WI69	3	4	3	0.343	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1851 PE=4 SV=1			
+ALN	Provided	0	1	1	1	KNDEDLYLQLLQK	EIDEDLYLQLLQK	68	11 (0.846)
+ALN	Provided	3	1	1	1	KNDEDLYLQLLQK	EIDEDLYLQLLQK	68	11 (0.846)
+ALN	Provided	1450	1	1	1	EDDELLYLQLLQK	EIDEDLYLQLLQK	60	11 (0.846)
+ALN	Provided	2080	1	1	1	RHLPSEYDLR	GVLPSEYDIR	43	8 (0.8)
+PROT	A8WI75	1	1	1	0.115	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1855 PE=4 SV=1			
+ALN	Provided	46	1	1	1	FEVLPEFNK	EFVLPEFNK	24	7 (0.778)
+PROT	A8WI99	1	1	0	0.133	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1880 PE=4 SV=1			
+ALN	Provided	33	1	2	1	LDALVFLK	LDALVFLK	52	8 (1)
+PROT	A8WIA5	1	1	1	0.244	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1886 PE=4 SV=1			
+ALN	Provided	81	1	1	1	EYLLEVLFNK	EYLLEVIFNK	72	10 (1)
+PROT	A8WIB3	1	1	1	0.094	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1894 PE=4 SV=1			
+ALN	Provided	1883	1	1	1	RNHMNK	NNHMNK	37	5 (0.833)
+PROT	A8WIB6	1	1	1	0.218	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1897 PE=4 SV=1			
+ALN	Provided	940	1	1	1	ELVDQVSALFFK	ELVDQVSAIFFK	85	12 (1)
+PROT	A8WID0	1	1	1	0.259	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1911 PE=4 SV=1			
+ALN	Provided	1286	1	1	1	HYLTPYNPTLFELR	GEITPYNPTIFELR	71	12 (0.857)
+PROT	A8WID1	3	3	3	0.525	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1912 PE=4 SV=1			
+ALN	Provided	96	1	1	1	YLSETDLLK	YLSETDLLK	61	9 (1)
+ALN	Provided	2686	1	1	1	QQTLLMCLDVLAR	NKDILMCLDVIAR	59	10 (0.769)
+ALN	Provided	100	1	1	1	EYGGEVVDNK	EYGGEVVDKN	58	8 (0.8)
+PROT	A8WID3	1	1	0	0.106	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1914 PE=4 SV=1			
+ALN	Provided	18	1	2	1	TLSYFKK	KISYFKK	41	6 (0.857)
+PROT	A8WID4	1	1	1	0.31	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1915 PE=4 SV=1			
+ALN	Provided	380	1	1	1	LASVSASLEVLENKLDKK	IASVSASIEVLENQISRD	77	14 (0.778)
+PROT	A8WIE3	5	8	5	0.192	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1924 PE=4 SV=1			
+ALN	Provided	1200	1	1	1	WFKNPEEAALGYK	DAKNPEEAAIGYK	56	11 (0.846)
+ALN	Provided	24	1	1	1	NPEEAALGYK	NPEEAAIGYK	72	10 (1)
+ALN	Provided	26	1	1	1	NPEEAALGYK	NPEEAAIGYK	72	10 (1)
+ALN	Provided	40	1	1	1	NPEEAALGYK	NPEEAAIGYK	72	10 (1)
+ALN	Provided	469	1	1	1	NPEEAALYGK	NPEEAAIGYK	28	8 (0.8)
+ALN	Provided	283	1	1	1	NPEEAALGYKK	NPEEAAIGYKN	71	10 (0.909)
+ALN	Provided	1643	1	1	1	NPEEAALGYKK	NPEEAAIGYKN	71	10 (0.909)
+ALN	Provided	403	1	1	1	FWKNPEEAALGYK	DAKNPEEAAIGYK	51	11 (0.846)
+PROT	A8WIF0	1	1	1	0.311	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1931 PE=4 SV=1			
+ALN	Provided	2116	1	1	1	FGLVGLVAGQPVSK	FGLVGLVAGPNLSK	61	11 (0.786)
+PROT	A8WIF2	1	1	1	0.103	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1933 PE=4 SV=1			
+ALN	Provided	107	1	1	1	FVTNNYVK	FVTNNYVK	63	8 (1)
+PROT	A8WIG1	2	2	2	0.316	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1943 PE=4 SV=1			
+ALN	Provided	1296	1	1	1	SDLEVDKPVTNDNSLFKR	SDLEVDKPVTNDNSLFKR	130	18 (1)
+ALN	Provided	2108	1	1	1	RYEFLENASNQELEDEKGK	FTEFLENASNQEIEDEKGK	108	17 (0.895)
+PROT	A8WIG8	1	1	1	0.228	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1951 PE=4 SV=1			
+ALN	Provided	204	1	1	1	VADDDCEVLCLER	GIDNDCEVICIER	69	10 (0.769)
+PROT	A8WIH2	1	1	1	0.267	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1955 PE=4 SV=1			
+ALN	Provided	1	1	1	1	HLLTDTLLLENK	HLLTDTLILNEK	59	10 (0.833)
+PROT	A8WIJ8	1	1	1	0.232	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1981 PE=4 SV=1			
+ALN	Provided	120	1	1	1	TFTDNEYFEVLQK	TFTDNEYFEVIQK	101	13 (1)
+PROT	A8WIK2	1	1	1	0.167	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1985 PE=4 SV=1			
+ALN	Provided	212	1	1	1	LEKENLLCK	IEKENIICK	63	9 (1)
+PROT	A8WIK6	1	1	1	0.118	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1989 PE=4 SV=1			
+ALN	Provided	124	1	1	1	EFLFDFLK	EFIFDFIK	60	8 (1)
+PROT	A8WIL1	1	1	1	0.189	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1994 PE=4 SV=1			
+ALN	Provided	30	1	1	1	FYSEEVTLTK	FYSEEVTLTK	74	10 (1)
+PROT	A8WIM1	1	1	1	0.167	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM2005 PE=4 SV=1			
+ALN	Provided	585	1	1	1	VLEETLKK	VLEETLKK	54	8 (1)
+PROT	A8WIM3	1	1	0	0.132	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM2007 PE=4 SV=1			
+ALN	Provided	18	1	2	1	TLSYFKK	KISYFKK	41	6 (0.857)
+PROT	A8WIM6	2	2	1	0.195	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM2010 PE=4 SV=1			
+ALN	Provided	28	1	1	1	FENYEEK	FENYEEK	58	7 (1)
+ALN	Provided	33	1	2	1	LDALVFLK	LDALVFLK	52	8 (1)
+PROT	A8WIM7	1	1	1	0.255	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM2011 PE=4 SV=1			
+ALN	Provided	1036	1	1	1	FSSQELESQYNLLK	FSSQEIESQYNLIK	99	14 (1)
+PROT	A8WIN4	2	2	2	0.053	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM2019 PE=4 SV=1			
+ALN	Provided	356	1	1	1	FLDVEKLMSK	FIDVEKPFSK	45	8 (0.8)
+ALN	Provided	285	1	1	1	FLDVEKPFSK	FIDVEKPFSK	74	10 (1)
+PROT	B9ER48	2	2	2	0.519	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM2077 PE=4 SV=1			
+ALN	Provided	562	1	1	1	NYLLSGLVDDYR	NYLISGLVDDYR	86	12 (1)
+ALN	Provided	19	1	1	1	YPEATDLYVLQDLFK	YPEATDIYVIQDLFK	111	15 (1)
+PROT	Q7TU18	1	1	1	0.027	Aminomethyltransferase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=gcvT PE=3 SV=1			
+ALN	Provided	112	1	1	1	FPVLFALQGK	DKVLFALQGK	32	8 (0.8)
+PROT	Q7TU27	1	1	1	0.077	30S ribosomal protein S19 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rpsS PE=3 SV=1			
+ALN	Provided	1204	1	1	1	LLKMVEK	LLKKVEK	37	6 (0.857)
+PROT	Q7TU28	2	2	2	0.114	30S ribosomal protein S17 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rpsQ PE=3 SV=1			
+ALN	Provided	252	1	1	1	SMALEELLNK	RWAIEEILNK	36	8 (0.8)
+ALN	Provided	592	1	1	1	AMALEELLNK	RWAIEEILNK	32	8 (0.8)
+PROT	Q7TU30	1	1	1	0.263	50S ribosomal protein L36 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rpmJ PE=3 SV=1			
+ALN	Provided	1248	1	1	1	TWVLCTASPR	VMVICTASPR	41	8 (0.8)
+PROT	Q7TU41	1	1	1	0.041	FtsJ cell division protein:S4 domain:Hemolysin A OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1464 PE=4 SV=1			
+ALN	Provided	548	1	1	1	MGLSLPLLNTK	FGISNPIINTK	47	9 (0.818)
+PROT	Q7TU43	19	32	19	0.505	10 kDa chaperonin OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=groS PE=3 SV=1			
+ALN	Provided	829	1	1	1	EAGGLLLPDSAK	TAGGILLPDSAK	62	11 (0.917)
+ALN	Provided	184	1	1	1	LGGDEMFLLSEK	LGGDEYVLLSEK	45	10 (0.833)
+ALN	Provided	213	1	1	1	LGGDEMFLLSEK	LGGDEYVLLSEK	45	10 (0.833)
+ALN	Provided	306	1	1	1	LGGDEMFLLSEK	LGGDEYVLLSEK	45	10 (0.833)
+ALN	Provided	35	1	1	1	DPPEVSLGDK	QTPEVSIGDK	49	8 (0.8)
+ALN	Provided	44	1	1	1	DPPEVSLGDK	QTPEVSIGDK	49	8 (0.8)
+ALN	Provided	62	1	1	1	DPPEVSLGDK	QTPEVSIGDK	49	8 (0.8)
+ALN	Provided	628	1	1	1	SPAGEVAQVGPGK	PQVGEVAQVGPGK	62	10 (0.769)
+ALN	Provided	960	1	1	1	LGGDQYVLLSEK	LGGDEYVLLSEK	74	11 (0.917)
+ALN	Provided	2453	1	1	1	LGGDQYVLLSEK	LGGDEYVLLSEK	74	11 (0.917)
+ALN	Provided	366	1	1	1	TPGGLLLPDSAK	TAGGILLPDSAK	67	11 (0.917)
+ALN	Provided	527	1	1	1	LGGEEMVLLSEK	LGGDEYVLLSEK	54	10 (0.833)
+ALN	Provided	525	1	1	1	LGGDEYVLLSEKK	LGGDEYVLLSEKD	77	12 (0.923)
+ALN	Provided	27	1	1	1	NPPEVSLGDK	QTPEVSIGDK	48	8 (0.8)
+ALN	Provided	73	1	1	1	NPPEVSLGDK	QTPEVSIGDK	48	8 (0.8)
+ALN	Provided	136	1	1	1	NPPEVSLGDK	QTPEVSIGDK	48	8 (0.8)
+ALN	Provided	167	1	1	1	NPPEVSLGDK	QTPEVSIGDK	48	8 (0.8)
+ALN	Provided	91	1	1	1	LGGGDEYVLLSEK	KLGGDEYVLLSEK	58	11 (0.846)
+ALN	Provided	12	1	1	1	LGGDWYVLLSEK	LGGDEYVLLSEK	56	11 (0.917)
+ALN	Provided	421	1	1	1	LGGDEFMLLSEK	LGGDEYVLLSEK	65	10 (0.833)
+ALN	Provided	538	1	1	1	LGGDEFMLLSEK	LGGDEYVLLSEK	65	10 (0.833)
+ALN	Provided	757	1	1	1	LGGNEYVLLSEK	LGGDEYVLLSEK	75	11 (0.917)
+ALN	Provided	836	1	1	1	LGGNEYVLLSEK	LGGDEYVLLSEK	75	11 (0.917)
+ALN	Provided	49	1	1	1	VPGDEYVLLSEK	LGGDEYVLLSEK	64	10 (0.833)
+ALN	Provided	151	1	1	1	VPGDEYVLLSEK	LGGDEYVLLSEK	64	10 (0.833)
+ALN	Provided	661	1	1	1	VAGGDEYVLLSEK	KLGGDEYVLLSEK	61	11 (0.846)
+ALN	Provided	2784	1	1	1	RLGGDEYVLLSEK	KLGGDEYVLLSEK	81	12 (0.923)
+ALN	Provided	460	1	1	1	TGAGGLLLPDSAK	KTAGGILLPDSAK	59	11 (0.846)
+ALN	Provided	347	1	1	1	APAPQVGEVAQVGPGK	KEKPQVGEVAQVGPGK	73	13 (0.812)
+ALN	Provided	143	1	1	1	TAGGLLLSMSAK	TAGGILLPDSAK	46	10 (0.833)
+ALN	Provided	235	1	1	1	TAGGLLLSMSAK	TAGGILLPDSAK	46	10 (0.833)
+ALN	Provided	630	1	1	1	TAGGLLLSMSAK	TAGGILLPDSAK	46	10 (0.833)
+PROT	Q7TU44	60	65	59	0.509	60 kDa chaperonin 2 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=groL2 PE=3 SV=1			
+ALN	Provided	119	1	1	1	KRLSLEEGK	GVISLEEGK	30	7 (0.778)
+ALN	Provided	1360	1	1	1	QEDLVADLPEKK	TECIVADLPEKK	50	10 (0.833)
+ALN	Provided	1872	1	1	1	LANLDEPYLLLTDKK	EAVLDEPYILLTDKK	74	13 (0.867)
+ALN	Provided	1413	1	1	1	VCWLDEPYLLLTDKK	EAVLDEPYILLTDKK	56	12 (0.8)
+ALN	Provided	727	1	1	1	RCEAVLDEFLLLLTDK	RMEAVLDEPYILLTDK	57	13 (0.812)
+ALN	Provided	631	1	1	1	NNLATLVVNR	EALATLVVNR	47	8 (0.8)
+ALN	Provided	353	1	1	1	TPLTNGQLLTEDAGLK	AVLTNGQLITEDAGLK	84	14 (0.875)
+ALN	Provided	286	1	1	1	LEAHLAPLLK	TLAHLAPILK	39	8 (0.8)
+ALN	Provided	10	1	1	1	QTEFLVGK	ATEFLVGK	45	7 (0.875)
+ALN	Provided	904	1	1	1	NYLSPYFATDMVR	GYISPYFATDTER	64	10 (0.769)
+ALN	Provided	58	1	1	1	HFLSLEEGK	GVISLEEGK	28	7 (0.778)
+ALN	Provided	1598	1	1	1	EPNVLDEPYLLLTDKK	MEAVLDEPYILLTDKK	74	13 (0.812)
+ALN	Provided	734	1	1	1	MDYLENTGVALLR	EDHIENTGVALIR	63	11 (0.846)
+ALN	Provided	494	1	1	1	ECVVLDEPYLLLTDK	MEAVLDEPYILLTDK	60	12 (0.8)
+ALN	Provided	290	1	1	1	QNNATLEYLGTGR	LENATLEMLGTGR	46	10 (0.769)
+ALN	Provided	225	1	1	1	TPAGANALTLKK	VAAGANAITLKK	58	10 (0.833)
+ALN	Provided	150	1	1	1	QSKPLVLLAEDLEK	TGKPLVIIAEDIEK	72	12 (0.857)
+ALN	Provided	94	1	1	1	EEAVLDEPYLLLTDK	MEAVLDEPYILLTDK	90	14 (0.933)
+ALN	Provided	175	1	1	1	EEAVLDEPYLLLTDK	MEAVLDEPYILLTDK	90	14 (0.933)
+ALN	Provided	3284	1	1	1	EDWLDKPYLLLTDK	EAVLDEPYILLTDK	54	11 (0.786)
+ALN	Provided	2727	1	1	1	ENWLDEPYLLLTDKK	EAVLDEPYILLTDKK	72	13 (0.867)
+ALN	Provided	1810	1	1	1	EPRLDEPYLLLTDKK	EAVLDEPYILLTDKK	81	13 (0.867)
+ALN	Provided	1963	1	1	1	EPRLDEPYLLLTDKK	EAVLDEPYILLTDKK	81	13 (0.867)
+ALN	Provided	2448	1	1	1	EPRLDEPYLLLTDKK	EAVLDEPYILLTDKK	81	13 (0.867)
+ALN	Provided	2507	1	1	1	EPRLDEPYLLLTDKK	EAVLDEPYILLTDKK	81	13 (0.867)
+ALN	Provided	1349	1	1	1	LARLAGGVAVLK	LAKLAGGVAVIK	66	11 (0.917)
+ALN	Provided	1561	1	1	1	QYHLDEPYLLLTDKK	EAVLDEPYILLTDKK	70	12 (0.8)
+ALN	Provided	41	1	1	1	ATWFLVGK	ATEFLVGK	30	7 (0.875)
+ALN	Provided	1738	1	1	1	WPVLDEPYLLLTDK	EAVLDEPYILLTDK	64	12 (0.857)
+ALN	Provided	299	1	1	1	NVLNVAAVK	GVLNVAAVK	50	8 (0.889)
+ALN	Provided	159	1	1	1	LAGGVAVLKK	LAGGVAVIKV	46	9 (0.9)
+ALN	Provided	2960	1	1	1	SQDAAGDGTTTATVLAHVGPK	TNDAAGDGTTTATVLAHAMVK	89	16 (0.762)
+ALN	Provided	764	1	1	1	QMPQLLNDGRTLAK	GAPQIINDGVTIAK	53	11 (0.786)
+ALN	Provided	2237	1	1	1	KRDLAESVAVTLGPK	IDILAESVAVTLGPK	55	12 (0.8)
+ALN	Provided	316	1	2	1	KCLLLTDKK	PYILLTDKK	34	7 (0.778)
+ALN	Provided	3146	1	1	1	QNWLDEPYLLLTDKK	EAVLDEPYILLTDKK	65	12 (0.8)
+ALN	Provided	3278	1	1	1	QNWLDEPYLLLTDKK	EAVLDEPYILLTDKK	65	12 (0.8)
+ALN	Provided	1609	1	1	1	SMTTELEVTMSMR	SMTTELEVTEGMR	76	11 (0.846)
+ALN	Provided	86	1	1	1	ATEFLVGKK	ATEFLVGKI	49	8 (0.889)
+ALN	Provided	2000	1	1	1	ELELSFELENTGVALLR	EIELEDHIENTGVALIR	67	14 (0.824)
+ALN	Provided	1109	1	1	1	HFLLAESVAVTLGPK	IDILAESVAVTLGPK	59	13 (0.867)
+ALN	Provided	1230	1	1	1	TATTLAHLAPLLK	GGTTLAHLAPILK	62	11 (0.846)
+ALN	Provided	919	1	1	1	ETECLVADLEPKK	TTECIVADLPEKK	54	10 (0.769)
+ALN	Provided	913	1	1	1	HMAGANALTLK	VAAGANAITLK	45	9 (0.818)
+ALN	Provided	589	1	1	1	RRPLVLLAEDLEK	GKPLVIIAEDIEK	63	11 (0.846)
+ALN	Provided	83	1	1	1	ATEFLVDK	ATEFLVGK	46	7 (0.875)
+ALN	Provided	2158	1	1	1	ELELFLTDENTGVALLR	EIELEDHIENTGVALIR	48	13 (0.765)
+ALN	Provided	1182	1	1	1	QNQLEDHLENTGVALLR	EIELEDHIENTGVALIR	92	14 (0.824)
+ALN	Provided	959	1	1	1	KCHLAESVAVTLGPK	IDILAESVAVTLGPK	49	12 (0.8)
+ALN	Provided	950	1	1	1	LWELDEPYLLLTDKK	EAVLDEPYILLTDKK	57	12 (0.8)
+ALN	Provided	218	1	1	1	QVDLLAESVAVTLGPK	GIDILAESVAVTLGPK	86	14 (0.875)
+ALN	Provided	862	1	1	1	EPMCLVADLPEKK	TTECIVADLPEKK	54	10 (0.769)
+ALN	Provided	111	1	1	1	EPGVLDEPYLLLTDK	MEAVLDEPYILLTDK	69	12 (0.8)
+ALN	Provided	2103	1	1	1	KMLEDMAVLTNGQLLTEDAGLK	AMLEDMAVLTNGQLITEDAGLK	140	21 (0.955)
+ALN	Provided	2097	1	1	1	QQVPVLEQLAK	DLVPVLEQIAK	52	9 (0.818)
+ALN	Provided	1245	1	1	1	KNVTECLVADLPEKK	VLTTECIVADLPEKK	68	12 (0.8)
+ALN	Provided	776	1	1	1	EEAVLDEPYLLLTDKK	MEAVLDEPYILLTDKK	97	15 (0.938)
+ALN	Provided	608	1	1	1	LAENAGSNGAALAENVK	IAENAGSNGAVIAENVK	104	16 (0.941)
+ALN	Provided	2401	1	1	1	ALTLNAESVAVTLGPK	GIDILAESVAVTLGPK	70	13 (0.812)
+ALN	Provided	1324	1	1	1	SPQPAGSNGAVLAENVK	IAENAGSNGAVIAENVK	72	13 (0.765)
+ALN	Provided	309	1	1	1	REGLLAESVAVTLGPK	GIDILAESVAVTLGPK	66	13 (0.812)
+ALN	Provided	2357	1	1	1	EYAVLDEPYLLLTDQK	MEAVLDEPYILLTDKK	71	13 (0.812)
+ALN	Provided	1647	1	1	1	DWKLDEPYLLLTDKK	EAVLDEPYILLTDKK	63	12 (0.8)
+ALN	Provided	2388	1	1	1	RRQLVLLAEDLEK	GKPLVIIAEDIEK	52	10 (0.769)
+ALN	Provided	1849	1	1	1	LQELEDHLENTGVALLR	EIELEDHIENTGVALIR	88	15 (0.882)
+PROT	Q7TU59	1	1	1	0.017	Oxygen-independent coproporphyrinogen III oxidase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1311 PE=4 SV=1			
+ALN	Provided	3091	1	1	1	WFLSDPK	FFLSDPK	39	6 (0.857)
+PROT	Q7TU61	3	3	3	0.124	Cell division protein FtsZ OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ftsZ PE=3 SV=1			
+ALN	Provided	1209	1	1	1	WEAAQAPGNSPLLEAAR	LEAAQAAMNSPLLEAAR	74	14 (0.824)
+ALN	Provided	805	1	1	1	YYLTVGLVTKPFSFEGK	GALTVGIVTKPFSFEGK	82	15 (0.882)
+ALN	Provided	228	1	1	1	EFGNNPNFDQSK	SFGNNPNFDQSK	81	11 (0.917)
+PROT	Q7TU66	1	1	1	0.025	Riboflavin biosynthesis protein RibD OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ribD PE=3 SV=1			
+ALN	Provided	105	1	1	1	SPYLASLGK	AIYLASLGK	37	7 (0.778)
+PROT	Q7TU80	1	1	1	0.022	"Putative Cobyrinic acid a,c-diamide synthase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=cbiA,cobB PE=4 SV=1"			
+ALN	Provided	1639	1	1	1	GMELLGDLPK	GMMILGDLIK	38	8 (0.8)
+PROT	Q7TU81	2	2	2	0.047	Bifunctional protein FolD OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=folD PE=3 SV=1			
+ALN	Provided	1591	1	1	1	ASNGDVLLEDVLPK	RLCGDVLLEDVIPK	48	11 (0.786)
+ALN	Provided	1688	1	1	1	NSAGDVLLEDVLPK	RLCGDVLLEDVIPK	54	11 (0.786)
+PROT	Q7TU92	1	1	1	0.067	30S ribosomal protein S15 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rpsO PE=3 SV=1			
+ALN	Provided	3469	1	1	1	QNYQDR	QNYQDL	35	5 (0.833)
+PROT	Q7TU94	1	1	1	0.077	Photosystem II reaction center Psb28 protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=psb28 PE=3 SV=1			
+ALN	Provided	1379	1	1	1	SDGLGYSEK	SNGLGYSEK	56	8 (0.889)
+PROT	Q7TU97	1	1	1	0.036	Putative Branched-chain amino acid aminotransferase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ilvE PE=3 SV=1			
+ALN	Provided	1382	1	1	1	NFTSDLGLAPR	VYTSDLGIAPR	53	9 (0.818)
+PROT	Q7TUA4	1	1	1	0.082	Possible Nucleoside diphosphate kinase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0838 PE=4 SV=1			
+ALN	Provided	489	1	1	1	FYLYYLLANK	FYLIYLIPNK	51	8 (0.8)
+PROT	Q7TUA8	1	1	1	0.025	Possible Adenylate cyclase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0755 PE=4 SV=1			
+ALN	Provided	1453	1	1	1	HSVLKELAK	ASVLKELVK	36	7 (0.778)
+PROT	Q7TUB6	1	1	1	0.056	"Possible Bacterial regulatory proteins, crp fa OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0718 PE=4 SV=1"			
+ALN	Provided	1043	1	1	1	LEENTNVEVK	LEENTILEVK	53	8 (0.8)
+PROT	Q7TUC3	3	3	3	0.054	Putative O-Acetyl homoserine sulfhydrylase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=cysD PE=3 SV=1			
+ALN	Provided	1176	1	1	1	RSVGLEHLDDLK	VSVGIEHIDDIK	66	11 (0.917)
+ALN	Provided	780	1	1	1	VPNPTTDVFEKR	LMNPTTDVFEKR	69	10 (0.833)
+ALN	Provided	882	1	1	1	VSVGLEHMEDLK	VSVGIEHIDDIK	69	10 (0.833)
+PROT	Q7TUD6	1	1	0	0.018	Putative Cystathionine gamma-synthase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=metB PE=3 SV=1			
+ALN	Provided	650	1	2	1	LLENLLK	ILENILK	43	7 (1)
+PROT	Q7TUE7	1	1	1	0.043	Possible Glycosyl transferase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0354 PE=4 SV=1			
+ALN	Provided	247	1	1	1	NVLNVLEDK	DVLNVIEEK	51	7 (0.778)
+PROT	Q7TUH1	2	2	1	0.067	NAD(P)H-quinone oxidoreductase subunit I OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ndhI PE=3 SV=1			
+ALN	Provided	3149	1	1	1	LHYQFDK	IHYEFDK	49	6 (0.857)
+ALN	Provided	2165	1	2	1	SKLNDLK	PKLNDIK	38	6 (0.857)
+PROT	Q7TUH8	1	1	1	0.072	Possible Bacterial type II secretion system pr OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0032 PE=4 SV=1			
+ALN	Provided	321	1	1	1	YFQLLETVVR	AGQIIETVVR	38	8 (0.8)
+PROT	Q7TUI1	1	1	1	0.02	Argininosuccinate lyase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=argH PE=3 SV=1			
+ALN	Provided	385	1	1	1	EALDAVSDR	NSIDAVSDR	46	7 (0.778)
+PROT	Q7UZF5	2	2	2	0.02	UvrABC system protein A OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=uvrA PE=3 SV=1			
+ALN	Provided	3587	1	1	1	LPPVLVKEK	LPPNLDKEK	32	7 (0.778)
+ALN	Provided	121	1	1	1	YVESLSAYVK	YVESLSAYAR	56	8 (0.8)
+PROT	Q7UZF6	1	1	1	0.019	Sucrose phosphate synthase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=sps PE=4 SV=1			
+ALN	Provided	84	1	1	1	EPAEEESLK	INAEEESLK	37	7 (0.778)
+PROT	Q7UZF9	1	1	1	0.152	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1708 PE=4 SV=1			
+ALN	Provided	2127	1	1	1	EQNVLLSWLEDTGR	EEPDLLSWLEDTGR	66	11 (0.786)
+PROT	Q7UZG3	7	7	7	0.101	Chaperone protein dnaK2 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=dnaK2 PE=3 SV=1			
+ALN	Provided	276	1	1	1	QAPSVVAYTK	TTPSVVAYTK	52	8 (0.8)
+ALN	Provided	20	1	1	1	MPAAQELVK	MPAVQELVK	58	8 (0.889)
+ALN	Provided	484	1	1	1	HSWLGDKVDASAK	LGELGDKVDASAK	39	10 (0.769)
+ALN	Provided	66	1	1	1	EESPEEVSAQVLRK	QFSPEEVSAQVLRK	71	12 (0.857)
+ALN	Provided	51	1	1	1	QVSYGLEKR	EVSYGIEKA	43	7 (0.778)
+ALN	Provided	142	1	1	1	TPMPEEVSAQVLR	QFSPEEVSAQVLR	51	10 (0.769)
+ALN	Provided	310	1	1	1	AVAGLEVLR	KIAGLEVLR	40	7 (0.778)
+PROT	Q7UZG6	1	1	1	0.015	Putative chloride channel OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1701 PE=4 SV=1			
+ALN	Provided	248	1	1	1	NLKVGLR	NLKVGLV	30	6 (0.857)
+PROT	Q7UZH7	1	1	1	0.021	CTP synthase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=pyrG PE=3 SV=1			
+ALN	Provided	144	1	1	1	EVLNCLELEDK	QTLNCLELEDK	62	9 (0.818)
+PROT	Q7UZH8	2	2	2	0.03	Aspartate--tRNA(Asp/Asn) ligase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=aspS PE=3 SV=1			
+ALN	Provided	432	1	1	1	MHTSLSNVR	GNTSISNVR	39	7 (0.778)
+ALN	Provided	2788	1	1	1	KDHLKTLNK	KDHISTILK	38	7 (0.778)
+PROT	Q7UZI4	1	1	1	0.034	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1681 PE=4 SV=1			
+ALN	Provided	1199	1	1	1	YGLNNVK	YGLNNIK	46	6 (0.857)
+PROT	Q7UZI6	1	1	1	0.016	ATP-dependent DNA ligase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=lig PE=4 SV=1			
+ALN	Provided	1116	1	1	1	RGVELNK	RFVELNK	34	6 (0.857)
+PROT	Q7UZJ1	2	2	2	0.119	50S ribosomal protein L9 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rplI PE=3 SV=1			
+ALN	Provided	583	1	1	1	QPQEALDFK	VKQEAIDFK	38	7 (0.778)
+ALN	Provided	870	1	1	1	NGFLLPFGK	RNFLLPFGK	40	7 (0.778)
+PROT	Q7UZK6	1	1	1	0.029	ATP-dependent Clp protease ATP-binding subunit ClpX OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=clpX PE=3 SV=1			
+ALN	Provided	1754	1	1	1	QANLLLGPTGSGK	SNILLIGPTGSGK	47	10 (0.769)
+PROT	Q7UZL2	1	1	1	0.056	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1650 PE=4 SV=1			
+ALN	Provided	683	1	1	1	GDDPYSSGLQGLLEK	SSNPYSSGIQGLLEK	76	12 (0.8)
+PROT	Q7UZM8	1	1	1	0.021	Magnesium transporter MgtE OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1630 PE=3 SV=1			
+ALN	Provided	145	1	1	1	VPTTEFLDLK	LMTTEFIDLK	48	8 (0.8)
+PROT	Q7UZN5	1	1	1	0.089	Single-stranded DNA-binding protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ssb PE=3 SV=1			
+ALN	Provided	250	1	1	1	DPLNTLNLVGR	MEINTINLVGR	43	9 (0.818)
+PROT	Q7UZN6	1	1	1	0.043	Rod shape determining protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=mreB PE=4 SV=1			
+ALN	Provided	398	1	1	1	LAGMNLNESLALYLK	IAGDELNESIAIYLK	69	13 (0.867)
+PROT	Q7UZP4	1	1	1	0.034	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1614 PE=4 SV=1			
+ALN	Provided	509	1	1	1	NNYLYVLSK	NDYLYVISK	60	8 (0.889)
+PROT	Q7UZP7	1	1	1	0.022	Phosphomethylpyrimidine synthase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=thiC PE=3 SV=1			
+ALN	Provided	742	1	1	1	EEELSLDPER	QFELSLDPER	43	8 (0.8)
+PROT	Q7UZP8	2	2	2	0.046	Transketolase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=cbbT PE=3 SV=1			
+ALN	Provided	682	1	1	1	KPALYDDNQLTLDGR	LIALYDDNQITIDGR	77	13 (0.867)
+ALN	Provided	351	1	1	1	SPVSVSLESLCVNSLR	VAASVSLESLCVNSIR	77	13 (0.812)
+PROT	Q7UZQ8	1	2	0	0.02	"Putative Na+/H+ antiporter, CPA2 family OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1600 PE=4 SV=1"			
+ALN	Provided	208	1	2	1	TTFLAPLLK	TTFLAPVLL	40	7 (0.778)
+ALN	Provided	551	1	2	1	TTFLAPLLK	TTFLAPVLL	40	7 (0.778)
+PROT	Q7UZR2	1	1	1	0.027	Isocitrate dehydrogenase [NADP] OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=icd PE=4 SV=1			
+ALN	Provided	458	1	1	1	HSFDLYSCVRPCK	QIFDLYSCVRPCK	82	11 (0.846)
+PROT	Q7UZR6	1	1	1	0.014	Bifunctional pantoate ligase/cytidylate kinase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=panC/cmk PE=3 SV=1			
+ALN	Provided	953	1	1	1	NQSLLFK	NISIIFK	32	6 (0.857)
+PROT	Q7UZR7	1	1	1	0.046	Phosphoribosylformylglycinamidine cyclo-ligase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=purM PE=3 SV=1			
+ALN	Provided	2070	1	1	1	SPGLLEVLNGLAHSCR	KNQLLEVINGIAHSCR	71	13 (0.812)
+PROT	Q7UZS2	1	1	1	0.038	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1583 PE=4 SV=1			
+ALN	Provided	1556	1	1	1	KPPEVLK	KPIEVLK	34	6 (0.857)
+PROT	Q7UZS7	1	1	1	0.071	Photosystem I protein PsaD OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=psaD PE=4 SV=1			
+ALN	Provided	522	1	1	1	TWTLVGQFPK	TETLVGQFPK	47	9 (0.9)
+PROT	Q7UZT0	1	1	1	0.011	Phosphoenolpyruvate carboxylase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ppc PE=3 SV=1			
+ALN	Provided	280	1	1	1	HAPLSEFLEDR	QPPISEFIEDR	64	9 (0.818)
+PROT	Q7UZU0	2	2	2	0.065	Prephenate dehydrogenase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1565 PE=4 SV=1			
+ALN	Provided	61	1	1	1	NLLKALK	NILKAIK	43	7 (1)
+ALN	Provided	234	1	1	1	LAATGYADSDR	LAATGYADTTR	57	9 (0.818)
+PROT	Q7UZU3	1	1	1	0.046	Protein RecA OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=recA PE=3 SV=1			
+ALN	Provided	1920	1	1	1	AELEGPDGDHVLGSQAR	AEIEGEMGDHVIGSQAR	86	15 (0.882)
+PROT	Q7UZV2	1	1	1	0.029	30S ribosomal protein S3 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rpsC PE=3 SV=1			
+ALN	Provided	1252	1	1	1	LLPTGFR	INPTGFR	37	6 (0.857)
+PROT	Q7UZW1	1	1	1	0.053	50S ribosomal protein L15 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rplO PE=3 SV=1			
+ALN	Provided	728	1	1	1	TETLNTLK	TSTLNTLK	42	7 (0.875)
+PROT	Q7UZW6	4	4	4	0.119	DNA-directed RNA polymerase subunit alpha OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rpoA PE=3 SV=1			
+ALN	Provided	635	1	1	1	EDVLDLLLNSK	EDVLDILLNCK	63	10 (0.909)
+ALN	Provided	703	1	1	1	DVPLNSSNPETELGR	QLSINSSNPETEIGR	79	12 (0.8)
+ALN	Provided	1128	1	1	1	ALATTLGNSLR	GQATTLGNSLR	49	9 (0.818)
+ALN	Provided	1831	1	1	1	CTYNSSNPETELGR	LSINSSNPETEIGR	61	11 (0.786)
+PROT	Q7UZY5	2	2	2	0.058	30S ribosomal protein S7 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rpsG PE=3 SV=1			
+ALN	Provided	166	1	1	1	SPTPLVEVR	NATPLVEVR	48	7 (0.778)
+ALN	Provided	379	1	1	1	QNTPLVEVR	NATPLVEVR	43	7 (0.778)
+PROT	Q7UZZ1	1	1	1	0.11	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1503 PE=4 SV=1			
+ALN	Provided	1442	1	1	1	LLESTGHSVLNGLLLGLKK	ILESTGHSVLNGILLGIKS	107	18 (0.947)
+PROT	Q7V001	1	1	1	0.017	Transcription termination/antitermination protein NusA OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=nusA PE=3 SV=1			
+ALN	Provided	1580	1	1	1	AERAAPDK	AERAAEDK	44	7 (0.875)
+PROT	Q7V006	2	2	2	0.021	DNA-directed RNA polymerase subunit beta OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rpoB PE=3 SV=1			
+ALN	Provided	42	1	1	1	ESSALQLAK	SSSALQIAK	45	8 (0.889)
+ALN	Provided	1581	1	1	1	KPQTVQAMLEEASK	SHQTVQAFLEEASK	64	11 (0.786)
+PROT	Q7V007	2	2	2	0.025	DNA-directed RNA polymerase subunit gamma OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rpoC1 PE=3 SV=1			
+ALN	Provided	419	1	1	1	HSLEDLDLNKLAEELR	QLLEDLDLNQIAEELR	77	13 (0.812)
+ALN	Provided	461	1	1	1	QPKEDLDLNQLAEELR	QLLEDLDLNQIAEELR	83	14 (0.875)
+PROT	Q7V008	1	1	1	0.007	DNA-directed RNA polymerase subunit beta' OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rpoC2 PE=3 SV=1			
+ALN	Provided	441	1	1	1	TQNEVQNVYK	MVNEVQNVYK	52	8 (0.8)
+PROT	Q7V010	2	2	2	0.037	Probable dual-specificity RNA methyltransferase RlmN OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rlmN PE=3 SV=1			
+ALN	Provided	848	1	1	1	EYLMLK	EYLMLH	33	5 (0.833)
+ALN	Provided	2630	1	1	1	NLSDDCR	NIIDDCR	40	6 (0.857)
+PROT	Q7V011	2	2	2	0.074	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1480 PE=4 SV=1			
+ALN	Provided	1329	1	1	1	QMAVYALGR	MSAVYALGR	39	7 (0.778)
+ALN	Provided	2007	1	1	1	EEDEALSLLK	ECDEALKLLK	34	8 (0.8)
+PROT	Q7V024	1	1	1	0.026	Fumarate hydratase class II OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=fumC PE=3 SV=1			
+ALN	Provided	1341	1	1	1	KASEYTGLFFYK	SISEYTGLFFYK	68	10 (0.833)
+PROT	Q7V041	1	1	1	0.045	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1447 PE=4 SV=1			
+ALN	Provided	2079	1	1	1	RCYAGVEAVLSHLLSK	DPIAGVEAVISHLISK	59	13 (0.812)
+PROT	Q7V064	2	2	2	0.172	Possible ATP synthase B/B' CF(0) OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1419 PE=4 SV=1			
+ALN	Provided	699	1	1	1	CFPSLLDTTDELSK	YKNSILDTTDEISK	48	11 (0.786)
+ALN	Provided	343	1	1	1	SPLATLLNR	SPLATLLLT	30	7 (0.778)
+PROT	Q7V066	1	1	1	0.022	Conserved hypothetical OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1416 PE=4 SV=1			
+ALN	Provided	903	1	1	1	FLLTLYNVFGDEVTK	LFNTIYNVFGDEVTK	77	12 (0.8)
+PROT	Q7V0B8	1	1	1	0.078	Pentapeptide repeats OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1350 PE=4 SV=1			
+ALN	Provided	3228	1	1	1	RETYPSDPSSVDGLK	NALYPSDPSSVDGLK	72	12 (0.8)
+PROT	Q7V0C7	1	1	1	0.033	Phosphoribosylaminoimidazole-succinocarboxamide synthase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=purC PE=3 SV=1			
+ALN	Provided	3536	1	1	1	TWYGSLCK	TAYGSLCK	38	7 (0.875)
+PROT	Q7V0C8	1	1	1	0.021	Chloroplast outer envelope membrane protein homolog OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1338 PE=4 SV=1			
+ALN	Provided	1122	1	1	1	DVLLPNEFVDNVFTK	NTIIPNEFVDNVFTK	95	13 (0.867)
+PROT	Q7V0D6	3	3	3	0.234	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1330 PE=4 SV=1			
+ALN	Provided	495	1	1	1	KDHESDLVQEEAKK	SFFESDIVQEEAKK	53	11 (0.786)
+ALN	Provided	614	1	1	1	LFTDYQELMKK	LFTDYQELMKL	71	10 (0.909)
+ALN	Provided	70	1	1	1	EFFESDLVQEEAKK	SFFESDIVQEEAKK	92	13 (0.929)
+PROT	Q7V0E1	1	1	1	0.097	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1325 PE=4 SV=1			
+ALN	Provided	388	1	1	1	VDNEDMLVLQLGK	ITNEDFIVLQLGK	60	10 (0.769)
+PROT	Q7V0E5	5	5	5	0.396	Bacterial histone-like DNA-binding protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1321 PE=3 SV=1			
+ALN	Provided	1275	1	1	1	GRVDSVVEGK	TIVDSVVEGK	45	8 (0.8)
+ALN	Provided	178	1	1	1	ENLVNLVAAR	ADLVNLVAAR	52	8 (0.8)
+ALN	Provided	1304	1	1	1	ENKADLVNLVAAR	MNKADLVNLVAAR	74	12 (0.923)
+ALN	Provided	352	1	1	1	EELVDSVVEGKK	ETIVDSVVEGKK	70	11 (0.917)
+ALN	Provided	215	1	1	1	EVLGFGSFEPR	SILGFGSFEPR	63	9 (0.818)
+PROT	Q7V0F0	2	2	2	0.043	Ketol-acid reductoisomerase (NADP(+)) OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ilvC PE=3 SV=1			
+ALN	Provided	1167	1	1	1	ADWVPLLLPDEFQK	ADWIMILLPDEFQK	84	12 (0.857)
+ALN	Provided	1558	1	1	1	ADPERLLLPDEFQK	ADWIMILLPDEFQK	54	11 (0.786)
+PROT	Q7V0G2	1	1	1	0.021	Dihydrolipoyl dehydrogenase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=lpdA PE=4 SV=1			
+ALN	Provided	277	1	1	1	GYLPLDDPNR	GYIPIDDQMR	46	8 (0.8)
+PROT	Q7V0G5	4	4	4	0.179	Putative nickel-containing superoxide dismutase (NISOD) OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1294 PE=4 SV=1			
+ALN	Provided	328	1	1	1	VAAEAVLVTTK	VAAEAVLAMTK	53	9 (0.818)
+ALN	Provided	1753	1	1	1	KVVDLAQAEELFSYVEK	VNIDLAQAEELMSYVEK	73	13 (0.765)
+ALN	Provided	322	1	1	1	VAAEAVLSMTK	VAAEAVLAMTK	70	10 (0.909)
+ALN	Provided	43	1	1	1	VAAEAVLASPK	VAAEAVLAMTK	49	9 (0.818)
+PROT	Q7V0H2	1	1	1	0.014	Signal recognition particle protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ffh PE=3 SV=1			
+ALN	Provided	8	1	1	1	EFVSDVK	EFVSDVK	52	7 (1)
+PROT	Q7V0J0	1	1	1	0.15	Conserved hypothetical OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1267 PE=4 SV=1			
+ALN	Provided	3063	1	1	1	NYVTLDAPVDSENDENFK	TAVTLDALMDSENDENFK	84	14 (0.778)
+PROT	Q7V0K9	2	2	2	0.071	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1247 PE=4 SV=1			
+ALN	Provided	1616	1	1	1	DMSGQLAYFNSK	NFSGQLAYFNSK	69	10 (0.833)
+ALN	Provided	1142	1	1	1	QPLLLNTYPELANEFK	EPLLINTYPEIANYLK	80	13 (0.812)
+PROT	Q7V0L0	3	3	3	0.051	Carbamoyltransferase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1246 PE=4 SV=1			
+ALN	Provided	3217	1	1	1	DYYYEKPLR	YIYYEKPIR	39	7 (0.778)
+ALN	Provided	57	1	1	1	KDLVDELLLLDEK	QNLVDEILLIDEK	70	11 (0.846)
+ALN	Provided	2114	1	1	1	LLGDPLVPK	ILGDPRVPD	36	7 (0.778)
+PROT	Q7V0L3	1	1	1	0.036	Possible methyltransferase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1243 PE=4 SV=1			
+ALN	Provided	424	1	1	1	KASTSLNNYK	VVSTSINNYK	46	8 (0.8)
+PROT	Q7V0L6	1	1	1	0.031	Methyltransferase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1240 PE=4 SV=1			
+ALN	Provided	1019	1	1	1	WMLDFYK	EMIDFYK	33	6 (0.857)
+PROT	Q7V0M2	1	1	1	0.029	Zinc-containing alcohol dehydrogenase superfamily OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1234 PE=3 SV=1			
+ALN	Provided	2529	1	1	1	MGNSVVLHWR	EGDSVVLHWR	56	8 (0.8)
+PROT	Q7V0N1	1	1	1	0.03	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1225 PE=4 SV=1			
+ALN	Provided	1516	1	1	1	RRLDYLDLLSSGQDLSNK	NINNYLDIISSGQDLSNK	78	14 (0.778)
+PROT	Q7V0N8	1	1	1	0.024	Bifunctional protein HldE OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rfaE PE=3 SV=1			
+ALN	Provided	2989	1	1	1	QTNNLLLVAVLK	DINNILLVAVLK	59	10 (0.833)
+PROT	Q7V0P3	1	1	1	0.018	Glycosyl transferases group 1 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1213 PE=4 SV=1			
+ALN	Provided	2195	1	1	1	TAYLLEK	YAYLLEK	35	6 (0.857)
+PROT	Q7V0P5	1	1	1	0.023	Possible polysaccharide export or synthesis protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1211 PE=4 SV=1			
+ALN	Provided	700	1	1	1	EPMPKLLNK	EPGMKLINK	32	7 (0.778)
+PROT	Q7V0Q4	1	1	1	0.032	Possible nucleoside-diphosphate-sugar epimerase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1202 PE=4 SV=1			
+ALN	Provided	518	1	1	1	QASLQELTK	EASIQELTK	53	8 (0.889)
+PROT	Q7V0R5	2	2	2	0.026	Polyribonucleotide nucleotidyltransferase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=pnp PE=3 SV=1			
+ALN	Provided	162	1	1	1	LDAEVPLK	LDAGVPLK	42	7 (0.875)
+ALN	Provided	2290	1	1	1	QPLPLEPEEDK	QVKPLEPEEDK	55	9 (0.818)
+PROT	Q7V0R6	1	1	1	0.039	Zinc metalloprotease OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1189 PE=3 SV=1			
+ALN	Provided	714	1	1	1	EKRSEESLPLELER	QSSSEESIPIEIER	69	11 (0.786)
+PROT	Q7V0T2	1	1	1	0.069	Flavodoxin OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=isiB PE=3 SV=1			
+ALN	Provided	148	1	1	1	ELGLYYATTTGK	TVGIYYATTTGK	65	10 (0.833)
+PROT	Q7V0T8	1	1	1	0.055	Glycine--tRNA ligase alpha subunit OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=glyQ PE=3 SV=1			
+ALN	Provided	55	1	1	1	LMALYKEEANSLLEKK	LFAIYQEEANSLIEKD	76	13 (0.812)
+PROT	Q7V0U2	1	1	1	0.014	Cobyric acid synthase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=cobQ PE=3 SV=1			
+ALN	Provided	375	1	1	1	EESLLLR	EESILIK	37	6 (0.857)
+PROT	Q7V0W3	1	1	1	0.031	Possible membrane fusion protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1139 PE=3 SV=1			
+ALN	Provided	154	1	1	1	NLSNMVVSVEK	DISNFVVSVEK	59	9 (0.818)
+PROT	Q7V0W4	1	1	1	0.036	Ribosome-binding ATPase YchF OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ychF PE=3 SV=1			
+ALN	Provided	492	1	1	1	QMCDTEVLHVSGK	CFEDTEVIHVSGK	38	10 (0.769)
+PROT	Q7V0W8	1	1	1	0.012	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1132 PE=4 SV=1			
+ALN	Provided	1396	1	1	1	ENYNKLK	GNYNKIK	41	6 (0.857)
+PROT	Q7V0Z1	1	1	1	0.005	Possible UvrD/REP helicase subunit B OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=recB PE=3 SV=1			
+ALN	Provided	108	1	1	1	LHRMLK	LHRLLK	34	5 (0.833)
+PROT	Q7V0Z5	1	1	1	0.017	"ABC transporter, multidrug efflux family OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1099 PE=4 SV=1"			
+ALN	Provided	425	1	1	1	NPDLLDTPLK	VIDLIDTPIK	37	8 (0.8)
+PROT	Q7V100	1	1	0	0.023	UPF0176 protein PMM1094 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1094 PE=3 SV=1			
+ALN	Provided	650	1	2	1	LLENLLK	IIENILK	43	7 (1)
+PROT	Q7V103	1	1	1	0.024	Diadenylate cyclase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=dacA PE=3 SV=1			
+ALN	Provided	1179	1	1	1	LQQLLLK	LQELLIK	36	6 (0.857)
+PROT	Q7V112	1	1	1	0.078	Conserved hypothetical OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1078 PE=4 SV=1			
+ALN	Provided	2768	1	1	1	DGHLSDLDGLSNLK	KFYLSDIDGISNIK	53	11 (0.786)
+PROT	Q7V113	1	1	1	0.019	Adaptive-response sensory-kinase SasA OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=sasA PE=3 SV=1			
+ALN	Provided	1123	1	1	1	ARNDLSR	ARNHLSR	37	6 (0.857)
+PROT	Q7V115	2	2	2	0.068	Ferredoxin-NADP oxidoreductase (FNR) OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=petH PE=4 SV=1			
+ALN	Provided	544	1	1	1	EAALLYEEDLQR	SANLLYEEDLQR	63	10 (0.833)
+ALN	Provided	1814	1	1	1	SSAEPGLDEAMTK	KGMEPGIDEAMTK	63	10 (0.769)
+PROT	Q7V124	2	2	2	0.027	DNA gyrase subunit A OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=gyrA PE=3 SV=1			
+ALN	Provided	2933	1	1	1	VLGEGKELLLVTER	VLGEGEELLLVTER	81	13 (0.929)
+ALN	Provided	2444	1	1	1	KDHNLVGLK	KDDSLVGLK	41	7 (0.778)
+PROT	Q7V126	4	4	4	0.15	Thioredoxin OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=trxA PE=3 SV=1			
+ALN	Provided	555	1	1	1	NMAPVVEELSK	MVAPVVEEISK	52	9 (0.818)
+ALN	Provided	368	1	1	1	NNAPVVEELSK	MVAPVVEEISK	45	9 (0.818)
+ALN	Provided	1745	1	1	1	RPPVVEELSKDFEGK	VAPVVEEISKDFEGK	84	13 (0.867)
+ALN	Provided	381	1	1	1	RPPVVEELSK	VAPVVEEISK	46	8 (0.8)
+PROT	Q7V134	2	2	2	0.149	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1052 PE=4 SV=1			
+ALN	Provided	416	1	1	1	QMWEGYSDALLTK	LYWEGYSDALITK	63	11 (0.846)
+ALN	Provided	2705	1	1	1	FLENTGLK	FIEDTGLK	49	7 (0.875)
+PROT	Q7V148	1	2	1	0.019	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1038 PE=4 SV=1			
+ALN	Provided	453	1	1	1	SHAGKLLLR	SAAKKLLLR	28	7 (0.778)
+ALN	Provided	732	1	1	1	SHAGKLLLR	SAAKKLLLR	28	7 (0.778)
+PROT	Q7V169	1	1	1	0.028	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1014 PE=4 SV=1			
+ALN	Provided	39	1	1	1	NLLEERLK	NLLEERIR	47	7 (0.875)
+PROT	Q7V176	1	1	1	0.045	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM1007 PE=4 SV=1			
+ALN	Provided	89	1	1	1	NTEPEVLEVK	SEEPEVIEVK	52	8 (0.8)
+PROT	Q7V180	1	1	1	0.008	Probable aminopeptidase N OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=pepN PE=4 SV=1			
+ALN	Provided	1974	1	1	1	TPLVPFK	TPLVKFK	37	6 (0.857)
+PROT	Q7V1A5	1	1	1	0.055	Putative ATP-binding subunit of urea ABC transport system OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=urtE PE=4 SV=1			
+ALN	Provided	1057	1	1	1	QANTYYGESHLLR	SLNTYYGESHILR	71	11 (0.846)
+PROT	Q7V1A9	3	3	3	0.052	"Putative urea ABC transporter, substrate binding protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=urtA PE=4 SV=1"			
+ALN	Provided	1261	1	1	1	CVLPVYESK	AMLPVYESK	44	7 (0.778)
+ALN	Provided	350	1	1	1	GPLPVYESK	AMLPVYESK	41	7 (0.778)
+ALN	Provided	578	1	1	1	HCLDAGTFENSAVR	AVEDAGTFENSAVR	59	11 (0.786)
+PROT	Q7V1B7	1	1	1	0.039	Possible Vng0271c OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0962 PE=4 SV=1			
+ALN	Provided	397	1	1	1	ELLPLLDESYGLSYVK	MILPLLDESYGISYVK	94	15 (0.938)
+PROT	Q7V1D0	1	1	1	0.019	Glutamyl-tRNA(Gln) amidotransferase subunit A OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=gatA PE=3 SV=1			
+ALN	Provided	14	1	1	1	EPAYTCLTK	INAYTCLTK	41	7 (0.778)
+PROT	Q7V1D9	1	1	1	0.058	Ribosomal RNA large subunit methyltransferase H OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rlmH PE=3 SV=1			
+ALN	Provided	376	1	1	1	NSLNALGK	LSINAIGK	37	7 (0.875)
+PROT	Q7V1E5	1	1	1	0.014	Protein translocase subunit SecD OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=secD PE=3 SV=1			
+ALN	Provided	2068	1	1	1	QFKLYDK	QFKIGDK	30	6 (0.857)
+PROT	Q7V1E6	1	1	1	0.033	Protein-export membrane protein SecF OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=secF PE=3 SV=1			
+ALN	Provided	3093	1	1	1	LLGPLNYDSK	ILGPLDYDSK	62	9 (0.9)
+PROT	Q7V1F4	1	1	1	0.018	Serine:pyruvate/alanine:glyoxylate aminotransferase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=agt PE=3 SV=1			
+ALN	Provided	1613	1	1	1	TVKLPPR	TVKIPPA	35	6 (0.857)
+PROT	Q7V1G1	2	2	2	0.039	Pyruvate kinase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=pykF PE=3 SV=1			
+ALN	Provided	498	1	1	1	QPNAGALLPLTK	QLDAGAIIPLTK	57	10 (0.833)
+ALN	Provided	382	1	1	1	QAVGGVLSNNK	VTVGGVLSNNK	52	9 (0.818)
+PROT	Q7V1G5	1	1	1	0.016	L-threonine dehydratase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ilvA PE=3 SV=1			
+ALN	Provided	202	1	1	1	KNNLLLKR	KNNIYLKR	41	7 (0.875)
+PROT	Q7V1G7	1	1	1	0.138	Photosystem I PsaK protein (Subunit X) OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=psaK PE=4 SV=1			
+ALN	Provided	1614	1	1	1	APDPATFEWSPK	AAAPATFEWSPK	73	10 (0.833)
+PROT	Q7V1H1	4	4	4	0.049	Heat shock protein HtpG OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=htpG PE=4 SV=1			
+ALN	Provided	601	1	1	1	QLVSNAVDALSK	ELVSNAVDAISK	72	11 (0.917)
+ALN	Provided	48	1	1	1	LMVSNAVDALSK	ELVSNAVDAISK	59	10 (0.833)
+ALN	Provided	2185	1	1	1	KLNTENLFPLLK	RINTENIFPIIK	75	11 (0.917)
+ALN	Provided	2935	1	1	1	GYLLPLR	KYLLPLR	34	6 (0.857)
+PROT	Q7V1H4	1	1	1	0.02	Chaperone protein dnaK1 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=dnaK1 PE=3 SV=1			
+ALN	Provided	1696	1	1	1	EFLSLSDDLLDRK	LFESLSDDLLDRL	47	10 (0.769)
+PROT	Q7V1I2	3	3	3	0.024	Leucine--tRNA ligase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=leuS PE=3 SV=1			
+ALN	Provided	1752	1	1	1	QPTQGMVQSAAYK	LLTQGMVQSAAYK	67	11 (0.846)
+ALN	Provided	449	1	1	1	QNESSLLK	ENESSLLK	46	7 (0.875)
+ALN	Provided	868	1	1	1	HSTKGMVQSAAYK	LLTQGMVQSAAYK	55	10 (0.769)
+PROT	Q7V1J3	1	1	1	0.013	Putative methionine synthase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=metH PE=4 SV=1			
+ALN	Provided	1320	1	1	1	KLLNEDDWDGLLSLAK	ELLNEDDWDGLLSIAK	99	15 (0.938)
+PROT	Q7V1J4	1	1	1	0.164	Conserved hypothetical OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0876 PE=4 SV=1			
+ALN	Provided	372	1	1	1	MNWDFTENLAMK	MDWDFTENIAFK	80	10 (0.833)
+PROT	Q7V1J9	1	1	1	0.018	Probable ribonuclease II OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0868 PE=4 SV=1			
+ALN	Provided	1042	1	1	1	LAELEPK	IIELEPK	36	6 (0.857)
+PROT	Q7V1K9	1	1	1	0.082	Thioredoxin peroxidase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=tpx PE=4 SV=1			
+ALN	Provided	849	1	1	1	YVLNPEGLVMHTTVNK	FLINPEGIVMHTTVNK	105	14 (0.875)
+PROT	Q7V1L8	3	3	3	0.035	Putative acetazolamide conferring resistance protein Zam OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=zam PE=4 SV=1			
+ALN	Provided	330	1	1	1	LVELCTDTKK	LVELCTDDNK	51	8 (0.8)
+ALN	Provided	50	1	1	1	EANNLESLK	SNNNIESLK	39	7 (0.778)
+ALN	Provided	173	1	1	1	LLNLLEK	LINIMEK	38	6 (0.857)
+PROT	Q7V1L9	1	1	1	0.06	"Possible Uncharacterized secreted proteins, Ya OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0846 PE=4 SV=1"			
+ALN	Provided	743	1	1	1	QLELLLMNR	QILLLINNR	28	7 (0.778)
+PROT	Q7V1M5	1	1	0	0.008	Transcription-repair-coupling factor OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=mfd PE=3 SV=1			
+ALN	Provided	316	1	2	1	KCLLLTDKK	KVILITDKE	34	7 (0.778)
+PROT	Q7V1N1	1	1	1	0.071	4-hydroxy-tetrahydrodipicolinate reductase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=dapB PE=3 SV=1			
+ALN	Provided	1447	1	1	1	RPCVSNDLEGSLCSLSKDYR	DVLVSNDLEGSLCSISQDYR	82	16 (0.8)
+PROT	Q7V1P5	1	1	1	0.074	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0812 PE=4 SV=1			
+ALN	Provided	1218	1	1	1	SDYKPLNNK	SDYKILNKK	42	7 (0.778)
+PROT	Q7V1Q2	1	1	1	0.065	Ferritin OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0804 PE=3 SV=1			
+ALN	Provided	80	1	1	1	ESGDEFAHLLGK	KSEDEFAHILGK	61	10 (0.833)
+PROT	Q7V1R8	2	2	2	0.067	UDP-3-O-acylglucosamine N-acyltransferase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=lpxD PE=3 SV=1			
+ALN	Provided	1272	1	1	1	VGLAGRAVLK	VGIAGGAVIG	32	8 (0.8)
+ALN	Provided	229	1	1	1	NKLSFLEENNLLK	NQISFLEENNILK	79	12 (0.923)
+PROT	Q7V1S0	2	2	2	0.05	Phosphoribulokinase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=cbbP PE=3 SV=1			
+ALN	Provided	1196	1	1	1	LLPTPDESFVLLRQR	NIPTPDESFVIIHFR	63	12 (0.8)
+ALN	Provided	75	1	1	1	LLVTPDESFVLLHMR	NIPTPDESFVIIHFR	69	12 (0.8)
+PROT	Q7V1S4	1	1	1	0.036	"Fructose-bisphosphate/sedoheptulose-1,7-bisphosph ate aldolase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=cbbA,cfxA,fbaA,fda PE=3 SV=1"			
+ALN	Provided	387	1	1	1	THKGCLGSLETGK	GELGCLGSLETGK	48	10 (0.769)
+PROT	Q7V1S8	1	1	1	0.076	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0777 PE=4 SV=1			
+ALN	Provided	72	1	1	1	QVGADFTNAVLSR	IDGADFTNAVLSR	60	11 (0.846)
+PROT	Q7V1S9	1	1	1	0.054	Putative uracil phosphoribosyltransferase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0776 PE=4 SV=1			
+ALN	Provided	1743	1	1	1	EPLLSSLCSNK	ILLISSICSNK	45	9 (0.818)
+PROT	Q7V1T1	2	2	2	0.048	Dihydroxy-acid dehydratase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ilvD PE=3 SV=1			
+ALN	Provided	3281	1	1	1	LYMKPPENKDVLR	IPVKPPENQDVIR	55	10 (0.769)
+ALN	Provided	3569	1	1	1	QLPPVLCDLKPSGK	QKVPVICDLKPSGK	72	12 (0.857)
+PROT	Q7V1U2	1	1	1	0.11	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0763 PE=4 SV=1			
+ALN	Provided	288	1	1	1	DVLDLGVDLVSFCK	TNIDLGVDLVSFCK	70	12 (0.857)
+PROT	Q7V1U3	1	1	1	0.025	Tyrosine binding protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=bipA PE=4 SV=1			
+ALN	Provided	1214	1	1	1	NSLVDALLSQSGLFR	TTLVDALLSQSGIFR	82	13 (0.867)
+PROT	Q7V1U5	1	1	1	0.025	Aromatic-ring hydroxylase (Flavoprotein monooxygenase) OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=chlP PE=4 SV=1			
+ALN	Provided	969	1	1	1	MCAQELVEASK	MCAEEIVEASK	75	10 (0.909)
+PROT	Q7V1U7	1	1	1	0.025	Ferredoxin-sulfite reductase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=sir PE=3 SV=1			
+ALN	Provided	1601	1	1	1	LGYDNLNDLNELQKR	IGYDNLNDINEIQRH	90	13 (0.867)
+PROT	Q7V1V6	1	2	1	0.017	Possible Zn-dependent peptidase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0746 PE=3 SV=1			
+ALN	Provided	179	1	1	1	DELKQQR	DEIKQQN	38	6 (0.857)
+ALN	Provided	400	1	1	1	DELKQQR	DEIKQQN	38	6 (0.857)
+PROT	Q7V1V9	3	3	3	0.039	ATP-dependent zinc metalloprotease FtsH OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ftsH1 PE=3 SV=1			
+ALN	Provided	261	1	1	1	MTQLPEK	FTQIPEK	39	6 (0.857)
+ALN	Provided	88	1	1	1	ENLEEVVTFLK	EDLEEVVTFLK	73	10 (0.909)
+ALN	Provided	2735	1	1	1	LLAATYR	IIAATNR	33	6 (0.857)
+PROT	Q7V1W7	1	1	1	0.032	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0733 PE=4 SV=1			
+ALN	Provided	139	1	1	1	NLPSSFQELLLQLK	IDPSSFQEILLQIK	65	12 (0.857)
+PROT	Q7V1Y2	1	1	1	0.018	Glyceraldehyde-3-phosphate dehydrogenase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=gap1 PE=3 SV=1			
+ALN	Provided	2010	1	1	1	WKSDLR	YKSDLR	29	5 (0.833)
+PROT	Q7V1Y5	1	1	1	0.034	Phosphate-binding protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0710 PE=3 SV=1			
+ALN	Provided	360	1	1	1	QAGAGASFPAK	LSGAGASFPAK	53	9 (0.818)
+PROT	Q7V1Y7	3	3	3	0.034	Putative secreted protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0708 PE=4 SV=1			
+ALN	Provided	314	1	1	1	YVSLVNLSK	YVSLVKLNK	46	7 (0.778)
+ALN	Provided	1287	1	1	1	YGKKTKLK	YGKKAKLK	48	7 (0.875)
+ALN	Provided	929	1	1	1	LVDLSWPDK	LVDISDPAK	28	7 (0.778)
+PROT	Q7V1Y8	2	2	2	0.055	"Two-component sensor histidine kinase, phosphate sensing OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=phoR PE=4 SV=1"			
+ALN	Provided	3457	1	1	1	MKLSGDYQNLKR	YLISGDYQNLKR	53	10 (0.833)
+ALN	Provided	1497	1	1	1	EDNALLTKK	EDKNLLTKK	42	7 (0.778)
+PROT	Q7V1Y9	1	1	1	0.029	"Two-component response regulator, phosphate OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=phoB PE=4 SV=1"			
+ALN	Provided	1150	1	1	1	ELLESPK	EIILSPK	32	6 (0.857)
+PROT	Q7V1Z7	1	1	1	0.093	Possible D12 class N6 adenine-specific DNA met OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0697 PE=4 SV=1			
+ALN	Provided	1353	1	1	1	LSQAWDK	ISEAWDK	46	6 (0.857)
+PROT	Q7V210	1	1	1	0.035	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0681 PE=4 SV=1			
+ALN	Provided	738	1	1	1	NFELKNELKDDLSK	LFEIQNELKDDISK	75	12 (0.857)
+PROT	Q7V214	1	1	1	0.023	Carboxyl-terminal processing protease OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0677 PE=3 SV=1			
+ALN	Provided	2798	1	1	1	MGLTPNLEVK	FGITPDIEVK	51	8 (0.8)
+PROT	Q7V217	1	1	1	0.043	Aminotransferase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=aspC PE=3 SV=1			
+ALN	Provided	2033	1	1	1	RGNPPVFLNSSAEDGFK	AGGKPVFLNSSAEDGFK	83	14 (0.824)
+PROT	Q7V219	1	1	1	0.041	Putative phosphonate ABC transporter OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0672 PE=4 SV=1			
+ALN	Provided	824	1	1	1	NWSNLSSFNK	NLLNISSFNK	39	8 (0.8)
+PROT	Q7V228	2	2	2	0.029	Peptide chain release factor 3 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=prfC PE=3 SV=1			
+ALN	Provided	355	1	1	1	ESSTENLNNK	SSSTENLNNK	59	9 (0.9)
+ALN	Provided	1449	1	1	1	QDEYER	QFEYER	27	5 (0.833)
+PROT	Q7V230	2	2	2	0.039	Ribonucleotide reductase (Class II) OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=nrdJ PE=4 SV=1			
+ALN	Provided	54	1	1	1	EEHSGEGALKFAPEALAR	QFHSGEGAIQFAPEAIAR	86	15 (0.833)
+ALN	Provided	174	1	1	1	EEASDDKEAASAK	QFASDDKEAASAK	61	11 (0.846)
+PROT	Q7V264	1	1	1	0.073	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0622 PE=4 SV=1			
+ALN	Provided	155	1	1	1	WNLNDAGLMK	SNINDAGLFK	44	8 (0.8)
+PROT	Q7V267	1	1	1	0.014	Acetyl-coenzyme A synthetase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=acs PE=3 SV=1			
+ALN	Provided	244	1	1	1	QLPDQYDLR	EIPDQYDLR	61	8 (0.889)
+PROT	Q7V272	1	1	1	0.03	3-phosphoshikimate 1-carboxyvinyltransferase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=aroA PE=3 SV=1			
+ALN	Provided	1384	1	1	1	CSKSLALASLLAK	VSMSLAIASLLAK	55	11 (0.846)
+PROT	Q7V279	1	1	1	0.071	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0605 PE=4 SV=1			
+ALN	Provided	371	1	1	1	KELEQWLK	KELEQTLK	35	7 (0.875)
+PROT	Q7V283	1	1	1	0.03	"ABC transporter, substrate binding protein, possibly Mn OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0601 PE=3 SV=1"			
+ALN	Provided	2755	1	1	1	MASTLSVLK	MASTISLVK	48	7 (0.778)
+PROT	Q7V286	1	1	1	0.03	Tryptophan--tRNA ligase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=trpS PE=3 SV=1			
+ALN	Provided	71	1	1	1	TNLGFFELEK	SELGFFEIEK	55	8 (0.8)
+PROT	Q7V299	2	2	2	0.031	"1,4-alpha-glucan branching enzyme GlgB OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=glgB PE=3 SV=1"			
+ALN	Provided	640	1	1	1	ANEMNLLFK	ADEVNIIFK	49	7 (0.778)
+ALN	Provided	618	1	1	1	KASLLGDLNSWDGR	SISIIGDINSWDGR	75	12 (0.857)
+PROT	Q7V2A3	1	1	1	0.015	Chaperone protein ClpB OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=clpB PE=3 SV=1			
+ALN	Provided	644	1	1	1	SAGDGLLDPVLGR	SARDGILDPVIGR	69	12 (0.923)
+PROT	Q7V2C8	1	1	1	0.024	Carboxysome shell protein CsoS2 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=csoS2 PE=4 SV=1			
+ALN	Provided	3446	1	1	1	RNPFDMAEDKVTGTEFQR	TGPFDMAEDKVTGTEQFR	73	14 (0.778)
+PROT	Q7V2D0	1	1	1	0.015	Ribulose bisphosphate carboxylase large chain OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=cbbL PE=3 SV=1			
+ALN	Provided	3283	1	1	1	VVYQCLR	VVYECLR	48	6 (0.857)
+PROT	Q7V2D1	7	8	7	0.388	Carbon dioxide-concentrating mechanism protein CcmK OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ccmK PE=3 SV=2			
+ALN	Provided	199	1	1	1	WDTMGLALGFLETR	TETMGIALGMIETR	59	11 (0.786)
+ALN	Provided	733	1	1	1	DWTMGLALGFLETR	TETMGIALGMIETR	48	11 (0.786)
+ALN	Provided	168	1	1	1	TAETMGLALGMLETR	ATETMGIALGMIETR	91	13 (0.867)
+ALN	Provided	481	1	1	1	TAETMGLALGMLETR	ATETMGIALGMIETR	91	13 (0.867)
+ALN	Provided	177	1	1	1	GLVPALEAADAPSK	GLVPAIEAADAMTK	70	12 (0.857)
+ALN	Provided	2967	1	1	1	ATETMGLALGDLPTR	ATETMGIALGMIETR	71	13 (0.867)
+ALN	Provided	1101	1	1	1	QDTGAVNAAVR	GETGAVNAAVR	56	9 (0.818)
+ALN	Provided	1131	1	1	1	AEWVGLALGMLETR	TETMGIALGMIETR	60	11 (0.786)
+PROT	Q7V2E6	1	1	1	0.054	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=accA PE=3 SV=1			
+ALN	Provided	504	1	1	1	WDKDVSQQLLQLETLATR	SEVDVSQQLLQLETLATR	89	15 (0.833)
+PROT	Q7V2F4	1	1	1	0.015	Acetolactate synthase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ilvH PE=3 SV=1			
+ALN	Provided	217	1	1	1	KQTSTSLSK	TLTSTSLSK	34	7 (0.778)
+PROT	Q7V2F6	1	1	1	0.021	Phage integrase family OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0524 PE=4 SV=1			
+ALN	Provided	563	1	1	1	QVLSLGLK	QRISLGLK	34	7 (0.875)
+PROT	Q7V2F7	1	1	1	0.052	Possible cob(I)alamin adenosyltransferase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=cobO PE=4 SV=1			
+ALN	Provided	1317	1	1	1	KPLLDELNLATK	LIILDEINIATK	49	10 (0.833)
+PROT	Q7V2G1	2	2	2	0.072	Transaldolase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=tal PE=3 SV=1			
+ALN	Provided	802	1	1	1	QAEGLTGFSK	LSEGITGFSK	47	8 (0.8)
+ALN	Provided	1119	1	1	1	NATTNPAELLAAAK	DATTNPSLILAAAK	66	11 (0.786)
+PROT	Q7V2G2	1	1	1	0.012	Putative peptidoglycan synthetase (Pbp transpeptidase domain) OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ftsI PE=4 SV=1			
+ALN	Provided	1333	1	1	1	LLPVKPR	LLPLKPR	41	6 (0.857)
+PROT	Q7V2G4	1	2	0	0.02	Possible membrane associated protease OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0516 PE=4 SV=1			
+ALN	Provided	208	1	2	1	TTFLAPLLK	TTFLAPIFE	40	7 (0.778)
+ALN	Provided	551	1	2	1	TTFLAPLLK	TTFLAPIFE	40	7 (0.778)
+PROT	Q7V2G6	1	1	1	0.022	Putative dihydroorotase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0514 PE=4 SV=1			
+ALN	Provided	163	1	1	1	NALLFSLTK	SPILFSLTK	42	7 (0.778)
+PROT	Q7V2H1	1	1	1	0.032	Adenylosuccinate synthetase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=purA PE=3 SV=1			
+ALN	Provided	1520	1	1	1	QNTLVLEDPLHGPK	DQTIVIEDPIHGPK	78	12 (0.857)
+PROT	Q7V2I1	1	1	1	0.035	Porphobilinogen deaminase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=hemC PE=3 SV=1			
+ALN	Provided	974	1	1	1	NMPSDALVVNK	EDPSDALVVNK	49	9 (0.818)
+PROT	Q7V2I2	1	1	1	0.072	Putative inorganic pyrophosphatase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ppa (ipyR) PE=4 SV=1			
+ALN	Provided	1310	1	1	1	NCCHLLDAFTDNTK	NLLHILDAFTDNTK	65	12 (0.857)
+PROT	Q7V2I4	1	1	1	0.056	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0492 PE=4 SV=1			
+ALN	Provided	3169	1	1	1	EDDWPAHMK	EDDMPAHIK	40	7 (0.778)
+PROT	Q7V2I9	1	1	1	0.034	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0487 PE=4 SV=1			
+ALN	Provided	311	1	1	1	QMEVMESLALAEGR	IYEVFESLALAEGR	50	11 (0.786)
+PROT	Q7V2J2	2	2	2	0.078	Exodeoxyribonuclease III OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=xthA PE=4 SV=1			
+ALN	Provided	273	1	1	1	EPDPDLLCLQETK	EVNPDILCLQETK	75	11 (0.846)
+ALN	Provided	2207	1	1	1	NGFSLNSEK	NGSSIDSEK	42	7 (0.778)
+PROT	Q7V2J3	1	2	1	0.032	"Glutamate-1-semialdehyde 2,1-aminomutase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=hemL PE=3 SV=1"			
+ALN	Provided	186	1	1	1	MLNSGTEACMAVLR	FVNSGTEACMAVLR	84	12 (0.857)
+ALN	Provided	324	1	1	1	MLNSGTEACMAVLR	FVNSGTEACMAVLR	84	12 (0.857)
+PROT	Q7V2J4	1	1	1	0.052	Band 7 protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=phb PE=4 SV=1			
+ALN	Provided	56	1	1	1	LSDLTGLELAWEYR	SLDLTGLEIAEEYR	43	11 (0.786)
+PROT	Q7V2J5	2	2	2	0.158	UPF0234 protein PMM0481 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0481 PE=3 SV=1			
+ALN	Provided	95	1	1	1	KMDFNSLEVVSGNK	IFDFNSIEVVSGNK	75	12 (0.857)
+ALN	Provided	621	1	1	1	QQPVNALDQVKR	QELVNALDQVKR	65	10 (0.833)
+PROT	Q7V2J6	2	2	2	0.112	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0480 PE=4 SV=1			
+ALN	Provided	784	1	1	1	WKLPSTEGVDTLAKELAK	LDLPSTEGVDTLAQELAK	82	15 (0.833)
+ALN	Provided	1136	1	1	1	VTLLPSTEGVDTLAQELAK	SLDLPSTEGVDTLAQELAK	86	16 (0.842)
+PROT	Q7V2J9	1	1	1	0.032	Methionine aminopeptidase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=map PE=3 SV=1			
+ALN	Provided	1590	1	1	1	WMGAVPSFK	EMGAVPSFK	43	8 (0.889)
+PROT	Q7V2K1	2	2	2	0.081	50S ribosomal protein L19 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rplS PE=3 SV=1			
+ALN	Provided	1976	1	1	1	ETVLHSPQVASLK	VFMLHSPQVASLK	51	10 (0.769)
+ALN	Provided	2724	1	1	1	FWTLHSPQVASLK	VFMLHSPQVASLK	51	10 (0.769)
+PROT	Q7V2K7	1	1	1	0.054	Photosystem I PsaF protein (Subunit III) OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=psaF PE=4 SV=1			
+ALN	Provided	133	1	1	1	SPGPALNADR	ANGPALNADR	49	8 (0.8)
+PROT	Q7V2L7	1	1	1	0.061	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0458 PE=4 SV=1			
+ALN	Provided	712	1	1	1	SNEELASDLK	SIEELASDLK	54	9 (0.9)
+PROT	Q7V2M3	1	1	1	0.033	60 kDa chaperonin 1 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=groL1 PE=3 SV=1			
+ALN	Provided	2703	1	1	1	VATVSAGGDEDLGSLLSKK	VATVSAGGDEDIGSIISKA	108	18 (0.947)
+PROT	Q7V2N0	1	1	1	0.022	Cytochrome c oxidase subunit 1 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ctaD (coxA) PE=3 SV=1			
+ALN	Provided	1212	1	1	1	KQSLDPQDSNLK	TISIDPQDSNLK	58	10 (0.833)
+PROT	Q7V2N7	1	1	1	0.01	DNA topoisomerase 1 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=topA PE=3 SV=1			
+ALN	Provided	323	1	1	1	SLELLASPK	ALEILAMPK	39	7 (0.778)
+PROT	Q7V2N9	1	1	1	0.039	"Possible ABC transporter, ATP binding protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0434 PE=4 SV=1"			
+ALN	Provided	384	1	1	1	KDNTLLELK	KDGKLIELK	39	7 (0.778)
+PROT	Q7V2P6	1	1	1	0.03	Sun protein (Fmu protein) OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0426 PE=3 SV=1			
+ALN	Provided	532	1	1	1	LSSLESLPLWDPK	LSSLESLPIWLVK	58	11 (0.846)
+PROT	Q7V2Q2	1	1	1	0.026	Probable malate:quinone oxidoreductase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=mqo PE=3 SV=2			
+ALN	Provided	257	1	1	1	MTLFNADKFELEK	SCLFNADKFELEK	67	11 (0.846)
+PROT	Q7V2R2	2	2	2	0.104	Cysteine synthase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=cysK1 PE=3 SV=1			
+ALN	Provided	436	1	1	1	KTAVLGAELVLTEASK	VMAVLGAEIVLTEASK	76	14 (0.875)
+ALN	Provided	1351	1	1	1	YTYLVGLSCGAAAAAAVR	EGLLVGISCGAAAAAAVR	75	15 (0.833)
+PROT	Q7V2R3	1	1	1	0.019	S-adenosylmethionine:tRNA ribosyltransferase-isomerase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=queA PE=3 SV=1			
+ALN	Provided	512	1	1	1	DLLPLDK	DLIPIDK	46	7 (1)
+PROT	Q7V2R4	1	1	1	0.035	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=pdhC PE=3 SV=1			
+ALN	Provided	3356	1	1	1	RDPVPQNNEQEVELKR	QKEVPQNNEQEVEIKR	87	13 (0.812)
+PROT	Q7V2R7	1	1	1	0.011	Putative long-chain-fatty-acid--CoA ligase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=fadD PE=4 SV=1			
+ALN	Provided	710	1	1	1	QLSNLLK	QINNLLK	38	6 (0.857)
+PROT	Q7V2S3	1	1	1	0.038	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0394 PE=3 SV=1			
+ALN	Provided	279	1	1	1	RYAADSLK	RYLADSLK	44	7 (0.875)
+PROT	Q7V2T1	1	1	1	0.008	"Possible uncharacterized restriction enzyme, interrupted-C OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=spnII-interrupted-C PE=4 SV=1"			
+ALN	Provided	995	1	1	1	QWEALEK	QKEAIEK	30	6 (0.857)
+PROT	Q7V2T6	1	1	1	0.111	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0378 PE=4 SV=1			
+ALN	Provided	716	1	1	1	QNYVQHWSFK	MLYVQHWSFK	59	8 (0.8)
+PROT	Q7V2U1	1	1	1	0.025	Putative cyanate ABC transporter OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0372 PE=4 SV=1			
+ALN	Provided	17	1	1	1	TMLELAK	THLELAK	28	6 (0.857)
+PROT	Q7V2X1	1	1	1	0.015	Aldehyde dehydrogenase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0331 PE=3 SV=1			
+ALN	Provided	1223	1	1	1	LVKELKK	LVKELKK	46	7 (1)
+PROT	Q7V2X6	1	1	1	0.064	Cytochrome b6 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=petB PE=3 SV=1			
+ALN	Provided	533	1	1	1	SGPLQDLTDDVTSK	RLEIQDITDDVTSK	57	11 (0.786)
+PROT	Q7V2X9	1	1	1	0.063	Site-determining protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=minD PE=3 SV=1			
+ALN	Provided	2576	1	1	1	VYCTLVDCPAGVEDGFK	FDYVLVDCPAGVEDGFK	69	13 (0.765)
+PROT	Q7V2Y0	2	2	2	0.123	Cell division topological specificity factor OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=minE PE=3 SV=1			
+ALN	Provided	3620	1	1	1	AAMALVANLPLKR	RMTALVANLPIKR	49	10 (0.769)
+ALN	Provided	3307	1	1	1	MTGALVANLPLKR	RMTALVANLPIKR	51	10 (0.769)
+PROT	Q7V2Y4	1	1	1	0.02	Photosystem II CP47 reaction center protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=psbB PE=3 SV=1			
+ALN	Provided	195	1	1	1	QEAYASLPEK	EEAYASIPEK	65	9 (0.9)
+PROT	Q7V2Y7	1	1	1	0.028	"30S ribosomal protein S1, homolog A OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rps1a PE=4 SV=1"			
+ALN	Provided	596	1	1	1	VPVLDLDSER	VMIIDLDSER	49	8 (0.8)
+PROT	Q7V2Y8	1	1	1	0.017	S-adenosylmethionine synthase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=metK PE=3 SV=1			
+ALN	Provided	2895	1	1	1	LVRMVLK	LVRKVIK	37	6 (0.857)
+PROT	Q7V2Z9	1	1	1	0.277	Cytochrome b559 subunit beta OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=psbF PE=3 SV=1			
+ALN	Provided	152	1	1	1	ENSQAPMQAVEVR	SNSQAPMQAVEVR	87	12 (0.923)
+PROT	Q7V349	1	1	1	0.015	Phosphoglucosamine mutase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=glmM PE=3 SV=1			
+ALN	Provided	3123	1	1	1	FLLEKEK	FLIKKEK	37	6 (0.857)
+PROT	Q7V357	1	1	1	0.3	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0231 PE=4 SV=1			
+ALN	Provided	2190	1	1	1	FQLANPEALLELLEGNPK	GILAQMEALLELIEGNPK	62	14 (0.778)
+PROT	Q7V359	1	1	1	0.036	Putative p-pantothenate cysteine ligase and p-pantothenenoylcysteine decarboxylase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=dfp (coaBC) PE=4 SV=1			
+ALN	Provided	905	1	1	1	KDLANNLLDELLSTK	IELANNLIDEIISTK	79	13 (0.867)
+PROT	Q7V360	2	2	2	0.095	Photosystem II manganese-stabilizing protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=psbO PE=4 SV=1			
+ALN	Provided	103	1	1	1	TVFTDVVNTGK	AQFTDVVNTGK	58	9 (0.818)
+ALN	Provided	2373	1	1	1	RQPALGGDDEELAK	GLVALGGDDEELAK	51	11 (0.786)
+PROT	Q7V371	1	1	1	0.018	Putative sulfate transporter OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0214 PE=3 SV=1			
+ALN	Provided	1173	1	1	1	LKGPLSFQAK	LKGPLSFGAA	38	8 (0.8)
+PROT	Q7V376	1	1	1	0.027	Possible kinase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0209 PE=4 SV=1			
+ALN	Provided	744	1	1	1	NWNETPNDLLNQFGR	SNNQTPNDLINQFGR	81	12 (0.8)
+PROT	Q7V377	4	4	4	0.109	Enolase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=eno PE=3 SV=1			
+ALN	Provided	720	1	1	1	EVNALDLPLYR	ASNALDLPLYR	55	9 (0.818)
+ALN	Provided	1068	1	1	1	QSGFTSVLSHR	SAGFTSVISHR	58	9 (0.818)
+ALN	Provided	1546	1	1	1	LGTKLMHSLK	IGTEIFHSLK	42	8 (0.8)
+ALN	Provided	3455	1	1	1	RQGASTGAHEAHELR	PSGASTGAHEAHELR	81	13 (0.867)
+PROT	Q7V381	1	1	1	0.099	50S ribosomal protein L11 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=rplK PE=3 SV=1			
+ALN	Provided	149	1	1	1	LVLLNCTSLESAMK	LPDLNCTSIESAMK	68	12 (0.857)
+PROT	Q7V3A9	1	1	1	0.087	"1,4-dihydroxy-2-naphthoyl-CoA hydrolase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0173 PE=3 SV=1"			
+ALN	Provided	574	1	1	1	NALEASNLNTNLK	RWIEASNINTNLK	54	11 (0.846)
+PROT	Q7V3B6	1	1	1	0.067	Adenylyl-sulfate kinase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=cysC PE=3 SV=1			
+ALN	Provided	1654	1	1	1	NMVLWFTGLSGSGK	GMVIWFTGLSGSGK	91	13 (0.929)
+PROT	Q7V3C0	1	1	1	0.047	Citrate synthase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=gltA PE=3 SV=1			
+ALN	Provided	1345	1	1	1	NRLLHAEHSLNASTMSAR	CLILHAEHSLNASTFSAR	78	15 (0.833)
+PROT	Q7V3C2	1	1	1	0.03	NAD kinase 1 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=nadK1 PE=3 SV=1			
+ALN	Provided	429	1	1	1	QNDYCELNK	ENDYCEINK	65	8 (0.889)
+PROT	Q7V3D2	2	2	2	0.047	"Phytoene desaturase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=pds,crtD PE=4 SV=1"			
+ALN	Provided	4	1	1	1	VDDEVFLAMSK	VNDEVFIAMSK	76	10 (0.909)
+ALN	Provided	1425	1	1	1	QMLELVFAPAK	SMLELVFAPAK	67	10 (0.909)
+PROT	Q7V3D5	1	1	1	0.017	Poly A polymerase family OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0141 PE=3 SV=1			
+ALN	Provided	3584	1	1	1	DPLNLLR	DPLRILR	33	6 (0.857)
+PROT	Q7V3E3	1	1	1	0.031	DNA repair protein RadA OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=radA PE=3 SV=1			
+ALN	Provided	243	1	1	1	NPYLTAEESLEKVK	VLYITAEESLEQVK	58	11 (0.786)
+PROT	Q7V3F1	1	1	1	0.101	UPF0367 protein PMM0124 OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0124 PE=3 SV=1			
+ALN	Provided	871	1	1	1	CWFPLSLQK	SPFPLSIQK	31	7 (0.778)
+PROT	Q7V3G2	1	1	1	0.026	Putative uroporphyrinogen III synthase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=hemD PE=4 SV=1			
+ALN	Provided	1918	1	1	1	TSFLLEK	SSFLLEK	40	6 (0.857)
+PROT	Q7V3H4	1	1	1	0.032	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0101 PE=4 SV=1			
+ALN	Provided	146	1	1	1	DPSNALELAK	DPSNAIDISK	55	8 (0.8)
+PROT	Q7V3J0	2	2	2	0.162	"Putative potassium channel, VIC family OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0085 PE=4 SV=1"			
+ALN	Provided	1227	1	1	1	QLLSNGVDVLAADASEK	ELISNGVDVLAADASEK	105	16 (0.941)
+ALN	Provided	2132	1	1	1	NKLNLQTGNDELTVPEEFLGR	LELDNQTGIDELTVPEEFIGR	94	16 (0.762)
+PROT	Q7V3K7	1	1	1	0.06	Peptide deformylase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=def PE=3 SV=1			
+ALN	Provided	1090	1	1	1	QQTGTPSLELYK	EQTGTPSLEIYK	78	11 (0.917)
+PROT	Q7V3K9	1	1	1	0.095	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0066 PE=4 SV=1			
+ALN	Provided	3558	1	1	1	KLWKVNFYK	KIWKVLTYK	41	7 (0.778)
+PROT	Q7V3L5	1	1	1	0.033	"Acetyl-CoA carboxylase, biotin carboxylase subunit OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=accC PE=4 SV=1"			
+ALN	Provided	1177	1	1	1	RWNHPGYGFLAENDK	DAIHPGYGFLAENDK	62	12 (0.8)
+PROT	Q7V3L9	1	1	1	0.058	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0056 PE=4 SV=1			
+ALN	Provided	1527	1	1	1	LDCLGWK	LDCLTWK	42	6 (0.857)
+PROT	Q7V3M1	1	1	1	0.102	Uncharacterized protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0054 PE=4 SV=1			
+ALN	Provided	619	1	1	1	NLRASSVMDLHVR	SAIASSVMDLHVR	62	10 (0.769)
+PROT	Q7V3M6	1	1	1	0.034	Dephospho-CoA kinase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=coaE PE=3 SV=1			
+ALN	Provided	1242	1	1	1	LLNPLLK	LLHPLIK	35	6 (0.857)
+PROT	Q7V3M7	1	1	1	0.031	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=gatB PE=3 SV=1			
+ALN	Provided	1522	1	1	1	DPPPDPDLGPLELSK	RYFPDPDLGPIEISK	49	12 (0.8)
+PROT	Q7V3N2	1	1	1	0.012	Flavoprotein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0042 PE=4 SV=1			
+ALN	Provided	781	1	1	1	VSELDLK	ISELDIK	41	6 (0.857)
+PROT	Q7V3N7	1	1	1	0.034	GMP synthase [glutamine-hydrolyzing] OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=guaA PE=3 SV=1			
+ALN	Provided	928	1	1	1	APNNLDCESDLLSNVKDK	APINIDCESDLLSNVQDK	105	16 (0.889)
+PROT	Q7V3N9	1	1	1	0.034	Soluble hydrogenase small subunit OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=DHSS PE=3 SV=1			
+ALN	Provided	612	1	1	1	NVDFQDLMELTTK	SKDFQDLMEITTK	74	11 (0.846)
+PROT	Q7V3P5	1	1	1	0.048	Elongation factor P OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=efp PE=3 SV=1			
+ALN	Provided	406	1	1	1	QAVLENSNK	QAVLEKSNL	40	7 (0.778)
+PROT	Q7V3P6	1	1	1	0.025	Cyclophilin-type peptidyl-prolyl cis-trans isomerase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0025 PE=4 SV=1			
+ALN	Provided	852	1	1	1	LLEELPQDK	IIEELPNEK	45	7 (0.778)
+PROT	Q7V3P7	1	1	1	0.027	Putative thiamine-monophosphate kinase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=thiL PE=4 SV=1			
+ALN	Provided	1291	1	1	1	NLLLNMDSR	NLLINTDSL	34	7 (0.778)
+PROT	Q7V3Q4	1	1	1	0.067	Protein GrpE OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=grpE PE=3 SV=1			
+ALN	Provided	135	1	1	1	EVLEVDDENLYAEDLK	QTLEVDDENIYAEDLK	99	14 (0.875)
+PROT	Q7V3Q7	1	1	1	0.032	RNA-binding region RNP-1 (RNA recognition motif) OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0013 PE=4 SV=1			
+ALN	Provided	16	1	1	1	VGNLPFR	VGNLPFR	51	7 (1)
+PROT	Q7V3Q9	1	1	1	0.045	Signal recognition particle receptor FtsY OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=ftsY PE=3 SV=1			
+ALN	Provided	1120	1	1	1	NTNQSDSSLEWASQAYALLK	TNNESDSSLEWASQAYALLK	116	17 (0.85)
+PROT	Q7V3R4	1	1	1	0.01	"DNA gyrase/topoisomerase IV, subunit A OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=PMM0005 PE=4 SV=1"			
+ALN	Provided	2235	1	1	1	LVQNFSTK	LVQDFSTK	51	7 (0.875)
+PROT	Q7V3R5	1	1	1	0.014	Phosphoribosylformylglycinamidine synthase subunit PurL OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=purL PE=3 SV=1			
+ALN	Provided	194	1	1	1	KALEACLDAFK	SLIEACLDAFK	54	9 (0.818)
+PROT	Q93P09	2	2	2	0.035	Photosystem II CP43 reaction center protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=psbC PE=3 SV=1			
+ALN	Provided	431	1	1	1	DPTPFNNLLR	METPFNNLLR	42	8 (0.8)
+ALN	Provided	1926	1	1	1	GFWDFR	RFWDFR	38	5 (0.833)
+PROT	Q93P10	1	1	1	0.031	Photosystem II D2 protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=psbD PE=3 SV=1			
+ALN	Provided	943	1	1	1	NMNFPEEVLPR	NFVFPEEVLPR	57	9 (0.818)
+PROT	Q93TL5	1	1	0	0.029	Phycocyanobilin:ferredoxin oxidoreductase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) GN=pcyA PE=3 SV=1			
+ALN	Provided	2165	1	2	1	SKLNDLK	SKLNDLN	38	6 (0.857)
