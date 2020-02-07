@@ -5,18 +5,17 @@
 > MED4 <- read.csv(file = "med4-length-specificity.csv", header = TRUE, sep = ",")
 
 > xking <- plot_ly(alpha = 0.6) %>%
-+ add_histogram(x = MED4$crosskingdom, name = "cross-kingdom", marker = list(color = 'rgb(49,130,189)')) %>%
-+ layout(title="B. Cross-Kingdom de novo-only peptides", margin = list(t=110), titlefont = list(size=20), yaxis=list(title="", range = c(0,400), showline = TRUE, showgrid = FALSE, tickfont = list(size=20)), xaxis=list(title="", range = c(5,24), tickfont = list(size = 20)))
++ add_histogram(x = MED4$xking.len, name = "cross-kingdom", marker = list(color = 'rgb(49,130,189)')) %>%
++ layout(title="Cross-Kingdom de novo-only peptides", margin = list(t=110), titlefont = list(size=30), yaxis=list(title="", range = c(0,520), showline = TRUE, showgrid = FALSE, tickfont = list(size=30)), xaxis=list(title="", range = c(5,24), tickfont = list(size = 30)))
 > xking
 
-
 > phylum <- plot_ly(alpha = 0.6) %>%
-+ add_histogram(x = MED4$phylum, name = "phylum", marker = list(color = 'rgb(49,130,189)')) %>%
-+ layout(title="C. Phylum level de novo-only peptides", margin = list(t=110), titlefont = list(size=20), yaxis=list(title="", range = c(0,400), showline = TRUE, showgrid = FALSE, tickfont = list(size=20)), xaxis=list(title="", range = c(5,24), tickfont = list(size = 20)))
++ add_histogram(x = MED4$phylum.len, name = "phylum", marker = list(color = 'rgb(49,130,189)')) %>%
++ layout(title="Phylum level de novo-only peptides", margin = list(t=110), titlefont = list(size=30), yaxis=list(title="", range = c(0,520), showline = TRUE, showgrid = FALSE, tickfont = list(size=30)), xaxis=list(title="", range = c(5,24), tickfont = list(size = 30)))
 > phylum
 
 > species <- plot_ly(alpha = 0.6) %>%
-+ add_histogram(x = MED4$species, name = "species", marker = list(color = 'rgb(49,130,189)')) %>%
-+ layout(title="D. Species level de novo-only peptides", margin = list(t=110), titlefont = list(size=20), yaxis=list(title="", range = c(0,400), showline = TRUE, showgrid = FALSE, tickfont = list(size=20)), xaxis=list(title="", range = c(5,24), tickfont = list(size = 20)))
++ add_histogram(x = MED4$species.len, name = "species", marker = list(color = 'rgb(49,130,189)')) %>%
++ layout(title="Species level de novo-only peptides", margin = list(t=110), titlefont = list(size=30), yaxis=list(title="", range = c(0,520), showline = TRUE, showgrid = FALSE, tickfont = list(size=30)), xaxis=list(title="", range = c(5,24), tickfont = list(size = 30)))
 > species
 

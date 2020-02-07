@@ -1,0 +1,55 @@
+library(plotly)
+
+y <- c('Epipelagic',
+       'Mesopelagic',
+       'Bathypelagic')
+
+x1 <- c(16.92307692, 17.94871795, 16.25615764)
+x2 <-c(16.15384615, 17.62820513, 15.7635468)
+x3 <- c(13.07692308, 19.23076923, 20.19704433)
+x4 <- c(5.384615385, 2.884615385, 5.418719212)
+x5 <- c(2.307692308, 0.320512821, 0.985221675)
+x6 <- c(3.846153846, 2.884615385, 3.448275862)
+x7 <- c(42.30769231, 39.1025641, 37.93103448)
+
+data <- data.frame(y, x1, x2, x3, x4, x5, x6, x7)
+
+top_labels <- c('ethylation', 'methylation', 'oxidation of M', 'deamidation', 'acetylation', 'dehydration', 'other')
+
+d <- plot_ly(data, x = ~x1, y = ~y, type = 'bar', orientation = 'h',
+        marker = list(color = 'rgba(0,88,36,1)',
+                      line = list(color = 'rgb(58, 71, 80, 1.0)', width = 1))) %>%
+  add_trace(x = ~x2, marker = list(color = 'rgba(35,139,69, 1)')) %>%
+  add_trace(x = ~x3, marker = list(color = 'rgba(65,174,118, 1)')) %>%
+  add_trace(x = ~x4, marker = list(color = 'rgba(102,194,164, 1)')) %>%
+  add_trace(x = ~x5, marker = list(color = 'rgba(153,216,201, 1)')) %>%
+  add_trace(x = ~x6, marker = list(color = 'rgba(204,236,230, 1)')) %>%
+  add_trace(x = ~x7, marker = list(color = 'rgba(237,248,251, 1)')) %>%
+
+  layout(xaxis = list(title = "",
+                      showgrid = FALSE,
+                      showline = FALSE,
+                      showticklabels = TRUE,
+                      tickfont = list(size=24),
+                      zeroline = FALSE,
+                      domain = c(0, 100)),
+         yaxis = list(title = "",
+                      showgrid = FALSE,
+                      showline = FALSE,
+                      showticklabels = FALSE,
+                      zeroline = FALSE,
+                      categoryorder = "array",
+                      categoryarray = ~y,
+                      autorange = "reversed"),
+         barmode = 'stack',
+         margin = list(l = 30, r = 30, t = 30, b = 30),
+         showlegend = FALSE) 
+  # labeling the y-axis
+  # add_annotations(xref = 'paper', yref = 'y', x = 0.14, y = y,
+                  #xanchor = 'right',
+                  #text = y,
+                  #font = list(family = 'Arial', size = 30,
+                            #color = 'rgb(67, 67, 67)'),
+                  #showarrow = FALSE, align = 'right') 
+
+d
