@@ -1,0 +1,130 @@
+library(plotly)
+
+y <- c('Epipelagic',
+       'Mesopelagic',
+       'Bathypelagic')
+
+y2 <- c('Prochlorococcus marinus MED4')
+
+x1 <- c(19.21776919, 33.90177353, 38.24451411) #intmembrane-suspended
+x2 <-c(18.54176726, 18.55388813, 18.10344828) #cytoplasm-suspended
+x3 <- c(34.90636704, 37.39811912, 38.36281651) #intmembrane-sinking
+x4 <- c(16.47940075, 18.36990596, 17.53381894) #cytoplasm-sinking
+x5 <- c(27.85950507) #intmembrane-med4
+x6 <- c(30.98414871) #cytoplasm-med4
+x7 <- c(4.442298407, 5.627557981, 5.642633229) #plasmamembrane-suspended
+x8 <- c(5.617977528, 6.018808777, 6.226153313) #plasmamembrane-sinking
+x9 <- c(3.573153066, 4.160982265, 5.485893417) #nucleus-suspended
+x10 <- c(5.31835206, 4.482758621, 4.52653486) #nucleus-sinking
+x11 <- c(4.983464477) #plasmamembrane-med4
+
+datasus <- data.frame(y, x1, x2)
+
+datasink <- data.frame(y, x3, x4)
+
+datamed <- data.frame(y2, x5, x6)
+
+top_labels <- c('integral component of membrane', 'cytoplasm', 'plasma membrane', 'nucleus')
+
+sus <- plot_ly(datasus, x = ~x1, y = ~y, type = 'bar', orientation = 'h',
+        marker = list(color = 'rgba(0,88,36,1)',
+                      line = list(color = 'rgb(58, 71, 80, 1.0)', width = 1))) %>%
+  add_trace(x = ~x2, marker = list(color = 'rgba(35,139,69, 1)')) %>%
+  add_trace(x = ~x7, marker = list(color = 'rgba(65,174,118, 1)')) %>%
+
+
+  layout(xaxis = list(title = "",
+                      showgrid = FALSE,
+                      showline = FALSE,
+                      showticklabels = TRUE,
+                      tickfont = list(size=24),
+                      zeroline = FALSE,
+                      domain = c(0, 100)),
+         yaxis = list(title = "",
+                      showgrid = FALSE,
+                      showline = FALSE,
+                      showticklabels = FALSE,
+                      zeroline = FALSE,
+                      categoryorder = "array",
+                      categoryarray = ~y,
+                      autorange = "reversed"),
+         barmode = 'stack',
+         margin = list(l = 30, r = 30, t = 30, b = 30),
+         showlegend = FALSE) 
+  # labeling the y-axis
+  # add_annotations(xref = 'paper', yref = 'y', x = 0.14, y = y,
+                  #xanchor = 'right',
+                  #text = y,
+                  #font = list(family = 'Arial', size = 30,
+                            #color = 'rgb(67, 67, 67)'),
+                  #showarrow = FALSE, align = 'right') 
+
+sus
+
+sink <- plot_ly(datasink, x = ~x3, y = ~y, type = 'bar', orientation = 'h',
+        marker = list(color = 'rgba(0,88,36,1)',
+                      line = list(color = 'rgb(58, 71, 80, 1.0)', width = 1))) %>%
+  add_trace(x = ~x4, marker = list(color = 'rgba(35,139,69, 1)')) %>%
+
+
+  layout(xaxis = list(title = "",
+                      showgrid = FALSE,
+                      showline = FALSE,
+                      showticklabels = TRUE,
+                      tickfont = list(size=24),
+                      zeroline = FALSE,
+                      domain = c(0, 100)),
+         yaxis = list(title = "",
+                      showgrid = FALSE,
+                      showline = FALSE,
+                      showticklabels = FALSE,
+                      zeroline = FALSE,
+                      categoryorder = "array",
+                      categoryarray = ~y,
+                      autorange = "reversed"),
+         barmode = 'stack',
+         margin = list(l = 30, r = 30, t = 30, b = 30),
+         showlegend = FALSE) 
+  # labeling the y-axis
+  # add_annotations(xref = 'paper', yref = 'y', x = 0.14, y = y,
+                  #xanchor = 'right',
+                  #text = y,
+                  #font = list(family = 'Arial', size = 30,
+                            #color = 'rgb(67, 67, 67)'),
+                  #showarrow = FALSE, align = 'right') 
+
+sink
+
+med4 <- plot_ly(datamed, x = ~x5, y = ~y2, type = 'bar', orientation = 'h',
+        marker = list(color = 'rgba(0,88,36,1)',
+                      line = list(color = 'rgb(58, 71, 80, 1.0)', width = 1))) %>%
+  add_trace(x = ~x6, marker = list(color = 'rgba(35,139,69, 1)')) %>%
+
+
+  layout(xaxis = list(title = "",
+                      showgrid = FALSE,
+                      showline = FALSE,
+                      showticklabels = TRUE,
+                      tickfont = list(size=24),
+                      zeroline = FALSE,
+                      domain = c(0, 100)),
+         yaxis = list(title = "",
+                      showgrid = FALSE,
+                      showline = FALSE,
+                      showticklabels = FALSE,
+                      zeroline = FALSE,
+                      categoryorder = "array",
+                      categoryarray = ~y,
+                      autorange = "reversed"),
+         barmode = 'stack',
+         margin = list(l = 30, r = 30, t = 30, b = 30),
+         showlegend = FALSE) 
+  # labeling the y-axis
+  # add_annotations(xref = 'paper', yref = 'y', x = 0.14, y = y,
+                  #xanchor = 'right',
+                  #text = y,
+                  #font = list(family = 'Arial', size = 30,
+                            #color = 'rgb(67, 67, 67)'),
+                  #showarrow = FALSE, align = 'right') 
+
+med4

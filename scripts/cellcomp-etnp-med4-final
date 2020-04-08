@@ -1,0 +1,72 @@
+library(plotly)
+
+y <- c('P. marinus culture',
+	   '100 m suspended',
+       '265 m suspended',
+       '1000 m suspended',
+       '100 m sinking',
+       '265 m sinking',
+       '965 m sinking')
+
+x1 <- c(27.85950507, 19.21776919, 33.90177353, 38.24451411, 34.90636704, 37.39811912, 38.36281651) #intmembrane
+x2 <-c(30.98414871, 18.54176726, 18.55388813, 18.10344828, 16.47940075, 18.36990596, 17.53381894) #cytoplasm
+x3 <- c(4.983464477, 4.442298407, 5.627557981, 5.642633229, 5.617977528, 6.018808777, 6.226153313) #plasmamembrane
+x4 <- c(0.0000000, 3.573153066, 4.160982265, 5.485893417, 5.31835206, 4.482758621, 4.52653486) #nucleus
+x5 <- c(36.17288174, 54.22501207, 37.75579809, 32.52351097, 37.67790262, 33.73040752, 33.35067638) #other
+
+data <- data.frame(y, x1, x2, x3, x4, x5)
+
+data$y <- factor(data$y, levels = data[["y"]])
+
+top_labels <- c('integral component of membrane', 'cytoplasm', 'plasma membrane', 'nucleus', 'other cellular comp. GO terms')
+
+p <- plot_ly(data, x = ~x1, y = ~y, type = 'bar', name = 'integral component of membrane', orientation = 'h', 
+        marker = list(color = 'rgba(215,25,28,1)',
+                      line = list(color = 'rgb(58, 71, 80, 1.0)', width = 1))) %>%
+  add_trace(x = ~x2, name = 'cytoplasm', marker = list(color = 'rgba(253,174,97, 1)')) %>%
+  add_trace(x = ~x3, name = 'plasma membrane', marker = list(color = 'rgba(255,255,191, 1)')) %>%
+  add_trace(x = ~x4, name = 'nucleus', marker = list(color = 'rgba(171,221,164, 1)')) %>%
+  add_trace(x = ~x5, name = 'other', marker = list(color = 'rgba(43,131,186, 1)')) %>%
+
+
+  layout(xaxis = list(title = "% of identified GO terms",
+  					  titlefont = list(size=24),
+                      showgrid = FALSE,
+                      showline = FALSE,
+                      showticklabels = TRUE,
+                      tickfont = list(size=24),
+                      zeroline = FALSE,
+                      domain = c(0, 100)),
+         yaxis = list(title = "",
+                      showgrid = FALSE,
+                      showline = FALSE,
+                      showticklabels = TRUE,
+                      tickfont = list(size=24),
+                      zeroline = FALSE,
+                      categoryorder = "array",
+                      categoryarray = ~y,
+                      autorange = "reversed"),
+         barmode = 'stack',
+         margin = list(l = 30, r = 30, t = 30, b = 30),
+         showlegend = TRUE,
+         legend = list(font = list(size=24))) 
+
+  # labeling the y-axis
+  add_annotations(data, xref = 'paper', yref = 'y', x = 0.14, y = y,
+                  xanchor = 'right',
+                  text = y,
+                  font = list(family = 'Arial', size = 30,
+                            color = 'rgb(67, 67, 67, 1)'),
+                  showarrow = TRUE, align = 'right') 
+
+   # labeling the first Likert scale (on the top)
+  add_annotations(data, xref = 'x', yref = 'paper',
+                  x = c(21 / 2, 21 + 30 / 2, 21 + 30 + 21 / 2, 21 + 30 + 21 + 16 / 2,
+                        21 + 30 + 21 + 16 + 12 / 2),
+                  y = 1.15,
+                  text = top_labels,
+                  font = list(family = 'Arial', size = 12,
+                              color = 'rgb(67, 67, 67)'),
+                  showarrow = FALSE)
+
+p

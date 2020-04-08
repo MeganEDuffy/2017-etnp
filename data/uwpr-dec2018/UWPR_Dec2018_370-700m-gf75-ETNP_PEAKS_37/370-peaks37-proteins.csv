@@ -1,0 +1,224 @@
+Protein Group,Protein ID,Accession,-10lgP,Coverage (%),Coverage (%) 370,Area 370,#Peptides,#Unique,#Spec 370,PTM,Avg. Mass,Description
+1,2,54036848,218.58,9,9,1.65E8,14,10,35,,95585,RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1
+2,1,|#CONTAM#TRYP_PIG|,162.88,47,47,5.9E8,14,14,20,Carbamidomethylation,24409,sp|#CONTAM#TRYP_PIG|
+3,166,|#CONTAM#K2C1_HUMAN|,101.07,18,18,3.99E6,7,7,8,Carbamidomethylation,65886,sp|#CONTAM#K2C1_HUMAN|
+5,86317,ETNP_180,98.38,2,2,,5,0,7,,96775,Chaperone protein ClpB
+5,86318,ETNP_160,98.38,2,2,,5,0,7,,96775,Chaperone protein ClpB
+4,983,ACL71908.1,98.31,3,3,7.55E4,5,1,7,,95840,ATP-dependent chaperone ClpB [Thioalkalivibrio sulfidiphilus HL-EbGr7]
+4,843,WP_014707596,98.31,3,3,7.55E4,5,1,7,,95984,chaperone protein ClpB Methylophaga nitratireducenticrescens
+4,1059,ETNP_300,98.31,7,7,7.55E4,5,1,7,,40000,Chaperone protein ClpB
+4,1067,WP_009773391.1,98.31,3,3,7.55E4,5,1,7,,79198,protein disaggregation chaperone [marine actinobacterium PHSC20C1]
+4,1068,WP_013260433,98.31,3,3,7.55E4,5,1,7,,96155,chaperone protein ClpB gamma proteobacterium HdN1
+4,990,ETNP_100,98.31,3,3,7.55E4,5,1,7,,95265,Chaperone protein ClpB
+4,998,WP_001210050,98.31,3,3,7.55E4,5,1,7,,95142,chaperone protein ClpB Acinetobacter baumannii
+4,991,ETNP_120,98.31,3,3,7.55E4,5,1,7,,95265,Chaperone protein ClpB
+4,999,ADI91587.1,98.31,3,3,7.55E4,5,1,7,,95233,ATP-dependent chaperone ClpB [Acinetobacter oleivorans DR1]
+4,948,WP_011376136.1,98.31,3,3,7.55E4,5,1,7,,97126,chaperone protein ClpB [Prochlorococcus marinus]
+4,957,WP_011132214.1,98.31,3,3,7.55E4,5,1,7,,97364,chaperone protein ClpB [Prochlorococcus marinus]
+4,1049,CBE68133,98.31,3,3,7.55E4,5,1,7,,97122,Chaperone Candidatus Methylomirabilis oxyfera
+4,926,ETNP_120,98.31,3,3,7.55E4,5,1,7,,96281,Chaperone protein ClpB
+4,924,NP_300,98.31,3,3,7.55E4,5,1,7,,96223,Chaperone protein ClpB
+4,940,BAI70784.1,98.31,3,3,7.55E4,5,1,7,,95100,ATP-dependent Clp protease ATP-binding subunit [Azospirillum sp. B510]
+4,936,ACJ00008.1,98.31,3,3,7.55E4,5,1,7,,96573,ATP-dependent chaperone protein ClpB [Rhodospirillum centenum SW]
+9,132,|#CONTAM#K1C9_HUMAN|,95.28,13,13,4.33E6,5,5,5,Oxidation (M),62129,sp|#CONTAM#K1C9_HUMAN|
+6,1543,WP_011132721.1,94.76,3,3,7.82E4,5,1,7,,93427,ATP-dependent Clp protease ATP-binding subunit ClpC [Prochlorococcus marinus]
+6,1545,WP_011376649.1,94.76,3,3,7.82E4,5,1,7,,93573,ATP-dependent Clp protease ATP-binding subunit ClpC [Prochlorococcus marinus]
+6,1454,CAK23961.1,94.76,3,3,7.82E4,5,1,7,,92891,ATP-dependent Clp protease ATP-binding subunit clpA homolog [Synechococcus sp. WH 7803]
+6,1441,WP_011824074.1,94.76,3,3,7.82E4,5,1,7,,94922,ATP-dependent Clp protease ATP-binding subunit ClpC [Prochlorococcus marinus]
+10,18,NP_300,93.25,14,14,9.31E5,4,4,4,Carbamidomethylation,35973,Leucine-specific-binding protein precursor
+14,308,ETNP_120,88.34,13,13,1.16E6,3,3,3,,23421,Rhodanese-like domain protein
+14,305,NP_300,88.34,13,13,1.16E6,3,3,3,,23421,Rhodanese-like domain protein
+14,310,ETNP_160,88.34,13,13,1.16E6,3,3,3,,23421,Rhodanese-like domain protein
+14,308,ETNP_120,88.34,13,13,1.16E6,3,3,3,,23421,Rhodanese-like domain protein
+14,306,ETNP_300,88.34,13,13,1.16E6,3,3,3,,23421,Rhodanese-like domain protein
+14,307,ETNP_180,88.34,13,13,1.16E6,3,3,3,,23421,Rhodanese-like domain protein
+7,99,ETNP_120,81.69,21,21,2.39E5,6,1,6,Carbamidomethylation,32337,General L-amino acid-binding periplasmic protein AapJ precursor
+7,92,ETNP_160,81.69,18,18,2.39E5,6,1,6,Carbamidomethylation,36178,General L-amino acid-binding periplasmic protein AapJ precursor
+7,110,NP_300,81.69,18,18,2.39E5,6,1,6,Carbamidomethylation,36188,General L-amino acid-binding periplasmic protein AapJ precursor
+7,93,ETNP_120,81.69,18,18,2.39E5,6,1,6,Carbamidomethylation,36178,General L-amino acid-binding periplasmic protein AapJ precursor
+7,94,ETNP_140,81.69,18,18,2.39E5,6,1,6,Carbamidomethylation,36178,General L-amino acid-binding periplasmic protein AapJ precursor
+7,91,ETNP_300,81.69,18,18,2.39E5,6,1,6,Carbamidomethylation,36178,General L-amino acid-binding periplasmic protein AapJ precursor
+7,95,ETNP_180,81.69,18,18,2.39E5,6,1,6,Carbamidomethylation,36178,General L-amino acid-binding periplasmic protein AapJ precursor
+8,96,ETNP_120,80.18,23,23,2.01E5,6,1,6,Carbamidomethylation,29167,General L-amino acid-binding periplasmic protein AapJ precursor
+8,64,ETNP_120,80.18,20,20,2.01E5,6,1,6,Carbamidomethylation,32779,General L-amino acid-binding periplasmic protein AapJ precursor
+8,46,ETNP_140,80.18,18,18,2.01E5,6,1,6,Carbamidomethylation,36148,General L-amino acid-binding periplasmic protein AapJ precursor
+8,47,NP_300,80.18,18,18,2.01E5,6,1,6,Carbamidomethylation,36148,General L-amino acid-binding periplasmic protein AapJ precursor
+8,44,ETNP_300,80.18,18,18,2.01E5,6,1,6,Carbamidomethylation,36148,General L-amino acid-binding periplasmic protein AapJ precursor
+8,48,ETNP_180,80.18,18,18,2.01E5,6,1,6,Carbamidomethylation,36148,General L-amino acid-binding periplasmic protein AapJ precursor
+8,43,ETNP_160,80.18,18,18,2.01E5,6,1,6,Carbamidomethylation,36148,General L-amino acid-binding periplasmic protein AapJ precursor
+8,45,ETNP_120,80.18,18,18,2.01E5,6,1,6,Carbamidomethylation,36148,General L-amino acid-binding periplasmic protein AapJ precursor
+12,334,ETNP_160,76.31,5,5,3.99E5,3,2,3,,58291,Heme-binding protein A precursor
+12,335,NP_300,76.31,5,5,3.99E5,3,2,3,,58291,Heme-binding protein A precursor
+12,333,ETNP_140,76.31,5,5,3.99E5,3,2,3,,58291,Heme-binding protein A precursor
+12,336,ETNP_120,76.31,5,5,3.99E5,3,2,3,,58291,Heme-binding protein A precursor
+13,129,NP_300,72.75,11,11,8.48E5,3,3,3,Carbamidomethylation,39385,Bacterial extracellular solute-binding protein
+13,130,ETNP_120,72.75,11,11,8.48E5,3,3,3,Carbamidomethylation,39375,Bacterial extracellular solute-binding protein
+13,128,ETNP_120,72.75,11,11,8.48E5,3,3,3,Carbamidomethylation,39385,Bacterial extracellular solute-binding protein
+13,131,ETNP_140,72.75,11,11,8.48E5,3,3,3,Carbamidomethylation,39385,Bacterial extracellular solute-binding protein
+15,595,ETNP_120,61.72,10,10,4.29E5,2,2,2,Carbamidomethylation,21631,Formate dehydrogenase iron-sulfur subunit
+15,594,ETNP_110,61.72,10,10,4.29E5,2,2,2,Carbamidomethylation,21599,Formate dehydrogenase iron-sulfur subunit
+15,595,ETNP_120,61.72,10,10,4.29E5,2,2,2,Carbamidomethylation,21631,Formate dehydrogenase iron-sulfur subunit
+15,1182,ETNP_140,61.72,11,11,4.29E5,2,2,2,Carbamidomethylation,18325,Formate dehydrogenase iron-sulfur subunit
+15,1358,ETNP_120,61.72,19,19,4.29E5,2,2,2,Carbamidomethylation,11386,Formate dehydrogenase iron-sulfur subunit
+15,1317,ETNP_120,61.72,10,10,4.29E5,2,2,2,Carbamidomethylation,21278,Formate dehydrogenase iron-sulfur subunit
+15,1160,NP_125,61.72,10,10,4.29E5,2,2,2,Carbamidomethylation,21649,Formate dehydrogenase iron-sulfur subunit
+15,1195,ETNP_120,61.72,10,10,4.29E5,2,2,2,Carbamidomethylation,21656,Formate dehydrogenase iron-sulfur subunit
+15,1162,ETNP_180,61.72,10,10,4.29E5,2,2,2,Carbamidomethylation,21649,Formate dehydrogenase iron-sulfur subunit
+15,1164,NP_300,61.72,10,10,4.29E5,2,2,2,Carbamidomethylation,21649,Formate dehydrogenase iron-sulfur subunit
+15,1161,ETNP_140,61.72,10,10,4.29E5,2,2,2,Carbamidomethylation,21649,Formate dehydrogenase iron-sulfur subunit
+15,1163,ETNP_160,61.72,10,10,4.29E5,2,2,2,Carbamidomethylation,21649,Formate dehydrogenase iron-sulfur subunit
+15,1177,ETNP_120,61.72,10,10,4.29E5,2,2,2,Carbamidomethylation,21665,Formate dehydrogenase iron-sulfur subunit
+15,1195,ETNP_120,61.72,10,10,4.29E5,2,2,2,Carbamidomethylation,21656,Formate dehydrogenase iron-sulfur subunit
+15,1320,ETNP_120,61.72,7,7,4.29E5,2,2,2,Carbamidomethylation,28359,Formate dehydrogenase iron-sulfur subunit
+17,661,|#CONTAM#K1C10_HUMAN|,60.49,6,6,8.64E5,2,2,2,Carbamidomethylation,59519,sp|#CONTAM#K1C10_HUMAN|
+22,76621,ETNP_160,56.44,5,5,3.95E5,2,2,2,,31463,Monocarboxylate 2-oxoacid-binding periplasmic protein precursor
+22,76563,ETNP_120,56.44,4,4,3.95E5,2,2,2,,38564,Alpha-keto acid-binding periplasmic protein TakP precursor
+22,76564,NP_300,56.44,4,4,3.95E5,2,2,2,,38986,Alpha-keto acid-binding periplasmic protein TakP precursor
+22,76565,ETNP_180,56.44,4,4,3.95E5,2,2,2,,38986,Alpha-keto acid-binding periplasmic protein TakP precursor
+22,76566,ETNP_120,56.44,4,4,3.95E5,2,2,2,,39400,Alpha-keto acid-binding periplasmic protein TakP precursor
+23,446,ETNP_120,51.71,5,5,3.65E4,2,2,2,,61476,Quinohemoprotein alcohol dehydrogenase ADH IIB precursor
+23,449,ETNP_300,51.71,5,5,3.65E4,2,2,2,,61504,Quinohemoprotein alcohol dehydrogenase ADH IIB precursor
+23,448,ETNP_160,51.71,5,5,3.65E4,2,2,2,,61476,Quinohemoprotein alcohol dehydrogenase ADH IIB precursor
+23,447,ETNP_180,51.71,5,5,3.65E4,2,2,2,,61476,Quinohemoprotein alcohol dehydrogenase ADH IIB precursor
+23,450,ETNP_140,51.71,5,5,3.65E4,2,2,2,,61504,Quinohemoprotein alcohol dehydrogenase ADH IIB precursor
+18,86319,ETNP_120,51.64,3,3,8.38E4,2,1,2,Carbamidomethylation,45803,Oligopeptide-binding protein OppA precursor
+18,86320,ETNP_120,51.64,3,3,8.38E4,2,1,2,Carbamidomethylation,56508,Oligopeptide-binding protein AppA precursor
+18,66326,ETNP_120,51.64,2,2,8.38E4,2,1,2,Carbamidomethylation,67325,Oligopeptide-binding protein AppA precursor
+18,86321,NP_300,51.64,3,3,8.38E4,2,1,2,Carbamidomethylation,60668,Oligopeptide-binding protein AppA precursor
+18,86322,ETNP_140,51.64,3,3,8.38E4,2,1,2,Carbamidomethylation,60654,Oligopeptide-binding protein AppA precursor
+18,86323,ETNP_160,51.64,3,3,8.38E4,2,1,2,Carbamidomethylation,60673,Oligopeptide-binding protein AppA precursor
+18,66325,ETNP_120,51.64,3,3,8.38E4,2,1,2,Carbamidomethylation,60640,Oligopeptide-binding protein AppA precursor
+11,2143,ETNP_120,50.41,20,20,1.02E7,2,2,4,,5568,hypothetical protein
+11,2142,ETNP_180,50.41,20,20,1.02E7,2,2,4,,5568,hypothetical protein
+61,608,NP_85,47.87,11,11,2.22E5,1,1,1,,9840,Alpha-keto acid-binding periplasmic protein TakP precursor
+61,52,NP_300,47.87,3,3,2.22E5,1,1,1,,39772,Alpha-keto acid-binding periplasmic protein TakP precursor
+61,50,ETNP_120,47.87,3,3,2.22E5,1,1,1,,39772,Alpha-keto acid-binding periplasmic protein TakP precursor
+61,50,ETNP_120,47.87,3,3,2.22E5,1,1,1,,39772,Alpha-keto acid-binding periplasmic protein TakP precursor
+61,53,ETNP_110,47.87,3,3,2.22E5,1,1,1,,39772,Alpha-keto acid-binding periplasmic protein TakP precursor
+16,86326,XP_003058414,47.70,1,1,1.82E4,2,1,2,,222145,predicted protein  Micromonas pusilla CCMP1545
+62,1817,ETNP_140,47.69,15,15,3.79E4,1,1,1,,10189,hypothetical protein
+62,2024,ETNP_120,47.69,7,7,3.79E4,1,1,1,,21555,putative ABC transporter-binding protein precursor
+62,1818,ETNP_180,47.69,7,7,3.79E4,1,1,1,,23524,putative ABC transporter-binding protein precursor
+62,1956,ETNP_180,47.69,4,4,3.79E4,1,1,1,,43378,Periplasmic dipeptide transport protein precursor
+62,1957,ETNP_140,47.69,3,3,3.79E4,1,1,1,,47409,Periplasmic dipeptide transport protein precursor
+62,1609,ETNP_120,47.69,3,3,3.79E4,1,1,1,,48092,Oligopeptide-binding protein AppA precursor
+62,1610,ETNP_120,47.69,3,3,3.79E4,1,1,1,,52952,Oligopeptide-binding protein AppA precursor
+62,1471,NP_300,47.69,3,3,3.79E4,1,1,1,,58350,Glutathione-binding protein GsiB precursor
+62,1450,ETNP14_120,47.69,2,2,3.79E4,1,1,1,,63384,Oligopeptide-binding protein AppA precursor
+62,1451,ETNP_120,47.69,2,2,3.79E4,1,1,1,,63384,Oligopeptide-binding protein AppA precursor
+62,1600,ETNP14_120,47.69,2,2,3.79E4,1,1,1,,63136,Oligopeptide-binding protein AppA precursor
+62,1544,ETNP_160,47.69,2,2,3.79E4,1,1,1,,62885,Glutathione-binding protein GsiB precursor
+24,86332,ETNP_180,43.22,16,16,2.15E5,2,2,2,,13416,Glutamine-binding periplasmic protein precursor
+24,808,NP_85,43.22,9,9,2.15E5,2,2,2,,24482,Glutamine-binding periplasmic protein precursor
+24,806,ETNP_120,43.22,8,8,2.15E5,2,2,2,,27197,putative amino-acid ABC transporter-binding protein precursor
+24,801,ETNP_140,43.22,7,7,2.15E5,2,2,2,,29495,Glutamine-binding periplasmic protein precursor
+24,802,ETNP_300,43.22,7,7,2.15E5,2,2,2,,29495,Glutamine-binding periplasmic protein precursor
+24,807,NP_300,43.22,7,7,2.15E5,2,2,2,,29493,Glutamine-binding periplasmic protein precursor
+24,803,ETNP_160,43.22,7,7,2.15E5,2,2,2,,29495,Glutamine-binding periplasmic protein precursor
+24,804,ETNP_100,43.22,7,7,2.15E5,2,2,2,,29568,Glutamine-binding periplasmic protein precursor
+19,56528,NP_30,42.07,3,3,7.17E4,2,1,2,,52292,Heme-binding protein A precursor
+63,1588,ETNP_180,34.82,4,4,1.35E4,1,1,1,,35298,Tripartite tricarboxylate transporter family receptor
+63,1587,ETNP_160,34.82,4,4,1.35E4,1,1,1,,35298,Tripartite tricarboxylate transporter family receptor
+25,86401,|#CONTAM#K22E_HUMAN|,34.11,4,4,3.31E5,2,2,2,,65865,sp|#CONTAM#K22E_HUMAN|
+38,86333,ETNP_180,33.76,3,3,1.85E5,1,1,1,,30076,C4-dicarboxylate-binding periplasmic protein precursor
+38,86334,ETNP_140,33.76,3,3,1.85E5,1,1,1,,30914,C4-dicarboxylate-binding periplasmic protein precursor
+38,86335,ETNP_160,33.76,3,3,1.85E5,1,1,1,,34527,C4-dicarboxylate-binding periplasmic protein precursor
+38,86336,ETNP_180,33.76,3,3,1.85E5,1,1,1,,35096,C4-dicarboxylate-binding periplasmic protein precursor
+38,86337,ETNP_120,33.76,3,3,1.85E5,1,1,1,,35761,C4-dicarboxylate-binding periplasmic protein precursor
+38,86338,ETNP_160,33.76,3,3,1.85E5,1,1,1,,35761,C4-dicarboxylate-binding periplasmic protein precursor
+38,86339,ETNP_140,33.76,3,3,1.85E5,1,1,1,,35761,C4-dicarboxylate-binding periplasmic protein precursor
+38,86347,ETNP_120,33.76,4,4,1.85E5,1,1,1,,24555,hypothetical protein
+38,86348,ETNP_160,33.76,3,3,1.85E5,1,1,1,,35947,Lactate-binding periplasmic protein precursor
+38,86349,ETNP_120,33.76,3,3,1.85E5,1,1,1,,35947,Lactate-binding periplasmic protein precursor
+38,86350,ETNP_120,33.76,3,3,1.85E5,1,1,1,,35947,Lactate-binding periplasmic protein precursor
+29,1617,WP_015349883,32.98,0,0,1.42E6,1,1,1,,202176,polyketide synthase Myxococcus stipitatus
+29,2147,CBE69591,32.98,2,2,1.42E6,1,1,1,,58424,Indole-3-pyruvate decarboxylase Indolepyruvate decarboxylase Candidatus Methylomirabilis oxyfera
+64,86361,NP_125,32.81,3,3,2.34E5,1,1,1,,22243,hypothetical protein
+32,86325,SAR11,31.79,8,8,1.51E5,1,1,1,,10077,hypothetical protein
+32,86341,SAR11,31.79,5,5,1.51E5,1,1,1,,16658,hypothetical protein
+32,86342,SAR11,31.79,5,5,1.51E5,1,1,1,,16679,hypothetical protein
+32,86364,ETNP14_120,31.79,6,6,1.51E5,1,1,1,,12154,alpha/beta hydrolase fold protein
+32,86365,ETNP14_68,31.79,2,2,1.51E5,1,1,1,,35472,hypothetical protein
+32,86366,WP_013751893.1,31.79,1,1,1.51E5,1,1,1,,86841,short-chain dehydrogenase/reductase SDR [Dokdonia sp. 4H-3-7-5]
+32,86367,WP_035338216.1,31.79,1,1,1.51E5,1,1,1,,87581,short-chain dehydrogenase [Dokdonia sp. PRO95]
+32,86368,ETNP14_120,31.79,1,1,1.51E5,1,1,1,,131360,Vitamin B12-dependent ribonucleotide reductase
+40,86371,ETNP_120,30.76,4,4,4.12E4,1,1,1,,22473,hypothetical protein
+40,86372,ETNP_120,30.76,2,2,4.12E4,1,1,1,,38667,Septum site-determining protein MinD
+40,86373,ETNP_120,30.76,2,2,4.12E4,1,1,1,,38667,Septum site-determining protein MinD
+40,86374,XP_002184343,30.76,1,1,4.12E4,1,1,1,,92000,predicted protein  Phaeodactylum tricornutum CCAP 1055
+65,86375,ETNP_120,30.45,4,4,6.72E4,1,1,1,,20690,putative sugar-binding periplasmic protein precursor
+65,86376,ETNP_160,30.45,4,4,6.72E4,1,1,1,,20690,putative sugar-binding periplasmic protein precursor
+65,86377,ETNP_300,30.45,4,4,6.72E4,1,1,1,,23051,putative sugar-binding periplasmic protein precursor
+65,86378,ETNP_180,30.45,4,4,6.72E4,1,1,1,,23321,putative sugar-binding periplasmic protein precursor
+65,86379,ETNP_140,30.45,2,2,6.72E4,1,1,1,,45331,putative sugar-binding periplasmic protein precursor
+65,86380,ETNP_120,30.45,2,2,6.72E4,1,1,1,,45345,putative sugar-binding periplasmic protein precursor
+66,76915,ETNP14_120,29.61,18,18,4.51E4,1,1,1,,4617,hypothetical protein
+66,86381,ETNP_110,29.61,18,18,4.51E4,1,1,1,,4617,hypothetical protein
+66,86382,ETNP14_120,29.61,18,18,4.51E4,1,1,1,,4743,hypothetical protein
+66,76629,ETNP_140,29.61,11,11,4.51E4,1,1,1,,7976,hypothetical protein
+66,76630,ETNP_160,29.61,11,11,4.51E4,1,1,1,,7976,hypothetical protein
+66,76631,ETNP_120,29.61,11,11,4.51E4,1,1,1,,7976,hypothetical protein
+66,76632,NP_300,29.61,11,11,4.51E4,1,1,1,,7976,hypothetical protein
+66,76631,ETNP_120,29.61,11,11,4.51E4,1,1,1,,7976,hypothetical protein
+66,76634,ETNP_180,29.61,11,11,4.51E4,1,1,1,,7976,hypothetical protein
+66,76635,ETNP_300,29.61,11,11,4.51E4,1,1,1,,7976,hypothetical protein
+66,76636,NP_100,29.61,11,11,4.51E4,1,1,1,,7976,hypothetical protein
+66,86383,ETNP_160,29.61,11,11,4.51E4,1,1,1,,8125,hypothetical protein
+66,86384,ETNP_120,29.61,11,11,4.51E4,1,1,1,,8125,hypothetical protein
+66,86385,ETNP_140,29.61,11,11,4.51E4,1,1,1,,8125,hypothetical protein
+66,86386,ETNP_180,29.61,11,11,4.51E4,1,1,1,,8125,hypothetical protein
+66,700,ETNP14_120,29.61,11,11,4.51E4,1,1,1,,8121,hypothetical protein
+39,86369,NP_300,28.57,5,5,0E0,1,1,1,,17483,hypothetical protein
+39,86370,ETNP14_120,28.57,4,4,0E0,1,1,1,,22675,taurine transporter substrate binding subunit
+39,42965,NP_100,28.57,3,3,0E0,1,1,1,,26896,Taurine-binding periplasmic protein precursor
+39,42809,ETNP14_68,28.57,2,2,0E0,1,1,1,,34407,Taurine-binding periplasmic protein precursor
+20,42704,CAN91477.1,27.89,2,2,6.35E7,1,1,2,,56854,hypothetical protein sce1319 [Sorangium cellulosum So ce56]
+67,1668,ETNP_140,26.38,2,2,5.06E4,1,1,1,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+67,1664,ETNP_120,26.38,2,2,5.06E4,1,1,1,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+67,1665,ETNP_160,26.38,2,2,5.06E4,1,1,1,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+67,1664,ETNP_120,26.38,2,2,5.06E4,1,1,1,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+67,1667,ETNP_180,26.38,2,2,5.06E4,1,1,1,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+67,1669,ETNP_300,26.38,2,2,5.06E4,1,1,1,,63699,Quinohemoprotein alcohol dehydrogenase ADH-IIG precursor
+69,86441,ETNP_140,23.68,5,5,3.1E3,1,1,1,,18916,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+69,86443,NP_100,23.68,1,1,3.1E3,1,1,1,,68201,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+69,86444,NP_125,23.68,1,1,3.1E3,1,1,1,,68214,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+27,86490,WP_025048010,23.36,1,1,2.78E6,1,1,2,,49803,Fis family transcriptional regulator Sulfitobacter mediterraneus
+26,2649,ETNP14_68,23.12,11,11,2.6E6,1,1,2,,7443,hypothetical protein
+70,86453,WP_025046905,22.78,3,3,1.7E4,1,1,1,,30777,oxidoreductase Sulfitobacter mediterraneus
+51,86455,ABQ68865.1,22.28,2,2,7.26E4,1,1,1,,49664,Uncharacterized protein Swit_2506 [Sphingomonas wittichii RW1]
+71,86457,ETNP_110,22.12,11,11,1.47E5,1,1,1,,6903,7-cyano-7-deazaguanine synthase
+71,86458,ETNP_140,22.12,5,5,1.47E5,1,1,1,,15314,7-cyano-7-deazaguanine synthase
+71,86459,NP_100,22.12,5,5,1.47E5,1,1,1,,15886,7-cyano-7-deazaguanine synthase
+71,86460,ETNP_120,22.12,4,4,1.47E5,1,1,1,,19219,V-type ATP synthase subunit C
+71,86461,ETNP_300,22.12,4,4,1.47E5,1,1,1,,21491,Protein-L-isoaspartate O-methyltransferase
+71,86464,ETNP_180,22.12,3,3,1.47E5,1,1,1,,25347,7-cyano-7-deazaguanine synthase
+71,86465,ETNP_300,22.12,3,3,1.47E5,1,1,1,,25347,7-cyano-7-deazaguanine synthase
+71,86466,ETNP_120,22.12,3,3,1.47E5,1,1,1,,25347,7-cyano-7-deazaguanine synthase
+71,86467,ETNP_120,22.12,3,3,1.47E5,1,1,1,,25347,7-cyano-7-deazaguanine synthase
+71,86468,ETNP_120,22.12,3,3,1.47E5,1,1,1,,25347,7-cyano-7-deazaguanine synthase
+71,86469,ETNP_160,22.12,3,3,1.47E5,1,1,1,,25347,7-cyano-7-deazaguanine synthase
+71,86470,NP_300,22.12,3,3,1.47E5,1,1,1,,25347,7-cyano-7-deazaguanine synthase
+71,86472,ETNP_120,22.12,2,2,1.47E5,1,1,1,,30829,putative 3-hydroxybutyryl-CoA dehydrogenase
+71,86473,ABQ69749.1,22.12,2,2,1.47E5,1,1,1,,33675,short-chain dehydrogenase/reductase SDR [Sphingomonas wittichii RW1]
+73,86463,ETNP_120,22.01,5,5,1.73E5,1,1,1,,16142,hypothetical protein
+37,86403,Fosmid_PROKKA_05740,21.65,1,1,0E0,1,1,1,,52215,Nitrogen regulation protein NRI
+74,86477,ETNP_160,21.22,8,8,3.21E4,1,1,1,Oxidation (M),11495,hypothetical protein
+74,86478,ETNP_180,21.22,8,8,3.21E4,1,1,1,Oxidation (M),11495,hypothetical protein
+76,86486,WP_052301557.1,21.17,1,1,1.34E5,1,1,1,,158666,hypothetical protein [Planctopirus limnophila]
+79,86493,NP_125,20.57,10,10,4.3E6,1,1,1,,9946,Dual-specificity RNA methyltransferase RlmN
+79,86494,ETNP_100,20.57,6,6,4.3E6,1,1,1,,18578,putative dual-specificity RNA methyltransferase RlmN
+79,86495,ETNP_140,20.57,5,5,4.3E6,1,1,1,,21139,putative dual-specificity RNA methyltransferase RlmN
+79,86496,ETNP_120,20.57,4,4,4.3E6,1,1,1,,24074,putative dual-specificity RNA methyltransferase RlmN
+79,86497,ETNP_180,20.57,4,4,4.3E6,1,1,1,,26940,putative dual-specificity RNA methyltransferase RlmN
+79,86498,ETNP_160,20.57,4,4,4.3E6,1,1,1,,28256,putative dual-specificity RNA methyltransferase RlmN
+79,86499,NP_85,20.57,2,2,4.3E6,1,1,1,,42483,putative dual-specificity RNA methyltransferase RlmN
+79,86500,ETNP_90,20.57,2,2,4.3E6,1,1,1,,42387,putative dual-specificity RNA methyltransferase RlmN
+80,86501,ETNP14_120,20.46,7,7,4.26E4,1,1,1,,10667,hypothetical protein
+80,86502,ETNP14_120,20.46,7,7,4.26E4,1,1,1,,11010,hypothetical protein
+80,86504,ETNP14_120,20.46,6,6,4.26E4,1,1,1,,13209,hypothetical protein
+80,86505,ETNP14_120,20.46,6,6,4.26E4,1,1,1,,13433,hypothetical protein
+80,86506,ETNP14_120,20.46,6,6,4.26E4,1,1,1,,13432,hypothetical protein
+80,86507,ETNP14_120,20.46,6,6,4.26E4,1,1,1,,13417,hypothetical protein
+80,86510,WP_007231825,20.46,2,2,4.26E4,1,1,1,,45727,sarcosine oxidase subunit beta gamma proteobacterium HTCC2207
+84,86513,ETNP_110,20.19,1,1,5.07E4,1,1,1,,53385,Sensor kinase CusS
+36,86398,virus_CCADEAMM_38220,20.14,0,0,1.53E4,1,1,1,,311441,hypothetical protein

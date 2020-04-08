@@ -1,0 +1,28 @@
+# Combined plot for cyano specific peptides in suspended and sinking POM ETNP 2017
+
+library(tidyverse)
+library(plotly)
+
+niaf <- read.csv(file = "cyano-etnp-niaf.csv")
+
+bub <- plot_ly(niaf, 
+	x = niaf$Particle, 
+	y = niaf$Depth, 
+	mode = "markers", 
+	type = "scatter", 
+	size = niaf$NIAF, 
+	marker = list(symbol = 'circle', 
+		sizemode = 'diameter', 
+		color = niaf$Mod100,  
+		title='% peptides modified', 
+		showscale = TRUE,
+		colorbar=list(title = '% peptides modified', titlefont = list(size=24), tickfont=list(size=24), ticklabelangle = -90),
+		line = list(width = 2, color = "black"), 
+		opacity = 0.4)) %>%
+
+	layout(title = "", 
+	yaxis = list(title = "Depth (m)", titlefont = list(size=24), showline = TRUE, showgrid = FALSE, autorange = "reversed", tickfont = list(size=24)), xaxis = list(title = "Cyanobacteria-specific peptides (NIAF)", titlefont = list(size=24), showticklabels = FALSE, range = c(0,1.5)))
+
+bub
+
+print(bub)

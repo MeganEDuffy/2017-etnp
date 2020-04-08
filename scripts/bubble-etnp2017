@@ -18,7 +18,7 @@ library(plotly)
 
 # Combined plot for suspended and sinking POM
 
-> combubb <- read_csv(file = "bubble-combined-sus-sink.csv")
+> combubb <- read.csv(file = "bubble-combined-sus-sink.csv")
 
 > comb <- plot_ly(combubb, x = combubb$Spacer, y = combubb$Depth, mode = "markers", type = "scatter", size = combubb$Peptides, marker = list(symbol = 'circle', sizemode = 'diameter', color = combubb$Mod100, showscale = TRUE, line = list(width = 1, color = "grey"), opacity = 0.4)) %>%
 + layout(title = "", yaxis = list(title = "Depth (m)", showline = TRUE, showgrid = FALSE, autorange = "reversed"), xaxis = list(title = "", showticklabels = FALSE, range = c(0,5)))

@@ -1,0 +1,346 @@
+Protein Group,Protein ID,Accession,-10lgP,Coverage (%),Coverage (%) 372,Area 372,#Peptides,#Unique,#Spec 372,PTM,Avg. Mass,Description
+1,4,ETNP_100,270.07,98,98,2.16E8,76,76,122,Oxidation (M),5311,hypothetical protein
+2,3,ETNP_100,258.26,45,45,2.26E8,54,35,83,,9588,hypothetical protein
+3,2,54036848,221.45,11,11,3.05E8,14,10,38,,95585,RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1
+5,42,ETNP_100,208.61,63,63,9.46E6,33,10,46,,7412,Core histone H2A/H2B/H3/H4
+14,294,ETNP_90,178.89,33,33,4.71E5,21,3,26,,12542,Core histone H2A/H2B/H3/H4
+7,9,XP_003062035,178.23,47,47,3.6E5,25,2,33,,12701,predicted protein  Micromonas pusilla CCMP1545
+7,10,XP_003058519,178.23,47,47,3.6E5,25,2,33,,12701,predicted protein  Micromonas pusilla CCMP1545
+7,11,XP_003055512,178.23,47,47,3.6E5,25,2,33,,12701,histone H2B  Micromonas pusilla CCMP1545
+7,12,XP_003080759,178.23,43,43,3.6E5,25,2,33,,13731,histone H2B ISS  Ostreococcus tauri
+7,14,XP_003082252,178.23,39,39,3.6E5,25,2,33,,15314,histone H2B ISS  Ostreococcus tauri
+7,15,ETNP_70,178.23,35,35,3.6E5,25,2,33,,16840,Core histone H2A/H2B/H3/H4
+7,13,ETNP_70,178.23,44,44,3.6E5,25,2,33,,13742,Core histone H2A/H2B/H3/H4
+8,1,|#CONTAM#TRYP_PIG|,176.33,24,24,1.01E8,18,18,32,,24409,sp|#CONTAM#TRYP_PIG|
+10,74,ETNP_90,174.28,34,34,3.3E6,22,1,30,,13120,Core histone H2A/H2B/H3/H4
+10,75,ETNP_70,174.28,34,34,3.3E6,22,1,30,,13147,Core histone H2A/H2B/H3/H4
+16,702,ETNP_120,173.67,12,12,4.06E6,18,3,22,,23591,Core histone H2A/H2B/H3/H4
+16,702,ETNP_120,173.67,12,12,4.06E6,18,3,22,,23591,Core histone H2A/H2B/H3/H4
+16,702,ETNP_120,173.67,12,12,4.06E6,18,3,22,,23591,Core histone H2A/H2B/H3/H4
+19,327,EJK69581,165.63,30,30,4.66E5,16,1,19,,12922,hypothetical protein THAOC_09149  Thalassiosira oceanica
+19,328,EJK60528,165.63,30,30,4.66E5,16,1,19,,12922,hypothetical protein THAOC_19091  Thalassiosira oceanica
+19,329,EJK52561,165.63,30,30,4.66E5,16,1,19,,12922,hypothetical protein THAOC_28149  Thalassiosira oceanica
+19,332,EJK74337,165.63,22,22,4.66E5,16,1,19,,17560,hypothetical protein THAOC_03988  Thalassiosira oceanica
+19,340,EJK52043,165.63,14,14,4.66E5,16,1,19,,27028,hypothetical protein THAOC_28729 partial  Thalassiosira oceanica
+19,343,EJK62506,165.63,12,12,4.66E5,16,1,19,,32474,hypothetical protein THAOC_16881  Thalassiosira oceanica
+6,5,XP_003062500,162.50,32,32,9.05E6,31,12,35,Oxidation (M),49730,alpha tubulin  Micromonas pusilla CCMP1545
+6,6,XP_003058621,162.50,32,32,9.05E6,31,12,35,Oxidation (M),49730,alpha tubulin  Micromonas pusilla CCMP1545
+4,19,XP_003061104,156.75,34,34,6.79E6,44,12,51,Carbamidomethylation; Oxidation (M),41766,actin flagellar inner arm intermediate chain  Micromonas pusilla CCMP1545
+20,292,ETNP_70,150.52,18,18,4.98E6,15,4,19,Oxidation (M),41848,Bacterial actin-related protein
+12,314,ETNP_100,149.84,38,38,6.71E5,21,2,28,,6373,hypothetical protein
+9,60,XP_003063038,145.76,66,66,2.1E6,26,3,31,Oxidation (M),11395,predicted protein  Micromonas pusilla CCMP1545
+9,61,ETNP_70,145.76,66,66,2.1E6,26,3,31,Oxidation (M),11395,Core histone H2A/H2B/H3/H4
+9,62,XP_003061514,145.76,66,66,2.1E6,26,3,31,Oxidation (M),11395,histone H4  Micromonas pusilla CCMP1545
+9,58,ETNP_120,145.76,66,66,2.1E6,26,3,31,Oxidation (M),11365,Core histone H2A/H2B/H3/H4
+9,59,XP_003061756,145.76,66,66,2.1E6,26,3,31,Oxidation (M),11395,predicted protein  Micromonas pusilla CCMP1545
+9,63,XP_003059520,145.76,66,66,2.1E6,26,3,31,Oxidation (M),11395,predicted protein  Micromonas pusilla CCMP1545
+11,49,ETNP_100,145.52,63,63,1.78E6,25,4,30,Oxidation (M),11381,Core histone H2A/H2B/H3/H4
+13,35,XP_002179286,141.68,56,56,7.29E5,23,2,27,Oxidation (M),11383,histone H4 isoform 1b  Phaeodactylum tricornutum CCAP 1055
+13,37,EJK69577,141.68,56,56,7.29E5,23,2,27,Oxidation (M),11383,hypothetical protein THAOC_09145  Thalassiosira oceanica
+13,36,XP_002179505,141.68,56,56,7.29E5,23,2,27,Oxidation (M),11383,histone H4 isoform 1a  Phaeodactylum tricornutum CCAP 1055
+13,38,EJK72475,141.68,50,50,7.29E5,23,2,27,Oxidation (M),13036,hypothetical protein THAOC_05990  Thalassiosira oceanica
+13,39,EJK63755,141.68,16,16,7.29E5,23,2,27,Oxidation (M),39773,hypothetical protein THAOC_15573 partial  Thalassiosira oceanica
+32,622,ETNP_90,131.68,24,24,1.65E6,9,1,11,,12758,Core histone H2A/H2B/H3/H4
+17,238,XP_003061754,127.06,50,50,1.32E7,19,19,21,Carbamidomethylation,15356,histone H3  Micromonas pusilla CCMP1545
+17,239,XP_003059221,127.06,50,50,1.32E7,19,19,21,Carbamidomethylation,15356,predicted protein  Micromonas pusilla CCMP1545
+17,237,XP_003061708,127.06,50,50,1.32E7,19,19,21,Carbamidomethylation,15356,predicted protein  Micromonas pusilla CCMP1545
+17,241,ETNP_100,127.06,37,37,1.32E7,19,19,21,Carbamidomethylation,21085,Core histone H2A/H2B/H3/H4
+22,190,ETNP_120,120.88,41,41,,16,0,17,Oxidation (M),14995,hypothetical protein
+22,191,ETNP_120,120.88,40,40,,16,0,17,Oxidation (M),15516,hypothetical protein
+15,187,ETNP_90,118.01,29,29,1.55E6,23,3,25,Oxidation (M),33070,Bacterial actin-related protein
+24,77,XP_002180656,117.86,12,12,2.34E5,14,1,15,Oxidation (M),49747,predicted protein  Phaeodactylum tricornutum CCAP 1055
+18,180,ETNP_100,117.22,65,65,4.53E6,16,7,19,Carbamidomethylation,14624,Tubulin/FtsZ family  GTPase domain
+26,289,ETNP14_68,104.69,17,17,2.12E5,12,1,14,,50890,ATP synthase subunit beta
+26,288,ETNP_60,104.69,20,20,2.12E5,12,1,14,,45083,ATP synthase subunit beta
+21,377,EJK52995,101.91,17,17,,14,0,17,,68445,hypothetical protein THAOC_27647  Thalassiosira oceanica
+30,365,ETNP_100,101.62,37,37,3.13E6,11,5,12,,13678,Core histone H2A/H2B/H3/H4
+23,390,ETNP_300,100.37,18,18,,13,0,16,,55804,ATP synthase subunit beta
+25,529,XP_003056479,96.19,19,19,9.13E4,13,1,14,Carbamidomethylation,49615,beta tubulin  Micromonas pusilla CCMP1545
+31,621,ETNP_60,93.96,41,41,5.92E5,10,1,11,,13283,Core histone H2A/H2B/H3/H4
+29,432,XP_003074279,93.73,14,14,,12,0,13,Carbamidomethylation,52955,TBB1_VOLCA Tubulin beta chain ISS  Ostreococcus tauri
+28,582,ETNP_70,91.67,39,39,,11,0,13,,13534,Core histone H2A/H2B/H3/H4
+27,662,WP_014102234,90.70,20,20,,12,0,14,,50782,F0F1 ATP synthase subunit beta Micavibrio aeruginosavorus
+38,936,ACJ00008.1,85.76,4,4,1.18E6,6,2,9,,96573,ATP-dependent chaperone protein ClpB [Rhodospirillum centenum SW]
+43,843,WP_014707596,83.80,2,2,5.17E5,5,1,8,,95984,chaperone protein ClpB Methylophaga nitratireducenticrescens
+33,503,XP_002183424,83.80,16,16,2.67E4,9,1,10,Oxidation (M),41791,actin actin like protein  Phaeodactylum tricornutum CCAP 1055
+33,504,XP_002183295,83.80,16,16,2.67E4,9,1,10,Oxidation (M),41791,predicted protein  Phaeodactylum tricornutum CCAP 1055
+33,505,XP_002182221,83.80,16,16,2.67E4,9,1,10,Oxidation (M),41839,actin actin like protein  Phaeodactylum tricornutum CCAP 1055
+44,1311,ABF62863.1,83.66,2,2,6.29E4,5,1,8,,95490,ATPase AAA-2 [Ruegeria sp. TM1040]
+39,464,ETNP_60,83.52,13,13,3.8E5,7,1,8,Oxidation (M),50949,ATP synthase subunit beta
+39,465,ETNP_70,83.52,13,13,3.8E5,7,1,8,Oxidation (M),50949,ATP synthase subunit beta
+42,1347,CAI86014.1,82.92,2,2,9.42E5,5,1,8,,95628,ATP-dependent protease  Hsp 100  part of multi-chaperone system with DnaK  DnaJ  and GrpE [Pseudoalteromonas haloplanktis TAC125]
+59,692,XP_002185049,81.64,16,16,2.3E6,4,4,4,Oxidation (M),16829,calmoduline  Phaeodactylum tricornutum CCAP 1055
+59,691,EJK77863,81.64,16,16,2.3E6,4,4,4,Oxidation (M),16858,hypothetical protein THAOC_00268  Thalassiosira oceanica
+59,693,EJK58168,81.64,16,16,2.3E6,4,4,4,Oxidation (M),16858,hypothetical protein THAOC_21730  Thalassiosira oceanica
+59,694,ETNP_90,81.64,15,15,2.3E6,4,4,4,Oxidation (M),18514,EF hand
+34,774,ETNP_120,81.63,24,24,,8,0,10,,13824,Core histone H2A/H2B/H3/H4
+46,848,EJK74336,80.83,23,23,,6,0,7,,13990,hypothetical protein THAOC_03987 partial  Thalassiosira oceanica
+46,849,XP_002179427,80.83,24,24,,6,0,7,,13178,histone H2A isoform 3b  Phaeodactylum tricornutum CCAP 1055
+46,850,XP_002179202,80.83,24,24,,6,0,7,,13178,histone H2A isoform 3a  Phaeodactylum tricornutum CCAP 1055
+46,847,XP_002180358,80.83,22,22,,6,0,7,,14700,histone H2A isoform 2  Phaeodactylum tricornutum CCAP 1055
+49,966,XP_003056852,80.22,19,19,2.12E6,7,7,7,,18856,caltractin  Micromonas pusilla CCMP1545
+49,970,ETNP_70,80.22,18,18,2.12E6,7,7,7,,19384,EF hand
+45,1016,EJK65157,80.13,11,11,,6,0,7,,29086,hypothetical protein THAOC_14024  Thalassiosira oceanica
+45,1013,EJK63752,80.13,25,25,,6,0,7,,12825,hypothetical protein THAOC_15570  Thalassiosira oceanica
+45,1014,EJK52562,80.13,25,25,,6,0,7,,12825,hypothetical protein THAOC_28150  Thalassiosira oceanica
+45,1015,EJK66680,80.13,25,25,,6,0,7,,12825,hypothetical protein THAOC_12377  Thalassiosira oceanica
+45,1017,EJK60529,80.13,9,9,,6,0,7,,34853,hypothetical protein THAOC_19092  Thalassiosira oceanica
+37,841,ETNP_70,79.62,17,17,,7,0,9,,19618,Core histone H2A/H2B/H3/H4
+52,678,ETNP_100,78.48,22,22,,6,0,6,,17714,hypothetical protein
+36,587,ETNP14_120,76.33,10,10,7.65E4,8,1,9,,42383,Bacterial actin-related protein
+51,805,ADB27547,76.14,8,8,2.74E6,6,5,6,,54049,ATP synthase CF1 subunit alpha chloroplast  Thalassiosira oceanica CCMP1005
+50,711,ETNP_100,73.58,21,21,3.15E4,6,1,6,Oxidation (M),30242,hypothetical protein
+50,712,ETNP_120,73.58,19,19,3.15E4,6,1,6,Oxidation (M),34262,hypothetical protein
+40,1109,NP_300,73.39,10,10,2.64E5,7,1,8,,49467,ATP synthase subunit beta
+48,707,EJK63020,71.50,8,8,8.48E3,7,1,7,Carbamidomethylation; Oxidation (M),68429,hypothetical protein THAOC_16346  Thalassiosira oceanica
+63,779,XP_002181593,71.42,6,6,2.95E6,4,4,4,,48056,predicted protein  Phaeodactylum tricornutum CCAP 1055
+63,780,XP_002186303,71.42,6,6,2.95E6,4,4,4,,48082,translation elongation factor EF-1 alpha subunit  Phaeodactylum tricornutum CCAP 1055
+41,1436,ABA59515.1,68.55,9,9,0E0,7,1,8,Oxidation (M),49953,ATP synthase F1 subcomplex beta subunit [Nitrosococcus oceani ATCC 19707]
+35,383,EJK68681,67.00,22,22,5.3E6,7,7,10,,23088,hypothetical protein THAOC_10112  Thalassiosira oceanica
+35,358,ETNP14_68,67.00,58,58,5.3E6,7,7,10,,8665,Ubiquitin family protein
+35,371,ETNP_100,67.00,58,58,5.3E6,7,7,10,,8674,Ubiquitin family protein
+35,372,ETNP_100,67.00,56,56,5.3E6,7,7,10,,9076,Ubiquitin family protein
+35,360,ETNP_100,67.00,56,56,5.3E6,7,7,10,,9064,Ubiquitin family protein
+35,352,ETNP_60,67.00,56,56,5.3E6,7,7,10,,9047,Ubiquitin family protein
+35,376,XP_002182250,67.00,35,35,5.3E6,7,7,10,,14454,ubiquitin extension protein 1 2  Phaeodactylum tricornutum CCAP 1055
+35,378,XP_002179851,67.00,29,29,5.3E6,7,7,10,,17809,ubiquitin extension protein 3  Phaeodactylum tricornutum CCAP 1055
+35,370,|#CONTAM#RS27A_HUMAN|,67.00,29,29,5.3E6,7,7,10,,17965,sp|#CONTAM#RS27A_HUMAN|
+35,381,XP_002183736,67.00,22,22,5.3E6,7,7,10,,22982,predicted protein  Phaeodactylum tricornutum CCAP 1055
+35,388,EJK62831,67.00,19,19,5.3E6,7,7,10,,26844,hypothetical protein THAOC_16543  Thalassiosira oceanica
+35,411,XP_002180198,67.00,12,12,5.3E6,7,7,10,,42876,ubiquitin extension protein 4 partial  Phaeodactylum tricornutum CCAP 1055
+35,412,XP_002180197,67.00,12,12,5.3E6,7,7,10,,42876,predicted protein  Phaeodactylum tricornutum CCAP 1055
+53,1090,XP_003059832,65.91,16,16,1.73E5,4,2,5,,14583,histone H2A  Micromonas pusilla CCMP1545
+53,1091,XP_003074738,65.91,16,16,1.73E5,4,2,5,,14945,H2a Histone H2A probable IC  Ostreococcus tauri
+54,97480,ETNP_120,63.43,12,12,,4,0,5,Oxidation (M),28137,ATP synthase subunit beta
+56,689,ETNP_120,62.57,16,16,2.06E5,4,2,5,,16510,Bacterial actin-related protein
+61,786,EJK75097,60.57,12,12,1.88E6,4,4,4,,29103,hypothetical protein THAOC_03193  Thalassiosira oceanica
+61,97479,XP_002180309,60.57,11,11,1.88E6,4,4,4,,32602,oxygen-evolving enhancer protein 1 precursor  Phaeodactylum tricornutum CCAP 1055
+88,97,ETNP14_68,58.81,6,6,2.67E5,2,2,2,,37294,General L-amino acid-binding periplasmic protein AapJ precursor
+88,286,NP_85,58.81,16,16,2.67E5,2,2,2,,14336,General L-amino acid-binding periplasmic protein AapJ precursor
+88,285,ETNP14_68,58.81,16,16,2.67E5,2,2,2,,14393,General L-amino acid-binding periplasmic protein AapJ precursor
+88,174,NP_300,58.81,10,10,2.67E5,2,2,2,,22902,General L-amino acid-binding periplasmic protein AapJ precursor
+88,134,ETNP14_120,58.81,6,6,2.67E5,2,2,2,,37502,General L-amino acid-binding periplasmic protein AapJ precursor
+88,171,SAR11,58.81,6,6,2.67E5,2,2,2,,38010,Putative amino-acid ABC transporter-binding protein YhdW
+88,172,SAR11,58.81,6,6,2.67E5,2,2,2,,38368,Putative amino-acid ABC transporter-binding protein YhdW
+88,173,SAR11,58.81,6,6,2.67E5,2,2,2,,38623,Putative amino-acid ABC transporter-binding protein YhdW
+88,139,ETNP14_68,58.81,10,10,2.67E5,2,2,2,,22932,General L-amino acid-binding periplasmic protein AapJ precursor
+88,98,ETNP14_68,58.81,6,6,2.67E5,2,2,2,,37467,General L-amino acid-binding periplasmic protein AapJ precursor
+88,118,ETNP14_68,58.81,12,12,2.67E5,2,2,2,,19715,General L-amino acid-binding periplasmic protein AapJ precursor
+88,119,ETNP14_68,58.81,12,12,2.67E5,2,2,2,,19638,General L-amino acid-binding periplasmic protein AapJ precursor
+88,157,ETNP14_68,58.81,10,10,2.67E5,2,2,2,,23004,General L-amino acid-binding periplasmic protein AapJ precursor
+88,117,ETNP14_120,58.81,10,10,2.67E5,2,2,2,,22870,General L-amino acid-binding periplasmic protein AapJ precursor
+88,105,ETNP14_120,58.81,6,6,2.67E5,2,2,2,,37337,General L-amino acid-binding periplasmic protein AapJ precursor
+88,205,ETNP14_68,58.81,16,16,2.67E5,2,2,2,,14409,General L-amino acid-binding periplasmic protein AapJ precursor
+88,380,ETNP14_68,58.81,16,16,2.67E5,2,2,2,,14491,General L-amino acid-binding periplasmic protein AapJ precursor
+88,369,ETNP14_68,58.81,16,16,2.67E5,2,2,2,,14338,General L-amino acid-binding periplasmic protein AapJ precursor
+88,206,ETNP14_120,58.81,16,16,2.67E5,2,2,2,,14409,General L-amino acid-binding periplasmic protein AapJ precursor
+88,498,ETNP14_68,58.81,16,16,2.67E5,2,2,2,,14433,General L-amino acid-binding periplasmic protein AapJ precursor
+88,212,ETNP14_120,58.81,13,13,2.67E5,2,2,2,,18061,General L-amino acid-binding periplasmic protein AapJ precursor
+88,204,ETNP14_120,58.81,13,13,2.67E5,2,2,2,,17948,General L-amino acid-binding periplasmic protein AapJ precursor
+88,127,ETNP14_68,58.81,10,10,2.67E5,2,2,2,,22908,General L-amino acid-binding periplasmic protein AapJ precursor
+88,123,SAR11,58.81,6,6,2.67E5,2,2,2,,37561,Putative amino-acid ABC transporter-binding protein YhdW
+88,111,ETNP14_120,58.81,6,6,2.67E5,2,2,2,,37413,General L-amino acid-binding periplasmic protein AapJ precursor
+88,107,ETNP14_68,58.81,6,6,2.67E5,2,2,2,,37979,General L-amino acid-binding periplasmic protein AapJ precursor
+88,170,ETNP14_120,58.81,6,6,2.67E5,2,2,2,,40275,General L-amino acid-binding periplasmic protein AapJ precursor
+47,799,XP_002185730,58.38,10,10,3.02E5,7,2,7,Carbamidomethylation,49582,predicted protein  Phaeodactylum tricornutum CCAP 1055
+64,1932,ETNP14_68,55.80,4,4,1.19E7,4,4,4,,59892,NADP-dependent malic enzyme
+72,97481,XP_003082709,55.22,4,4,9.03E5,3,3,3,,49021,EF-1 alpha-like protein ISS  Ostreococcus tauri
+72,97482,XP_003082562,55.22,3,3,9.03E5,3,3,3,,54178,EF-1 alpha-like protein ISS  Ostreococcus tauri
+72,97483,XP_003058806,55.22,4,4,9.03E5,3,3,3,,51745,predicted protein  Micromonas pusilla CCMP1545
+72,97484,XP_003060959,55.22,4,4,9.03E5,3,3,3,,51759,predicted protein  Micromonas pusilla CCMP1545
+68,259,ETNP_70,54.19,25,25,5.16E5,2,2,2,Carbamidomethylation,8842,Photosystem I iron-sulfur center
+68,208,WP_007099573.1,54.19,25,25,5.16E5,2,2,2,Carbamidomethylation,8828,MULTISPECIES: photosystem I iron-sulfur center protein PsaC [Synechococcales]
+68,209,NP_30,54.19,25,25,5.16E5,2,2,2,Carbamidomethylation,8828,Photosystem I iron-sulfur center
+68,260,ETNP14_68,54.19,25,25,5.16E5,2,2,2,Carbamidomethylation,8842,Photosystem I iron-sulfur center
+68,261,WP_006850103,54.19,25,25,5.16E5,2,2,2,Carbamidomethylation,8842,photosystem I iron-sulfur center Chroococcales
+68,210,WP_007099573,54.19,25,25,5.16E5,2,2,2,Carbamidomethylation,8828,photosystem I iron-sulfur center Cyanobacteria
+68,207,CAK22624.1,54.19,25,25,5.16E5,2,2,2,Carbamidomethylation,8844,Photosystem I iron-sulfur center subunit VII PsaC [Synechococcus sp. WH 7803]
+68,211,WP_006172463,54.19,25,25,5.16E5,2,2,2,Carbamidomethylation,8844,photosystem I iron-sulfur center Synechococcus sp WH 5701
+68,262,ETNP14_68,54.19,25,25,5.16E5,2,2,2,Carbamidomethylation,8842,Photosystem I iron-sulfur center
+78,97489,EJK67963,50.67,5,5,2.59E6,3,3,3,,36216,hypothetical protein THAOC_10917  Thalassiosira oceanica
+78,97505,XP_002182626,50.67,7,7,2.59E6,3,3,3,,27066,14-3-3-like protein partial  Phaeodactylum tricornutum CCAP 1055
+78,97506,XP_003064340,50.67,6,6,2.59E6,3,3,3,,29850,predicted protein  Micromonas pusilla CCMP1545
+78,97508,EJK43862,50.67,1,1,2.59E6,3,3,3,,154489,hypothetical protein THAOC_37651  Thalassiosira oceanica
+101,785,ETNP_120,47.83,4,4,9.17E4,2,1,2,,55723,ATP synthase subunit alpha
+101,1165,ETNP_120,47.83,4,4,9.17E4,2,1,2,,49429,ATP synthase subunit alpha
+84,846,ACS36854.1,47.41,4,4,1.19E6,2,2,2,,53804,ribulose-1 5-bisphosphate carboxylase/oxygenase large subunit (chloroplast) [Aureococcus anophagefferens]
+112,1586,EJK60670,47.40,6,6,9E4,1,1,2,,23953,hypothetical protein THAOC_18936 partial  Thalassiosira oceanica
+112,1662,EJK68017,47.40,4,4,9E4,1,1,2,,39492,hypothetical protein THAOC_10857  Thalassiosira oceanica
+112,1748,XP_002180505,47.40,4,4,9E4,1,1,2,,40035,precursor of ATPase ATPase gamma subunit  Phaeodactylum tricornutum CCAP 1055
+73,1571,ETNP_150,47.18,62,62,,3,0,3,Carbamidomethylation,4626,Tubulin/FtsZ family  GTPase domain
+337,1929,XP_002184899,47.02,7,7,1.37E5,1,1,1,,22479,flavodoxin  Phaeodactylum tricornutum CCAP 1055
+164,1464,KUK50408,45.96,2,2,4.09E4,1,1,1,,65827,Chaperone protein HtpG Marinimicrobia bacterium 46_47
+164,1463,KUK91805,45.96,2,2,4.09E4,1,1,1,,72315,molecular chaperone of HSP90 family Marinimicrobia bacterium 46_43
+164,1518,Verrucomicrobia_HGEPPPGB_02534,45.96,2,2,4.09E4,1,1,1,,70188,Chaperone protein HtpG
+164,1473,BAI71019.1,45.96,2,2,4.09E4,1,1,1,,69461,molecular chaperone [Azospirillum sp. B510]
+164,1349,EJK51577,45.96,2,2,4.09E4,1,1,1,,80646,hypothetical protein THAOC_29237  Thalassiosira oceanica
+164,1296,ETNP14_68,45.96,4,4,4.09E4,1,1,1,,43142,Chaperone protein HtpG
+164,1647,WP_015403860,45.96,2,2,4.09E4,1,1,1,,70179,molecular chaperone of HSP90 family Desulfocapsa sulfexigens
+164,1481,ACI99809.1,45.96,2,2,4.09E4,1,1,1,,69559,molecular chaperone hSP90 family  putative [Rhodospirillum centenum SW]
+164,1630,ETNP_70,45.96,2,2,4.09E4,1,1,1,,73971,Chaperone protein HtpG
+115,97510,ADB27507,45.85,12,12,1.14E6,2,2,2,,9514,cytochrome b559 subunit alpha chloroplast  Thalassiosira oceanica CCMP1005
+115,97511,ETNP_70,45.85,12,12,1.14E6,2,2,2,,9498,Cytochrome b559 subunit alpha
+115,97512,EJK52346,45.85,12,12,1.14E6,2,2,2,,9514,hypothetical protein THAOC_28393  Thalassiosira oceanica
+115,97513,ACS36849.1,45.85,12,12,1.14E6,2,2,2,,9498,cytochrome b559 alpha chain (chloroplast) [Aureococcus anophagefferens]
+115,97514,ETNP_90,45.85,12,12,1.14E6,2,2,2,,9498,Cytochrome b559 subunit alpha
+115,97515,EJK55852,45.85,12,12,1.14E6,2,2,2,,9514,hypothetical protein THAOC_24363  Thalassiosira oceanica
+115,97516,ETNP_60,45.85,12,12,1.14E6,2,2,2,,9498,Cytochrome b559 subunit alpha
+115,97517,ETNP_70,45.85,11,11,1.14E6,2,2,2,,10521,Cytochrome b559 subunit alpha
+67,97549,ETNP_180,43.77,6,6,4.49E5,4,1,4,Oxidation (M),50634,ATP synthase subunit beta
+67,97550,ETNP_160,43.77,6,6,4.49E5,4,1,4,Oxidation (M),50648,ATP synthase subunit beta
+67,97551,ETNP_140,43.77,6,6,4.49E5,4,1,4,Oxidation (M),50634,ATP synthase subunit beta
+71,97526,ETNP_120,41.87,16,16,,3,0,3,Oxidation (M),25471,ATP synthase subunit beta
+89,1707,XP_003058361,41.32,2,2,4.51E4,2,1,2,,75664,predicted protein  Micromonas pusilla CCMP1545
+92,1361,ETNP14_120,41.28,6,6,8.31E4,2,1,2,,36219,Glyceraldehyde-3-phosphate dehydrogenase A
+92,1362,NP_300,41.28,6,6,8.31E4,2,1,2,,36219,Glyceraldehyde-3-phosphate dehydrogenase A
+92,1363,NP_85,41.28,6,6,8.31E4,2,1,2,,36205,Glyceraldehyde-3-phosphate dehydrogenase A
+92,1359,ETNP_140,41.28,6,6,8.31E4,2,1,2,,36205,Glyceraldehyde-3-phosphate dehydrogenase A
+92,1364,NP_125,41.28,6,6,8.31E4,2,1,2,,36218,Glyceraldehyde-3-phosphate dehydrogenase A
+92,1360,ETNP_120,41.28,6,6,8.31E4,2,1,2,,36205,Glyceraldehyde-3-phosphate dehydrogenase A
+92,1313,ACL73965.1,41.28,6,6,8.31E4,2,1,2,,35721,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) [Thioalkalivibrio sulfidiphilus HL-EbGr7]
+92,1327,WP_007278549,41.28,6,6,8.31E4,2,1,2,,35265,glyceraldehyde-3-phosphate dehydrogenase Lentisphaera araneosa
+93,2193,WP_006170879,38.54,8,8,,2,0,2,,35148,glyceraldehyde-3-phosphate dehydrogenase Synechococcus sp WH 5701
+113,97503,ETNP_120,36.06,3,3,3.56E6,1,1,2,,30958,Alpha-ketoglutarate-dependent taurine dioxygenase
+76,3888,WP_009779412.1,34.65,9,9,7.26E4,3,2,3,,35853,type I glyceraldehyde-3-phosphate dehydrogenase [Leeuwenhoekiella blandensis]
+79,2143,ETNP_120,34.43,20,20,1.02E7,1,1,3,,5568,hypothetical protein
+79,2142,ETNP_180,34.43,20,20,1.02E7,1,1,3,,5568,hypothetical protein
+114,97504,ETNP_70,34.32,8,8,3.98E5,1,1,2,,10701,hypothetical protein
+90,2290,ETNP_120,32.19,2,2,2.73E6,2,2,2,,110619,Transcription-repair-coupling factor
+235,120,ETNP14_68,31.56,3,3,2.49E5,1,1,1,,27433,Photosystem II manganese-stabilizing polypeptide precursor
+235,236,ETNP14_68,31.56,3,3,2.49E5,1,1,1,,28050,Photosystem II manganese-stabilizing polypeptide precursor
+235,607,WP_011131867.1,31.56,3,3,2.49E5,1,1,1,,28114,photosystem II manganese-stabilizing protein [Prochlorococcus marinus]
+235,242,ETNP_90,31.56,3,3,2.49E5,1,1,1,,27988,Photosystem II manganese-stabilizing polypeptide precursor
+235,624,WP_011375796.1,31.56,3,3,2.49E5,1,1,1,,28264,photosystem II manganese-stabilizing protein [Prochlorococcus marinus]
+235,609,WP_042849726,31.56,3,3,2.49E5,1,1,1,,28075,photosystem II manganese-stabilizing polypeptide Prochlorococcus sp MIT 0604
+235,610,NP_30,31.56,3,3,2.49E5,1,1,1,,29771,Photosystem II manganese-stabilizing polypeptide precursor
+339,97518,NP_100,31.45,9,9,1.36E6,1,1,1,,10189,hypothetical protein
+117,2411,ETNP_120,31.36,7,7,1.67E6,2,2,2,,14150,30S ribosomal protein S13
+102,56957,XP_003061284,31.20,1,1,1.98E5,2,2,2,,287546,JmjN JmjC protein  Micromonas pusilla CCMP1545
+340,97523,ETNP_300,30.98,6,6,2.13E5,1,1,1,,13435,Putative signal peptide peptidase SppA
+341,97527,WP_014437656,30.86,4,4,3.34E4,1,1,1,,31765,flagellar biosynthesis protein FlhG Phycisphaera mikurensis
+66,97519,ETNP14_120,30.24,4,4,0E0,1,1,4,,25534,hypothetical protein
+66,97520,ETNP_140,30.24,4,4,0E0,1,1,4,,25578,hypothetical protein
+66,97530,ETNP_120,30.24,6,6,0E0,1,1,4,,16353,hypothetical protein
+66,97531,ETNP14_68,30.24,2,2,0E0,1,1,4,,41524,DNA replication and repair protein RecF
+342,2373,ETNP_120,29.84,6,6,4.6E5,1,1,1,,16421,hypothetical protein
+343,97532,EJP73404,29.84,5,5,3.56E5,1,1,1,,16413,beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ SAR86 cluster bacterium SAR86B
+343,97533,NP_100,29.84,5,5,3.56E5,1,1,1,,16338,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+343,97534,KHE92059,29.84,5,5,3.56E5,1,1,1,,16426,beta-hydroxyacyl-(acyl-carrier-protein) dehydratase Candidatus Scalindua brodae
+343,97535,ETNP14_120,29.84,5,5,3.56E5,1,1,1,,16351,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+94,3412,XP_003056319,29.36,2,2,9.97E3,2,1,2,,107067,predicted protein  Micromonas pusilla CCMP1545
+344,97541,ETNP_100,28.00,15,15,3.91E5,1,1,1,,6873,hypothetical protein
+236,665,WP_038651072,27.86,3,3,8.13E4,1,1,1,,28325,photosystem II manganese-stabilizing polypeptide Prochlorococcus sp MIT 0801
+236,666,WP_011294230.1,27.86,3,3,8.13E4,1,1,1,,28324,photosystem II manganese-stabilizing protein [Prochlorococcus marinus]
+144,97499,ETNP_100,27.54,6,6,1.77E5,1,1,1,,12827,50S ribosomal protein L7/L12
+144,97500,ETNP14_68,27.54,6,6,1.77E5,1,1,1,,12827,50S ribosomal protein L7/L12
+144,97501,ETNP14_120,27.54,6,6,1.77E5,1,1,1,,12827,50S ribosomal protein L7/L12
+144,97502,ETNP_90,27.54,6,6,1.77E5,1,1,1,,12827,50S ribosomal protein L7/L12
+144,97521,ETNP_70,27.54,12,12,1.77E5,1,1,1,,6590,50S ribosomal protein L7/L12
+144,97522,ETNP_90,27.54,6,6,1.77E5,1,1,1,,12899,50S ribosomal protein L7/L12
+144,97524,ETNP_120,27.54,6,6,1.77E5,1,1,1,,12994,50S ribosomal protein L7/L12
+144,97525,ETNP_120,27.54,6,6,1.77E5,1,1,1,,12994,50S ribosomal protein L7/L12
+144,97544,ADB27487,27.54,6,6,1.77E5,1,1,1,,13340,50S ribosomal protein L7 L12 chloroplast  Thalassiosira oceanica CCMP1005
+144,97545,ETNP_120,27.54,6,6,1.77E5,1,1,1,,13769,50S ribosomal protein L7/L12
+237,97528,ETNP_100,27.40,5,5,1.26E5,1,1,1,,17860,hypothetical protein
+237,97529,ETNP_90,27.40,4,4,1.26E5,1,1,1,,22675,hypothetical protein
+237,97546,ETNP14_68,27.40,7,7,1.26E5,1,1,1,,13325,hypothetical protein
+182,1387,ETNP_120,27.10,9,9,2.57E6,1,1,1,,9575,hypothetical protein
+182,1218,ETNP_180,27.10,6,6,2.57E6,1,1,1,,15582,hypothetical protein
+116,97547,ETNP14_68,27.04,13,13,1.94E6,1,1,2,,8002,hypothetical protein
+180,97507,ETNP_90,26.96,1,1,0E0,1,1,1,,119856,Lactonase  7-bladed beta-propeller
+105,4310,ETNP_70,26.24,4,4,5.44E5,2,2,2,,46310,CTP synthase
+181,42706,ETNP_300,26.21,2,2,4.91E5,1,1,1,,40593,putative acetyl-CoA acyltransferase
+107,97954,WP_015441872,25.71,3,3,6.83E5,2,2,2,,63168,hypothetical protein Ilumatobacter coccineus
+74,2393,Verrucomicrobia_HGEPPPGB_01145,25.66,2,2,9.07E5,1,1,3,,49969,Dihydrolipoyl dehydrogenase
+100,3088,WP_011281575,25.61,14,14,3.4E5,2,2,2,,18756,30S ribosomal protein S16 Candidatus Pelagibacter ubique
+119,97957,ETNP_120,25.32,2,2,1.33E5,2,2,2,,73243,Methionine--tRNA ligase
+69,2370,ABE41618.1,24.86,2,2,1.23E6,1,1,3,Oxidation (M),68759,heat shock protein Hsp90 [Rhodopseudomonas palustris BisB5]
+103,42704,CAN91477.1,24.39,2,2,2.01E7,1,1,2,,56854,hypothetical protein sce1319 [Sorangium cellulosum So ce56]
+99,97810,CAN93720.1,24.13,2,2,8.61E5,2,2,2,,45201,hypothetical protein sce3560 [Sorangium cellulosum So ce56]
+99,5018,ETNP14_68,24.13,1,1,8.61E5,2,2,2,,63665,hypothetical protein
+99,98051,WP_014437499,24.13,3,3,8.61E5,2,2,2,,25581,glycosyl transferase Phycisphaera mikurensis
+99,98054,ABQ30312.1,24.13,3,3,8.61E5,2,2,2,,28577,hypothetical protein Acry_1097 [Acidiphilium cryptum JF-5]
+345,97683,ETNP14_120,23.81,7,7,1.12E6,1,1,1,,11729,hypothetical protein
+98,97631,XP_003074758,23.71,2,2,3.88E5,2,2,2,,97663,TraS Otto transposase IC partial  Ostreococcus tauri
+347,2041,ACI99974.1,23.42,12,12,4.28E5,1,1,1,,11095,chaperonin GroS  putative [Rhodospirillum centenum SW]
+183,97563,WP_044279325,23.29,1,1,1.36E5,1,1,1,,67391,hypothetical protein Myxococcus stipitatus
+104,97708,XP_003083129,23.21,4,4,6.32E4,1,1,2,,31806,splicing factor ISS  Ostreococcus tauri
+348,97714,WP_013961490,23.16,1,1,2.42E6,1,1,1,,63071,phosphogluconate dehydratase Roseobacter litoralis
+348,97715,ABG32405.1,23.16,1,1,2.42E6,1,1,1,,63113,phosphogluconate dehydratase [Roseobacter denitrificans OCh 114]
+246,97732,ETNP14_120,22.70,17,17,1.03E5,1,1,1,,5709,hypothetical protein
+246,97734,ETNP14_120,22.70,3,3,1.03E5,1,1,1,,32958,Methylisocitrate lyase
+246,3031,WP_025049006,22.70,1,1,1.03E5,1,1,1,,124523,indolepyruvate ferredoxin oxidoreductase Sulfitobacter mediterraneus
+240,97609,ETNP_180,22.43,4,4,9.29E5,1,1,1,,21925,hypothetical protein
+248,7005,NP_30,22.32,3,3,5.39E5,1,1,1,,24500,Crotonyl-CoA reductase
+352,97777,ETNP_160,22.13,9,9,2.04E5,1,1,1,,12210,Core histone H2A/H2B/H3/H4
+249,97780,ETNP_180,22.11,2,2,1.91E4,1,1,1,,68831,hypothetical protein
+354,97784,ETNP_120,22.10,3,3,7.28E5,1,1,1,,31211,Phytanoyl-CoA dioxygenase (PhyH)
+353,2945,ETNP_120,22.06,13,13,1.32E5,1,1,1,,7842,Dihydropteroate synthase
+353,2946,ETNP_180,22.06,13,13,1.32E5,1,1,1,,7666,Dihydropteroate synthase
+353,2588,ETNP_120,22.06,7,7,1.32E5,1,1,1,,14557,Dihydropteroate synthase
+353,2484,ETNP_120,22.06,4,4,1.32E5,1,1,1,,28303,Dihydropteroate synthase
+353,2485,ETNP_140,22.06,4,4,1.32E5,1,1,1,,28303,Dihydropteroate synthase
+353,2487,ETNP_300,22.06,4,4,1.32E5,1,1,1,,28303,Dihydropteroate synthase
+353,2486,ETNP_160,22.06,4,4,1.32E5,1,1,1,,28303,Dihydropteroate synthase
+152,77226,virus_CCADEAMM_40691,22.01,0,0,1.28E5,1,1,1,,353389,hypothetical protein
+125,2472,XP_003061978,21.86,1,1,,1,0,1,,258651,predicted protein  Micromonas pusilla CCMP1545
+135,3427,WP_014473136,21.85,2,2,0E0,1,1,1,Oxidation (M),94576,FeS-dependent 2-methylisocitrate dehydratase AcnD Arcobacter sp L
+359,10430,ETNP_100,21.78,3,3,5.13E5,1,1,1,Carbamidomethylation,21263,hypothetical protein
+357,6376,ETNP_120,21.72,9,9,2.09E5,1,1,1,,10364,Zinc ribbon domain protein
+131,2369,XP_003059579,21.67,1,1,5.88E5,1,1,1,,136223,predicted protein  Micromonas pusilla CCMP1545
+58,97804,ETNP_300,21.65,1,1,5.58E5,1,1,4,,104403,Membrane protein YdfJ
+184,97566,NP_300,21.65,1,1,,1,0,1,,68763,ATP synthase subunit alpha
+360,97856,ACL74046.1,21.32,4,4,7.21E5,1,1,1,,24723,protein of unknown function DUF1007 [Thioalkalivibrio sulfidiphilus HL-EbGr7]
+242,2645,ETNP_90,21.25,3,3,6.24E4,1,1,1,,32694,Fructose-bisphosphate aldolase class 1
+242,2592,ETNP_90,21.25,3,3,6.24E4,1,1,1,,32846,Fructose-bisphosphate aldolase class 1
+242,2840,ETNP_60,21.25,3,3,6.24E4,1,1,1,,32990,Fructose-bisphosphate aldolase class 1
+242,2841,ETNP14_68,21.25,3,3,6.24E4,1,1,1,,32990,Fructose-bisphosphate aldolase class 1
+242,2692,ETNP14_68,21.25,3,3,6.24E4,1,1,1,,32980,Fructose-bisphosphate aldolase class 1
+242,2473,EJK55299,21.25,2,2,6.24E4,1,1,1,,44393,class I fructose-bisphosphate aldolase  Thalassiosira oceanica
+242,2839,ABI76278.1,21.25,3,3,6.24E4,1,1,1,,32204,fructose-bisphosphate aldolase  class I [Hyphomonas neptunium ATCC 15444]
+242,2796,ETNP_120,21.25,3,3,6.24E4,1,1,1,,32118,Fructose-bisphosphate aldolase class 1
+242,2436,ABF64708.1,21.25,3,3,6.24E4,1,1,1,,31845,fructose-bisphosphate aldolase [Ruegeria sp. TM1040]
+242,3201,WP_012517374,21.25,3,3,6.24E4,1,1,1,,32760,class I fructose-bisphosphate aldolase Alteromonas mediterranea
+242,2510,WP_029390899,21.25,3,3,6.24E4,1,1,1,,33307,class I fructose-bisphosphate aldolase SAR324 cluster bacterium SCGC AAA240-J09
+242,3192,ETNP_120,21.25,13,13,6.24E4,1,1,1,,8630,Fructose-bisphosphate aldolase class 1
+242,3194,ETNP_160,21.25,9,9,6.24E4,1,1,1,,12497,Fructose-bisphosphate aldolase class 1
+242,2500,ABG31856.1,21.25,3,3,6.24E4,1,1,1,,31124,fructose-bisphosphate aldolase  class I [Roseobacter denitrificans OCh 114]
+242,2879,ETNP_160,21.25,3,3,6.24E4,1,1,1,,32361,Fructose-bisphosphate aldolase class 1
+242,2504,AAV95177.1,21.25,3,3,6.24E4,1,1,1,,31437,fructose-bisphosphate aldolase  class I [Ruegeria pomeroyi DSS-3]
+242,3196,ETNP_100,21.25,3,3,6.24E4,1,1,1,,32574,Fructose-bisphosphate aldolase class 1
+242,3195,ETNP14_68,21.25,3,3,6.24E4,1,1,1,,32574,Fructose-bisphosphate aldolase class 1
+242,3197,ETNP_70,21.25,3,3,6.24E4,1,1,1,,32423,Fructose-bisphosphate aldolase class 1
+242,3198,ETNP_90,21.25,3,3,6.24E4,1,1,1,,32574,Fructose-bisphosphate aldolase class 1
+242,3200,ETNP_180,21.25,3,3,6.24E4,1,1,1,,32630,Fructose-bisphosphate aldolase class 1
+242,2680,NP_300,21.25,3,3,6.24E4,1,1,1,,32755,Fructose-bisphosphate aldolase class 1
+242,2479,WP_013962147,21.25,3,3,6.24E4,1,1,1,,31705,fructose-bisphosphate aldolase Roseobacter litoralis
+242,3199,ETNP14_120,21.25,3,3,6.24E4,1,1,1,,32616,Fructose-bisphosphate aldolase class 1
+242,2441,ETNP_90,21.25,3,3,6.24E4,1,1,1,,31902,Fructose-bisphosphate aldolase class 1
+242,2950,EAQ01232.1,21.25,3,3,6.24E4,1,1,1,,31898,fructose-bisphosphate aldolase [Pseudooceanicola batsensis HTCC2597]
+242,2902,ETNP_120,21.25,3,3,6.24E4,1,1,1,,32491,Fructose-bisphosphate aldolase class 1
+242,2606,WP_025049155,21.25,3,3,6.24E4,1,1,1,,31837,fructose-bisphosphate aldolase Sulfitobacter mediterraneus
+242,2521,ABQ68964.1,21.25,3,3,6.24E4,1,1,1,,32082,fructose-bisphosphate aldolase [Sphingomonas wittichii RW1]
+242,2937,XP_002176520,21.25,3,3,6.24E4,1,1,1,,33411,cytosolic aldolase  Phaeodactylum tricornutum CCAP 1055
+361,97865,XP_003060837,21.22,9,9,2.18E5,1,1,1,Carbamidomethylation,9423,predicted protein  Micromonas pusilla CCMP1545
+361,97866,XP_003083456,21.22,8,8,2.18E5,1,1,1,Carbamidomethylation,10821,40s ribosomal protein S27 ISS  Ostreococcus tauri
+55,97679,WP_011785452,21.01,1,1,2.29E5,1,1,5,,77775,flagellar biosynthesis protein FlhA Marinobacter
+55,97890,ETNP14_120,21.01,6,6,2.29E5,1,1,5,,15111,hypothetical protein
+55,97891,virus_CCADEAMM_05982,21.01,6,6,2.29E5,1,1,5,,15386,hypothetical protein
+55,97892,NP_85,21.01,6,6,2.29E5,1,1,5,,16120,Deoxyguanosine kinase
+55,97893,ETNP_120,21.01,6,6,2.29E5,1,1,5,,16860,Deoxyguanosine kinase
+55,97894,ETNP14_120,21.01,6,6,2.29E5,1,1,5,,16860,Deoxyguanosine kinase
+55,97895,ETNP_100,21.01,4,4,2.29E5,1,1,5,,25303,Deoxyguanosine kinase
+55,97896,ETNP14_68,21.01,2,2,2.29E5,1,1,5,,36972,tRNA (mo5U34)-methyltransferase
+362,5718,WP_012624923,20.87,2,2,6.02E4,1,1,1,,63964,formate--tetrahydrofolate ligase Desulfovibrio desulfuricans
+247,97764,BAE50680.1,20.81,2,2,4.16E5,1,1,1,,43193,Membrane-fusion protein [Magnetospirillum magneticum AMB-1]
+175,97937,NP_300,20.71,2,2,1.22E5,1,1,1,,42779,hypothetical protein
+250,97850,WP_013912982,20.58,1,1,5.19E5,1,1,1,,87076,5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase Oligotropha carboxidovorans
+250,97996,ETNP_120,20.58,2,2,5.19E5,1,1,1,,37880,Ribosome-binding ATPase YchF
+250,97998,WP_013261647,20.58,1,1,5.19E5,1,1,1,,84233,ATP-dependent Clp protease ATP-binding subunit ClpA gamma proteobacterium HdN1
+364,98009,ETNP_160,20.56,2,2,0E0,1,1,1,,58052,Periplasmic dipeptide transport protein precursor
+364,98010,ETNP_120,20.56,2,2,0E0,1,1,1,,58051,Periplasmic dipeptide transport protein precursor
+364,98011,ETNP_180,20.56,2,2,0E0,1,1,1,,58051,Periplasmic dipeptide transport protein precursor
+145,68051,Flavovirus_FBAKDGPJ_01959,20.46,0,0,6.04E3,1,1,1,,382006,hypothetical protein
+205,97943,XP_003080074,20.25,1,1,2.04E6,1,1,1,,79066,Predicted haloacid-halidohydrolase and related hydrolases ISS  Ostreococcus tauri
+160,97932,ETNP14_68,20.16,3,3,0E0,1,1,1,,29551,hypothetical protein
+160,97933,ETNP_70,20.16,2,2,0E0,1,1,1,,40444,hypothetical protein

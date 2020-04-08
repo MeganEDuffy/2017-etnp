@@ -1,0 +1,57 @@
+#plotting O2, NO2, NO3, Chl, T from SKQ201617 station 0012
+
+library(plotly)
+library(tidyverse)
+
+p2 <- read.csv(file = "etnp-2017-megadata.csv")
+
+l <- list(
+  font = list(
+    family = "sans-serif",
+    size = 24,
+    color = "#000"),
+  bgcolor = "#E2E2E2",
+  bordercolor = "#FFFFFF",
+  borderwidth = 2)
+
+
+d <- plot_ly(p2, x = p2$OxygenSKQ0012, y = p2$DepthSKQ0012,
+        type = 'scatter', name = 'Oxygen', mode = 'lines') %>%
+        add_trace(x = p2$FluorescenseSKQ0012, name = 'Fluorescence', mode = 'lines') %>%
+
+  layout(title = '',
+         yaxis = list(title = "Depth (m)", titlefont = list(size=24), showline = TRUE, showgrid = FALSE, range = c(1000, 0), tickfont = list(size=24)),
+         xaxis = list(zeroline = FALSE))
+
+d
+
+car <- plot_ly(p2, x = p2$p2orgcflux2012, y = p2$p2depth2012,
+        type = 'scatter', name = 'April 2012', mode = 'lines+markers', marker = list(color = 'rgba(204,102,0, 1)'), 
+        line = list(color = 'rgba(204,102,0, 1)')) %>%
+        add_trace(x = p2$p2orgcflux2017, y = p2$p2depth2017, name = 'Jan. 2017', mode = 'lines+markers', marker = list(color = 'rgba(0,102,204, 1)'), 
+        line = list(color = 'rgba(0,102,204, 1)')) %>%
+
+  layout(title = '', legend = l,
+  	     margin = list(l=25, r=50, b=50, t=50, pad=0),
+         yaxis = list(title = "Depth (m)", titlefont = list(size=24), range = c(0, 200), showline = TRUE, showgrid = FALSE, autorange = "reversed", tickfont = list(size=24)),
+         xaxis = list(title = "Organic C (mmol/m2/day)", titlefont = list(size=24), showline = TRUE, showgrid = FALSE, tickfont = list(size=24), zeroline = FALSE))
+
+car
+
+nit <- plot_ly(p2, x = p2$p2Nflux2012, y = p2$p2depth2012,
+        type = 'scatter', name = 'April 2012', mode = 'lines+markers', marker = list(color = 'rgba(204,102,0, 1)'), 
+        line = list(color = 'rgba(204,102,0, 1)')) %>%
+        add_trace(x = p2$p2Nflux2017, y = p2$p2depth2017, name = 'Jan. 2017', mode = 'lines+markers', marker = list(color = 'rgba(0,102,204, 1)'), 
+        line = list(color = 'rgba(0,102,204, 1)')) %>%
+
+  layout(title = '', legend = l,
+  	     margin = list(l=25, r=50, b=50, t=50, pad=0),
+         yaxis = list(range = c(1000, 0), zeroline = TRUE, title = "Depth (m)", titlefont = list(size=24), showline = TRUE, showgrid = FALSE, autorange = "reversed", tickfont = list(size=24)),
+         xaxis = list(title = "N flux (umol/m2/day)", titlefont = list(size=24), showline = TRUE, showgrid = FALSE, tickfont = list(size=24), zeroline = FALSE))
+
+ nit
+
+
+
+
+

@@ -1,0 +1,26 @@
+# Combined plot for suspended and sinking POM
+
+library(tidyverse)
+library(plotly)
+
+combubb <- read.csv(file = "bubble-combined-sus-sink.csv")
+
+comb <- plot_ly(combubb, 
+	x = combubb$Spacer, 
+	y = combubb$Depth, 
+	mode = "markers", 
+	type = "scatter", 
+	size = combubb$Peptides, 
+	marker = list(symbol = 'circle', 
+		sizemode = 'diameter', 
+		color = combubb$Mod100,  
+		title='% peptides modified', 
+		showscale = TRUE,
+		colorbar=list(title = '% peptides modified', titlefont = list(size=24), tickfont=list(size=24), ticklabelangle = -90),
+		line = list(width = 1, color = "grey"), 
+		opacity = 0.4)) %>%
+
+	layout(title = "", 
+	yaxis = list(title = "Depth (m)", titlefont = list(size=24), showline = TRUE, showgrid = FALSE, autorange = "reversed", tickfont = list(size=24)), xaxis = list(title = "", showticklabels = FALSE, range = c(0,5)))
+
+comb

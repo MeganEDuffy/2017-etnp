@@ -1,0 +1,256 @@
+Protein Group,Protein ID,Accession,-10lgP,Coverage (%),Coverage (%) ETNP_NT05,Area ETNP_NT05,#Peptides,#Unique,#Spec ETNP_NT05,PTM,Avg. Mass,Description
+1,58,gi|54036848,239.31,11,11,5.02E8,17,14,65,Sodium adduct; Dehydration; Deamidation (NQ); Acetylation (N-term); Replacement of 2 protons by calcium; 7 more,95585,RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1
+2,259126,ETNP14_68maa_PROKKA_151341,147.52,9,9,2.78E7,17,16,36,,34468,Sporulation related domain protein
+2,259124,180m_megahit_DBICIOKE_95237,147.52,22,22,2.78E7,17,16,36,,14798,hypothetical protein
+5,16,ETNP_70m_PROKKA_142252,132.14,13,13,3.78E6,15,5,17,Oxidation (M),41848,Bacterial actin-related protein
+5,17,70m_MEGAHIT_CJDMCFAD_63857,132.14,12,12,3.78E6,15,5,17,Oxidation (M),46890,Bacterial actin-related protein
+4,6,70m_MEGAHIT_CJDMCFAD_72421,123.14,19,19,7.04E7,24,13,29,Carbamidomethylation; Oxidation (M),43386,Bacterial actin-related protein
+6,82,100mP_megahit_BKKBEGJO_23068,120.93,46,46,1.02E7,17,7,18,Oxidation (M),13793,hypothetical protein
+6,83,70m_MEGAHIT_CJDMCFAD_68937,120.93,46,46,1.02E7,17,7,18,Oxidation (M),13858,hypothetical protein
+10,291,100mP_megahit_BKKBEGJO_62241,119.68,39,39,2.68E6,13,3,14,Ornithine from Arginine,9588,hypothetical protein_ETNP_100m_particle_PROKKA_55047 hypothetical protein
+13,38,90m_Megahit_DAALLOGA_112022,100.02,11,11,1.39E7,7,1,8,,21057,Bacterial actin-related protein
+7,259113,100mP_megahit_BKKBEGJO_91438,93.34,4,4,0E0,5,1,15,Dihydroxy; Sodium adduct; Dehydration; Deamidation (NQ); Methylation(KR); 2 more,94097,Negative regulator of genetic competence ClpC/MecB_120mP_megahit_HKJGLMBE_32240 Negative regulator of genetic competence ClpC/MecB_ETNP_120m_particle_PROKKA_230712 Negative regulator of genetic competence ClpC/MecB
+8,259123,ETNP_120m_particle_PROKKA_69819,92.63,4,4,6.58E5,5,1,14,Dihydroxy; Sodium adduct; Dehydration; Deamidation (NQ); Dimethylation(KR); 3 more,89138,Negative regulator of genetic competence ClpC/MecB
+17,319,ETNP14_120maa_PROKKA_89197,87.67,10,10,3.72E6,6,6,6,,43251,Elongation factor Tu
+9,2299,120mF_megahit_EODJEIIO_204830,87.27,3,3,7.19E5,4,1,12,Sodium adduct; Dehydration; Deamidation (NQ); Propionamide (K  X@N-term); Replacement of proton by potassium,86449,Chaperone protein ClpB
+11,3592,ETNP14_120maa_PROKKA_98903,81.28,41,41,2.47E6,9,4,11,Methylation(KR); Propionamide (K  X@N-term),12857,50S ribosomal protein L7/L12
+12,530,100m_megahit_CLKLDGCM_82429,75.11,8,8,9.37E5,9,2,11,Carbamidomethylation; Deamidation (NQ),42356,Bacterial actin-related protein
+12,529,ETNP14_120maa_PROKKA_78369,75.11,8,8,9.37E5,9,2,11,Carbamidomethylation; Deamidation (NQ),42383,Bacterial actin-related protein
+15,3695,100mP_megahit_BKKBEGJO_136473,69.29,26,26,5.04E4,6,1,7,Dehydration,13016,50S ribosomal protein L7/L12_ETNP_100m_particle_PROKKA_119080 50S ribosomal protein L7/L12
+18,259118,90m_Megahit_DAALLOGA_260472,67.89,69,69,3.46E6,8,8,8,Deamidation (NQ); Acetylation (N-term),7650,Cold shock-like protein CspG_ETNP14_120maa_PROKKA_108685 Cold shock-like protein CspG_ETNP_90m_PROKKA_05121 Cold shock-like protein CspG
+19,1407,90m_Megahit_DAALLOGA_155812,60.27,10,10,1.26E6,5,5,5,Acetylation (TSCYH),39946,ATP synthase subunit alpha
+20,3045,100mP_megahit_BKKBEGJO_130411,59.69,18,18,8.6E5,4,3,5,Carboxylation (DKW); Propionamide (K  X@N-term),12905,50S ribosomal protein L7/L12_120mP_megahit_HKJGLMBE_187789 50S ribosomal protein L7/L12_120m_megahit_CMKFGOPF_108679 50S ribosomal protein L7/L12_140m_megahit_KKMFCJLI_101416 50S ribosomal protein L7/L12_150mP_megahit_EIABIG...
+16,130,70m_MEGAHIT_CJDMCFAD_64580,55.46,19,19,7.45E5,6,6,6,,13498,hypothetical protein
+16,215,70m_MEGAHIT_CJDMCFAD_125812,55.46,18,18,7.45E5,6,6,6,,14195,hypothetical protein
+16,217,100mP_megahit_BKKBEGJO_100204,55.46,18,18,7.45E5,6,6,6,,14843,hypothetical protein
+16,216,120mP_megahit_HKJGLMBE_138457,55.46,18,18,7.45E5,6,6,6,,14817,hypothetical protein
+16,255,ETNP_100m_particle_PROKKA_07518,55.46,36,36,7.45E5,6,6,6,,7412,Core histone H2A/H2B/H3/H4
+31,2962,120mP_megahit_HKJGLMBE_07229,53.14,2,2,8.73E5,2,2,2,,93693,Calcium-transporting ATPase 1_ETNP_120m_particle_PROKKA_252276 Calcium-transporting ATPase 1
+26,28,ETNP_60m_PROKKA_16910,50.22,18,18,4.63E6,4,4,4,,13283,Core histone H2A/H2B/H3/H4
+26,164,70m_MEGAHIT_CJDMCFAD_64581,50.22,17,17,4.63E6,4,4,4,,13479,hypothetical protein
+26,14,70m_MEGAHIT_CJDMCFAD_44047,50.22,17,17,4.63E6,4,4,4,,13534,hypothetical protein_ETNP_70m_PROKKA_64991 Core histone H2A/H2B/H3/H4
+33,259132,120mF_megahit_ILDJFKLB_151935,46.87,13,13,9.72E4,2,1,2,,12883,50S ribosomal protein L7/L12
+33,259133,ETNP_120m_free_PROKKA_287140,46.87,13,13,9.72E4,2,1,2,,12857,50S ribosomal protein L7/L12
+29,4264,90m_Megahit_DAALLOGA_212609,43.99,22,22,2.03E5,2,1,2,,11732,30S ribosomal protein S10
+73,3127,120mF_megahit_PEDPKPGI_124835,43.78,8,8,1.95E4,1,1,2,,17006,hypothetical protein
+24,3923,ETNP14_120mab_PROKKA_67407,42.45,38,38,4.34E5,3,2,3,,9667,30S ribosomal protein S10
+24,3924,90m_Megahit_DAALLOGA_24865,42.45,32,32,4.34E5,3,2,3,,11654,30S ribosomal protein S10_ETNP14_68mB_PROKKA_15637 30S ribosomal protein S10
+25,3730,ETNP14_120maa_PROKKA_132848,42.26,5,5,2.34E6,3,3,3,,49658,Chaperone protein DnaK
+25,1115,120m_megahit_CMKFGOPF_289806,35.94,2,2,1.21E6,2,2,2,,70862,Chaperone protein DnaK
+25,765,60m_MEGAHIT_HGOBFIOH_19109,35.94,3,3,1.21E6,2,2,2,,58360,Chaperone protein DnaK
+25,259385,160m_megahit_NHJEOBNC_76252,35.94,3,3,1.21E6,2,2,2,,67080,Chaperone protein DnaK_ETNP_160m_PROKKA_81737 Chaperone protein DnaK
+96,3065,ETNP14_68mB_PROKKA_169882,41.96,8,8,5.94E5,1,1,1,,15536,50S ribosomal protein L2
+51,3903,180m_megahit_DBICIOKE_272406,40.87,3,3,1.68E5,2,1,3,,57727,60 kDa chaperonin
+51,259134,ETNP14_120maa_PROKKA_188487,40.87,6,6,1.68E5,2,1,3,,31661,60 kDa chaperonin
+51,259135,160m_megahit_NHJEOBNC_03092,40.87,4,4,1.68E5,2,1,3,,45017,60 kDa chaperonin
+21,259150,ETNP14_68mB_PROKKA_116447,36.12,4,4,1.01E6,1,1,4,,27983,Oligopeptide transport ATP-binding protein OppF
+23,4042,ETNP14_68maa_PROKKA_02795,35.96,2,2,1.01E7,2,2,3,,51370,hypothetical protein
+97,259151,120mP_megahit_HKJGLMBE_240118,35.72,9,9,2.65E5,1,1,1,,15232,hypothetical protein_ETNP_120m_particle_PROKKA_238600 EF hand
+97,259152,ETNP_90m_PROKKA_55079,35.72,7,7,2.65E5,1,1,1,,18514,EF hand
+34,259154,ETNP_120m_free_PROKKA_133039,35.62,3,3,2.97E6,1,1,2,,30958,Alpha-ketoglutarate-dependent taurine dioxygenase
+98,259153,100m_megahit_CLKLDGCM_54885,34.88,17,17,3.09E4,1,1,1,,5198,hypothetical protein_110m_megahit_JNNKCNHH_29290 hypothetical protein_120mP_megahit_HKJGLMBE_37338 hypothetical protein_160m_megahit_NHJEOBNC_42377 hypothetical protein_ETNP14_120mab_PROKKA_66291 hypothetical protein_ETNP_110m...
+99,9450,ETNP_120m_free_PROKKA_260379,34.25,10,10,5.85E4,1,1,1,,10483,hypothetical protein_120mF_megahit_PEDPKPGI_146903 hypothetical protein
+58,1391,90m_Megahit_DAALLOGA_110681,33.02,11,11,8.28E4,1,1,1,,13176,50S ribosomal protein L7/L12_ETNP14_68maa_PROKKA_119462 50S ribosomal protein L7/L12_ETNP_90m_PROKKA_197311 50S ribosomal protein L7/L12
+62,1283,ETNP14_120maa_PROKKA_122468,32.91,8,8,2.69E5,2,2,2,,24002,Malate dehydrogenase
+62,2040,NP_30m_PROKKA_06601,32.91,7,7,2.69E5,2,2,2,,24555,Malate dehydrogenase
+62,1281,100m_megahit_CLKLDGCM_46977,25.37,3,3,8.3E4,1,1,1,,32415,Malate dehydrogenase
+62,1282,ETNP_100m_PROKKA_43030,25.37,3,3,8.3E4,1,1,1,,32399,Malate dehydrogenase
+62,1260,ETNP14_120maa_PROKKA_160642,25.37,3,3,8.3E4,1,1,1,,32612,Malate dehydrogenase
+62,1385,ETNP14_120maa_PROKKA_171672,25.37,4,4,8.3E4,1,1,1,,24617,Malate dehydrogenase
+62,2064,ETNP14_120mab_PROKKA_10092,25.37,8,8,8.3E4,1,1,1,,11698,Malate dehydrogenase
+62,2533,NP_300m_PROKKA_50724,25.37,8,8,8.3E4,1,1,1,,11573,Malate dehydrogenase
+62,2534,120mF_megahit_EODJEIIO_42211,25.37,7,7,8.3E4,1,1,1,,13584,Malate dehydrogenase
+62,2096,120m_megahit_CMKFGOPF_224258,25.37,6,6,8.3E4,1,1,1,,14671,Malate dehydrogenase
+62,2536,ETNP_180m_PROKKA_220526,25.37,6,6,8.3E4,1,1,1,,14750,Malate dehydrogenase
+62,2535,ETNP_120m_PROKKA_203658,25.37,6,6,8.3E4,1,1,1,,14754,Malate dehydrogenase
+62,2537,ETNP14_120mab_PROKKA_47227,25.37,6,6,8.3E4,1,1,1,,15133,Malate dehydrogenase
+62,2538,ETNP14_68mB_PROKKA_146510,25.37,6,6,8.3E4,1,1,1,,15179,Malate dehydrogenase
+62,2539,ETNP_70m_PROKKA_87949,25.37,6,6,8.3E4,1,1,1,,15834,Malate dehydrogenase
+62,2141,ETNP_100m_PROKKA_92522,25.37,4,4,8.3E4,1,1,1,,21500,Malate dehydrogenase
+62,2153,160m_megahit_NHJEOBNC_15269,25.37,4,4,8.3E4,1,1,1,,23146,Malate dehydrogenase
+62,2540,ETNP14_120maa_PROKKA_147681,25.37,4,4,8.3E4,1,1,1,,23536,Malate dehydrogenase
+62,2541,180m_megahit_DBICIOKE_144002,25.37,3,3,8.3E4,1,1,1,,27597,Malate dehydrogenase
+62,2164,100m_megahit_CLKLDGCM_109287,25.37,3,3,8.3E4,1,1,1,,27647,Malate dehydrogenase
+62,2543,300m_megahit_KALMNAMF_52662,25.37,3,3,8.3E4,1,1,1,,32137,Malate dehydrogenase
+62,2175,NP_100m_PROKKA_05791,25.37,3,3,8.3E4,1,1,1,,32060,Malate dehydrogenase
+62,2542,160m_megahit_NHJEOBNC_104332,25.37,3,3,8.3E4,1,1,1,,32124,Malate dehydrogenase
+62,2544,120m_megahit_CMKFGOPF_354051,25.37,3,3,8.3E4,1,1,1,,32180,Malate dehydrogenase
+62,1762,ETNP14_120maa_PROKKA_54934,25.37,3,3,8.3E4,1,1,1,,32064,Malate dehydrogenase
+62,2174,ETNP14_120maa_PROKKA_138345,25.37,3,3,8.3E4,1,1,1,,32162,Malate dehydrogenase
+62,2545,ETNP14_120maa_PROKKA_143542,25.37,3,3,8.3E4,1,1,1,,32168,Malate dehydrogenase
+62,2128,ETNP14_120mab_PROKKA_09335,25.37,3,3,8.3E4,1,1,1,,32041,Malate dehydrogenase
+62,259523,70m_MEGAHIT_CJDMCFAD_157099,25.37,3,3,8.3E4,1,1,1,,32115,Malate dehydrogenase
+62,2546,70m_MEGAHIT_CJDMCFAD_139289,25.37,3,3,8.3E4,1,1,1,,33532,Malate dehydrogenase
+44,5000,110m_megahit_JNNKCNHH_46174,31.49,2,2,,1,0,1,,57941,60 kDa chaperonin
+44,259169,120m_megahit_CMKFGOPF_379205,40.04,4,4,1.03E4,2,1,2,,45571,60 kDa chaperonin
+44,259171,120m_megahit_CMKFGOPF_323360,31.49,3,3,,1,0,1,,28999,60 kDa chaperonin 2
+44,259170,ETNP14_68maa_PROKKA_102478,31.49,2,2,,1,0,1,,44530,60 kDa chaperonin
+44,259172,120mP_megahit_HKJGLMBE_230303,31.49,4,4,,1,0,1,,23824,60 kDa chaperonin
+44,259173,ETNP_300m_PROKKA_178186,31.49,3,3,,1,0,1,,30007,60 kDa chaperonin
+44,259174,100mP_megahit_BKKBEGJO_05786,31.49,3,3,,1,0,1,,33053,60 kDa chaperonin
+44,259176,140m_megahit_KKMFCJLI_61208,31.49,2,2,,1,0,1,,57820,60 kDa chaperonin_ETNP_180m_PROKKA_226747 60 kDa chaperonin
+44,259177,180m_megahit_DBICIOKE_98005,31.49,2,2,,1,0,1,,57803,60 kDa chaperonin
+44,1583,ETNP14_120maa_PROKKA_52581,31.49,2,2,,1,0,1,,57346,60 kDa chaperonin
+44,259178,100mP_megahit_BKKBEGJO_121021,31.49,2,2,,1,0,1,,57494,60 kDa chaperonin_100m_megahit_CLKLDGCM_101444 60 kDa chaperonin_120m_megahit_CMKFGOPF_111422 60 kDa chaperonin_90m_Megahit_DAALLOGA_140349 60 kDa chaperonin_ETNP14_120maa_PROKKA_44371 60 kDa chaperonin_ETNP_110m_PROKKA_1362...
+44,259179,ETNP14_68maa_PROKKA_81712,31.49,2,2,,1,0,1,,56718,60 kDa chaperonin 2_ETNP_90m_PROKKA_111969 60 kDa chaperonin 2
+44,259180,NP_100m_PROKKA_07340,31.49,2,2,,1,0,1,,56177,60 kDa chaperonin 2
+44,182907,120m_megahit_CMKFGOPF_49603,31.49,2,2,,1,0,1,,56506,60 kDa chaperonin 2_ETNP_120m_PROKKA_201607 60 kDa chaperonin 2_120mF_megahit_ILDJFKLB_132539 60 kDa chaperonin 2
+44,259182,90m_Megahit_DAALLOGA_03587,31.49,5,5,,1,0,1,,17998,60 kDa chaperonin
+44,259183,ETNP14_120maa_PROKKA_169241,31.49,4,4,,1,0,1,,22500,60 kDa chaperonin
+44,789,120mF_megahit_ILDJFKLB_87143,31.49,3,3,,1,0,1,,27182,60 kDa chaperonin
+44,1543,120mP_megahit_HKJGLMBE_281503,31.49,3,3,,1,0,1,,28031,60 kDa chaperonin_ETNP_120m_particle_PROKKA_11627 60 kDa chaperonin
+44,259184,ETNP14_120maa_PROKKA_152898,31.49,3,3,,1,0,1,,32908,60 kDa chaperonin
+44,259185,ETNP_140m_PROKKA_71439,31.49,3,3,,1,0,1,,37583,60 kDa chaperonin
+44,259186,180m_megahit_DBICIOKE_124542,31.49,2,2,,1,0,1,,47323,60 kDa chaperonin 2
+44,259187,ETNP_120m_PROKKA_107237,31.49,2,2,,1,0,1,,49389,60 kDa chaperonin 2
+44,259188,90m_Megahit_DAALLOGA_28371,31.49,2,2,,1,0,1,,56347,60 kDa chaperonin 2
+44,259189,70m_MEGAHIT_CJDMCFAD_113810,31.49,2,2,,1,0,1,,56391,60 kDa chaperonin 2_ETNP14_68maa_PROKKA_11601 60 kDa chaperonin 2_ETNP_70m_PROKKA_114301 60 kDa chaperonin 2
+44,259190,ETNP14_120maa_PROKKA_104441,31.49,2,2,,1,0,1,,56419,60 kDa chaperonin 2
+44,259191,90m_Megahit_DAALLOGA_12691,31.49,2,2,,1,0,1,,56599,60 kDa chaperonin 2_ETNP14_68maa_PROKKA_26862 60 kDa chaperonin 2_ETNP14_120maa_PROKKA_29166 60 kDa chaperonin 2
+74,259175,ETNP14_120maa_PROKKA_127245,31.31,3,3,2.24E5,1,1,1,,30860,Elongation factor Ts
+74,259192,120mP_megahit_HKJGLMBE_148044,31.31,4,4,2.24E5,1,1,1,,23362,hypothetical protein
+59,259483,ETNP14_68maa_PROKKA_109245,30.67,3,3,6.04E5,2,2,3,,54918,EF hand
+100,259195,ETNP_120m_free_PROKKA_249828,30.34,20,20,7.97E5,1,1,1,,4622,hypothetical protein
+100,259196,ETNP_160m_PROKKA_172456,30.34,8,8,7.97E5,1,1,1,,11022,hypothetical protein
+100,259197,120mF_megahit_PEDPKPGI_167628,30.34,3,3,7.97E5,1,1,1,,30825,hypothetical protein
+95,260276,ETNP14_68maa_PROKKA_113126,30.11,5,5,7.9E5,2,2,2,,26150,L-ribulose-5-phosphate 3-epimerase UlaE
+103,259252,90m_Megahit_DAALLOGA_98278,30.00,1,1,2.96E5,1,1,1,,107444,hypothetical protein
+52,259181,ETNP_120m_PROKKA_234489,29.55,2,2,0E0,1,1,3,,57707,L-aspartate oxidase_ETNP_180m_PROKKA_35058 L-aspartate oxidase
+101,259215,NP_30m_PROKKA_24557,29.35,10,10,3.55E6,1,1,1,,8510,Acetylglutamate kinase
+63,259194,300m_megahit_KALMNAMF_228790,28.91,3,3,1.75E6,1,1,1,,26079,hypothetical protein
+63,259198,120mF_megahit_EODJEIIO_25323,28.91,3,3,1.75E6,1,1,1,,32218,Tyrosine recombinase XerC
+63,259199,180m_megahit_DBICIOKE_106908,28.91,2,2,1.75E6,1,1,1,,37018,Tyrosine recombinase XerC
+102,259240,120mF_megahit_PEDPKPGI_80002,28.22,16,16,7.05E4,1,1,1,,6535,hypothetical protein
+102,259241,ETNP_120m_free_PROKKA_180457,28.22,15,15,7.05E4,1,1,1,,6893,hypothetical protein
+39,3080,90m_Megahit_DAALLOGA_252704,27.99,0,0,3.42E5,1,1,1,,588382,hypothetical protein
+76,259258,ETNP14_68maa_PROKKA_81133,27.80,3,3,6.53E5,1,1,1,,37978,tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+105,259259,180m_megahit_DBICIOKE_174997,27.74,2,2,1.98E5,1,1,1,,37921,Serine/threonine-protein kinase PknD_ETNP_180m_PROKKA_87816 Serine/threonine-protein kinase PknD
+197,254092,ETNP_120m_PROKKA_293242,27.67,9,9,1.51E6,2,2,2,,23525,hypothetical protein
+75,3922,100m_megahit_CLKLDGCM_84458,27.52,5,5,8.38E4,1,1,1,,22743,50S ribosomal protein L4_120m_megahit_CMKFGOPF_290073 50S ribosomal protein L4_ETNP14_120maa_PROKKA_02579 50S ribosomal protein L4_ETNP_100m_PROKKA_78271 50S ribosomal protein L4
+75,11051,ETNP_120m_PROKKA_172668,27.52,6,6,8.38E4,1,1,1,,18486,50S ribosomal protein L4
+75,11052,ETNP_120m_free_PROKKA_62532,27.52,6,6,8.38E4,1,1,1,,18099,50S ribosomal protein L4
+75,6438,160m_megahit_NHJEOBNC_156631,27.52,5,5,8.38E4,1,1,1,,21915,50S ribosomal protein L4_ETNP_160m_PROKKA_151188 50S ribosomal protein L4
+75,11054,90m_Megahit_DAALLOGA_242422,27.52,5,5,8.38E4,1,1,1,,22189,50S ribosomal protein L4
+75,8667,ETNP14_68maa_PROKKA_105107,27.52,5,5,8.38E4,1,1,1,,22882,50S ribosomal protein L4
+75,11055,ETNP14_120maa_PROKKA_120892,27.52,5,5,8.38E4,1,1,1,,22968,50S ribosomal protein L4
+75,9055,ETNP_120m_PROKKA_177292,27.52,5,5,8.38E4,1,1,1,,22231,50S ribosomal protein L4_ETNP_120m_free_PROKKA_89651 50S ribosomal protein L4
+75,11056,ETNP14_120mab_PROKKA_08002,27.52,5,5,8.38E4,1,1,1,,23230,50S ribosomal protein L4
+75,8602,ETNP14_68maa_PROKKA_34325,27.52,5,5,8.38E4,1,1,1,,22946,50S ribosomal protein L4
+75,11057,ETNP_120m_PROKKA_261712,27.52,5,5,8.38E4,1,1,1,,22576,50S ribosomal protein L4
+75,11058,120m_megahit_CMKFGOPF_303854,27.52,5,5,8.38E4,1,1,1,,22796,50S ribosomal protein L4_ETNP_120m_PROKKA_214741 50S ribosomal protein L4
+75,8764,ETNP14_68mB_PROKKA_97013,27.52,5,5,8.38E4,1,1,1,,22988,50S ribosomal protein L4
+75,11060,ETNP14_120maa_PROKKA_61707,27.52,5,5,8.38E4,1,1,1,,22347,50S ribosomal protein L4
+75,11061,ETNP_120m_PROKKA_271595,27.52,5,5,8.38E4,1,1,1,,22269,50S ribosomal protein L4
+75,11059,140m_megahit_KKMFCJLI_30842,27.52,5,5,8.38E4,1,1,1,,22301,50S ribosomal protein L4_180m_megahit_DBICIOKE_15732 50S ribosomal protein L4
+75,8378,120m_megahit_CMKFGOPF_67063,27.52,5,5,8.38E4,1,1,1,,22442,50S ribosomal protein L4_140m_megahit_KKMFCJLI_31231 50S ribosomal protein L4_160m_megahit_NHJEOBNC_39895 50S ribosomal protein L4_180m_megahit_DBICIOKE_211351 50S ribosomal protein L4_120mF_megahit_EODJEIIO_56262 50S ribosoma...
+75,5796,ETNP14_68maa_PROKKA_60388,27.52,5,5,8.38E4,1,1,1,,22744,50S ribosomal protein L4
+75,11062,ETNP14_120maa_PROKKA_161197,27.52,5,5,8.38E4,1,1,1,,23158,50S ribosomal protein L4
+75,8360,ETNP14_68mB_PROKKA_57713,27.52,5,5,8.38E4,1,1,1,,22830,50S ribosomal protein L4
+75,6349,ETNP14_120mab_PROKKA_60270,27.52,5,5,8.38E4,1,1,1,,22575,50S ribosomal protein L4
+75,11063,ETNP14_68maa_PROKKA_74150,27.52,5,5,8.38E4,1,1,1,,22955,50S ribosomal protein L4
+106,9060,70m_MEGAHIT_CJDMCFAD_74019,27.48,5,5,1.54E5,1,1,1,,21937,Cytochrome c-552
+32,259288,ETNP14_120mab_PROKKA_83724,27.09,5,5,4.41E5,1,1,2,Oxidation (M),18728,RNA pyrophosphohydrolase
+32,259433,ETNP14_68mB_PROKKA_124374,27.09,7,7,4.41E5,1,1,2,Oxidation (M),14381,RNA pyrophosphohydrolase
+32,259434,110m_megahit_JNNKCNHH_42501,27.09,7,7,4.41E5,1,1,2,Oxidation (M),14229,RNA pyrophosphohydrolase
+32,259435,120mF_megahit_EODJEIIO_84266,27.09,6,6,4.41E5,1,1,2,Oxidation (M),14425,RNA pyrophosphohydrolase
+32,259436,ETNP14_68mB_PROKKA_102732,27.09,6,6,4.41E5,1,1,2,Oxidation (M),17111,RNA pyrophosphohydrolase
+32,259437,ETNP14_68mB_PROKKA_103258,27.09,5,5,4.41E5,1,1,2,Oxidation (M),18653,RNA pyrophosphohydrolase
+32,259438,120m_megahit_CMKFGOPF_354489,27.09,5,5,4.41E5,1,1,2,Oxidation (M),18744,RNA pyrophosphohydrolase
+32,259439,140m_megahit_KKMFCJLI_150364,27.09,5,5,4.41E5,1,1,2,Oxidation (M),18765,RNA pyrophosphohydrolase
+32,259440,120m_megahit_CMKFGOPF_304667,27.09,5,5,4.41E5,1,1,2,Oxidation (M),18764,RNA pyrophosphohydrolase_160m_megahit_NHJEOBNC_204940 RNA pyrophosphohydrolase_180m_megahit_DBICIOKE_222437 RNA pyrophosphohydrolase_300m_megahit_KALMNAMF_48215 RNA pyrophosphohydrolase_120mF_megahit_EODJEIIO_67809 RNA pyroph...
+32,259441,ETNP14_120maa_PROKKA_58974,27.09,5,5,4.41E5,1,1,2,Oxidation (M),18792,RNA pyrophosphohydrolase
+32,259442,300m_megahit_KALMNAMF_190623,27.09,5,5,4.41E5,1,1,2,Oxidation (M),18640,RNA pyrophosphohydrolase
+32,259443,ETNP_300m_PROKKA_169984,27.09,5,5,4.41E5,1,1,2,Oxidation (M),18668,RNA pyrophosphohydrolase
+32,259444,120m_megahit_CMKFGOPF_121755,27.09,5,5,4.41E5,1,1,2,Oxidation (M),18742,RNA pyrophosphohydrolase_140m_megahit_KKMFCJLI_55703 RNA pyrophosphohydrolase_160m_megahit_NHJEOBNC_176293 RNA pyrophosphohydrolase_180m_megahit_DBICIOKE_244923 RNA pyrophosphohydrolase_300m_megahit_KALMNAMF_177450 RNA pyroph...
+107,259467,ETNP_120m_particle_PROKKA_215312,26.86,2,2,1.12E5,1,1,1,,58805,1-pyrroline-5-carboxylate dehydrogenase 1
+107,259468,120mP_megahit_HKJGLMBE_289369,26.86,2,2,1.12E5,1,1,1,,58730,1-pyrroline-5-carboxylate dehydrogenase 1
+108,259478,ETNP_300m_PROKKA_166149,26.79,7,7,2.23E5,1,1,1,,13012,Oxygen-dependent choline dehydrogenase
+108,259479,120m_megahit_CMKFGOPF_10033,26.79,7,7,2.23E5,1,1,1,,13065,Oxygen-dependent choline dehydrogenase_ETNP_140m_PROKKA_129915 Oxygen-dependent choline dehydrogenase
+108,259480,ETNP_160m_PROKKA_15514,26.79,2,2,2.23E5,1,1,1,,48823,Oxygen-dependent choline dehydrogenase_ETNP_180m_PROKKA_111877 Oxygen-dependent choline dehydrogenase
+108,259481,180m_megahit_DBICIOKE_274454,26.79,2,2,2.23E5,1,1,1,,59242,Oxygen-dependent choline dehydrogenase_ETNP_120m_free_PROKKA_132586 Oxygen-dependent choline dehydrogenase
+108,259482,160m_megahit_NHJEOBNC_256560,26.79,2,2,2.23E5,1,1,1,,59272,Oxygen-dependent choline dehydrogenase_120mF_megahit_PEDPKPGI_106967 Oxygen-dependent choline dehydrogenase
+223,4554,NP_100m_PROKKA_06116,26.40,2,2,3.68E5,2,2,3,,87039,LPS assembly outer membrane complex protein LptD
+109,259514,ETNP_120m_PROKKA_314045,26.32,5,5,3.8E5,1,1,1,,17839,hypothetical protein
+84,259517,120mP_megahit_HKJGLMBE_54173,25.98,2,2,2.24E4,1,1,1,,58085,hypothetical protein
+110,9198,ETNP14_68maa_PROKKA_132897,25.55,2,2,4.77E5,1,1,1,,41589,Elongation factor G 1
+110,1425,ETNP14_68maa_PROKKA_189322,25.55,2,2,4.77E5,1,1,1,,45009,Elongation factor G 1
+85,259519,180m_megahit_DBICIOKE_78097,25.51,1,1,7.36E3,1,1,1,Carbamidomethylation,95262,Outer membrane protein assembly factor BamB
+85,259520,ETNP_120m_free_PROKKA_139399,25.51,1,1,7.36E3,1,1,1,Carbamidomethylation,131375,Outer membrane protein assembly factor BamB_120mF_megahit_PEDPKPGI_200874 Outer membrane protein assembly factor BamB
+66,259409,ETNP_120m_free_PROKKA_175956,25.18,1,1,0E0,1,1,1,,100321,DNA-directed RNA polymerase subunit beta'
+111,259528,160m_megahit_NHJEOBNC_181271,25.13,3,3,5.48E5,1,1,1,,27574,Electron transfer flavoprotein subunit beta
+67,259426,ETNP14_68maa_PROKKA_156852,24.95,2,2,2.21E5,1,1,1,,50717,hypothetical protein
+77,259402,120mP_megahit_HKJGLMBE_161632,24.92,5,5,2.26E6,1,1,1,,18393,hypothetical protein
+147,259207,100mP_megahit_BKKBEGJO_47189,24.81,1,1,9.97E3,2,2,2,,131182,Arylsulfatase
+112,259535,ETNP_180m_PROKKA_149763,24.53,3,3,8.1E5,1,1,1,,48644,Arylsulfatase
+170,259253,70m_MEGAHIT_CJDMCFAD_138521,24.42,2,2,1.08E5,2,2,2,,134759,Chromosome partition protein Smc
+139,3933,ETNP14_68maa_PROKKA_10970,24.32,2,2,1.06E6,2,2,2,,141658,Chromosome partition protein Smc
+87,259539,ETNP_90m_PROKKA_108454,24.31,3,3,2.21E5,1,1,1,Oxidation (M),39135,DNA polymerase I
+136,259216,120m_megahit_CMKFGOPF_239715,24.23,1,1,0E0,2,1,2,Oxidation (M),186470,hypothetical protein
+79,259456,ETNP_120m_PROKKA_225004,23.89,3,3,4.89E5,1,1,1,,29278,putative permease YjgP/YjgQ family protein
+79,259458,120m_megahit_CMKFGOPF_182886,23.89,3,3,4.89E5,1,1,1,,32983,hypothetical protein
+79,259558,100m_megahit_CLKLDGCM_29818,23.89,2,2,4.89E5,1,1,1,,38202,hypothetical protein
+79,259559,90m_Megahit_DAALLOGA_243336,23.89,2,2,4.89E5,1,1,1,,41414,hypothetical protein
+79,259560,ETNP_90m_PROKKA_171450,23.89,2,2,4.89E5,1,1,1,,41344,putative permease YjgP/YjgQ family protein
+113,259563,ETNP14_120mab_PROKKA_30742,23.76,8,8,1.72E6,1,1,1,,11069,hypothetical protein
+91,259567,ETNP_140m_PROKKA_125239,23.69,10,10,1.01E6,1,1,2,,9242,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+91,259568,ETNP_120m_free_PROKKA_163353,23.69,3,3,1.01E6,1,1,2,,29097,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+91,259569,120m_megahit_CMKFGOPF_175031,23.69,3,3,1.01E6,1,1,2,,31880,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+91,259571,140m_megahit_KKMFCJLI_149640,23.69,1,1,1.01E6,1,1,2,,63823,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI_300m_megahit_KALMNAMF_126892 putative multidrug resistance ABC transporter ATP-binding/permease protein YheI_120mF_megahit_PEDPKPGI_190745 putati...
+91,259572,160m_megahit_NHJEOBNC_125845,23.69,1,1,1.01E6,1,1,2,,63809,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI_ETNP_160m_PROKKA_69455 putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+91,259573,180m_megahit_DBICIOKE_08101,23.69,1,1,1.01E6,1,1,2,,63763,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+80,259461,160m_megahit_NHJEOBNC_70586,23.62,2,2,2.82E5,1,1,1,Oxidation (M),49161,hypothetical protein
+92,259577,ETNP_180m_PROKKA_81897,23.60,4,4,3.62E6,1,1,2,,21443,DNA adenine methyltransferase YhdJ
+114,259590,160m_megahit_NHJEOBNC_155400,23.18,10,10,0E0,1,1,1,,8763,hypothetical protein_300m_megahit_KALMNAMF_224407 hypothetical protein_ETNP14_120mac_PROKKA_07521 hypothetical protein_ETNP_120m_PROKKA_156025 hypothetical protein_ETNP_160m_PROKKA_93389 hypothetical protein_ETNP_180m_PROKKA_...
+114,259591,120m_megahit_CMKFGOPF_90090,23.18,10,10,0E0,1,1,1,,8819,hypothetical protein_120mF_megahit_ILDJFKLB_67416 hypothetical protein
+114,259592,100m_megahit_CLKLDGCM_104280,23.18,10,10,0E0,1,1,1,,8656,hypothetical protein
+35,242738,120mF_megahit_ILDJFKLB_143202,23.05,4,4,9.29E5,1,1,2,,23793,hypothetical protein
+116,259611,ETNP14_120mac_PROKKA_69580,22.78,10,10,6.86E4,1,1,1,,9115,hypothetical protein
+116,259612,ETNP_120m_PROKKA_291341,22.78,6,6,6.86E4,1,1,1,,15183,Ribose-phosphate pyrophosphokinase
+116,259613,180m_megahit_DBICIOKE_238956,22.78,5,5,6.86E4,1,1,1,,17638,Ribose-phosphate pyrophosphokinase_ETNP_180m_PROKKA_137110 Ribose-phosphate pyrophosphokinase
+116,259615,120mF_megahit_ILDJFKLB_94639,22.78,3,3,6.86E4,1,1,1,,34367,Ribose-phosphate pyrophosphokinase
+28,259641,ETNP_140m_PROKKA_106797,22.66,7,7,0E0,1,1,6,,12146,hypothetical protein_ETNP_160m_PROKKA_179327 hypothetical protein
+28,259642,140m_megahit_KKMFCJLI_116285,22.66,7,7,0E0,1,1,6,,12178,hypothetical protein_160m_megahit_NHJEOBNC_22011 hypothetical protein
+28,259643,ETNP_100m_particle_PROKKA_126672,22.66,7,7,0E0,1,1,6,,12176,hypothetical protein_ETNP_120m_particle_PROKKA_125694 hypothetical protein_ETNP_180m_PROKKA_145755 hypothetical protein
+28,259644,100mP_megahit_BKKBEGJO_126347,22.66,7,7,0E0,1,1,6,,12208,hypothetical protein_120m_megahit_CMKFGOPF_43357 hypothetical protein
+48,259202,120mF_megahit_ILDJFKLB_150937,22.46,1,1,4.28E6,1,1,4,,100799,hypothetical protein
+60,259666,ETNP_90m_PROKKA_76773,22.42,3,3,6.29E5,1,1,1,,29070,hypothetical protein
+60,259667,90m_Megahit_DAALLOGA_171391,22.42,3,3,6.29E5,1,1,1,,38680,hypothetical protein
+82,259501,ETNP14_68maa_PROKKA_47656,22.20,2,2,5.8E4,1,1,1,,48579,outer membrane biogenesis protein BamB
+38,259695,ETNP_120m_particle_PROKKA_205565,22.16,2,2,3.28E6,1,1,3,,48792,Biotin carboxylase
+38,259696,120mP_megahit_HKJGLMBE_261087,22.16,2,2,3.28E6,1,1,3,,48818,Biotin carboxylase
+119,259708,160m_megahit_NHJEOBNC_62931,22.03,2,2,2.86E5,1,1,1,,43013,hypothetical protein
+81,259488,120mP_megahit_HKJGLMBE_156690,21.86,2,2,1.86E5,1,1,1,,76310,Elongation factor G 1_ETNP_120m_particle_PROKKA_207112 Elongation factor G 1
+81,259489,ETNP_160m_PROKKA_180481,21.86,2,2,1.86E5,1,1,1,,76575,Elongation factor G 1
+81,259490,100mP_megahit_BKKBEGJO_09781,21.86,2,2,1.86E5,1,1,1,,76635,Elongation factor G 1_120m_megahit_CMKFGOPF_340284 Elongation factor G 1_160m_megahit_NHJEOBNC_255371 Elongation factor G 1_ETNP_120m_PROKKA_150425 Elongation factor G 1_ETNP_100m_particle_PROKKA_48701 Elongation factor G 1_E...
+81,259499,ETNP14_68maa_PROKKA_49366,21.86,2,2,1.86E5,1,1,1,,76782,Elongation factor G 1
+81,259721,90m_Megahit_DAALLOGA_260032,21.86,3,3,1.86E5,1,1,1,,37515,Elongation factor G 1
+120,259732,ETNP_120m_PROKKA_34605,21.77,8,8,5.87E5,1,1,1,,14439,Pyridoxine/pyridoxamine 5'-phosphate oxidase
+121,259734,ETNP_120m_free_PROKKA_236976,21.76,19,19,1.08E5,1,1,1,,6546,Anthranilate phosphoribosyltransferase
+121,259735,120mF_megahit_PEDPKPGI_56036,21.76,4,4,1.08E5,1,1,1,,33266,Anthranilate phosphoribosyltransferase
+121,259736,ETNP_160m_PROKKA_167185,21.76,3,3,1.08E5,1,1,1,,36692,Anthranilate phosphoribosyltransferase
+123,259739,ETNP14_68mB_PROKKA_89296,21.74,9,9,2.24E6,1,1,1,,13342,Ribonuclease P protein component
+124,259750,160m_megahit_NHJEOBNC_24393,21.72,3,3,4.32E5,1,1,1,,32629,S-methyl-5'-thioadenosine phosphorylase_180m_megahit_DBICIOKE_11108 S-methyl-5'-thioadenosine phosphorylase_120mF_megahit_PEDPKPGI_126783 S-methyl-5'-thioadenosine phosphorylase
+125,259531,ETNP_90m_PROKKA_192464,21.59,2,2,9.9E4,1,1,1,,56907,hypothetical protein
+65,259287,180m_megahit_DBICIOKE_46687,21.47,2,2,6.52E5,1,1,1,,35329,hypothetical protein
+27,259323,120mP_megahit_HKJGLMBE_180177,21.31,1,1,6.69E5,1,1,5,Oxidation (M),118220,Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+93,259639,120mF_megahit_ILDJFKLB_77024,21.21,1,1,1.1E4,1,1,1,Oxidation (M),127122,hypothetical protein
+127,260261,300m_megahit_KALMNAMF_53447,21.19,2,2,3.35E5,1,1,1,,35488,Neopullulanase 2
+126,260231,100mP_megahit_BKKBEGJO_33424,21.17,8,8,9.36E3,1,1,1,Carbamidomethylation,13094,hypothetical protein_ETNP_100m_particle_PROKKA_100985 hypothetical protein
+90,259555,120mP_megahit_HKJGLMBE_280124,21.09,5,5,2.31E4,1,1,1,,16191,hypothetical protein_ETNP_120m_particle_PROKKA_173398 hypothetical protein
+56,260247,100mP_megahit_BKKBEGJO_161828,20.92,7,7,5.04E6,1,1,4,,16600,hypothetical protein
+56,260248,ETNP_120m_PROKKA_115548,20.92,7,7,5.04E6,1,1,4,,16542,hypothetical protein
+88,259540,90m_Megahit_DAALLOGA_48268,20.90,2,2,7.62E4,1,1,1,,53025,Aminopeptidase S
+45,259549,300m_megahit_KALMNAMF_182970,20.51,1,1,0E0,1,1,1,,77002,hypothetical protein
+129,260266,110m_megahit_JNNKCNHH_14701,20.50,4,4,4.56E5,1,1,1,,27478,Ribose-phosphate pyrophosphokinase
+129,260267,120m_megahit_CMKFGOPF_93024,20.50,3,3,4.56E5,1,1,1,,33945,Ribose-phosphate pyrophosphokinase_140m_megahit_KKMFCJLI_141069 Ribose-phosphate pyrophosphokinase_160m_megahit_NHJEOBNC_27768 Ribose-phosphate pyrophosphokinase_180m_megahit_DBICIOKE_40138 Ribose-phosphate pyrophosphokinase_N...
+129,260268,120mF_megahit_EODJEIIO_00434,20.50,3,3,4.56E5,1,1,1,,33999,Ribose-phosphate pyrophosphokinase
+129,260269,300m_megahit_KALMNAMF_25325,20.50,3,3,4.56E5,1,1,1,,34000,Ribose-phosphate pyrophosphokinase
+129,260270,100m_megahit_CLKLDGCM_05989,20.50,3,3,4.56E5,1,1,1,,33933,Ribose-phosphate pyrophosphokinase
+130,260273,ETNP_120m_PROKKA_241449,20.38,8,8,1.17E5,1,1,1,,11141,hypothetical protein
+132,260283,160m_megahit_NHJEOBNC_47752,20.33,2,2,2.26E0,1,1,1,,46314,Aldose 1-epimerase_ETNP_120m_free_PROKKA_230389 Aldose 1-epimerase precursor_ETNP_160m_PROKKA_63769 Aldose 1-epimerase precursor
+133,260284,ETNP_180m_PROKKA_227554,20.14,2,2,2.19E5,1,1,1,,64813,DNA gyrase subunit A
+36,259200,120mF_megahit_EODJEIIO_63566,20.13,0,0,1.16E6,1,1,3,,486158,hypothetical protein
+36,259208,ETNP_120m_free_PROKKA_210150,20.13,0,0,1.16E6,1,1,3,,298333,hypothetical protein
+134,260286,ETNP_70m_PROKKA_18886,20.12,12,12,1.52E5,1,1,1,,9042,hypothetical protein
+134,260287,60m_MEGAHIT_HGOBFIOH_21655,20.12,12,12,1.52E5,1,1,1,,8986,hypothetical protein
+135,14619,120mP_megahit_HKJGLMBE_22075,20.08,19,19,1.65E5,1,1,1,,6145,hypothetical protein
