@@ -19,6 +19,8 @@
   -  Made files with mods removed, `dno-nomods.txt`
   
   
-  
-        
-        
+4. Processed the PSM peptides (database peptides) (`peptide.csv`) files in `uwpr-date-db.ipynb` notebooks.
+  -  Used pandas to read in `.csv` and export peptides to new `dbpeps.txt` and `dbpeps.csv` 
+  -  Removed modifications from `dbpeps.txt` files and creaded mods only files, `db-mods.txt`
+  -  Used `wc -l` to enumerate mods and total peptides, then calculated the percentage of peptides modified
+  -  Made files with mods removed, `db-nomods.txt`
