@@ -60,10 +60,10 @@ Peaks Studio also contains a database search tool, Peaks DB ([Zhang et al. 2012]
 - `proteins.csv`            protein name, descriptions, coverage, confidence, PTMs
 - `proteins.fasta`          list of ID'd proteins in fasta format
 - `PSM-ions.csv`
-- `all-dn-candidates.csv`
+- `all-dn-candidates.csv`   all de novo candidates (all ALCs), mass, m/z, z, RT, tag length
 - `dn-peptides.csv`         all (DNO a subset) de novo peptide (export both >50 and >80 ALC files)
-- `dn-peptides.xml'
-- `peptide-features`        all peptide features with ion intensities and de novo candidate seqs.
+- `dn-peptides.xml`         same as above but XML format
+- `peptide-features`        all peptide features with peak areas, m/z, z, and de novo candidate seqs.
 
 ### *De novo* peptides aligned to *Prochlorococcus* proteome using PepExplorer
 
