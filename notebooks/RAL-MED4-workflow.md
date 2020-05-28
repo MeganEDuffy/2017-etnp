@@ -31,7 +31,7 @@ Peaks output gives amino acid sequences with confidence scores for the entire se
 Peaks Studio also contains a database search tool, Peaks DB ([Zhang et al. 2012](https://pubmed.ncbi.nlm.nih.gov/22186715/)), which uses a decoy fusion approach to determine a false discovery rate. Peaks DB search parameters:
 
 - Reference database: *Prochlococcus* MED4 proteome from G. Rocap (ME4aa_GR_hi3)
-- LC-MS/MS contaminant database 'the craptome', included in search space. Downloaded from http://www.thegpm.org/crap/ (Mellacheruvu et al. 2013)
+- LC-MS/MS contaminant database 'the craptome', included in search space. Downloaded from http://www.thegpm.org/crap/ ([Mellacheruvu et al. 2013](https://www-nature-com.offcampus.lib.washington.edu/articles/nmeth.2557)
 - Enzyme: trypsin
 - Max. missed cleavages: 2
 - Parent mass error tolerance: 15.0 ppm
@@ -60,6 +60,10 @@ Peaks Studio also contains a database search tool, Peaks DB ([Zhang et al. 2012]
 - `proteins.csv`            protein name, descriptions, coverage, confidence, PTMs
 - `proteins.fasta`          list of ID'd proteins in fasta format
 - `PSM-ions.csv`
+- `all-dn-candidates.csv`
+- `dn-peptides.csv`         all (DNO a subset) de novo peptide (export both >50 and >80 ALC files)
+- `dn-peptides.xml'
+- `peptide-features`        all peptide features with ion intensities and de novo candidate seqs.
 
 ### *De novo* peptides aligned to *Prochlorococcus* proteome using PepExplorer
 
@@ -73,3 +77,5 @@ PepExplorer alignment parameters:
 - Minimum *de novo* score: 0 (we input >50 ALC)
 - Input type: Peaks 8.0/8.5
 - L/I(leucine/isoleucine) equating
+
+Alignment results are then saved in PepExplorer Result format (
