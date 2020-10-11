@@ -1,0 +1,21 @@
+
+library(plotly)
+
+setwd("~/Documents/git-repos/2017-etnp/analyses/pronovo-2020/unipept")
+MED4 <- read.csv(file = "MED2_combine_DN50_length_spec.csv", header = TRUE, sep = ",")
+
+xking <- plot_ly(alpha = 0.6) %>%
++ add_histogram(x = MED4$xkingdom-len.len, name = "cross-kingdom", marker = list(color = 'rgb(49,130,189)')) %>%
++ layout(title="Cross-Kingdom de novo-only peptides", margin = list(t=110), titlefont = list(size=30), yaxis=list(title="", range = c(0,520), showline = TRUE, showgrid = FALSE, tickfont = list(size=30)), xaxis=list(title="", range = c(5,24), tickfont = list(size = 30)))
+xking
+
+phylum <- plot_ly(alpha = 0.6) %>%
++ add_histogram(x = MED4$phylum-len.len, name = "phylum", marker = list(color = 'rgb(49,130,189)')) %>%
++ layout(title="Phylum level de novo-only peptides", margin = list(t=110), titlefont = list(size=30), yaxis=list(title="", range = c(0,520), showline = TRUE, showgrid = FALSE, tickfont = list(size=30)), xaxis=list(title="", range = c(5,24), tickfont = list(size = 30)))
+phylum
+
+species <- plot_ly(alpha = 0.6) %>%
++ add_histogram(x = MED4$species-len.len, name = "species", marker = list(color = 'rgb(49,130,189)')) %>%
++ layout(title="Species level de novo-only peptides", margin = list(t=110), titlefont = list(size=30), yaxis=list(title="", range = c(0,520), showline = TRUE, showgrid = FALSE, tickfont = list(size=30)), xaxis=list(title="", range = c(5,24), tickfont = list(size = 30)))
+species
+
