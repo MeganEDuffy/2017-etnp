@@ -1,0 +1,2351 @@
+,ProteinID,Alignments,SpecCounts,Unique,Coverage,Description
+0,PMM0001,10,11,10,0.257,| dnaN | DNA polymerase III subunit beta
+1,PMM0002,2,2,1,0.038,| PMM0002 | hypothetical protein
+2,PMM0003,11,12,11,0.139,| purL | phosphoribosylformylglycinamidine synthase II
+3,PMM0004,2,2,2,0.028999999999999998,| purF | amidophosphoribosyltransferase
+4,PMM0005,10,10,10,0.114,"| PMM0005 | DNA gyrase/topoisomerase IV, subunit A"
+5,PMM0006,1,1,1,0.027999999999999997,| PMM0006 | hypothetical protein
+6,PMM0007,1,1,1,0.035,| PMM0007 | hypothetical protein
+7,PMM0008,6,6,6,0.171,| PMM0008 | hypothetical protein
+8,PMM0009,2,2,2,0.067,| nusB | transcription antitermination protein NusB
+9,PMM0010,13,13,13,0.28,| ftsY | signal recognition particle docking protein FtsY
+10,PMM0011,2,2,2,0.047,| PMM0011 | protein phosphatase 2C domain-containing protein
+11,PMM0012,10,10,10,0.235,| argH | argininosuccinate lyase
+12,PMM0013,4,4,4,0.081,| PMM0013 | RNA recognition motif-containing protein
+13,PMM0014,1,1,1,0.021,| PMM0014 | tRNA-dihydrouridine synthase A
+14,PMM0015,2,2,2,0.146,| PMM0015 | hypothetical protein
+15,PMM0016,14,19,14,0.523,| grpE | heat shock protein GrpE
+16,PMM0017,6,8,6,0.126,| dnaJ | DnaJ protein
+17,PMM0020,7,8,7,0.517,| PMM0020 | hypothetical protein
+18,PMM0021,4,4,3,0.132,| murB | UDP-N-acetylenolpyruvoylglucosamine reductase
+19,PMM0022,2,2,2,0.038,| murC | UDP-N-acetylmuramate-alanine ligase
+20,PMM0023,11,14,11,0.27399999999999997,| gap2 | glyceraldehyde 3-phosphate dehydrogenase(NADP+)(phosphorylating)
+21,PMM0024,2,2,2,0.046,| thiL | putative thiamine-monophosphate kinase
+22,PMM0025,1,1,1,0.025,| PMM0025 | cyclophilin-type peptidyl-prolyl cis-trans isomerase
+23,PMM0026,3,3,3,0.129,| efp | elongation factor P
+24,PMM0027,1,1,1,0.06,"| accB,fabE | biotin / lipoyl attachment:Acetyl-CoA biotin carboxyl carrier subunit"
+25,PMM0028,1,1,1,0.026000000000000002,| pdxA | 4-hydroxythreonine-4-phosphate dehydrogenase
+26,PMM0029,3,3,3,0.098,| PMM0029 | hypothetical protein
+27,PMM0032,4,5,4,0.266,| PMM0032 | type II secretion system pr
+28,PMM0034,1,1,1,0.16899999999999998,| PMM0034 | hypothetical protein
+29,PMM0035,1,2,1,0.021,| DHSS | soluble hydrogenase small subunit
+30,PMM0036,2,2,2,0.051,| cbiD | cobalt-precorrin-6A synthase
+31,PMM0037,7,9,7,0.153,| guaA | GMP synthase
+32,PMM0038,1,1,1,0.03,| PMM0038 | hypothetical protein
+33,PMM0039,3,3,3,0.129,| PMM0039 | hypothetical protein
+34,PMM0040,1,1,1,0.012,| PMM0040 | putative penicillin-binding protein
+35,PMM0041,2,2,2,0.109,| PMM0041 | putative reductase
+36,PMM0042,2,2,2,0.032,| PMM0042 | flavoprotein
+37,PMM0043,2,2,2,0.039,| PMM0043 | flavoprotein
+38,PMM0044,9,9,9,0.09300000000000001,| alaS | alanyl-tRNA synthetase
+39,PMM0045,5,5,4,0.079,| PMM0045 | arginine decarboxylase
+40,PMM0046,2,4,2,0.11800000000000001,| ndk | nucleoside diphosphate kinase
+41,PMM0047,4,5,4,0.111,| thiO | putative thiamine biosynthesis oxidoreductase
+42,PMM0048,9,9,9,0.16899999999999998,| gatB | aspartyl/glutamyl-tRNA amidotransferase subunit B
+43,PMM0049,3,3,3,0.10800000000000001,| coaE | putative dephospho-CoA kinase
+44,PMM0050,2,2,2,0.06,| argJ | bifunctional ornithine acetyltransferase/N-acetylglutamate synthase protein
+45,PMM0051,3,3,3,0.11699999999999999,| PMM0051 | hypothetical protein
+46,PMM0052,1,1,1,0.031,| PMM0052 | aldo/keto reductase
+47,PMM0054,1,1,1,0.062,| PMM0054 | hypothetical protein
+48,PMM0055,1,3,1,0.085,| PMM0055 | hypothetical protein
+49,PMM0057,3,3,3,0.026000000000000002,| PMM0057 | SMC ATPase superfamily chromosome segregation protein
+50,PMM0058,2,2,2,0.07400000000000001,| PMM0058 | hypothetical protein
+51,PMM0059,1,1,1,0.019,| PMM0059 | hypothetical protein
+52,PMM0060,4,4,4,0.122,| accC | acetyl-CoA carboxylase biotin carboxylase subunit
+53,PMM0063,1,1,1,0.028999999999999998,| PMM0063 | hypothetical protein
+54,PMM0064,1,1,1,0.14300000000000002,| hli2 | high light inducible protein
+55,PMM0065,11,13,11,0.127,"| PMM0065 | ABC transporter, ATP binding protein"
+56,PMM0067,3,3,3,0.09699999999999999,| PMM0067 | HIT (histidine triad) family protein
+57,PMM0068,3,3,3,0.159,| def | peptide deformylase
+58,PMM0069,1,1,1,0.011000000000000001,| PMM0069 | esterase/lipase/thioesterase family protein
+59,PMM0070,7,7,7,0.195,| PMM0070 | putative cysteine desulfurase or selenocysteine lyase
+60,PMM0071,3,3,3,0.081,"| PMM0071 | ABC transporter, membrane component"
+61,PMM0072,3,3,3,0.115,"| PMM0072 | ABC transporter, ATP binding component"
+62,PMM0073,5,5,5,0.092,| PMM0073 | cysteine desulfurase activator complex subunit SufB
+63,PMM0074,1,1,1,0.057999999999999996,| PMM0074 | hypothetical protein
+64,PMM0075,7,7,7,0.198,| PMM0075 | hypothetical protein
+65,PMM0076,4,5,4,0.08800000000000001,| pgm | phosphoglucomutase
+66,PMM0077,2,2,2,0.044000000000000004,| yrvN | recombination factor protein RarA
+67,PMM0079,6,8,6,0.316,| bcp | putative bacterioferritin comigratory (BCP) protein
+68,PMM0081,1,1,1,0.05,| cysH | phosphoadenosine phosphosulfate reductase
+69,PMM0082,2,2,2,0.040999999999999995,"| PMM0082 | putative NADH dehydrogenase, transport associated"
+70,PMM0083,1,1,1,0.015,| PMM0083 | DASS family sodium/sulfate transporter
+71,PMM0085,7,7,7,0.27399999999999997,| PMM0085 | VIC family potassium channel protein
+72,PMM0088,4,4,4,0.605,| PMM0088 | hypothetical protein
+73,PMM0090,6,7,6,0.149,| PMM0090 | serine protease
+74,PMM0091,1,1,1,0.138,| PMM0091 | hypothetical protein
+75,PMM0092,1,1,1,0.107,| PMM0092 | hypothetical protein
+76,PMM0093,2,2,2,0.271,| hli1 | high light inducible protein
+77,PMM0096,7,7,7,0.245,| PMM0096 | inositol monophosphate family protein
+78,PMM0097,4,4,4,0.08800000000000001,| PMM0097 | RND family outer membrane efflux protein
+79,PMM0098,1,1,1,0.03,| PMM0098 | putative Fe-S oxidoreductase
+80,PMM0099,1,1,1,0.035,| PMM0099 | hypothetical protein
+81,PMM0100,4,4,4,0.07200000000000001,| nadB | L-aspartate oxidase
+82,PMM0101,1,1,1,0.039,| PMM0101 | hypothetical protein
+83,PMM0103,3,3,3,0.22699999999999998,| PMM0103 | hypothetical protein
+84,PMM0104,1,1,1,0.031,| PMM0104 | hypothetical protein
+85,PMM0105,1,1,1,0.055,| ribG | RibD/RibG domain-containing protein
+86,PMM0106,1,1,1,0.036000000000000004,| PMM0106 | 6-pyruvoyl tetrahydropterin synthase
+87,PMM0107,4,4,4,0.146,| aroK | shikimate kinase
+88,PMM0109,2,2,2,0.076,| PMM0109 | POLO box duplicated region
+89,PMM0110,5,5,5,0.17,| PMM0110 | putative glutathione S-transferase
+90,PMM0113,1,1,1,0.026000000000000002,| hemD | putative uroporphyrinogen III synthase
+91,PMM0115,5,5,5,0.10300000000000001,| crtQ | zeta-carotene desaturase
+92,PMM0117,3,3,3,0.268,| PMM0117 | hypothetical protein
+93,PMM0120,4,4,3,0.094,| PMM0120 | putative cell division inhibitor
+94,PMM0123,7,8,6,0.261,| cysK2 | O-acetylserine (thiol)-lyase A
+95,PMM0124,4,5,4,0.315,| PMM0124 | hypothetical protein
+96,PMM0125,2,2,2,0.08800000000000001,| PMM0125 | ABC transporter ATP-binding protein
+97,PMM0126,4,4,4,0.128,| PMM0126 | hypothetical protein
+98,PMM0127,2,2,2,0.14300000000000002,| PMM0127 | signal peptide binding domain-containing protein
+99,PMM0128,5,7,5,0.191,| rpaA | two-component response regulator
+100,PMM0129,1,1,1,0.027999999999999997,| holB | DNA polymerase III subunit delta'
+101,PMM0130,2,2,2,0.131,| PMM0130 | thymidylate kinase
+102,PMM0131,2,2,2,0.027000000000000003,| PMM0131 | putative P-type ATPase transporter for copper
+103,PMM0132,1,1,1,0.075,| PMM0132 | photosystem I assembly protein Ycf3
+104,PMM0133,5,5,5,0.158,| radA | DNA repair protein RadA
+105,PMM0134,10,11,10,0.355,| rpaB | two-component response regulator
+106,PMM0135,5,6,5,0.105,| plsX | putative glycerol-3-phosphate acyltransferase PlsX
+107,PMM0136,1,1,1,0.036000000000000004,| fabH | 3-oxoacyl-(acyl carrier protein) synthase III
+108,PMM0137,2,2,2,0.067,| fabD | malonyl coenzyme A-acyl carrier protein transacylase
+109,PMM0138,4,4,4,0.19899999999999998,| plsC | putative 1-acyl-sn-glycerol-3-phosphate acyltransferase
+110,PMM0139,2,2,1,0.08800000000000001,| PMM0139 | hypothetical protein
+111,PMM0141,2,2,2,0.027000000000000003,| PMM0141 | poly A polymerase family protein
+112,PMM0142,5,5,5,0.345,| PMM0142 | RNA recognition motif-containing protein
+113,PMM0143,1,1,1,0.023,"| crtB,pys | squalene and phytoene synthase"
+114,PMM0144,6,6,6,0.11599999999999999,"| pds,crtD | phytoene desaturase"
+115,PMM0145,4,4,4,0.243,| PMM0145 | NADH dehydrogenase I subunit M
+116,PMM0146,2,2,2,0.08800000000000001,| PMM0146 | hypothetical protein
+117,PMM0147,4,5,4,0.129,| rbcR | putative Rubisco transcriptional regulator
+118,PMM0149,3,3,3,0.036000000000000004,| ndhF | NAD(P)H-quinone oxidoreductase subunit F
+119,PMM0150,4,4,3,0.068,| ndhD | NAD(P)H-quinone oxidoreductase subunit 4
+120,PMM0153,3,3,3,0.132,| PMM0153 | methylenetetrahydrofolate reductase
+121,PMM0155,2,2,2,0.133,| PMM0155 | hypothetical protein
+122,PMM0156,3,3,3,0.077,| ppnK | inorganic polyphosphate/ATP-NAD kinase
+123,PMM0159,4,4,3,0.159,| ndhI | NADH dehydrogenase subunit I
+124,PMM0160,1,1,1,0.048,| ndhA | NADH dehydrogenase subunit H
+125,PMM0161,9,9,9,0.244,| gltA | citrate synthase
+126,PMM0162,1,1,1,0.021,| PMM0162 | hypothetical protein
+127,PMM0163,2,2,2,0.155,| PMM0163 | hypothetical protein
+128,PMM0164,7,7,7,0.12300000000000001,| trpB | tryptophan synthase subunit beta
+129,PMM0167,1,2,1,0.067,| purE | phosphoribosylaminoimidazole carboxylase
+130,PMM0168,5,5,5,0.17600000000000002,| chlM | Mg-protoporphyrin IX methyl transferase
+131,PMM0169,8,11,8,0.264,| PMM0169 | two-component response regulator
+132,PMM0170,2,2,2,0.047,| PMM0170 | NifS-like aminotransferase class-V
+133,PMM0172,8,9,8,0.152,| ndhH | NAD(P)H-quinone oxidoreductase subunit H
+134,PMM0173,2,2,2,0.14,| PMM0173 | hypothetical protein
+135,PMM0174,1,1,1,0.022000000000000002,| menE | putative O-succinylbenzoic acid--CoA ligase (OSB-CoA synthetase)
+136,PMM0176,1,1,1,0.03,"| menA | 1,4-dihydroxy-2-naphthoate octaprenyltransferase"
+137,PMM0178,2,3,2,0.062,| gshB | glutathione synthetase
+138,PMM0179,3,3,3,0.27399999999999997,| PMM0179 | glutaredoxin
+139,PMM0181,1,1,1,0.11699999999999999,| PMM0181 | hypothetical protein
+140,PMM0184,1,1,1,0.061,| pabA | para-aminobenzoate synthase component II
+141,PMM0187,2,2,2,0.036000000000000004,| argS | arginyl-tRNA synthetase
+142,PMM0188,2,2,2,0.08,| nadC | nicotinate-nucleotide pyrophosphorylase:quinolinate phosphoriobsyl transferase
+143,PMM0189,1,1,1,0.02,| trmE | tRNA modification GTPase TrmE
+144,PMM0190,2,2,2,0.107,| PMM0190 | hypothetical protein
+145,PMM0191,4,4,4,0.057,"| spoT | guanosine-3',5'-bis(diphosphate) 3'-diphosphatase, (ppGpp)ase"
+146,PMM0194,3,3,3,0.073,| rbgA | ribosomal biogenesis GTPase
+147,PMM0195,21,29,21,0.318,| pgk | phosphoglycerate kinase
+148,PMM0197,1,1,1,0.019,| murG | undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase
+149,PMM0198,2,2,1,0.037000000000000005,| hisC/cobC | aminotransferase class-I
+150,PMM0199,3,3,3,0.077,| pyrD | dihydroorotate dehydrogenase 2
+151,PMM0200,7,7,7,0.212,| rnhA | ribonuclease HI
+152,PMM0201,15,27,15,0.44299999999999995,| rplL | 50S ribosomal protein L7/L12
+153,PMM0202,2,3,2,0.131,| rplJ | 50S ribosomal protein L10
+154,PMM0203,8,8,8,0.306,| rplA | 50S ribosomal protein L1
+155,PMM0204,3,5,3,0.22,| rplK | 50S ribosomal protein L11
+156,PMM0205,4,7,4,0.207,| nusG | transcription antitermination protein NusG
+157,PMM0206,1,2,1,0.139,| secE | preprotein translocase subunit SecE
+158,PMM0207,11,11,11,0.122,"| clpB2 | putative ATP-dependent Clp protease, Hsp 100, ATP-binding subunit ClpB"
+159,PMM0208,14,15,14,0.353,| eno | enolase
+160,PMM0209,5,5,5,0.10800000000000001,| PMM0209 | putative kinase
+161,PMM0211,5,5,5,0.151,| trxB | FAD-dependent pyridine nucleotide-disulphide oxidoreductase
+162,PMM0212,1,3,1,0.11800000000000001,| PMM0212 | hypothetical protein
+163,PMM0213,1,1,1,0.021,| sbtA | putative sodium-dependent bicarbonate transporter
+164,PMM0214,9,16,9,0.131,| PMM0214 | putative sulfate transporter
+165,PMM0215,5,6,5,0.114,| PMM0215 | delta-aminolevulinic acid dehydratase
+166,PMM0217,1,1,1,0.012,| mutS | DNA mismatch repair protein MutS family protein
+167,PMM0218,1,1,1,0.027999999999999997,| obgE | GTPase ObgE
+168,PMM0219,1,1,1,0.183,| PMM0219 | hypothetical protein
+169,PMM0222,3,3,3,0.095,| PMM0222 | aspartoacylase
+170,PMM0223,7,9,7,0.16899999999999998,| psbA | photosystem II PsbA protein (D1)
+171,PMM0224,4,5,4,0.124,| aroC | chorismate synthase
+172,PMM0225,1,1,1,0.033,| PMM0225 | 2-keto-3-deoxy-6-phosphogluconate aldolase
+173,PMM0226,8,9,7,0.142,| ftsH2 | cell division protein FtsH2
+174,PMM0227,5,5,4,0.113,| cysD | ATP-sulfurylase
+175,PMM0228,19,28,19,0.466,| psbO | photosystem II manganese-stabilizing protein
+176,PMM0229,1,1,1,0.028999999999999998,| dfp | putative p-pantothenate cysteine ligase and p-pantothenenoylcysteine decarboxylase
+177,PMM0231,1,1,1,0.183,| PMM0231 | hypothetical protein
+178,PMM0233,5,5,5,0.16899999999999998,| pyrB | aspartate carbamoyltransferase catalytic subunit
+179,PMM0234,1,1,1,0.055,| PMM0234 | methylpurine-DNA glycosylase (MPG)
+180,PMM0235,6,7,6,0.433,| gatC | aspartyl/glutamyl-tRNA amidotransferase subunit C
+181,PMM0238,13,14,13,0.113,| ileS | isoleucyl-tRNA synthetase
+182,PMM0241,6,6,6,0.124,| PMM0241 | phosphotransferase superclass
+183,PMM0242,1,1,1,0.07200000000000001,| txlA | thioredoxin-like protein TxlA
+184,PMM0243,6,6,6,0.28800000000000003,| thyX | FAD-dependent thymidylate synthase
+185,PMM0244,2,2,2,0.142,| dcd | deoxycytidine triphosphate deaminase
+186,PMM0245,1,1,1,0.031,| PMM0245 | cob(I)alamin adenosyltransferase
+187,PMM0248,1,1,1,0.040999999999999995,| PMM0248 | hypothetical protein
+188,PMM0250,4,4,4,0.192,| pth | peptidyl-tRNA hydrolase
+189,PMM0251,1,6,1,0.121,| psbH | photosystem II reaction center protein H
+190,PMM0254,11,11,11,0.161,| PMM0254 | hypothetical protein
+191,PMM0256,1,1,1,0.032,| leuC | isopropylmalate isomerase large subunit
+192,PMM0257,4,4,4,0.085,| PMM0257 | molybdenum cofactor biosynthesis protein
+193,PMM0258,9,10,9,0.23199999999999998,| glyA | serine hydroxymethyltransferase
+194,PMM0260,2,2,2,0.258,| PMM0260 | hypothetical protein
+195,PMM0263,3,3,3,0.051,| amt1 | ammonium transporter
+196,PMM0264,1,1,1,0.03,| lytB | 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+197,PMM0266,2,2,2,0.028999999999999998,| purH | bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+198,PMM0269,1,1,1,0.024,| PMM0269 | two-component sensor histidine kinase
+199,PMM0270,1,1,1,0.037000000000000005,| CobS | cobalamin-5-phosphate synthase CobS
+200,PMM0273,4,4,4,0.099,| PMM0273 | putative oxidoreductase
+201,PMM0274,6,6,6,0.111,| PMM0274 | hypothetical protein
+202,PMM0275,4,4,4,0.242,| pyrE | orotate phosphoribosyltransferase
+203,PMM0276,3,3,3,0.08900000000000001,| PMM0276 | hypothetical protein
+204,PMM0277,3,3,3,0.053,| PMM0277 | putative nuclease (RecB family)
+205,PMM0278,9,9,9,0.18100000000000002,| PMM0278 | phosphotransferase superclass
+206,PMM0279,2,2,2,0.105,| PMM0279 | hypothetical protein
+207,PMM0281,1,2,1,0.04,| hisB | imidazoleglycerol-phosphate dehydratase
+208,PMM0282,8,10,8,0.28800000000000003,| fabI | enoyl-(acyl carrier protein) reductase
+209,PMM0284,4,4,4,0.077,| degT | putative pleiotropic regulatory protein
+210,PMM0285,2,2,2,0.028999999999999998,| phr | putative DNA photolyase
+211,PMM0286,2,2,2,0.075,| PMM0286 | NUDIX hydrolase
+212,PMM0287,3,3,1,0.11800000000000001,| folK | 2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase
+213,PMM0288,2,2,2,0.024,| chlD | protoporphyrin IX magnesium chelatase subunit ChlD
+214,PMM0289,2,2,2,0.043,| PMM0289 | putative ABC transporter
+215,PMM0290,3,3,3,0.121,| PMM0290 | ABC transporter ATP-binding protein
+216,PMM0291,3,3,3,0.057,| PMM0291 | hypothetical protein
+217,PMM0292,4,6,4,0.29,| ndhJ | NADH dehydrogenase subunit J
+218,PMM0293,2,2,2,0.09,| ndhK | NADH dehydrogenase subunit B
+219,PMM0294,1,1,1,0.057999999999999996,| ndhC | NADH dehydrogenase subunit A
+220,PMM0295,2,2,2,0.204,| rub | putative rubredoxin
+221,PMM0298,2,2,2,0.447,| psbF | cytochrome b559 subunit beta
+222,PMM0301,5,5,5,0.153,| PMM0301 | 5'-methylthioadenosine phosphorylase
+223,PMM0302,8,9,8,0.11599999999999999,"| selD | selenide,water dikinase"
+224,PMM0303,2,2,2,0.046,| PMM0303 | tRNA nucleotidyltransferase/poly(A) polymerase
+225,PMM0304,3,3,3,0.04,| uvrD | UvrD/REP helicase
+226,PMM0306,3,3,3,0.10400000000000001,| cpeS | phycoerythrin linker protein CpeS-like protein
+227,PMM0309,1,1,1,0.065,| PMM0309 | Pollen allergen
+228,PMM0310,1,1,1,0.02,| PMM0310 | carbohydrate kinase
+229,PMM0311,8,10,8,0.177,| metK | S-adenosylmethionine synthetase
+230,PMM0312,14,16,14,0.309,| rps1a | 30S ribosomal protein S1
+231,PMM0313,2,3,2,0.10099999999999999,| nrdR | transcriptional regulator NrdR
+232,PMM0315,17,23,17,0.217,| psbB | photosystem II PsbB protein (CP47)
+233,PMM0317,1,1,1,0.18,| psbM | photosystem II reaction center protein M
+234,PMM0319,1,1,1,0.062,| PMM0319 | hypothetical protein
+235,PMM0320,13,13,13,0.5,| minE | cell division topological specificity factor MinE
+236,PMM0321,8,9,8,0.214,| minD | putative septum site-determining protein MinD
+237,PMM0322,2,2,2,0.086,| minC | septum site-determining protein
+238,PMM0323,4,6,4,0.091,| PMM0323 | hypothetical protein
+239,PMM0324,9,12,9,0.2,| ctpA | carboxyl-terminal protease
+240,PMM0326,1,1,1,0.055999999999999994,| petD | cytochrome b6-f complex subunit IV
+241,PMM0327,2,2,2,0.044000000000000004,| PMM0327 | putative neutral invertase-like protein
+242,PMM0328,1,1,1,0.024,| FPG | formamidopyrimidine-DNA glycosylase
+243,PMM0329,1,1,1,0.13,| psaE | photosystem I reaction center subunit IV
+244,PMM0330,5,8,5,0.20600000000000002,| PMM0330 | LysM domain-containing protein
+245,PMM0331,3,3,3,0.055999999999999994,| PMM0331 | putative aldehyde dehydrogenase
+246,PMM0333,1,1,1,0.031,| rimI | GCN5-related N-acetyltransferase
+247,PMM0338,3,3,3,0.121,| PMM0338 | hypothetical protein
+248,PMM0340,3,3,3,0.235,| PMM0340 | hypothetical protein
+249,PMM0341,2,2,2,0.408,| PMM0341 | hypothetical protein
+250,PMM0343,1,2,1,0.10400000000000001,| PMM0343 | mttA/Hcf106 family protein
+251,PMM0344,1,1,1,0.152,| PMM0344 | hypothetical protein
+252,PMM0345,4,4,4,0.228,| PMM0345 | putative bacterioferritin comigratory protein
+253,PMM0348,1,1,1,0.165,| PMM0348 | spectrin repeat-containing protein
+254,PMM0353,2,2,2,0.057999999999999996,| PMM0353 | glycosyl transferase family protein
+255,PMM0354,2,2,2,0.105,| PMM0354 | glycosyl transferase
+256,PMM0355,3,3,3,0.292,| PMM0355 | hypothetical protein
+257,PMM0356,4,4,4,0.11699999999999999,"| PMM0356 | 2-hydroxy-6-oxohepta-2,4-dienoate hydrolase"
+258,PMM0359,1,1,1,0.135,| PMM0359 | hypothetical protein
+259,PMM0360,1,1,1,0.078,| PMM0360 | hypothetical protein
+260,PMM0364,1,1,1,0.132,| PMM0364 | malic enzyme
+261,PMM0366,1,1,1,0.045,| PMM0366 | type-1 copper (blue) domain-containing protein
+262,PMM0367,7,8,7,0.209,| PMM0367 | hypothetical protein
+263,PMM0370,3,3,3,0.053,"| PMM0370 | putative cyanate ABC transporter, substrate binding protein"
+264,PMM0372,2,2,2,0.049,| PMM0372 | putative cyanate ABC transporter
+265,PMM0373,2,2,2,0.163,| cynS | cyanate hydratase
+266,PMM0376,1,1,1,0.098,| PMM0376 | hypothetical protein
+267,PMM0377,2,4,2,0.287,| PMM0377 | hypothetical protein
+268,PMM0378,1,1,1,0.111,| PMM0378 | hypothetical protein
+269,PMM0379,2,3,2,0.172,| PMM0379 | hypothetical protein
+270,PMM0384,6,6,6,0.059000000000000004,| spnII-interrupted-C | hypothetical protein
+271,PMM0387,1,1,1,0.055,| aroD | 3-dehydroquinate dehydratase
+272,PMM0389,2,2,2,0.06,| cobI/cbiL | precorrin-2 C20-methyltransferase
+273,PMM0391,2,2,2,0.039,| engA | GTP-binding protein EngA
+274,PMM0392,2,3,2,0.066,| PMM0392 | cobalt ABC transporter permease
+275,PMM0393,4,6,4,0.375,| PMM0393 | hypothetical protein
+276,PMM0394,2,2,2,0.094,| PMM0394 | hypothetical protein
+277,PMM0395,4,4,4,0.157,| PMM0395 | hypothetical protein
+278,PMM0396,7,7,7,0.272,| proC | Delta 1-pyrroline-5-carboxylate reductase
+279,PMM0397,2,2,2,0.054000000000000006,"| PMM0397 | putative glycosyl transferase, group 1"
+280,PMM0398,3,3,3,0.085,| PMM0398 | putative recombination protein O
+281,PMM0399,1,1,1,0.037000000000000005,| PMM0399 | putative deoxyribose-phosphate aldolase
+282,PMM0400,1,1,1,0.067,| lrtA | light repressed protein A-like protein
+283,PMM0401,1,1,1,0.042,| lipB | putative lipoate-protein ligase B
+284,PMM0402,1,1,1,0.011000000000000001,| fadD | putative long-chain-fatty-acid--CoA ligase
+285,PMM0403,6,9,6,0.318,| PMM0403 | hypothetical protein
+286,PMM0405,11,12,11,0.215,| pdhC | branched-chain alpha-keto acid dehydrogenase subunit E2
+287,PMM0406,4,4,4,0.094,| queA | queuosine biosynthesis protein
+288,PMM0407,19,27,18,0.409,| cysK1 | O-acetylserine (thiol)-lyase A
+289,PMM0408,3,3,3,0.053,| PMM0408 | putative cystathionine gamma-synthase
+290,PMM0409,2,2,1,0.052000000000000005,| metB | putative cystathionine gamma-synthase
+291,PMM0410,2,2,2,0.124,| rpsD | 30S ribosomal protein S4
+292,PMM0411,1,1,1,0.192,| PMM0411 | hypothetical protein
+293,PMM0413,1,1,1,0.02,"| murE | UDP-N-acetylmuramoylalanyl-D-glutamate--2, 6-diaminopimelate ligase"
+294,PMM0414,5,6,5,0.226,| PMM0414 | putative short chain dehydrogenase
+295,PMM0415,5,5,5,0.142,| PMM0415 | putative L-cysteine/cystine lyase
+296,PMM0416,2,2,2,0.068,| PMM0416 | hypothetical protein
+297,PMM0419,8,10,7,0.171,| mqo | malate:quinone oxidoreductase
+298,PMM0420,5,6,4,0.071,| lepA | GTP-binding protein LepA
+299,PMM0422,1,1,1,0.07200000000000001,| PMM0422 | tRNA/rRNA methyltransferase (SpoU)
+300,PMM0426,4,4,4,0.073,| PMM0426 | Sun protein (Fmu protein)
+301,PMM0428,1,1,1,0.028999999999999998,| chlG | bacteriochlorophyll/chlorophyll a synthase
+302,PMM0430,7,7,6,0.212,| hisF | imidazole glycerol phosphate synthase subunit HisF
+303,PMM0431,2,2,2,0.069,| PMM0431 | hypothetical protein
+304,PMM0434,2,2,2,0.11800000000000001,| PMM0434 | ABC transporter ATP-binding protein
+305,PMM0435,2,2,2,0.04,| ndhB | NAD(P)H-quinone oxidoreductase subunit 2
+306,PMM0436,6,6,6,0.071,| topA | DNA topoisomerase I
+307,PMM0440,3,3,3,0.085,| PMM0440 | hypothetical protein
+308,PMM0442,3,3,3,0.087,| ribE | riboflavin synthase subunit alpha
+309,PMM0445,1,1,1,0.022000000000000002,"| ctaD | cytochrome c oxidase, subunit I"
+310,PMM0446,3,3,3,0.154,"| ctaC | putative cytochrome c oxidase, subunit 2"
+311,PMM0448,1,1,1,0.039,| ctaB | putative protoheme IX farnesyltransferase
+312,PMM0449,5,6,5,0.195,| PMM0449 | putative multidrug efflux ABC transporter
+313,PMM0451,2,2,2,0.11800000000000001,| PMM0451 | hypothetical protein
+314,PMM0452,54,74,52,0.535,| groEL | chaperonin GroEL
+315,PMM0453,4,4,4,0.153,| fabG | 3-oxoacyl-[acyl-carrier protein] reductase
+316,PMM0454,2,2,2,0.081,| ispD | 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+317,PMM0455,2,2,2,0.069,| PMM0455 | hypothetical protein
+318,PMM0457,4,4,4,0.081,| ppx | putative exopolyphosphatase
+319,PMM0458,2,2,2,0.061,| PMM0458 | hypothetical protein
+320,PMM0459,4,4,3,0.147,| cobM | putative precorrin-4 C11-methyltransferase
+321,PMM0460,1,1,0,0.024,| yvoC | prolipoprotein diacylglyceryl transferase
+322,PMM0461,3,4,3,0.11699999999999999,| petA | apocytochrome f
+323,PMM0462,4,5,4,0.281,| petC | cytochrome b6-f complex iron-sulfur subunit
+324,PMM0466,1,1,1,0.016,| PMM0466 | secreted protein MPB70 precursor
+325,PMM0467,1,1,1,0.038,| gmk | guanylate kinase
+326,PMM0469,5,12,5,0.196,| psaF | photosystem I PsaF protein (subunit III)
+327,PMM0470,1,1,1,0.025,| PMM0470 | o-sialoglycoprotein endopeptidase
+328,PMM0472,2,2,2,0.048,| PMM0472 | CPA1 family Na+/H+ antiporter
+329,PMM0473,4,5,4,0.08800000000000001,| gltX | glutamyl-tRNA synthetase
+330,PMM0474,3,4,3,0.516,| PMM0474 | hypothetical protein
+331,PMM0475,4,6,4,0.25,| rplS | 50S ribosomal protein L19
+332,PMM0477,4,4,4,0.17600000000000002,| map | methionine aminopeptidase
+333,PMM0479,8,8,8,0.26,| PMM0479 | BioD-like N-terminal domain of phosphotransacetylase
+334,PMM0480,6,7,6,0.265,| PMM0480 | hypothetical protein
+335,PMM0481,10,11,10,0.473,| PMM0481 | putative nucleotide-binding protein
+336,PMM0482,14,41,14,0.414,| phb | Band 7 protein
+337,PMM0483,10,13,10,0.21899999999999997,| hemL | glutamate-1-semialdehyde aminotransferase
+338,PMM0484,5,5,5,0.185,| xthA | exodeoxyribonuclease III
+339,PMM0486,5,7,5,0.18600000000000003,| PMM0486 | hypothetical protein
+340,PMM0487,4,4,4,0.091,| PMM0487 | hypothetical protein
+341,PMM0489,4,4,4,0.07200000000000001,"| futB,hitB | putative iron ABC transporter"
+342,PMM0490,4,4,4,0.124,| PMM0490 | hypothetical protein
+343,PMM0491,1,1,1,0.073,| phhB | pterin-4-alpha-carbinolamine dehydratase
+344,PMM0492,4,4,4,0.267,| PMM0492 | hypothetical protein
+345,PMM0493,10,10,9,0.168,| cxp | carboxypeptidase Taq (M32) metallopeptidase
+346,PMM0494,8,9,8,0.297,| ppa | putative inorganic pyrophosphatase
+347,PMM0495,8,10,8,0.209,| hemC | porphobilinogen deaminase
+348,PMM0496,6,6,6,0.141,| sigA | RNA polymerase sigma factor RpoD
+349,PMM0498,3,3,3,0.035,| PMM0498 | hypothetical protein
+350,PMM0499,5,5,5,0.127,| argB | acetylglutamate kinase
+351,PMM0501,1,1,1,0.15,| PMM0501 | hypothetical protein
+352,PMM0502,2,2,2,0.134,| PMM0502 | hypothetical protein
+353,PMM0503,1,1,1,0.037000000000000005,| PMM0503 | precorrin-6X reductase
+354,PMM0505,4,4,4,0.047,| PMM0505 | carbohydrate kinase
+355,PMM0506,15,19,15,0.29600000000000004,"| purA,adeK | adenylosuccinate synthetase"
+356,PMM0507,8,10,8,0.221,| psb27 | putative photosystem II reaction center Psb27 protein
+357,PMM0508,6,6,6,0.09300000000000001,| proS | prolyl-tRNA synthetase
+358,PMM0509,1,1,1,0.078,| PMM0509 | resolvase
+359,PMM0511,4,4,4,0.159,| ppa | inorganic pyrophosphatase
+360,PMM0512,1,1,1,0.07400000000000001,| PMM0512 | putative arsenate reductase
+361,PMM0513,1,1,1,0.039,| lepB | Signal peptidase I
+362,PMM0514,4,4,4,0.067,| PMM0514 | putative dihydroorotase
+363,PMM0515,10,11,10,0.204,| cobC | putative alpha-ribazole-5'-P phosphatase
+364,PMM0516,2,3,1,0.038,| PMM0516 | membrane-associated protease
+365,PMM0518,2,2,1,0.024,| ftsI | peptidoglycan synthetase
+366,PMM0519,11,16,11,0.258,| tal | transaldolase B
+367,PMM0520,5,5,5,0.111,| PMM0520 | NAD binding site
+368,PMM0521,4,6,4,0.17,| frr | ribosome recycling factor
+369,PMM0522,2,2,2,0.132,| pyrH | uridylate kinase
+370,PMM0523,3,3,3,0.14300000000000002,| cobO | cob(I)alamin adenosyltransferase
+371,PMM0524,1,1,1,0.021,| PMM0524 | phage integrase family protein
+372,PMM0525,3,3,3,0.12300000000000001,| hemH | ferrochelatase
+373,PMM0526,13,13,12,0.187,| ilvH | acetolactate synthase 3 catalytic subunit
+374,PMM0527,2,2,2,0.145,| PMM0527 | hypothetical protein
+375,PMM0529,4,4,4,0.12,| PMM0529 | hypothetical protein
+376,PMM0530,4,4,4,0.096,"| rps1b | 30S ribosomal protein S1 homolog B, putative Nbp1"
+377,PMM0531,4,4,4,0.155,| PMM0531 | creatininase
+378,PMM0532,1,1,1,0.034,| PMM0532 | hypothetical protein
+379,PMM0533,3,3,3,0.084,| PMM0533 | hypothetical protein
+380,PMM0534,2,2,2,0.042,| accA | acetyl-CoA carboxylase carboxyltransferase subunit alpha
+381,PMM0535,1,1,1,0.06,| PMM0535 | short chain dehydrogenase
+382,PMM0536,2,2,1,0.061,| folE | putative GTP cyclohydrolase I
+383,PMM0537,2,3,2,0.073,| trpF | phosphoribosylanthranilate isomerase
+384,PMM0538,2,2,2,0.037000000000000005,| PMM0538 | hypothetical protein
+385,PMM0542,3,3,3,0.087,| por | protochlorophyllide oxidoreductase
+386,PMM0543,2,2,2,0.095,| chlL | protochlorophyllide reductase iron-sulfur ATP-binding protein
+387,PMM0544,3,3,2,0.061,| chlB | light-independent protochlorophyllide reductase subunit B
+388,PMM0545,4,4,4,0.079,| chlN | light-independent protochlorophyllide reductase subunit N
+389,PMM0546,3,4,3,0.156,| PMM0546 | hypothetical protein
+390,PMM0547,2,2,1,0.078,| PMM0547 | hypothetical protein
+391,PMM0549,15,29,15,0.8270000000000001,| csoS1 | carboxysome shell protein CsoS1
+392,PMM0550,14,22,14,0.22699999999999998,| rbcL | ribulose bisophosphate carboxylase
+393,PMM0551,9,18,9,0.248,"| rbcS | ribulose bisphosphate carboxylase, small chain"
+394,PMM0552,9,11,9,0.12,| csoS2 | carboxysome shell protein CsoS2
+395,PMM0553,3,3,3,0.071,| csoS3 | carboxysome shell protein CsoS3
+396,PMM0555,1,1,1,0.12300000000000001,| PMM0555 | putative carboxysome peptide B
+397,PMM0556,4,4,4,0.418,| PMM0556 | hypothetical protein
+398,PMM0558,3,3,3,0.138,| PMM0558 | hypothetical protein
+399,PMM0560,9,9,9,0.316,| hisG | ATP phosphoribosyltransferase catalytic subunit
+400,PMM0561,2,2,2,0.035,| PMM0561 | putative multidrug efflux ABC transporter
+401,PMM0562,1,1,1,0.045,| PMM0562 | putative acetyltransferase
+402,PMM0565,6,7,6,0.099,| dnaA | chromosomal replication initiation protein
+403,PMM0567,7,7,7,0.14800000000000002,| gshR | glutathione reductase (NADPH)
+404,PMM0569,4,4,4,0.08900000000000001,| pyrC | dihydroorotase
+405,PMM0572,3,3,3,0.10400000000000001,| trpA | tryptophan synthase subunit alpha
+406,PMM0574,3,3,3,0.36700000000000005,| PMM0574 | YciI-like protein
+407,PMM0575,3,3,3,0.217,| PMM0575 | hypothetical protein
+408,PMM0577,2,2,1,0.049,| PMM0577 | type II alternative sigma-70 family RNA polymerase sigma factor
+409,PMM0578,4,4,4,0.213,| PMM0578 | bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase protein
+410,PMM0579,1,1,1,0.057999999999999996,| PMM0579 | 6-pyruvoyl-tetrahydropterin synthase
+411,PMM0580,12,12,11,0.122,"| clpB1 | ATP-dependent Clp protease, Hsp 100, ATP-binding subunit ClpB"
+412,PMM0581,2,2,2,0.233,| petE | plastocyanin
+413,PMM0582,1,1,1,0.021,| PMM0582 | hypothetical protein
+414,PMM0583,11,16,11,0.254,| hemE | uroporphyrinogen decarboxylase
+415,PMM0584,4,4,4,0.057,| glgB | glycogen branching enzyme
+416,PMM0585,2,2,2,0.027000000000000003,| PMM0585 | hypothetical protein
+417,PMM0586,2,2,2,0.182,| PMM0586 | hypothetical protein
+418,PMM0588,2,2,2,0.204,| PMM0588 | hypothetical protein
+419,PMM0589,9,9,9,0.07,| PMM0589 | hypothetical protein
+420,PMM0590,8,11,8,0.204,| proA | gamma-glutamyl phosphate reductase
+421,PMM0591,2,2,2,0.192,| folB | dihydroneopterin aldolase
+422,PMM0592,1,1,1,0.036000000000000004,| PMM0592 | lipase family protein
+423,PMM0593,3,3,2,0.039,| PMM0593 | M3 family peptidase
+424,PMM0594,4,4,3,0.064,| ndhD | NAD(P)H-quinone oxidoreductase subunit 4
+425,PMM0595,1,1,1,0.019,| thrB | homoserine kinase
+426,PMM0596,2,2,2,0.040999999999999995,| PMM0596 | putative glucokinase
+427,PMM0597,8,8,7,0.11,| thrS | threonyl-tRNA synthetase
+428,PMM0598,2,2,2,0.062,| trpS | tryptophanyl-tRNA synthetase
+429,PMM0599,2,2,2,0.132,| PMM0599 | hypothetical protein
+430,PMM0600,1,1,1,0.028999999999999998,| PMM0600 | hypothetical protein
+431,PMM0604,5,5,5,0.124,| PMM0604 | hypothetical protein
+432,PMM0607,3,3,3,0.027000000000000003,"| menD | menaquinone biosynthesis protein; 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase"
+433,PMM0608,7,7,7,0.24600000000000002,| menB | naphthoate synthase
+434,PMM0609,6,6,6,0.147,| glgA | glycogen synthase
+435,PMM0611,4,4,4,0.091,| glmU | UDP-N-acetylglucosamine pyrophosphorylase
+436,PMM0613,8,10,8,0.16699999999999998,| aroA | 3-phosphoshikimate 1-carboxyvinyltransferase
+437,PMM0614,1,1,1,0.057999999999999996,| PMM0614 | 2-phosphosulfolactate phosphatase
+438,PMM0615,3,4,3,0.113,| PMM0615 | putative nitrilase
+439,PMM0616,1,1,1,0.019,| PMM0616 | cell wall hydrolase/autolysin
+440,PMM0617,1,1,1,0.034,| murI | putative aspartate and glutamate racemase:glutamate racemase
+441,PMM0618,4,4,4,0.133,| sds | polyprenyl synthetase; solanesyl diphosphate synthase (sds)
+442,PMM0619,17,21,17,0.233,| acs | acetyl-coenzyme A synthetase
+443,PMM0623,6,7,6,0.128,| hisS | histidyl-tRNA synthetase
+444,PMM0624,1,1,1,0.083,| PMM0624 | hypothetical protein
+445,PMM0627,6,8,6,0.156,| pcb | light-harvesting complex protein
+446,PMM0629,1,1,1,0.11800000000000001,| PMM0629 | hypothetical protein
+447,PMM0631,2,2,2,0.083,| PMM0631 | NADH-ubiquinone/plastoquinone (comple
+448,PMM0632,2,2,2,0.08900000000000001,| PMM0632 | short-chain dehydrogenase/reductase
+449,PMM0633,3,3,3,0.066,| crtL2 | putative lycopene epsilon cyclase
+450,PMM0635,2,2,2,0.052000000000000005,| PMM0635 | small mechanosensitive ion channel
+451,PMM0636,3,3,3,0.168,| PMM0636 | isochorismatase hydrolase family protein
+452,PMM0637,1,1,1,0.073,| fur | ferric uptake regulator family protein
+453,PMM0638,1,1,1,0.028999999999999998,| PMM0638 | hypothetical protein
+454,PMM0639,2,2,2,0.045,| stpA | putative glucosylglycerolphosphate phosphatase
+455,PMM0640,9,10,8,0.195,| PMM0640 | hypothetical protein
+456,PMM0641,5,6,5,0.151,| PMM0641 | hypothetical protein
+457,PMM0642,30,50,30,0.35700000000000004,| cysD | putative O-Acetyl homoserine sulfhydrylase
+458,PMM0643,5,6,5,0.162,| metA | putative homoserine O-succinyltransferase
+459,PMM0644,3,3,3,0.044000000000000004,| PMM0644 | putative sulfate transporter
+460,PMM0645,1,1,1,0.021,"| PMM0645 | FAD linked oxidase, N-terminal"
+461,PMM0646,1,1,1,0.027000000000000003,| PMM0646 | hypothetical protein
+462,PMM0649,2,3,2,0.146,| PMM0649 | pentapeptide repeat-containing protein
+463,PMM0651,1,1,1,0.055,| PMM0651 | VHS domain-containing protein
+464,PMM0653,1,1,1,0.10099999999999999,| gloA | lactoylglutathione lyase
+465,PMM0656,1,1,1,0.06,| PMM0656 | 7TM chemoreceptor
+466,PMM0658,1,1,1,0.028999999999999998,| rsuA | putative pseudouridylate synthase specific to ribosomal small subunit
+467,PMM0661,19,21,19,0.257,| nrdJ | ribonucleotide reductase (class II)
+468,PMM0662,3,3,3,0.10400000000000001,| PMM0662 | hypothetical protein
+469,PMM0663,6,6,6,0.073,| prfC | peptide chain release factor 3
+470,PMM0664,1,1,1,0.049,| PMM0664 | hypothetical protein
+471,PMM0665,6,6,6,0.2,| hslO | Hsp33-like chaperonin
+472,PMM0666,1,1,1,0.042,| PMM0666 | ABC transporter ATP-binding protein
+473,PMM0668,2,2,2,0.066,| PMM0668 | 16S ribosomal RNA methyltransferase RsmE
+474,PMM0670,1,1,1,0.079,| PMM0670 | hypothetical protein
+475,PMM0671,2,2,2,0.042,| PMM0671 | putative phosphonate ABC transporter
+476,PMM0672,8,8,8,0.265,| PMM0672 | putative phosphonate ABC transporter
+477,PMM0674,8,12,8,0.198,| aspC | aminotransferase class-I
+478,PMM0676,3,3,3,0.081,| ispG | 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+479,PMM0677,3,4,3,0.055999999999999994,| PMM0677 | carboxyl-terminal processing protease
+480,PMM0678,1,1,1,0.023,| PMM0678 | quinolinate synthetase
+481,PMM0679,2,2,2,0.052000000000000005,| PMM0679 | putative transcripton factor
+482,PMM0680,2,2,2,0.07200000000000001,| PMM0680 | hypothetical protein
+483,PMM0681,6,6,6,0.149,| PMM0681 | hypothetical protein
+484,PMM0682,7,7,7,0.193,| aroB | 3-dehydroquinate synthase
+485,PMM0683,4,4,4,0.09300000000000001,| purK | phosphoribosylaminoimidazole carboxylase ATPase subunit
+486,PMM0693,2,2,2,0.149,| PMM0693 | Hepatitis C virus envelope glycoprote
+487,PMM0695,1,1,1,0.028999999999999998,| PMM0695 | glutamine amidotransferase class-I
+488,PMM0697,1,1,1,0.09300000000000001,| PMM0697 | D12 class N6 adenine-specific DNA met
+489,PMM0702,2,2,2,0.18,| PMM0702 | hypothetical protein
+490,PMM0704,2,3,2,0.071,| PMM0704 | VIC family potassium channel protein
+491,PMM0705,4,5,4,0.145,"| phoB | two-component response regulator, phosphate"
+492,PMM0706,3,4,3,0.079,"| phoR | two-component sensor histidine kinase, phosphate sensing"
+493,PMM0708,5,5,5,0.063,| PMM0708 | putative secreted protein
+494,PMM0709,1,1,1,0.022000000000000002,| som | porin
+495,PMM0710,16,20,16,0.33399999999999996,"| PMM0710 | ABC transporter, substrate binding protein, phosphate"
+496,PMM0712,1,2,1,0.026000000000000002,| PMM0712 | major facilitator superfamily multidrug-efflux transporter
+497,PMM0713,4,4,4,0.126,| gap1 | putative glyceraldehyde 3-phosphate dehydrogenase
+498,PMM0714,1,1,1,0.071,| PMM0714 | ArsR family regulatory protein
+499,PMM0715,3,3,3,0.4,| PMM0715 | chorismate binding enzyme
+500,PMM0718,1,1,1,0.055999999999999994,"| PMM0718 | regulatory proteins, Crp fa"
+501,PMM0719,1,1,1,0.109,| PMM0719 | hypothetical protein
+502,PMM0725,3,4,3,0.1,"| PMM0725 | putative phosphate ABC transporter, ATP binding subunit"
+503,PMM0729,1,1,1,0.013000000000000001,| PMM0729 | ATP-dependent DNA ligase
+504,PMM0732,4,4,4,0.27399999999999997,| PMM0732 | major surface glycoprotein
+505,PMM0733,5,5,5,0.094,| PMM0733 | hypothetical protein
+506,PMM0734,1,1,1,0.107,| PMM0734 | CopG family protein
+507,PMM0736,1,2,1,0.086,| PMM0736 | alpha-2-macroglobulin family protein
+508,PMM0738,1,1,1,0.10099999999999999,| PMM0738 | hypothetical protein
+509,PMM0741,3,4,2,0.09699999999999999,| PMM0741 | Thf1-like protein
+510,PMM0742,4,5,4,0.19399999999999998,| clpP1 | ATP-dependent Clp protease proteolytic subunit
+511,PMM0743,16,17,15,0.243,| ftsH1 | FtsH ATP-dependent protease-like protein
+512,PMM0744,2,2,2,0.239,| PMM0744 | hypothetical protein
+513,PMM0747,1,1,0,0.028999999999999998,| pcyA | phycocyanobilin:ferredoxin oxidoreductase
+514,PMM0748,3,3,3,0.08900000000000001,| PMM0748 | ABC transporter
+515,PMM0749,2,2,2,0.061,"| PMM0749 | ABC-transporter, membrane spanning component"
+516,PMM0750,2,2,2,0.057999999999999996,"| PMM0750 | ABC transporter, ATP-binding component"
+517,PMM0752,4,5,4,0.098,| PMM0752 | glycosyl transferase family protein
+518,PMM0753,9,12,9,0.239,| rpsB | 30S ribosomal protein S2
+519,PMM0754,6,7,6,0.271,| tsf | elongation factor Ts
+520,PMM0755,1,1,1,0.025,| PMM0755 | adenylate cyclase
+521,PMM0758,12,13,12,0.20600000000000002,| sir | sulfite reductase subunit beta
+522,PMM0759,5,5,5,0.064,| glyS | glycyl-tRNA synthetase beta subunit
+523,PMM0760,11,15,11,0.251,| chlP | aromatic-ring hydroxylase (flavoprotein monooxygenase)
+524,PMM0761,1,1,1,0.028999999999999998,| PMM0761 | putative carboxypeptidase
+525,PMM0762,4,4,4,0.083,| typA | tyrosine binding protein
+526,PMM0764,4,4,4,0.132,| PMM0764 | ABC transporter ATP-binding protein
+527,PMM0766,1,6,1,0.027999999999999997,| rpe | ribulose-phosphate 3-epimerase
+528,PMM0767,4,4,4,0.075,"| glpX | fructose 1,6-bisphosphatase II"
+529,PMM0768,2,2,1,0.051,| hemA | glutamyl-tRNA reductase
+530,PMM0769,11,14,11,0.24600000000000002,| glgC | glucose-1-phosphate adenylyltransferase
+531,PMM0770,5,5,5,0.12300000000000001,| gnd | 6-phosphogluconate dehydrogenase
+532,PMM0771,2,2,2,0.078,"| PMM0771 | putative 6-phosphogluconolactonase (DevB, Pgl)"
+533,PMM0772,2,2,2,0.115,| PMM0772 | hypothetical protein
+534,PMM0773,3,3,3,0.195,| PMM0773 | hypothetical protein
+535,PMM0774,7,10,7,0.10400000000000001,| ilvD | dihydroxy-acid dehydratase
+536,PMM0775,1,2,1,0.125,| PMM0775 | hypothetical protein
+537,PMM0776,3,3,3,0.132,| PMM0776 | putative uracil phosphoribosyltransferase
+538,PMM0777,2,2,2,0.076,| PMM0777 | hypothetical protein
+539,PMM0778,4,4,4,0.12300000000000001,| cobW | putative cobalamin synthesis protein
+540,PMM0779,3,3,3,0.289,| PMM0779 | hypothetical protein
+541,PMM0780,3,3,3,0.10400000000000001,| purQ | phosphoribosylformylglycinamidine synthase I
+542,PMM0781,8,13,8,0.162,"| cbbA,cfxA,fbaA,fda | fructose-1,6-bisphosphate aldolase"
+543,PMM0782,5,6,5,0.125,| PMM0782 | putative oxidoreductase
+544,PMM0783,3,5,3,0.295,| PMM0783 | hypothetical protein
+545,PMM0784,6,6,6,0.171,| accD | acetyl-CoA carboxylase subunit beta
+546,PMM0785,12,13,12,0.381,| prk | phosphoribulokinase
+547,PMM0786,2,2,2,0.036000000000000004,| leuB | 3-isopropylmalate dehydrogenase
+548,PMM0787,2,2,2,0.067,| lpxD | UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+549,PMM0788,3,3,3,0.094,| proB | gamma-glutamyl kinase
+550,PMM0789,5,7,5,0.27399999999999997,| PMM0789 | hypothetical protein
+551,PMM0790,3,3,3,0.21899999999999997,| PMM0790 | hypothetical protein
+552,PMM0791,1,1,1,0.09300000000000001,| PMM0791 | hypothetical protein
+553,PMM0792,3,3,3,0.077,| PMM0792 | hypothetical protein
+554,PMM0793,2,3,2,0.047,| PMM0793 | hypothetical protein
+555,PMM0794,1,1,1,0.061,| PMM0794 | hypothetical protein
+556,PMM0795,3,3,2,0.055999999999999994,| PMM0795 | hypothetical protein
+557,PMM0796,1,1,1,0.031,| hisA | 1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+558,PMM0797,8,10,8,0.271,| PMM0797 | putative mRNA binding protein
+559,PMM0799,3,3,3,0.163,| PMM0799 | hypothetical protein
+560,PMM0800,1,2,1,0.19399999999999998,| PMM0800 | hypothetical protein
+561,PMM0801,3,3,3,0.151,| ycf39 | putative NADH-flavin reductase
+562,PMM0802,2,2,2,0.069,| PMM0802 | putative endonuclease
+563,PMM0803,2,2,2,0.062,| futC | ABC transporter ATP-binding protein
+564,PMM0804,5,8,5,0.223,| PMM0804 | ferritin
+565,PMM0808,2,2,2,0.036000000000000004,| PMM0808 | Rieske iron-sulfur protein 2Fe-2S subunit
+566,PMM0809,1,1,1,0.096,| PMM0809 | S1 RNA-binding domain-containing protein
+567,PMM0810,4,4,4,0.204,| PMM0810 | hypothetical protein
+568,PMM0811,1,1,1,0.055,| PMM0811 | hypothetical protein
+569,PMM0821,4,4,4,0.168,| PMM0821 | L-asparaginase II
+570,PMM0823,2,2,2,0.16699999999999998,| PMM0823 | domain of unknown function DUF143:Iojap-related protein
+571,PMM0824,2,2,2,0.075,| PMM0824 | hypothetical protein
+572,PMM0825,8,8,8,0.077,"| carB | carbamoyl-phosphate synthase, large subunit"
+573,PMM0827,5,5,5,0.079,| PMM0827 | ABC transporter
+574,PMM0829,2,2,2,0.087,| tpiA | triosephosphate isomerase
+575,PMM0831,7,7,7,0.048,| chlH | magnesium chelatase subunit H
+576,PMM0832,4,4,4,0.195,| dapB | dihydrodipicolinate reductase
+577,PMM0833,2,2,2,0.121,| PMM0833 | hypothetical protein
+578,PMM0834,2,2,1,0.044000000000000004,| ubiH | 2-octaprenyl-6-methoxyphenol 4-monoxygenase UbiH
+579,PMM0838,3,3,3,0.221,| PMM0838 | nucleoside diphosphate kinase
+580,PMM0839,5,5,3,0.038,| PMM0839 | transcriptional-repair coupling factor
+581,PMM0840,1,1,1,0.034,| PMM0840 | hypothetical protein
+582,PMM0841,2,2,2,0.055,| fmt | putative methionyl-tRNA formyltransferase
+583,PMM0843,1,1,1,0.019,| tldD | putative modulator of DNA gyrase; TldD
+584,PMM0844,2,2,2,0.051,"| PNIL34,AT103 | magnesium-protoporphyrin IX monomethyl ester cyclase"
+585,PMM0845,5,5,5,0.16899999999999998,| PMM0845 | hypothetical protein
+586,PMM0846,2,2,2,0.132,| PMM0846 | hypothetical protein
+587,PMM0847,14,15,14,0.14300000000000002,| zam | putative acetazolamide conferring resistance protein Zam
+588,PMM0852,1,2,1,0.111,| PMM0852 | hypothetical protein
+589,PMM0854,8,8,8,0.13,| ftsH4 | cell division protein FtsH4
+590,PMM0856,10,10,10,0.521,| tpx | thioredoxin peroxidase
+591,PMM0862,2,2,2,0.11199999999999999,| PMM0862 | SpoU family tRNA/rRNA methyltransferase
+592,PMM0863,1,1,1,0.066,| cobU/cobP | putative cobinamide kinase
+593,PMM0864,1,5,1,0.067,| PMM0864 | fusion glycoprotein F0
+594,PMM0865,1,1,1,0.034,| PMM0865 | hypothetical protein
+595,PMM0867,9,11,9,0.207,| metG | methionyl-tRNA synthetase
+596,PMM0868,2,2,2,0.036000000000000004,| PMM0868 | ribonuclease II
+597,PMM0869,1,1,1,0.096,| rpsR | 30S ribosomal protein S18
+598,PMM0870,1,1,1,0.172,| rpmG | 50S ribosomal protein L33
+599,PMM0871,11,11,11,0.11800000000000001,| pheT | phenylalanyl-tRNA synthetase subunit beta
+600,PMM0874,1,1,1,0.033,| PMM0874 | putative ATP adenylyltransferase
+601,PMM0875,1,1,1,0.069,| PMM0875 | hypothetical protein
+602,PMM0876,1,1,1,0.16399999999999998,| PMM0876 | hypothetical protein
+603,PMM0877,11,12,11,0.08900000000000001,| metH | putative methionine synthase
+604,PMM0878,10,13,10,0.365,| ilvE | branched-chain amino acid aminotransferase
+605,PMM0879,1,1,1,0.006999999999999999,| CobN | cobalamin biosynthetic protein CobN
+606,PMM0881,1,1,1,0.045,| PMM0881 | hypothetical protein
+607,PMM0882,2,4,2,0.027000000000000003,| uvrC | excinuclease ABC subunit C
+608,PMM0883,4,5,4,0.21,| PMM0883 | hypothetical protein
+609,PMM0885,3,3,3,0.053,| dacB | D-Ala-D-Ala carboxypeptidase 3
+610,PMM0886,3,3,3,0.07400000000000001,| PMM0886 | hypothetical protein
+611,PMM0887,3,3,3,0.07200000000000001,| nifS | class-V aminotransferase family cysteine desulfurase
+612,PMM0888,7,7,7,0.255,| dapF | diaminopimelate epimerase
+613,PMM0889,14,15,14,0.16699999999999998,| leuS | leucyl-tRNA synthetase
+614,PMM0890,7,7,7,0.122,| pgi | glucose-6-phosphate isomerase
+615,PMM0891,1,1,1,0.064,| purN | phosphoribosylglycinamide formyltransferase
+616,PMM0892,4,5,4,0.128,| argC | N-acetyl-gamma-glutamyl-phosphate reductase
+617,PMM0893,3,4,3,0.047,"| ribA/ribB | bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II/unknown domain fusion protein"
+618,PMM0894,2,2,2,0.152,| PMM0894 | cyclophilin-type peptidyl-prolyl cis-trans isomerase
+619,PMM0896,1,1,1,0.032,| dnaJ2 | DnaJ2 protein
+620,PMM0897,6,6,6,0.087,| dnaK | molecular chaperone DnaK
+621,PMM0899,2,2,2,0.08900000000000001,| PMM0899 | myo-inositol-1(or 4)-monophosphatase
+622,PMM0900,2,2,2,0.039,| hisZ | ATP phosphoribosyltransferase regulatory subunit
+623,PMM0901,48,62,45,0.475,| htpG | heat shock protein 90
+624,PMM0902,1,1,1,0.09,| rpmB | 50S ribosomal protein L28
+625,PMM0903,1,1,1,0.051,| PMM0903 | Alkyl hydroperoxide reductase/ Thiol specific antioxidant/ Mal allergens family protein
+626,PMM0906,6,7,6,0.425,| psaK | photosystem I PsaK protein (subunit X)
+627,PMM0907,3,3,3,0.053,| Dxs | 1-deoxy-D-xylulose-5-phosphate synthase
+628,PMM0908,5,5,5,0.109,| ilvA | threonine dehydratase
+629,PMM0909,1,1,1,0.062,| PMM0909 | hypothetical protein
+630,PMM0911,1,1,1,0.064,| PMM0911 | hypothetical protein
+631,PMM0912,10,10,10,0.151,| pykF | pyruvate kinase
+632,PMM0913,3,3,3,0.083,| PMM0913 | putative ABC transporter
+633,PMM0916,4,4,4,0.064,| PMM0916 | hypothetical protein
+634,PMM0917,1,1,1,0.022000000000000002,| PMM0917 | pyridoxal-dependent decarboxylase family protein
+635,PMM0918,2,2,2,0.085,| PMM0918 | putative cytidine/deoxycytidylate deaminase
+636,PMM0919,4,4,4,0.076,| spt | serine:pyruvate/alanine:glyoxylate aminotransferase
+637,PMM0920,7,9,7,0.129,"| glnA | glutamine synthetase, glutamate--ammonia ligase"
+638,PMM0924,3,4,2,0.08199999999999999,| PMM0924 | hypothetical protein
+639,PMM0925,1,1,1,0.023,| PMM0925 | tRNA 2-selenouridine synthase
+640,PMM0926,4,4,4,0.359,| psb28 | photosystem II reaction center protein Psb28
+641,PMM0927,4,4,4,0.075,| PMM0927 | hypothetical protein
+642,PMM0928,4,4,4,0.151,| secF | preprotein translocase subunit SecF
+643,PMM0929,8,8,8,0.15,| secD | preprotein translocase subunit SecD
+644,PMM0930,4,5,4,0.095,| pdhB | pyruvate dehydrogenase E1 beta subunit
+645,PMM0932,2,2,2,0.028999999999999998,| ispE | 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+646,PMM0935,3,3,3,0.124,| PMM0935 | hypothetical protein
+647,PMM0937,1,1,1,0.016,| umuC | putative UmuC protein
+648,PMM0938,1,2,1,0.053,| PMM0938 | Serine hydroxymethyltransferase
+649,PMM0939,1,1,1,0.013000000000000001,| dnaG | DNA primase
+650,PMM0941,2,4,2,0.185,| PMM0941 | cAMP phosphodiesterase class-II
+651,PMM0942,2,2,2,0.096,| ruvA | putative holliday junction DNA helicase RuvA
+652,PMM0943,1,1,1,0.067,| rpsO | 30S ribosomal protein S15
+653,PMM0944,1,1,1,0.054000000000000006,| PMM0944 | hypothetical protein
+654,PMM0945,2,2,2,0.013999999999999999,| dnaE | DNA polymerase III subunit alpha
+655,PMM0946,12,14,12,0.21899999999999997,| gatA | aspartyl/glutamyl-tRNA amidotransferase subunit A
+656,PMM0947,1,2,1,0.1,| PMM0947 | hypothetical protein
+657,PMM0948,3,3,2,0.057999999999999996,| PMM0948 | tRNA/rRNA methyltransferase
+658,PMM0949,1,1,1,0.062,| PMM0949 | hypothetical protein
+659,PMM0950,6,7,6,0.4,| rsbV | anti-anti-sigma regulatory factor RsbV
+660,PMM0951,1,1,1,0.018000000000000002,| carA | carbamoyl phosphate synthase small subunit
+661,PMM0952,3,3,3,0.134,| trpD | anthranilate phosphoribosyltransferase
+662,PMM0953,1,1,1,0.092,| PMM0953 | hypothetical protein
+663,PMM0954,2,2,1,0.031,| PMM0954 | multidrug ABC transporter
+664,PMM0955,8,8,8,0.281,| msrA | peptide methionine sulfoxide reductase
+665,PMM0957,1,1,1,0.109,| PMM0957 | GRAM domain-containing protein
+666,PMM0959,3,3,3,0.094,| PMM0959 | putative kinase
+667,PMM0960,5,5,5,0.17600000000000002,| PMM0960 | mannosyl-3-phosphoglycerate phosphatase
+668,PMM0961,1,1,1,0.015,| PMM0961 | glycoside hydrolase family protein
+669,PMM0962,4,5,4,0.11800000000000001,| PMM0962 | hypothetical protein
+670,PMM0963,3,3,3,0.054000000000000006,| ureC | urease subunit alpha
+671,PMM0967,2,2,2,0.11699999999999999,| ureE | urease accessory protein UreE
+672,PMM0969,3,3,3,0.154,| ureG | urease accessory protein UreG
+673,PMM0970,8,9,8,0.2,"| urtA | putative urea ABC transporter, substrate binding protein"
+674,PMM0973,2,2,2,0.068,| urtD | putative ATP binding subunit of urea ABC transport system
+675,PMM0974,3,3,3,0.161,| urtE | putative ATP-binding subunit of urea ABC transport system
+676,PMM0976,1,1,1,0.021,| PMM0976 | putative multidrug efflux ABC transporter
+677,PMM0980,2,2,2,0.293,| PMM0980 | hypothetical protein
+678,PMM0982,1,1,1,0.08800000000000001,| PMM0982 | HNH endonuclease:HNH nuclease
+679,PMM0986,3,3,3,0.175,| PMM0986 | hypothetical protein
+680,PMM0987,1,1,1,0.138,| rpsU | 30S ribosomal protein S21
+681,PMM0988,3,4,3,0.2,| PMM0988 | helix-hairpin-helix DNA-binding motif-containing protein
+682,PMM0989,3,3,3,0.149,| PMM0989 | ATP/GTP-binding motif-containing protein
+683,PMM0992,3,4,3,0.19399999999999998,| PMM0992 | hypothetical protein
+684,PMM0993,1,1,1,0.039,| PMM0993 | hypothetical protein
+685,PMM0994,1,1,1,0.105,| PMM0994 | GCN5-related N-acetyltransferase
+686,PMM0995,1,1,1,0.086,| PMM0995 | hypothetical protein
+687,PMM0996,4,7,4,0.35200000000000004,| PMM0996 | hypothetical protein
+688,PMM1002,2,2,2,0.018000000000000002,| pepN | aminopeptidase N
+689,PMM1004,1,1,1,0.033,| purT | phosphoribosylglycinamide formyltransferase 2
+690,PMM1005,2,2,2,0.225,| PMM1005 | lectin subunit alpha
+691,PMM1007,2,2,2,0.126,| PMM1007 | hypothetical protein
+692,PMM1008,1,1,1,0.054000000000000006,| PMM1008 | hypothetical protein
+693,PMM1009,1,1,1,0.026000000000000002,| PMM1009 | nitrogen regulation protein NifR3 family protein
+694,PMM1010,1,1,1,0.083,| PMM1010 | hypothetical protein
+695,PMM1011,1,1,1,0.198,| PMM1011 | hypothetical protein
+696,PMM1014,2,2,2,0.055,| PMM1014 | hypothetical protein
+697,PMM1015,2,2,2,0.16399999999999998,| PMM1015 | hypothetical protein
+698,PMM1016,1,1,1,0.07200000000000001,| PMM1016 | virion host shutoff protein
+699,PMM1017,1,1,1,0.044000000000000004,| PMM1017 | hypothetical protein
+700,PMM1019,1,1,1,0.07,| PMM1019 | integrin alpha cytoplasmic region
+701,PMM1021,2,2,2,0.092,| PMM1021 | pili assembly chaperone
+702,PMM1023,1,1,1,0.157,"| PMM1023 | lactate/malate dehydrogenase, alpha/b"
+703,PMM1025,1,1,1,0.081,| PMM1025 | putative stress-induced protein OsmC
+704,PMM1026,1,1,1,0.084,| PMM1026 | hypothetical protein
+705,PMM1027,2,2,2,0.188,| PMM1027 | inward rectifier potassium channel
+706,PMM1031,3,3,3,0.129,| PMM1031 | ABC transporter ATP-binding protein
+707,PMM1032,2,3,2,0.053,| PMM1032 | ABC transporter substrate-binding protein
+708,PMM1033,11,15,11,0.254,| PMM1033 | cobalamin synthesis protein/P47K
+709,PMM1034,1,1,1,0.022000000000000002,| PMM1034 | WD-40 repeat-containing G-protein
+710,PMM1038,2,3,1,0.031,| PMM1038 | hypothetical protein
+711,PMM1039,1,1,1,0.019,| PMM1039 | hypothetical protein
+712,PMM1042,2,2,2,0.11,| PMM1042 | hpothetical protein
+713,PMM1048,2,2,2,0.047,"| PMM1048 | putative ABC transporter, oligopeptides"
+714,PMM1049,2,3,2,0.028999999999999998,| PMM1049 | ABC transporter substrate-binding protein
+715,PMM1051,5,6,5,0.11800000000000001,"| thrA,hom | homoserine dehydrogenase"
+716,PMM1052,5,6,5,0.38299999999999995,| PMM1052 | hypothetical protein
+717,PMM1053,2,2,2,0.135,| PMM1053 | hypothetical protein
+718,PMM1055,12,15,12,0.326,| chlI | protoporphyrin IX magnesium chelatase subunit ChlI
+719,PMM1056,2,2,2,0.073,| PMM1056 | tRNA/rRNA methyltransferase
+720,PMM1059,1,1,1,0.046,| PMM1059 | hypothetical protein
+721,PMM1060,2,2,2,0.107,| hisH | imidazole glycerol phosphate synthase subunit HisH
+722,PMM1061,12,18,12,0.579,| trxA | thioredoxin
+723,PMM1062,12,12,11,0.33899999999999997,| guaB | inosine 5-monophosphate dehydrogenase
+724,PMM1063,14,16,14,0.155,| gyrA | DNA gyrase subunit A
+725,PMM1064,5,5,5,0.11900000000000001,| crtL1 | putative lycopene beta cyclase
+726,PMM1065,6,6,6,0.11,| PMM1065 | hypothetical protein
+727,PMM1066,6,6,6,0.11199999999999999,| leuA | 2-isopropylmalate synthase
+728,PMM1068,1,1,1,0.02,| PMM1068 | hypothetical protein
+729,PMM1069,6,6,6,0.16399999999999998,| folD | putative bifunctional methylenetetrahydrofolate dehydrogenase methenyltetrahydrofolate/cyclohydrolase
+730,PMM1070,4,4,4,0.157,| crtE | polyprenyl synthetase
+731,PMM1072,2,2,2,0.043,"| cbiA,cobB | putative cobyrinic acid a,c-diamide synthase"
+732,PMM1073,10,10,10,0.182,| PMM1073 | putative glucose 6-phosphate dehydrogenase effector OpcA
+733,PMM1074,7,8,7,0.107,| zwf | glucose-6-phosphate 1-dehydrogenase
+734,PMM1075,13,20,13,0.257,| petH | ferredoxin-NADP oxidoreductase (FNR)
+735,PMM1076,1,1,1,0.062,| PMM1076 | hypothetical protein
+736,PMM1077,3,3,3,0.081,| PMM1077 | adaptive-response sensory kinase
+737,PMM1078,3,3,3,0.133,| PMM1078 | hypothetical protein
+738,PMM1079,2,3,2,0.19899999999999998,| PMM1079 | Villin headpiece domain-containing protein
+739,PMM1080,1,1,1,0.024,| kprS | ribose-phosphate pyrophosphokinase
+740,PMM1081,3,3,3,0.085,| malQ | putative 4-alpha-glucanotransferase
+741,PMM1082,1,1,1,0.049,| PMM1082 | helix-turn-helix
+742,PMM1084,4,4,1,0.039,| cad | Orn/Lys/Arg decarboxylase family protein
+743,PMM1087,3,3,2,0.077,| gldA | putative glycerol dehydrogenase
+744,PMM1088,20,23,20,0.22,| clpC | ClpC
+745,PMM1089,1,1,1,0.09699999999999999,| PMM1089 | putative ribosomal-protein-alanine acetyltransferase
+746,PMM1090,7,7,7,0.11800000000000001,| lysA | diaminopimelate decarboxylase
+747,PMM1091,4,4,4,0.115,| PMM1091 | hypothetical protein
+748,PMM1092,2,2,2,0.051,| uppS | undecaprenyl pyrophosphate synthetase
+749,PMM1094,1,1,0,0.023,| PMM1094 | hypothetical protein
+750,PMM1097,1,2,1,0.035,| recR | recombination protein RecR
+751,PMM1098,2,2,2,0.054000000000000006,| psbP | photosystem II oxygen evolving complex protein PsbP
+752,PMM1099,4,4,4,0.076,| PMM1099 | multidrug ABC transporter
+753,PMM1101,2,2,2,0.037000000000000005,| PMM1101 | putative ATP-dependent RNA helicase
+754,PMM1102,2,2,2,0.044000000000000004,| recD | exodeoxyribonuclease V 67 kD polypeptide
+755,PMM1103,3,3,3,0.017,| recB | UvrD/REP helicase subunit B
+756,PMM1105,2,2,2,0.009000000000000001,| recC | exodeoxyribonuclease V subunit C 125 kD polypeptide
+757,PMM1106,5,6,5,0.5329999999999999,| PMM1106 | hypothetical protein
+758,PMM1107,5,5,5,0.147,| pdxJ | pyridoxine 5'-phosphate synthase
+759,PMM1109,4,5,4,0.198,| PMM1109 | hypothetical protein
+760,PMM1110,3,3,3,0.474,| PMM1110 | BolA-like protein
+761,PMM1112,1,1,1,0.16899999999999998,| PMM1112 | hypothetical protein
+762,PMM1113,4,5,4,0.159,| PMM1113 | two-component response regulator
+763,PMM1114,1,1,1,0.048,| PMM1114 | hypothetical protein
+764,PMM1115,6,6,6,0.114,| crtH | putative carotenoid isomerase
+765,PMM1116,1,1,1,0.015,| gidA | tRNA (uracil-5-)-methyltransferase Gid
+766,PMM1119,1,1,1,0.024,| som | porin
+767,PMM1120,2,2,2,0.036000000000000004,| PMM1120 | TPR repeat-containing sulfotransferase
+768,PMM1121,2,2,2,0.076,| som | porin
+769,PMM1122,4,5,4,0.298,| apt | adenine phosphoribosyltransferase
+770,PMM1126,1,1,0,0.01,| PMM1126 | hypothetical protein
+771,PMM1127,1,1,1,0.055,| PMM1127 | NAD(P) transhydrogenase beta subunit
+772,PMM1129,1,2,1,0.131,| PMM1129 | Notch domain-containing protein
+773,PMM1131,5,5,5,0.47,| PMM1131 | hypothetical protein
+774,PMM1132,2,2,2,0.026000000000000002,| PMM1132 | hypothetical protein
+775,PMM1137,1,1,1,0.061,| PMM1137 | cytochrome b(C-terminal)/b6/petD
+776,PMM1138,1,1,1,0.027999999999999997,| PMM1138 | GTP-dependent nucleic acid-binding protein EngD
+777,PMM1139,10,10,10,0.261,| PMM1139 | membrane fusion protein
+778,PMM1140,1,1,1,0.009000000000000001,| polA | DNA polymerase I
+779,PMM1142,3,3,3,0.09699999999999999,| dxr | 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+780,PMM1145,6,7,6,0.132,"| pntB | putative nicotinamide nucleotide transhydrogenase, subunit beta"
+781,PMM1147,6,7,6,0.13,"| pntA-1 | putative nicotinamide nucleotide transhydrogenase, subunit alpha 1 (A1)"
+782,PMM1148,3,3,3,0.099,| PMM1148 | EF-1 guanine nucleotide exchange doma
+783,PMM1150,2,3,2,0.044000000000000004,| PMM1150 | putative thioredoxin reductase
+784,PMM1152,11,12,10,0.319,| ycf39 | putative chaperon-like protein for quinone binding in photosystem II
+785,PMM1153,1,1,1,0.021,| PMM1153 | putative alpha/beta hydrolase superfamily protein
+786,PMM1154,3,3,3,0.126,| ilvH | acetolactate synthase 3 regulatory subunit
+787,PMM1156,4,6,3,0.141,| PMM1156 | photosystem I assembly protein Ycf4
+788,PMM1157,10,13,10,0.196,| psbD | photosystem II PsbD protein (D2)
+789,PMM1158,12,18,11,0.2,| psbC | photosystem II PsbC protein (CP43)
+790,PMM1160,2,2,2,0.037000000000000005,| cobB | cobyric acid synthase
+791,PMM1164,6,6,6,0.2,"| futA | putative iron ABC transporter, substrate binding protein"
+792,PMM1165,5,6,5,0.204,| glyQ | glycyl-tRNA synthetase subunit alpha
+793,PMM1166,5,5,5,0.35700000000000004,| PMM1166 | hypothetical protein
+794,PMM1167,1,1,1,0.08199999999999999,| PMM1167 | macrophage migration inhibitory factor family protein
+795,PMM1169,1,1,1,0.12300000000000001,| PMM1169 | hypothetical protein
+796,PMM1170,3,3,3,0.12,| PMM1170 | hypothetical protein
+797,PMM1171,12,16,11,0.42,| isiB | flavodoxin FldA
+798,PMM1174,1,1,1,0.081,| PMM1174 | hypothetical protein
+799,PMM1176,1,1,1,0.10800000000000001,| PMM1176 | CopG family protein
+800,PMM1177,1,2,1,0.017,| PMM1177 | hypothetical protein
+801,PMM1178,2,2,2,0.077,| PMM1178 | glycosyl transferase group 1
+802,PMM1179,2,2,2,0.042,| PMM1179 | SMR family transporter PecM
+803,PMM1180,5,7,5,0.156,| sppA | signal peptide peptidase SppA (protease IV)
+804,PMM1181,1,1,1,0.087,| tyrA | chorismate mutase
+805,PMM1182,3,3,3,0.094,| PMM1182 | hypothetical protein
+806,PMM1185,2,3,2,0.19699999999999998,| PMM1185 | hypothetical protein
+807,PMM1186,5,6,5,0.127,| PMM1186 | putative inner membrane protein translocase component YidC
+808,PMM1187,2,2,2,0.033,| PMM1187 | hypothetical protein
+809,PMM1188,2,2,2,0.059000000000000004,| serS | seryl-tRNA synthetase
+810,PMM1189,4,4,4,0.14800000000000002,| PMM1189 | hypothetical protein
+811,PMM1190,3,4,3,0.17,| rpsN | 30S ribosomal protein S14
+812,PMM1191,17,18,17,0.21600000000000003,| pnp | polynucleotide phosphorylase/polyadenylase
+813,PMM1192,2,2,2,0.067,| PMM1192 | 3'-phosphoadenosine-5'-phosphosulfate (PAPS) 3'-phosphatase
+814,PMM1193,3,4,3,0.098,| PMM1193 | putative tetrapyrrole methylase family protein
+815,PMM1195,1,1,1,0.05,| PMM1195 | hypothetical protein
+816,PMM1196,14,17,14,0.243,| manC | GDP-mannose pyrophosphorylase
+817,PMM1197,2,2,2,0.051,| PMM1197 | hypothetical protein
+818,PMM1200,5,5,5,0.11,| PMM1200 | glycosyl transferase family protein
+819,PMM1201,4,4,4,0.115,| PMM1201 | putative CDP-tyvelose-2-epimerase (RfbE)
+820,PMM1202,2,2,2,0.067,| PMM1202 | nucleoside-diphosphate-sugar epimerase
+821,PMM1203,4,4,4,0.075,"| rfbG | CDP-glucose 4,6-dehydratase"
+822,PMM1204,3,3,3,0.098,| ddhA | glucose-1-phosphate cytidylyltransferase
+823,PMM1205,6,6,6,0.16,"| PMM1205 | NDP-hexose 3,4-dehydratase"
+824,PMM1206,3,4,3,0.052000000000000005,| PMM1206 | hypothetical protein
+825,PMM1209,5,5,5,0.091,| galE | UDP-glucose-4-epimerase
+826,PMM1210,2,2,2,0.062,| PMM1210 | putative nucleotide sugar epimerase
+827,PMM1211,1,1,1,0.023,| PMM1211 | polysaccharide export or synthesis protein
+828,PMM1213,2,2,2,0.040999999999999995,| PMM1213 | glycosyl transferase group 1
+829,PMM1215,5,5,5,0.091,| PMM1215 | hypothetical protein
+830,PMM1216,3,3,3,0.146,| PMM1216 | putative sugar-phosphate nucleotidyl transferase
+831,PMM1217,4,4,4,0.16699999999999998,| PMM1217 | putative phosphoheptose isomerase
+832,PMM1218,2,2,2,0.046,| rfaE | putative ADP-heptose synthase
+833,PMM1219,3,5,3,0.079,| PMM1219 | putative nucleoside-diphosphate sugar epimerase
+834,PMM1220,1,1,1,0.022000000000000002,| PMM1220 | putative glycosyl transferase
+835,PMM1221,3,3,3,0.096,"| PMM1221 | glycosyl transferase, group 1"
+836,PMM1222,2,2,2,0.067,| PMM1222 | glycosyl transferase
+837,PMM1223,1,1,1,0.024,"| PMM1223 | putative glycosyl transferase, group 1"
+838,PMM1224,6,7,6,0.145,| gumB | putative polysaccharide export protein
+839,PMM1225,8,10,8,0.151,| PMM1225 | hypothetical protein
+840,PMM1227,1,1,1,0.031,| PMM1227 | putative UDP-N-acetylglucosamine-1-phosphate transferase
+841,PMM1228,4,5,4,0.067,| PMM1228 | hypothetical protein
+842,PMM1229,5,6,5,0.21,"| PMM1229 | dehydrogenase, E1 component"
+843,PMM1230,2,2,2,0.052000000000000005,| PMM1230 | dehydrogenase E1 component beta subunit
+844,PMM1231,3,3,3,0.09300000000000001,| PMM1231 | hypothetical protein
+845,PMM1232,8,8,8,0.21100000000000002,| PMM1232 | methyltransferase
+846,PMM1233,2,2,2,0.07200000000000001,| rfbD | putative dTDP-4-dehydrorhamnose reductase
+847,PMM1234,3,4,3,0.09,| PMM1234 | zinc-containing alcohol dehydrogenase superfamily protein
+848,PMM1235,8,8,8,0.17,| PMM1235 | hypothetical protein
+849,PMM1236,2,2,2,0.039,| PMM1236 | hypothetical protein
+850,PMM1237,8,11,8,0.35100000000000003,| PMM1237 | hypothetical protein
+851,PMM1238,1,1,1,0.027000000000000003,| PMM1238 | hypothetical protein
+852,PMM1239,7,7,7,0.11599999999999999,| hetA | ABC transporter
+853,PMM1240,3,3,3,0.121,| PMM1240 | methyltransferase
+854,PMM1241,1,1,1,0.035,| PMM1241 | hypothetical protein
+855,PMM1243,9,9,9,0.27399999999999997,| PMM1243 | methyltransferase
+856,PMM1244,1,2,1,0.115,| PMM1244 | hypothetical protein
+857,PMM1246,9,10,9,0.141,| PMM1246 | carbamoyltransferase
+858,PMM1247,22,29,22,0.44799999999999995,| PMM1247 | hypothetical protein
+859,PMM1249,1,1,1,0.035,| PMM1249 | hypothetical protein
+860,PMM1251,3,3,3,0.040999999999999995,| PMM1251 | carbamoyltransferase
+861,PMM1254,1,1,1,0.022000000000000002,| PMM1254 | glycosyl transferase family protein
+862,PMM1257,3,3,3,0.07,"| PMM1257 | dTDP-glucose 4,6-dehydratase"
+863,PMM1258,5,5,5,0.141,| PMM1258 | pyridoxal-phosphate-dependent aminotransferase
+864,PMM1259,7,8,7,0.22699999999999998,| PMM1259 | pyridoxal-phosphate-dependent aminotransferase
+865,PMM1260,4,4,4,0.125,| PMM1260 | nucleoside-diphosphate-sugar epimerase
+866,PMM1261,7,8,7,0.129,| ugd | UDP-glucose 6-dehydrogenase
+867,PMM1263,4,5,4,0.149,| PMM1263 | ornithine carbamoyltransferase
+868,PMM1264,19,26,18,0.271,| ftsH3 | cell division protein FtsH3
+869,PMM1265,2,2,2,0.025,| ribD | putative diaminohydroxyphosphoribosylaminopyrimidine deaminase and 5-amino-6-(5-phosphoribosylamino)uracil reductase
+870,PMM1266,5,6,5,0.301,| PMM1266 | hypothetical protein
+871,PMM1269,2,2,2,0.055999999999999994,| ppnK | inorganic polyphosphate/ATP-NAD kinase
+872,PMM1270,5,5,4,0.152,| pheS | phenylalanyl-tRNA synthetase alpha chain
+873,PMM1271,4,4,3,0.141,| surE | stationary phase survival protein SurE
+874,PMM1273,2,2,2,0.07200000000000001,| ribF | putative riboflavin kinase/FAD synthase
+875,PMM1274,6,6,6,0.168,| thiE | thiamine-phosphate pyrophosphorylase
+876,PMM1279,1,1,1,0.10800000000000001,| PMM1279 | hypothetical protein
+877,PMM1280,4,5,4,0.091,"| PMM1280 | putative bifuntional enzyme: tRNA methyltransferase; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+878,PMM1281,2,2,2,0.069,| era | GTP-binding protein Era
+879,PMM1283,1,2,1,0.045,"| PMM1283 | integral membrane protein, interacts with FtsH"
+880,PMM1285,3,4,3,0.263,| rpsP | 30S ribosomal protein S16
+881,PMM1286,9,9,9,0.179,| ffh | signal recognition particle protein (SRP54)
+882,PMM1287,14,18,14,0.235,| PMM1287 | hypothetical protein
+883,PMM1288,11,11,11,0.258,| pdhA | pyruvate dehydrogenase E1 alpha subunit
+884,PMM1290,4,4,4,0.073,| PMM1290 | hypothetical protein
+885,PMM1292,2,2,2,0.042,| PMM1292 | putative apolipoprotein n-acyltransferase
+886,PMM1293,5,5,5,0.195,| PMM1293 | FKBP-type peptidyl-prolyl cis-trans isomerase (PPIase)
+887,PMM1294,9,11,9,0.237,| PMM1294 | putative nickel-containing superoxide dismutase precursor (NISOD)
+888,PMM1297,7,7,7,0.237,| trpC | indole-3-glycerol-phosphate synthase
+889,PMM1298,9,11,9,0.175,| lpdA | dihydrolipoamide dehydrogenase
+890,PMM1299,1,1,1,0.049,| spoU | tRNA/rRNA methyltransferase (SpoU)
+891,PMM1301,7,8,6,0.106,| argD | acetylornithine aminotransferase
+892,PMM1303,7,7,7,0.142,| PMM1303 | FAD/FMN-containing dehydrogenase
+893,PMM1304,1,1,1,0.028999999999999998,| codA | putative cytosine deaminase
+894,PMM1305,1,1,0,0.015,| PMM1305 | 2-methylthioadenine synthetase
+895,PMM1307,1,1,1,0.07400000000000001,| PMM1307 | hypothetical protein
+896,PMM1309,13,15,13,0.321,| ftsZ | cell division protein FtsZ
+897,PMM1310,3,3,3,0.14,| panB | 3-methyl-2-oxobutanoate hydroxymethyltransferase
+898,PMM1311,1,1,1,0.017,| PMM1311 | putative oxygen-independent coproporphyrinogen III oxidase
+899,PMM1312,1,1,1,0.03,| PMM1312 | PIN domain superfamily protein
+900,PMM1313,2,2,2,0.077,| clpP4 | ATP-dependent Clp protease-like protein
+901,PMM1314,3,4,3,0.134,| clpP | ATP-dependent Clp protease proteolytic subunit
+902,PMM1315,14,19,14,0.307,| ilvC | ketol-acid reductoisomerase
+903,PMM1316,1,1,1,0.027000000000000003,| cobD | putative cobalamin biosynthetic protein
+904,PMM1319,2,2,2,0.198,| PMM1319 | beta-lactamase
+905,PMM1321,20,31,20,0.604,| PMM1321 | histone-like DNA-binding protein
+906,PMM1322,1,1,1,0.012,| glgX | putative isoamylase
+907,PMM1324,1,2,1,0.044000000000000004,"| PMM1324 | putative transporter, membrane component"
+908,PMM1325,1,1,1,0.09699999999999999,| PMM1325 | hypothetical protein
+909,PMM1326,3,3,3,0.07400000000000001,| PMM1326 | hypothetical protein
+910,PMM1328,3,4,3,0.138,| pyrF | orotidine 5'-phosphate decarboxylase
+911,PMM1329,6,6,6,0.124,| tyrS | tyrosyl-tRNA synthetase
+912,PMM1330,10,10,10,0.39299999999999996,| PMM1330 | hypothetical protein
+913,PMM1332,9,9,9,0.171,| PMM1332 | leucyl aminopeptidase
+914,PMM1333,1,1,1,0.04,| PMM1333 | peptide methionine sulfoxide reductase
+915,PMM1334,1,1,1,0.027999999999999997,| lpxB | lipid-A-disaccharide synthase
+916,PMM1335,2,2,2,0.10400000000000001,| lpxA | UDP-N-acetylglucosamine acyltransferase
+917,PMM1336,1,1,1,0.053,| fabZ | (3R)-hydroxymyristoyl-ACP dehydratase
+918,PMM1337,4,4,4,0.18,| lpxC | UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+919,PMM1338,17,20,17,0.222,| PMM1338 | chloroplast outer envelope membrane protein
+920,PMM1339,8,10,8,0.322,| purC | phosphoribosylaminoimidazole-succinocarboxamide synthase
+921,PMM1340,6,6,5,0.106,| purD | phosphoribosylglycinamide synthetase
+922,PMM1341,3,3,3,0.038,| nblS | two-component sensor histidine kinase
+923,PMM1342,4,4,4,0.077,| kaiC | circadian clock protein KaiC
+924,PMM1343,4,4,4,0.29,| kaiB | circadian clock protein KaiB
+925,PMM1344,5,5,5,0.253,| rplU | 50S ribosomal protein L21
+926,PMM1345,4,4,4,0.233,| rpmA | 50S ribosomal protein L27
+927,PMM1346,1,1,1,0.027000000000000003,| PMM1346 | hypothetical protein
+928,PMM1347,3,3,3,0.066,| truB | putative tRNA pseudouridine 55 synthase
+929,PMM1349,5,5,5,0.128,| PMM1349 | hypothetical protein
+930,PMM1350,11,15,11,0.599,| PMM1350 | pentapeptide repeat-containing protein
+931,PMM1354,8,8,8,0.12300000000000001,| serA | D-3-phosphoglycerate dehydrogenase
+932,PMM1355,3,3,3,0.16,| PMM1355 | hypothetical protein
+933,PMM1356,2,2,2,0.076,| PMM1356 | hypothetical protein
+934,PMM1359,1,1,1,0.043,| PMM1359 | hypothetical protein
+935,PMM1360,2,2,2,0.037000000000000005,| PMM1360 | DNA photolyase
+936,PMM1361,4,4,4,0.12300000000000001,| PMM1361 | short-chain dehydrogenase/reductase
+937,PMM1362,2,2,2,0.21600000000000003,| PMM1362 | hypothetical protein
+938,PMM1364,2,2,2,0.036000000000000004,| murD | UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+939,PMM1366,3,3,3,0.12300000000000001,| PMM1366 | hypothetical protein
+940,PMM1368,2,2,2,0.106,| PMM1368 | hypothetical protein
+941,PMM1369,4,4,4,0.16,| PMM1369 | GAF domain-containing protein
+942,PMM1370,2,2,2,0.039,| PMM1370 | hypothetical protein
+943,PMM1372,2,2,2,0.25,| PMM1372 | hypothetical protein
+944,PMM1377,1,1,1,0.039,| PMM1377 | dihydroflavonol-4-reductase
+945,PMM1379,1,1,1,0.051,| PMM1379 | putative dape gene and orf2
+946,PMM1380,3,3,3,0.151,| PMM1380 | hypothetical protein
+947,PMM1386,1,1,1,0.032,| PMM1386 | putative permease
+948,PMM1389,2,2,2,0.086,| PMM1389 | trypsin
+949,PMM1391,7,9,7,0.6759999999999999,| PMM1391 | CopG family protein
+950,PMM1392,1,1,1,0.113,| PMM1392 | heat-labile enterotoxin alpha chain
+951,PMM1393,2,2,2,0.126,| PMM1393 | carbon storage regulator
+952,PMM1400,2,3,2,0.09300000000000001,| PMM1400 | hemagglutinin-neuraminidase
+953,PMM1401,4,5,4,0.26899999999999996,| PMM1401 | hypothetical protein
+954,PMM1405,1,2,1,0.171,| PMM1405 | hypothetical protein
+955,PMM1407,1,1,1,0.105,| PMM1407 | SRP19 protein
+956,PMM1409,2,2,2,0.17,| PMM1409 | rubredoxin
+957,PMM1410,1,1,0,0.053,"| PMM1410 | PTS system, lactose/cellobiose specif"
+958,PMM1412,2,2,2,0.127,| PMM1412 | hypothetical protein
+959,PMM1413,3,3,3,0.255,| PMM1413 | hypothetical protein
+960,PMM1414,1,1,1,0.134,| PMM1414 | hypothetical protein
+961,PMM1415,1,1,1,0.037000000000000005,| PMM1415 | UBX domain-containing protein
+962,PMM1416,6,6,6,0.098,| PMM1416 | hypothetical protein
+963,PMM1419,8,10,8,0.336,| PMM1419 | ATP synthase B/B' CF(0)
+964,PMM1423,1,1,1,0.047,| PMM1423 | hypothetical protein
+965,PMM1425,3,3,3,0.04,| PMM1425 | serine protease
+966,PMM1428,2,3,2,0.131,| PMM1428 | hypothetical protein
+967,PMM1431,2,2,2,0.436,| rpoZ | DNA-directed RNA polymerase subunit omega
+968,PMM1433,10,10,10,0.5,| PMM1433 | bifunctional pyrimidine regulatory protein PyrR uracil phosphoribosyltransferase
+969,PMM1434,5,5,5,0.091,| pgmI | phosphoglyceromutase
+970,PMM1436,149,292,146,0.6890000000000001,| groEL | chaperonin GroEL
+971,PMM1437,36,91,36,0.66,| groES | co-chaperonin GroES
+972,PMM1438,9,13,9,0.214,| atpB | F0F1 ATP synthase subunit beta
+973,PMM1440,1,1,1,0.08199999999999999,| PMM1440 | hypothetical protein
+974,PMM1441,3,3,3,0.635,| PMM1441 | hypothetical protein
+975,PMM1442,6,7,6,0.132,| pepP | putative aminopeptidase P
+976,PMM1443,3,3,3,0.092,| PMM1443 | hypothetical protein
+977,PMM1444,2,2,2,0.039,| PMM1444 | hypothetical protein
+978,PMM1445,1,1,1,0.040999999999999995,| nadD | nicotinic acid mononucleotide adenylyltransferase
+979,PMM1446,1,1,1,0.025,| PMM1446 | carbon-nitrogen hydrolase:NAD+ synthase
+980,PMM1447,5,5,5,0.134,| PMM1447 | hypothetical protein
+981,PMM1448,1,1,1,0.174,| PMM1448 | hypothetical protein
+982,PMM1450,4,4,4,0.127,| atpC | F0F1 ATP synthase subunit gamma
+983,PMM1451,9,10,9,0.188,| atpA | F0F1 ATP synthase subunit alpha
+984,PMM1452,7,9,7,0.428,"| atpH,atpD | F0F1 ATP synthase subunit delta"
+985,PMM1453,4,4,4,0.19399999999999998,| atpF | F0F1 ATP synthase subunit B
+986,PMM1454,5,5,5,0.405,| atpG | F0F1 ATP synthase subunit B'
+987,PMM1460,1,1,1,0.026000000000000002,| ycf44 | putative c-type cytochrome biogenesis protein Ccs1
+988,PMM1461,5,5,5,0.33799999999999997,| PMM1461 | 7-cyano-7-deazaguanine reductase
+989,PMM1463,8,9,8,0.616,| glnB | nitrogen regulatory protein P-II
+990,PMM1464,2,2,2,0.067,| PMM1464 | rRNA methyltransferase
+991,PMM1465,8,9,7,0.14800000000000002,| purB | adenylosuccinate lyase
+992,PMM1466,6,7,5,0.10800000000000001,| fumC | fumarate hydratase
+993,PMM1467,4,4,4,0.040999999999999995,| PMM1467 | putative DNA helicase
+994,PMM1468,1,1,1,0.024,| bioF | putative 8-amino-7-oxononanoate synthase
+995,PMM1470,1,2,1,0.032,| PMM1470 | hypothetical protein
+996,PMM1471,5,5,4,0.16399999999999998,| BioD | putative dethiobiotin synthase
+997,PMM1472,2,2,2,0.046,| BioA | putative diaminopelargonic acid synthase
+998,PMM1478,1,1,1,0.054000000000000006,| PMM1478 | hypothetical protein
+999,PMM1480,3,3,3,0.098,| PMM1480 | hypothetical protein
+1000,PMM1481,2,2,2,0.046,| PMM1481 | putative Fe-S-cluster redox protein
+1001,PMM1483,27,28,27,0.17600000000000002,| rpoC2 | DNA-directed RNA polymerase subunit beta'
+1002,PMM1484,16,19,16,0.248,| rpoC1 | DNA-directed RNA polymerase subunit gamma
+1003,PMM1485,27,31,27,0.28,| rpoB | DNA-directed RNA polymerase subunit beta
+1004,PMM1486,3,3,3,0.136,| PMM1486 | TatD family deoxyribonuclease
+1005,PMM1488,3,3,3,0.086,| hisD | histidinol dehydrogenase
+1006,PMM1489,3,3,3,0.095,| rpiA | ribose-5-phosphate isomerase A
+1007,PMM1490,2,2,2,0.045,| PMM1490 | trypsin-like serine protease
+1008,PMM1491,2,2,2,0.10300000000000001,| PMM1491 | hypothetical protein
+1009,PMM1492,9,10,9,0.218,| nusA | transcription elongation factor NusA
+1010,PMM1494,19,21,18,0.175,| infB | translation initiation factor IF-2
+1011,PMM1498,3,3,3,0.05,| PMM1498 | Fe-S oxidoreductase
+1012,PMM1500,6,6,6,0.147,"| PMM1500 | L,L-diaminopimelate aminotransferase"
+1013,PMM1501,2,2,2,0.033,| PMM1501 | ribonuclease E/G
+1014,PMM1503,4,4,4,0.22699999999999998,| PMM1503 | hypothetical protein
+1015,PMM1504,1,1,1,0.05,| pheA | chorismate mutase-prephenate dehydratase
+1016,PMM1505,1,1,1,0.048,| PMM1505 | SAM-binding motif-containing protein
+1017,PMM1506,1,1,1,0.046,| PMM1506 | ATP-dependent protease La
+1018,PMM1507,5,6,5,0.47200000000000003,| rpsJ | 30S ribosomal protein S10
+1019,PMM1508,17,26,17,0.33299999999999996,| tuf | elongation factor Tu
+1020,PMM1509,12,12,12,0.16399999999999998,| fusA | elongation factor G
+1021,PMM1510,8,9,8,0.391,| rps7 | 30S ribosomal protein S7
+1022,PMM1512,18,20,18,0.124,| glsF | ferredoxin-dependent glutamate synthase
+1023,PMM1514,1,1,1,0.04,| lipA | lipoyl synthase
+1024,PMM1517,1,1,1,0.037000000000000005,| PMM1517 | hypothetical protein
+1025,PMM1518,1,1,1,0.032,| PMM1518 | hypothetical protein
+1026,PMM1519,4,7,4,0.226,| psaL | photosystem I reaction center protein subunit XI
+1027,PMM1522,3,3,2,0.094,| PMM1522 | glycosyl transferase family protein
+1028,PMM1523,9,10,8,0.102,| psaB | photosystem I P700 chlorophyll a apoprotein A2
+1029,PMM1524,12,15,11,0.14,| psaA | photosystem I P700 chlorophyll a apoprotein A1
+1030,PMM1525,2,2,2,0.031,| PMM1525 | bifunctional cbiH protein and precorrin-3B C17-methyltransferase
+1031,PMM1526,1,1,1,0.034,| hisB | putative imidazoleglycerol-phosphate dehydratase
+1032,PMM1528,2,2,2,0.161,| PMM1528 | HNH endonuclease family protein
+1033,PMM1529,2,2,2,0.040999999999999995,| prfA | peptide chain release factor 1
+1034,PMM1530,1,1,1,0.14,| rpmE | 50S ribosomal protein L31
+1035,PMM1531,1,1,1,0.066,| rpsI | 30S ribosomal protein S9
+1036,PMM1532,5,8,5,0.252,| rplM | 50S ribosomal protein L13
+1037,PMM1534,3,5,3,0.18100000000000002,| rplQ | 50S ribosomal protein L17
+1038,PMM1535,15,16,15,0.429,| rpoA | DNA-directed RNA polymerase subunit alpha
+1039,PMM1536,3,4,3,0.223,| rps11 | 30S ribosomal protein S11
+1040,PMM1537,6,9,6,0.537,| rpsM | 30S ribosomal protein S13
+1041,PMM1538,1,1,1,0.263,| rpmJ | 50S ribosomal protein L36
+1042,PMM1539,7,8,7,0.397,| adk | adenylate kinase
+1043,PMM1540,3,3,3,0.046,| secY | preprotein translocase subunit SecY
+1044,PMM1541,4,4,4,0.191,| rplO | 50S ribosomal protein L15
+1045,PMM1542,3,6,3,0.155,| rpsE | 30S ribosomal protein S5
+1046,PMM1543,1,1,1,0.107,| rplR | 50S ribosomal protein L18
+1047,PMM1544,5,5,5,0.257,| rplF | 50S ribosomal protein L6
+1048,PMM1545,2,3,2,0.21100000000000002,| rpsH | 30S ribosomal protein S8
+1049,PMM1546,4,5,4,0.18,| rplE | 50S ribosomal protein L5
+1050,PMM1547,2,3,2,0.11900000000000001,| rplX | 50S ribosomal protein L24
+1051,PMM1548,2,2,2,0.215,| rplN | 50S ribosomal protein L14
+1052,PMM1549,4,8,4,0.295,| rpsQ | 30S ribosomal protein S17
+1053,PMM1550,2,3,2,0.264,| rpl29 | 50S ribosomal protein L29
+1054,PMM1551,3,3,3,0.25,| rplP | 50S ribosomal protein L16
+1055,PMM1552,9,13,9,0.39899999999999997,| rpsC | 30S ribosomal protein S3
+1056,PMM1553,1,1,1,0.055,| rplV | 50S ribosomal protein L22
+1057,PMM1554,5,5,5,0.516,| rpsS | 30S ribosomal protein S19
+1058,PMM1555,9,13,9,0.237,| rplB | 50S ribosomal protein L2
+1059,PMM1556,4,6,4,0.36,| rplW | 50S ribosomal protein L23
+1060,PMM1557,10,10,10,0.314,| rplD | 50S ribosomal protein L4
+1061,PMM1558,5,5,5,0.212,| rplC | 50S ribosomal protein L3
+1062,PMM1559,1,2,1,0.064,| PMM1559 | NADH dehydrogenase I subunit N
+1063,PMM1561,3,3,3,0.12,| PMM1561 | hypothetical protein
+1064,PMM1562,6,7,6,0.157,| recA | recombinase A
+1065,PMM1565,10,10,10,0.33,| PMM1565 | arogenate dehydrogenase
+1066,PMM1568,1,1,1,0.124,| PMM1568 | hypothetical protein
+1067,PMM1569,4,4,4,0.11,| moeB | molybdopterin biosynthesis protein
+1068,PMM1570,4,4,4,0.111,| PMM1570 | hypothetical protein
+1069,PMM1573,1,1,1,0.022000000000000002,| recF | putative DNA repair and genetic recombination protein RecF
+1070,PMM1574,2,2,2,0.128,| PMM1574 | hypothetical protein
+1071,PMM1575,11,12,10,0.09,| ppc | phosphoenolpyruvate carboxylase
+1072,PMM1576,3,3,3,0.067,| PMM1576 | hypothetical protein
+1073,PMM1577,7,8,7,0.134,| trpE | anthranilate synthase component I/chorismate-binding protein
+1074,PMM1578,13,19,13,0.514,| psaD | photosystem I protein PsaD
+1075,PMM1579,5,5,5,0.105,| PMM1579 | hypothetical protein
+1076,PMM1580,1,1,1,0.024,| rodA | hypothetical protein
+1077,PMM1581,3,4,3,0.048,| PMM1581 | ATPase
+1078,PMM1582,2,2,2,0.040999999999999995,| hemF | coproporphyrinogen III oxidase
+1079,PMM1583,3,3,3,0.14,| PMM1583 | hypothetical protein
+1080,PMM1584,5,5,5,0.254,| rnd | putative ribonuclease D
+1081,PMM1585,3,3,3,0.295,| PMM1585 | hypothetical protein
+1082,PMM1588,3,3,3,0.152,| PMM1588 | carboxylase domain-containing protein
+1083,PMM1589,10,11,10,0.268,"| purM,purG | phosphoribosylaminoimidazole synthetase"
+1084,PMM1590,4,4,4,0.076,| panC | bifunctional pantoate ligase/cytidylate kinase
+1085,PMM1592,1,1,1,0.035,| pebB | phycoerythrobilin:ferredoxin oxidoreductase
+1086,PMM1593,2,2,2,0.09300000000000001,| pebA | dihydrobiliverdin:ferredoxin oxidoreductase
+1087,PMM1594,3,3,3,0.12300000000000001,| ho1 | Heme oxygenase
+1088,PMM1596,8,8,8,0.11800000000000001,| icd | isocitrate dehydrogenase
+1089,PMM1597,1,1,1,0.013000000000000001,| PMM1597 | hypothetical protein
+1090,PMM1599,7,10,6,0.223,| PMM1599 | hypothetical protein
+1091,PMM1600,2,3,1,0.051,| PMM1600 | CPA2 family Na+/H+ antiporter
+1092,PMM1601,4,4,4,0.053,| PMM1601 | phosphorylase
+1093,PMM1603,5,6,5,0.177,| rnc | putative ribonuclease III
+1094,PMM1604,1,1,1,0.115,| PMM1604 | hypothetical protein
+1095,PMM1606,6,7,6,0.109,| glmS | glucosamine--fructose-6-phosphate aminotransferase
+1096,PMM1607,6,7,6,0.568,| psaC | photosystem I subunit VII
+1097,PMM1608,2,5,2,0.212,| acpP | acyl carrier protein
+1098,PMM1609,3,4,3,0.114,| fabF | 3-oxoacyl-[acyl-carrier-protein] synthase II
+1099,PMM1610,12,14,11,0.177,| tktA | transketolase
+1100,PMM1611,7,8,7,0.134,| thiC | thiamine biosynthesis protein ThiC
+1101,PMM1612,1,1,1,0.099,| PMM1612 | hypothetical protein
+1102,PMM1613,5,5,5,0.13,| PMM1613 | zinc metallopeptidase
+1103,PMM1614,3,3,3,0.13,| PMM1614 | hypothetical protein
+1104,PMM1615,1,1,1,0.04,| ruvB | Holliday junction DNA helicase RuvB
+1105,PMM1618,13,14,13,0.24,| lysS | lysyl-tRNA synthetase
+1106,PMM1619,7,8,7,0.387,| PMM1619 | two-component response regulator
+1107,PMM1621,1,1,1,0.027999999999999997,| mreC | rod shape-determining protein MreC
+1108,PMM1622,10,15,10,0.223,| mreB | rod shape-determining protein MreB
+1109,PMM1623,6,6,6,0.40700000000000003,| ssb | single-stranded DNA-binding protein
+1110,PMM1624,1,1,1,0.037000000000000005,| PMM1624 | DedA family alkaline phosphatase-like protein
+1111,PMM1625,7,8,7,0.129,| ahcY | S-adenosyl-L-homocysteine hydrolase
+1112,PMM1629,2,2,1,0.051,| PMM1629 | type II alternative sigma-70 family RNA polymerase sigma factor
+1113,PMM1630,8,10,8,0.134,| PMM1630 | Mg2+ transporter
+1114,PMM1631,1,1,1,0.10099999999999999,| PMM1631 | hypothetical protein
+1115,PMM1633,1,1,1,0.083,| PMM1633 | hypothetical protein
+1116,PMM1634,13,14,13,0.18,| gyrB | DNA gyrase subunit B
+1117,PMM1636,4,5,4,0.195,| infC | translation initiation factor IF-3
+1118,PMM1637,7,7,7,0.198,| PMM1637 | putative transcriptional regulator
+1119,PMM1638,1,1,0,0.028999999999999998,| cysE | Serine acetyltransferase
+1120,PMM1639,14,15,14,0.126,| secA | preprotein translocase subunit SecA
+1121,PMM1640,2,2,2,0.172,| PMM1640 | GNAT family acetyltransferase
+1122,PMM1642,1,1,1,0.07,| PMM1642 | transcription regulator
+1123,PMM1643,1,2,1,0.08900000000000001,"| ribH | 6,7-dimethyl-8-ribityllumazine synthase"
+1124,PMM1645,2,2,2,0.025,"| mutS,fdv | DNA mismatch repair protein MutS"
+1125,PMM1647,1,1,1,0.024,| PMM1647 | DNA polymerase III subunit delta
+1126,PMM1648,7,8,7,0.14300000000000002,| lysC | aspartate kinase
+1127,PMM1649,3,3,3,0.043,| uvrB | excinuclease ABC subunit B
+1128,PMM1650,5,5,5,0.171,| PMM1650 | hypothetical protein
+1129,PMM1652,6,6,6,0.09,| PMM1652 | hypothetical protein
+1130,PMM1653,6,7,6,0.18899999999999997,| dapA | dihydrodipicolinate synthase
+1131,PMM1654,3,3,3,0.122,| asd | aspartate semialdehyde dehydrogenase
+1132,PMM1655,9,9,9,0.161,| tig | trigger factor
+1133,PMM1656,3,3,3,0.11599999999999999,| clpP2 | Clp protease proteolytic subunit
+1134,PMM1657,9,11,9,0.17600000000000002,| clpX | ATP-dependent protease ATP-binding subunit ClpX
+1135,PMM1658,6,6,6,0.1,"| dnaX | DNA polymerase, gamma and tau subunits"
+1136,PMM1659,2,2,2,0.048,| PMM1659 | glycosyl transferase family protein
+1137,PMM1662,2,3,2,0.13,| rplT | 50S ribosomal protein L20
+1138,PMM1663,5,5,5,0.27,| PMM1663 | putative photosystem I assembly related protein Ycf37
+1139,PMM1664,3,3,3,0.125,| thiG | thiazole synthase
+1140,PMM1665,9,13,9,0.20199999999999999,| sqdB | sulfolipid (UDP-sulfoquinovose) biosynthesis protein
+1141,PMM1666,6,7,6,0.212,| sqdX | SqdX
+1142,PMM1667,1,2,1,0.217,| PMM1667 | hypothetical protein
+1143,PMM1668,2,2,2,0.024,| gcvP | glycine dehydrogenase
+1144,PMM1669,4,6,4,0.248,| gcsH | glycine cleavage system protein H
+1145,PMM1670,2,2,2,0.023,| PMM1670 | cystathionine beta-lyase family aluminum resistance protein
+1146,PMM1671,1,1,1,0.055,| PMM1671 | hypothetical protein
+1147,PMM1673,6,8,6,0.245,| rplI | 50S ribosomal protein L9
+1148,PMM1677,1,1,1,0.062,| PMM1677 | hypothetical protein
+1149,PMM1678,4,5,4,0.21600000000000003,| PMM1678 | hypothetical protein
+1150,PMM1679,1,1,1,0.016,| lig | ATP-dependent DNA ligase
+1151,PMM1681,1,1,1,0.034,| PMM1681 | hypothetical protein
+1152,PMM1682,10,11,10,0.106,| valS | valyl-tRNA synthetase
+1153,PMM1683,2,2,2,0.08199999999999999,| PMM1683 | hypothetical protein
+1154,PMM1685,2,2,2,0.053,| speE | spermidine synthase
+1155,PMM1686,1,1,1,0.024,| PMM1686 | arginase
+1156,PMM1687,7,7,7,0.17600000000000002,| gcvT | glycine cleavage system aminomethyltransferase T
+1157,PMM1688,10,10,10,0.16899999999999998,| aspS | aspartyl-tRNA synthetase
+1158,PMM1689,6,8,6,0.127,| pyrG | CTP synthetase
+1159,PMM1691,1,1,1,0.045,| PMM1691 | ATPase
+1160,PMM1692,2,2,2,0.040999999999999995,| PMM1692 | putative p-aminobenzoate synthetase
+1161,PMM1693,1,1,1,0.036000000000000004,| PMM1693 | aminotransferase class-IV
+1162,PMM1694,7,7,7,0.253,| cobA | putative uroporphyrin-III C-methyltransferase
+1163,PMM1696,2,2,2,0.019,| ppk | polyphosphate kinase
+1164,PMM1697,3,3,2,0.109,| PMM1697 | type II alternative sigma-70 family RNA polymerase sigma factor
+1165,PMM1699,7,7,7,0.183,| aroF | phospho-2-dehydro-3-deoxyheptonate aldolase
+1166,PMM1700,6,6,6,0.07200000000000001,| acnB | bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+1167,PMM1701,1,1,1,0.015,| PMM1701 | putative chloride channel
+1168,PMM1702,1,1,1,0.035,| purU | formyltetrahydrofolate deformylase
+1169,PMM1704,26,36,26,0.27399999999999997,| dnaK | molecular chaperone DnaK
+1170,PMM1705,2,2,2,0.053,| aroE | shikimate 5-dehydrogenase
+1171,PMM1706,6,10,6,0.247,| rpsF | 30S ribosomal protein S6
+1172,PMM1707,13,15,13,0.29,| argG | argininosuccinate synthase
+1173,PMM1708,1,1,1,0.152,| PMM1708 | hypothetical protein
+1174,PMM1709,1,1,1,0.017,| mraY | phospho-N-acetylmuramoyl-pentapeptide- transferase
+1175,PMM1710,1,1,1,0.069,| PMM1710 | hypothetical protein
+1176,PMM1711,8,8,8,0.188,| sps | sucrose phosphate synthase
+1177,PMM1712,12,12,12,0.115,| uvrA | excinuclease ABC subunit A
+1178,PMM1715,3,3,3,0.225,| PMM1715 | hypothetical protein
+1179,PMM1716,8,9,8,0.16899999999999998,| thrC | threonine synthase
+1180,gi|54036848|sp|P63284.1|CLPB_ECOLI,7,8,6,0.049,RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1
+0,PMM0001,9,11,9,0.19699999999999998,| dnaN | DNA polymerase III subunit beta
+1,PMM0002,2,2,1,0.038,| PMM0002 | hypothetical protein
+2,PMM0003,10,11,10,0.126,| purL | phosphoribosylformylglycinamidine synthase II
+3,PMM0004,3,3,3,0.049,| purF | amidophosphoribosyltransferase
+4,PMM0005,9,9,9,0.10800000000000001,"| PMM0005 | DNA gyrase/topoisomerase IV, subunit A"
+5,PMM0008,4,5,4,0.131,| PMM0008 | hypothetical protein
+6,PMM0009,2,3,2,0.077,| nusB | transcription antitermination protein NusB
+7,PMM0010,15,16,15,0.327,| ftsY | signal recognition particle docking protein FtsY
+8,PMM0011,2,2,2,0.049,| PMM0011 | protein phosphatase 2C domain-containing protein
+9,PMM0012,15,15,15,0.316,| argH | argininosuccinate lyase
+10,PMM0013,5,6,5,0.09,| PMM0013 | RNA recognition motif-containing protein
+11,PMM0014,1,1,1,0.018000000000000002,| PMM0014 | tRNA-dihydrouridine synthase A
+12,PMM0015,1,1,1,0.061,| PMM0015 | hypothetical protein
+13,PMM0016,14,23,14,0.54,| grpE | heat shock protein GrpE
+14,PMM0017,5,8,5,0.136,| dnaJ | DnaJ protein
+15,PMM0020,7,9,7,0.509,| PMM0020 | hypothetical protein
+16,PMM0021,2,2,2,0.064,| murB | UDP-N-acetylenolpyruvoylglucosamine reductase
+17,PMM0023,10,12,10,0.27899999999999997,| gap2 | glyceraldehyde 3-phosphate dehydrogenase(NADP+)(phosphorylating)
+18,PMM0025,1,1,1,0.025,| PMM0025 | cyclophilin-type peptidyl-prolyl cis-trans isomerase
+19,PMM0026,1,1,1,0.043,| efp | elongation factor P
+20,PMM0027,1,1,1,0.06,"| accB,fabE | biotin / lipoyl attachment:Acetyl-CoA biotin carboxyl carrier subunit"
+21,PMM0028,1,1,1,0.04,| pdxA | 4-hydroxythreonine-4-phosphate dehydrogenase
+22,PMM0029,3,3,3,0.125,| PMM0029 | hypothetical protein
+23,PMM0032,5,7,5,0.38799999999999996,| PMM0032 | type II secretion system pr
+24,PMM0034,2,2,2,0.354,| PMM0034 | hypothetical protein
+25,PMM0035,2,3,2,0.065,| DHSS | soluble hydrogenase small subunit
+26,PMM0036,3,3,3,0.073,| cbiD | cobalt-precorrin-6A synthase
+27,PMM0037,7,8,7,0.136,| guaA | GMP synthase
+28,PMM0039,1,1,1,0.054000000000000006,| PMM0039 | hypothetical protein
+29,PMM0041,3,3,3,0.184,| PMM0041 | putative reductase
+30,PMM0042,2,2,2,0.038,| PMM0042 | flavoprotein
+31,PMM0043,3,3,3,0.055999999999999994,| PMM0043 | flavoprotein
+32,PMM0044,9,9,9,0.113,| alaS | alanyl-tRNA synthetase
+33,PMM0045,7,7,6,0.083,| PMM0045 | arginine decarboxylase
+34,PMM0046,2,4,2,0.11800000000000001,| ndk | nucleoside diphosphate kinase
+35,PMM0047,3,4,3,0.084,| thiO | putative thiamine biosynthesis oxidoreductase
+36,PMM0048,13,13,13,0.26899999999999996,| gatB | aspartyl/glutamyl-tRNA amidotransferase subunit B
+37,PMM0049,1,1,1,0.054000000000000006,| coaE | putative dephospho-CoA kinase
+38,PMM0050,1,1,1,0.025,| argJ | bifunctional ornithine acetyltransferase/N-acetylglutamate synthase protein
+39,PMM0051,3,3,3,0.11699999999999999,| PMM0051 | hypothetical protein
+40,PMM0052,1,1,1,0.031,| PMM0052 | aldo/keto reductase
+41,PMM0054,1,1,1,0.062,| PMM0054 | hypothetical protein
+42,PMM0055,2,3,2,0.085,| PMM0055 | hypothetical protein
+43,PMM0057,3,3,3,0.022000000000000002,| PMM0057 | SMC ATPase superfamily chromosome segregation protein
+44,PMM0058,3,3,3,0.10400000000000001,| PMM0058 | hypothetical protein
+45,PMM0059,2,2,2,0.054000000000000006,| PMM0059 | hypothetical protein
+46,PMM0060,2,2,2,0.042,| accC | acetyl-CoA carboxylase biotin carboxylase subunit
+47,PMM0061,1,1,1,0.08900000000000001,| PMM0061 | hypothetical protein
+48,PMM0063,2,2,2,0.028999999999999998,| PMM0063 | hypothetical protein
+49,PMM0064,1,1,1,0.14300000000000002,| hli2 | high light inducible protein
+50,PMM0065,11,13,11,0.145,"| PMM0065 | ABC transporter, ATP binding protein"
+51,PMM0067,2,3,2,0.09699999999999999,| PMM0067 | HIT (histidine triad) family protein
+52,PMM0068,1,1,1,0.045,| def | peptide deformylase
+53,PMM0069,1,1,1,0.011000000000000001,| PMM0069 | esterase/lipase/thioesterase family protein
+54,PMM0070,6,6,6,0.141,| PMM0070 | putative cysteine desulfurase or selenocysteine lyase
+55,PMM0071,5,5,5,0.141,"| PMM0071 | ABC transporter, membrane component"
+56,PMM0072,6,7,6,0.261,"| PMM0072 | ABC transporter, ATP binding component"
+57,PMM0073,3,3,3,0.054000000000000006,| PMM0073 | cysteine desulfurase activator complex subunit SufB
+58,PMM0074,2,2,2,0.15,| PMM0074 | hypothetical protein
+59,PMM0075,4,4,4,0.09,| PMM0075 | hypothetical protein
+60,PMM0076,5,8,4,0.07,| pgm | phosphoglucomutase
+61,PMM0077,5,5,5,0.09300000000000001,| yrvN | recombination factor protein RarA
+62,PMM0079,9,11,9,0.426,| bcp | putative bacterioferritin comigratory (BCP) protein
+63,PMM0080,1,1,1,0.04,| PMM0080 | hypothetical protein
+64,PMM0081,1,1,1,0.028999999999999998,| cysH | phosphoadenosine phosphosulfate reductase
+65,PMM0082,4,4,3,0.086,"| PMM0082 | putative NADH dehydrogenase, transport associated"
+66,PMM0083,1,1,1,0.012,| PMM0083 | DASS family sodium/sulfate transporter
+67,PMM0085,4,4,4,0.171,| PMM0085 | VIC family potassium channel protein
+68,PMM0088,3,3,3,0.355,| PMM0088 | hypothetical protein
+69,PMM0090,7,8,7,0.23,| PMM0090 | serine protease
+70,PMM0092,2,2,2,0.214,| PMM0092 | hypothetical protein
+71,PMM0093,2,3,2,0.271,| hli1 | high light inducible protein
+72,PMM0096,7,7,7,0.268,| PMM0096 | inositol monophosphate family protein
+73,PMM0097,3,3,3,0.069,| PMM0097 | RND family outer membrane efflux protein
+74,PMM0098,1,1,1,0.03,| PMM0098 | putative Fe-S oxidoreductase
+75,PMM0099,2,2,2,0.071,| PMM0099 | hypothetical protein
+76,PMM0100,5,5,5,0.09,| nadB | L-aspartate oxidase
+77,PMM0101,1,1,1,0.039,| PMM0101 | hypothetical protein
+78,PMM0103,2,2,2,0.172,| PMM0103 | hypothetical protein
+79,PMM0104,1,1,1,0.028999999999999998,| PMM0104 | hypothetical protein
+80,PMM0106,3,3,3,0.11699999999999999,| PMM0106 | 6-pyruvoyl tetrahydropterin synthase
+81,PMM0107,2,3,2,0.10300000000000001,| aroK | shikimate kinase
+82,PMM0109,1,1,1,0.038,| PMM0109 | POLO box duplicated region
+83,PMM0110,7,7,7,0.203,| PMM0110 | putative glutathione S-transferase
+84,PMM0114,1,1,1,0.051,| PMM0114 | putative integral membrane protein
+85,PMM0115,4,4,4,0.081,| crtQ | zeta-carotene desaturase
+86,PMM0117,2,2,2,0.183,| PMM0117 | hypothetical protein
+87,PMM0120,3,3,3,0.09,| PMM0120 | putative cell division inhibitor
+88,PMM0123,9,10,9,0.239,| cysK2 | O-acetylserine (thiol)-lyase A
+89,PMM0124,4,5,4,0.337,| PMM0124 | hypothetical protein
+90,PMM0126,7,7,7,0.157,| PMM0126 | hypothetical protein
+91,PMM0127,3,3,3,0.235,| PMM0127 | signal peptide binding domain-containing protein
+92,PMM0128,4,6,4,0.08800000000000001,| rpaA | two-component response regulator
+93,PMM0130,3,3,3,0.17300000000000001,| PMM0130 | thymidylate kinase
+94,PMM0131,3,3,3,0.035,| PMM0131 | putative P-type ATPase transporter for copper
+95,PMM0133,3,3,3,0.073,| radA | DNA repair protein RadA
+96,PMM0134,10,10,10,0.423,| rpaB | two-component response regulator
+97,PMM0135,5,6,5,0.10099999999999999,| plsX | putative glycerol-3-phosphate acyltransferase PlsX
+98,PMM0136,2,2,2,0.07200000000000001,| fabH | 3-oxoacyl-(acyl carrier protein) synthase III
+99,PMM0137,3,3,3,0.114,| fabD | malonyl coenzyme A-acyl carrier protein transacylase
+100,PMM0138,3,4,3,0.155,| plsC | putative 1-acyl-sn-glycerol-3-phosphate acyltransferase
+101,PMM0142,5,5,5,0.345,| PMM0142 | RNA recognition motif-containing protein
+102,PMM0143,1,1,1,0.04,"| crtB,pys | squalene and phytoene synthase"
+103,PMM0144,9,9,9,0.15,"| pds,crtD | phytoene desaturase"
+104,PMM0145,3,3,3,0.217,| PMM0145 | NADH dehydrogenase I subunit M
+105,PMM0146,1,1,1,0.054000000000000006,| PMM0146 | hypothetical protein
+106,PMM0147,6,6,5,0.205,| rbcR | putative Rubisco transcriptional regulator
+107,PMM0149,5,5,5,0.061,| ndhF | NAD(P)H-quinone oxidoreductase subunit F
+108,PMM0150,3,3,3,0.028999999999999998,| ndhD | NAD(P)H-quinone oxidoreductase subunit 4
+109,PMM0152,3,3,3,0.071,| PMM0152 | putative sugar-phosphate nucleotidyl transferase
+110,PMM0153,4,4,4,0.16899999999999998,| PMM0153 | methylenetetrahydrofolate reductase
+111,PMM0154,1,1,1,0.207,| PMM0154 | LuxR family regulatory protein
+112,PMM0155,2,2,2,0.133,| PMM0155 | hypothetical protein
+113,PMM0156,1,1,1,0.03,| ppnK | inorganic polyphosphate/ATP-NAD kinase
+114,PMM0159,3,3,3,0.17800000000000002,| ndhI | NADH dehydrogenase subunit I
+115,PMM0160,1,1,1,0.048,| ndhA | NADH dehydrogenase subunit H
+116,PMM0161,12,13,12,0.307,| gltA | citrate synthase
+117,PMM0162,3,3,3,0.054000000000000006,| PMM0162 | hypothetical protein
+118,PMM0163,1,1,1,0.078,| PMM0163 | hypothetical protein
+119,PMM0164,5,6,5,0.11800000000000001,| trpB | tryptophan synthase subunit beta
+120,PMM0167,2,2,2,0.067,| purE | phosphoribosylaminoimidazole carboxylase
+121,PMM0168,5,5,5,0.18899999999999997,| chlM | Mg-protoporphyrin IX methyl transferase
+122,PMM0169,10,12,9,0.273,| PMM0169 | two-component response regulator
+123,PMM0170,2,2,2,0.052000000000000005,| PMM0170 | NifS-like aminotransferase class-V
+124,PMM0172,7,7,7,0.175,| ndhH | NAD(P)H-quinone oxidoreductase subunit H
+125,PMM0173,2,2,2,0.14,| PMM0173 | hypothetical protein
+126,PMM0174,2,2,2,0.035,| menE | putative O-succinylbenzoic acid--CoA ligase (OSB-CoA synthetase)
+127,PMM0175,2,2,2,0.065,| menC | putative O-succinylbenzoate synthase
+128,PMM0178,3,4,3,0.081,| gshB | glutathione synthetase
+129,PMM0179,5,5,5,0.35700000000000004,| PMM0179 | glutaredoxin
+130,PMM0184,1,1,1,0.061,| pabA | para-aminobenzoate synthase component II
+131,PMM0185,1,1,1,0.040999999999999995,| PMM0185 | hypothetical protein
+132,PMM0186,3,3,3,0.095,| hisC | aminotransferase class-I
+133,PMM0187,2,2,2,0.036000000000000004,| argS | arginyl-tRNA synthetase
+134,PMM0188,2,2,2,0.069,| nadC | nicotinate-nucleotide pyrophosphorylase:quinolinate phosphoriobsyl transferase
+135,PMM0189,3,3,3,0.065,| trmE | tRNA modification GTPase TrmE
+136,PMM0190,1,1,1,0.047,| PMM0190 | hypothetical protein
+137,PMM0191,6,6,6,0.062,"| spoT | guanosine-3',5'-bis(diphosphate) 3'-diphosphatase, (ppGpp)ase"
+138,PMM0194,6,6,6,0.163,| rbgA | ribosomal biogenesis GTPase
+139,PMM0195,21,29,21,0.281,| pgk | phosphoglycerate kinase
+140,PMM0197,1,1,1,0.019,| murG | undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase
+141,PMM0198,2,2,2,0.045,| hisC/cobC | aminotransferase class-I
+142,PMM0199,3,3,2,0.085,| pyrD | dihydroorotate dehydrogenase 2
+143,PMM0200,5,5,5,0.175,| rnhA | ribonuclease HI
+144,PMM0201,16,29,16,0.42700000000000005,| rplL | 50S ribosomal protein L7/L12
+145,PMM0202,2,3,2,0.131,| rplJ | 50S ribosomal protein L10
+146,PMM0203,11,11,11,0.306,| rplA | 50S ribosomal protein L1
+147,PMM0204,5,6,5,0.34,| rplK | 50S ribosomal protein L11
+148,PMM0205,8,10,7,0.261,| nusG | transcription antitermination protein NusG
+149,PMM0207,7,7,7,0.077,"| clpB2 | putative ATP-dependent Clp protease, Hsp 100, ATP-binding subunit ClpB"
+150,PMM0208,11,13,11,0.258,| eno | enolase
+151,PMM0209,2,2,2,0.02,| PMM0209 | putative kinase
+152,PMM0210,2,2,2,0.23800000000000002,| PMM0210 | hypothetical protein
+153,PMM0211,5,5,5,0.132,| trxB | FAD-dependent pyridine nucleotide-disulphide oxidoreductase
+154,PMM0212,3,4,3,0.215,| PMM0212 | hypothetical protein
+155,PMM0213,1,1,1,0.021,| sbtA | putative sodium-dependent bicarbonate transporter
+156,PMM0214,7,16,7,0.085,| PMM0214 | putative sulfate transporter
+157,PMM0215,7,8,7,0.132,| PMM0215 | delta-aminolevulinic acid dehydratase
+158,PMM0219,1,1,1,0.183,| PMM0219 | hypothetical protein
+159,PMM0221,1,1,1,0.019,| PMM0221 | glutathione S-transferase C terminus
+160,PMM0222,5,6,5,0.183,| PMM0222 | aspartoacylase
+161,PMM0223,7,9,7,0.133,| psbA | photosystem II PsbA protein (D1)
+162,PMM0224,6,6,6,0.162,| aroC | chorismate synthase
+163,PMM0225,1,1,1,0.033,| PMM0225 | 2-keto-3-deoxy-6-phosphogluconate aldolase
+164,PMM0226,7,8,7,0.146,| ftsH2 | cell division protein FtsH2
+165,PMM0227,5,5,5,0.12,| cysD | ATP-sulfurylase
+166,PMM0228,14,24,14,0.38299999999999995,| psbO | photosystem II manganese-stabilizing protein
+167,PMM0229,1,1,1,0.028999999999999998,| dfp | putative p-pantothenate cysteine ligase and p-pantothenenoylcysteine decarboxylase
+168,PMM0231,2,2,2,0.317,| PMM0231 | hypothetical protein
+169,PMM0232,1,1,1,0.062,| PMM0232 | hypothetical protein
+170,PMM0233,4,5,4,0.08900000000000001,| pyrB | aspartate carbamoyltransferase catalytic subunit
+171,PMM0235,6,7,6,0.433,| gatC | aspartyl/glutamyl-tRNA amidotransferase subunit C
+172,PMM0237,1,1,1,0.052000000000000005,| PMM0237 | hypothetical protein
+173,PMM0238,10,11,10,0.111,| ileS | isoleucyl-tRNA synthetase
+174,PMM0240,1,1,1,0.038,| trmB | tRNA (guanine-N(7)-)-methyltransferase
+175,PMM0241,6,6,6,0.10800000000000001,| PMM0241 | phosphotransferase superclass
+176,PMM0243,7,7,6,0.245,| thyX | FAD-dependent thymidylate synthase
+177,PMM0244,2,2,2,0.11199999999999999,| dcd | deoxycytidine triphosphate deaminase
+178,PMM0245,2,2,2,0.068,| PMM0245 | cob(I)alamin adenosyltransferase
+179,PMM0247,4,4,3,0.09300000000000001,| PMM0247 | hypothetical protein
+180,PMM0248,2,2,1,0.083,| PMM0248 | hypothetical protein
+181,PMM0250,4,4,4,0.172,| pth | peptidyl-tRNA hydrolase
+182,PMM0251,1,5,1,0.121,| psbH | photosystem II reaction center protein H
+183,PMM0254,8,8,8,0.111,| PMM0254 | hypothetical protein
+184,PMM0256,1,1,1,0.027999999999999997,| leuC | isopropylmalate isomerase large subunit
+185,PMM0257,4,4,4,0.08800000000000001,| PMM0257 | molybdenum cofactor biosynthesis protein
+186,PMM0258,15,17,15,0.32899999999999996,| glyA | serine hydroxymethyltransferase
+187,PMM0260,1,1,1,0.129,| PMM0260 | hypothetical protein
+188,PMM0263,2,2,2,0.037000000000000005,| amt1 | ammonium transporter
+189,PMM0266,5,5,5,0.10400000000000001,| purH | bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+190,PMM0269,4,4,4,0.10300000000000001,| PMM0269 | two-component sensor histidine kinase
+191,PMM0270,1,1,1,0.037000000000000005,| CobS | cobalamin-5-phosphate synthase CobS
+192,PMM0272,1,1,1,0.152,| psbK | photosystem II reaction center protein K
+193,PMM0273,7,7,7,0.249,| PMM0273 | putative oxidoreductase
+194,PMM0274,6,6,5,0.128,| PMM0274 | hypothetical protein
+195,PMM0275,5,5,5,0.306,| pyrE | orotate phosphoribosyltransferase
+196,PMM0276,3,3,3,0.08900000000000001,| PMM0276 | hypothetical protein
+197,PMM0277,1,1,1,0.019,| PMM0277 | putative nuclease (RecB family)
+198,PMM0278,8,8,8,0.16699999999999998,| PMM0278 | phosphotransferase superclass
+199,PMM0279,1,1,1,0.052000000000000005,| PMM0279 | hypothetical protein
+200,PMM0282,11,13,11,0.462,| fabI | enoyl-(acyl carrier protein) reductase
+201,PMM0284,4,4,4,0.077,| degT | putative pleiotropic regulatory protein
+202,PMM0285,1,1,1,0.013000000000000001,| phr | putative DNA photolyase
+203,PMM0286,3,3,3,0.11800000000000001,| PMM0286 | NUDIX hydrolase
+204,PMM0288,6,6,6,0.086,| chlD | protoporphyrin IX magnesium chelatase subunit ChlD
+205,PMM0289,2,2,2,0.068,| PMM0289 | putative ABC transporter
+206,PMM0290,2,2,2,0.077,| PMM0290 | ABC transporter ATP-binding protein
+207,PMM0291,3,3,3,0.08199999999999999,| PMM0291 | hypothetical protein
+208,PMM0292,3,3,3,0.21600000000000003,| ndhJ | NADH dehydrogenase subunit J
+209,PMM0293,2,2,2,0.09,| ndhK | NADH dehydrogenase subunit B
+210,PMM0295,3,3,3,0.141,| rub | putative rubredoxin
+211,PMM0298,2,2,2,0.447,| psbF | cytochrome b559 subunit beta
+212,PMM0300,1,1,1,0.188,| psbJ | photosystem II reaction center protein J
+213,PMM0301,4,4,4,0.121,| PMM0301 | 5'-methylthioadenosine phosphorylase
+214,PMM0302,8,9,8,0.10099999999999999,"| selD | selenide,water dikinase"
+215,PMM0304,3,3,3,0.031,| uvrD | UvrD/REP helicase
+216,PMM0306,1,1,1,0.044000000000000004,| cpeS | phycoerythrin linker protein CpeS-like protein
+217,PMM0310,4,4,4,0.076,| PMM0310 | carbohydrate kinase
+218,PMM0311,10,12,10,0.201,| metK | S-adenosylmethionine synthetase
+219,PMM0312,11,13,11,0.309,| rps1a | 30S ribosomal protein S1
+220,PMM0313,1,1,1,0.063,| nrdR | transcriptional regulator NrdR
+221,PMM0315,17,26,17,0.195,| psbB | photosystem II PsbB protein (CP47)
+222,PMM0316,1,1,0,0.057999999999999996,| PMM0316 | ferredoxin
+223,PMM0318,1,1,1,0.024,| hemK | putative protein methyltransferase
+224,PMM0320,11,12,11,0.5,| minE | cell division topological specificity factor MinE
+225,PMM0321,7,9,7,0.207,| minD | putative septum site-determining protein MinD
+226,PMM0322,1,1,1,0.040999999999999995,| minC | septum site-determining protein
+227,PMM0323,3,3,3,0.069,| PMM0323 | hypothetical protein
+228,PMM0324,10,13,10,0.231,| ctpA | carboxyl-terminal protease
+229,PMM0325,2,2,2,0.11,| petB | cytochrome b6
+230,PMM0326,1,1,1,0.055999999999999994,| petD | cytochrome b6-f complex subunit IV
+231,PMM0327,3,3,3,0.069,| PMM0327 | putative neutral invertase-like protein
+232,PMM0328,1,1,1,0.024,| FPG | formamidopyrimidine-DNA glycosylase
+233,PMM0329,1,3,1,0.13,| psaE | photosystem I reaction center subunit IV
+234,PMM0330,4,7,4,0.19399999999999998,| PMM0330 | LysM domain-containing protein
+235,PMM0331,3,3,2,0.054000000000000006,| PMM0331 | putative aldehyde dehydrogenase
+236,PMM0332,1,1,1,0.046,| PMM0332 | rhomboid family protein
+237,PMM0336,2,2,0,0.040999999999999995,| PMM0336 | plastoquinol terminal oxidase
+238,PMM0338,1,1,1,0.111,| PMM0338 | hypothetical protein
+239,PMM0340,2,2,2,0.139,| PMM0340 | hypothetical protein
+240,PMM0341,2,3,2,0.408,| PMM0341 | hypothetical protein
+241,PMM0343,2,2,2,0.10400000000000001,| PMM0343 | mttA/Hcf106 family protein
+242,PMM0344,1,1,1,0.152,| PMM0344 | hypothetical protein
+243,PMM0345,3,4,3,0.228,| PMM0345 | putative bacterioferritin comigratory protein
+244,PMM0348,1,1,1,0.165,| PMM0348 | spectrin repeat-containing protein
+245,PMM0349,1,1,1,0.10099999999999999,| PMM0349 | peptidyl-tRNA hydrolase domain protein
+246,PMM0352,1,1,1,0.031,| PMM0352 | abortive infection protein
+247,PMM0353,3,3,3,0.094,| PMM0353 | glycosyl transferase family protein
+248,PMM0354,1,1,1,0.062,| PMM0354 | glycosyl transferase
+249,PMM0355,3,3,3,0.292,| PMM0355 | hypothetical protein
+250,PMM0356,5,5,5,0.146,"| PMM0356 | 2-hydroxy-6-oxohepta-2,4-dienoate hydrolase"
+251,PMM0359,1,1,1,0.135,| PMM0359 | hypothetical protein
+252,PMM0360,1,1,1,0.078,| PMM0360 | hypothetical protein
+253,PMM0365,1,1,1,0.07200000000000001,| PMM0365 | DsrE-like protein
+254,PMM0366,2,2,2,0.157,| PMM0366 | type-1 copper (blue) domain-containing protein
+255,PMM0367,5,7,5,0.209,| PMM0367 | hypothetical protein
+256,PMM0370,5,6,5,0.109,"| PMM0370 | putative cyanate ABC transporter, substrate binding protein"
+257,PMM0372,2,2,2,0.049,| PMM0372 | putative cyanate ABC transporter
+258,PMM0373,3,3,3,0.22399999999999998,| cynS | cyanate hydratase
+259,PMM0376,1,1,1,0.098,| PMM0376 | hypothetical protein
+260,PMM0377,3,4,3,0.494,| PMM0377 | hypothetical protein
+261,PMM0378,1,1,1,0.111,| PMM0378 | hypothetical protein
+262,PMM0379,2,2,2,0.172,| PMM0379 | hypothetical protein
+263,PMM0384,2,2,2,0.018000000000000002,| spnII-interrupted-C | hypothetical protein
+264,PMM0387,1,1,1,0.055,| aroD | 3-dehydroquinate dehydratase
+265,PMM0389,1,1,1,0.048,| cobI/cbiL | precorrin-2 C20-methyltransferase
+266,PMM0391,1,1,1,0.015,| engA | GTP-binding protein EngA
+267,PMM0392,2,2,2,0.055999999999999994,| PMM0392 | cobalt ABC transporter permease
+268,PMM0393,5,6,5,0.375,| PMM0393 | hypothetical protein
+269,PMM0394,2,2,2,0.12300000000000001,| PMM0394 | hypothetical protein
+270,PMM0395,6,7,6,0.24600000000000002,| PMM0395 | hypothetical protein
+271,PMM0396,5,5,5,0.198,| proC | Delta 1-pyrroline-5-carboxylate reductase
+272,PMM0397,2,2,2,0.052000000000000005,"| PMM0397 | putative glycosyl transferase, group 1"
+273,PMM0398,2,2,2,0.081,| PMM0398 | putative recombination protein O
+274,PMM0399,1,1,1,0.037000000000000005,| PMM0399 | putative deoxyribose-phosphate aldolase
+275,PMM0400,2,2,2,0.134,| lrtA | light repressed protein A-like protein
+276,PMM0401,2,2,2,0.084,| lipB | putative lipoate-protein ligase B
+277,PMM0403,4,9,4,0.17600000000000002,| PMM0403 | hypothetical protein
+278,PMM0404,1,1,1,0.068,| PMM0404 | hypothetical protein
+279,PMM0405,10,11,10,0.193,| pdhC | branched-chain alpha-keto acid dehydrogenase subunit E2
+280,PMM0406,3,3,3,0.075,| queA | queuosine biosynthesis protein
+281,PMM0407,15,21,15,0.332,| cysK1 | O-acetylserine (thiol)-lyase A
+282,PMM0408,3,3,2,0.047,| PMM0408 | putative cystathionine gamma-synthase
+283,PMM0409,2,2,2,0.054000000000000006,| metB | putative cystathionine gamma-synthase
+284,PMM0410,2,2,2,0.124,| rpsD | 30S ribosomal protein S4
+285,PMM0411,1,1,1,0.192,| PMM0411 | hypothetical protein
+286,PMM0413,1,1,1,0.02,"| murE | UDP-N-acetylmuramoylalanyl-D-glutamate--2, 6-diaminopimelate ligase"
+287,PMM0414,5,5,5,0.158,| PMM0414 | putative short chain dehydrogenase
+288,PMM0415,2,2,2,0.043,| PMM0415 | putative L-cysteine/cystine lyase
+289,PMM0416,3,3,3,0.114,| PMM0416 | hypothetical protein
+290,PMM0417,1,1,1,0.081,| PMM0417 | hypothetical protein
+291,PMM0419,7,7,7,0.155,| mqo | malate:quinone oxidoreductase
+292,PMM0420,4,4,4,0.057999999999999996,| lepA | GTP-binding protein LepA
+293,PMM0422,1,1,1,0.07200000000000001,| PMM0422 | tRNA/rRNA methyltransferase (SpoU)
+294,PMM0425,1,1,1,0.016,| PMM0425 | hypothetical protein
+295,PMM0426,2,2,2,0.039,| PMM0426 | Sun protein (Fmu protein)
+296,PMM0429,1,1,1,0.092,| PMM0429 | hypothetical protein
+297,PMM0430,11,12,10,0.322,| hisF | imidazole glycerol phosphate synthase subunit HisF
+298,PMM0433,1,1,1,0.04,| BirA | putative biotin--acetyl-CoA-carboxylase ligase
+299,PMM0434,1,1,1,0.079,| PMM0434 | ABC transporter ATP-binding protein
+300,PMM0435,2,2,2,0.04,| ndhB | NAD(P)H-quinone oxidoreductase subunit 2
+301,PMM0436,3,3,3,0.037000000000000005,| topA | DNA topoisomerase I
+302,PMM0440,4,4,4,0.11199999999999999,| PMM0440 | hypothetical protein
+303,PMM0441,1,1,1,0.016,| PMM0441 | aldo/keto reductase
+304,PMM0442,3,3,3,0.16,| ribE | riboflavin synthase subunit alpha
+305,PMM0443,1,1,1,0.085,| PMM0443 | hypothetical protein
+306,PMM0446,2,2,2,0.105,"| ctaC | putative cytochrome c oxidase, subunit 2"
+307,PMM0448,1,1,1,0.039,| ctaB | putative protoheme IX farnesyltransferase
+308,PMM0449,6,7,6,0.222,| PMM0449 | putative multidrug efflux ABC transporter
+309,PMM0451,2,2,2,0.11800000000000001,| PMM0451 | hypothetical protein
+310,PMM0452,41,64,39,0.41,| groEL | chaperonin GroEL
+311,PMM0453,7,7,7,0.24100000000000002,| fabG | 3-oxoacyl-[acyl-carrier protein] reductase
+312,PMM0454,3,3,3,0.14800000000000002,| ispD | 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+313,PMM0455,2,2,2,0.076,| PMM0455 | hypothetical protein
+314,PMM0457,3,3,3,0.053,| ppx | putative exopolyphosphatase
+315,PMM0458,2,2,2,0.07400000000000001,| PMM0458 | hypothetical protein
+316,PMM0459,3,3,3,0.12,| cobM | putative precorrin-4 C11-methyltransferase
+317,PMM0460,1,1,1,0.024,| yvoC | prolipoprotein diacylglyceryl transferase
+318,PMM0461,3,4,3,0.066,| petA | apocytochrome f
+319,PMM0462,7,8,7,0.433,| petC | cytochrome b6-f complex iron-sulfur subunit
+320,PMM0466,1,1,1,0.016,| PMM0466 | secreted protein MPB70 precursor
+321,PMM0469,5,14,5,0.207,| psaF | photosystem I PsaF protein (subunit III)
+322,PMM0470,1,1,1,0.025,| PMM0470 | o-sialoglycoprotein endopeptidase
+323,PMM0472,4,5,4,0.10300000000000001,| PMM0472 | CPA1 family Na+/H+ antiporter
+324,PMM0473,8,8,8,0.151,| gltX | glutamyl-tRNA synthetase
+325,PMM0474,2,4,2,0.32299999999999995,| PMM0474 | hypothetical protein
+326,PMM0475,5,9,5,0.294,| rplS | 50S ribosomal protein L19
+327,PMM0477,3,3,3,0.122,| map | methionine aminopeptidase
+328,PMM0478,2,2,2,0.11,| PMM0478 | short chain dehydrogenase
+329,PMM0479,5,5,5,0.152,| PMM0479 | BioD-like N-terminal domain of phosphotransacetylase
+330,PMM0480,3,5,3,0.265,| PMM0480 | hypothetical protein
+331,PMM0481,8,9,8,0.418,| PMM0481 | putative nucleotide-binding protein
+332,PMM0482,16,43,16,0.377,| phb | Band 7 protein
+333,PMM0483,11,13,11,0.27699999999999997,| hemL | glutamate-1-semialdehyde aminotransferase
+334,PMM0484,3,3,3,0.11,| xthA | exodeoxyribonuclease III
+335,PMM0485,1,1,1,0.153,| PMM0485 | hypothetical protein
+336,PMM0486,3,4,3,0.131,| PMM0486 | hypothetical protein
+337,PMM0487,2,2,2,0.066,| PMM0487 | hypothetical protein
+338,PMM0489,3,3,3,0.047,"| futB,hitB | putative iron ABC transporter"
+339,PMM0490,5,5,5,0.115,| PMM0490 | hypothetical protein
+340,PMM0491,1,1,1,0.073,| phhB | pterin-4-alpha-carbinolamine dehydratase
+341,PMM0492,2,2,2,0.099,| PMM0492 | hypothetical protein
+342,PMM0493,10,10,9,0.182,| cxp | carboxypeptidase Taq (M32) metallopeptidase
+343,PMM0494,9,10,9,0.374,| ppa | putative inorganic pyrophosphatase
+344,PMM0495,8,11,8,0.253,| hemC | porphobilinogen deaminase
+345,PMM0496,7,7,7,0.19399999999999998,| sigA | RNA polymerase sigma factor RpoD
+346,PMM0498,1,1,1,0.033,| PMM0498 | hypothetical protein
+347,PMM0499,5,5,5,0.158,| argB | acetylglutamate kinase
+348,PMM0501,2,3,2,0.38299999999999995,| PMM0501 | hypothetical protein
+349,PMM0502,3,3,3,0.235,| PMM0502 | hypothetical protein
+350,PMM0503,3,3,2,0.09300000000000001,| PMM0503 | precorrin-6X reductase
+351,PMM0504,1,1,0,0.065,| PMM0504 | CutA1 divalent ion tolerance protein
+352,PMM0505,2,2,2,0.05,| PMM0505 | carbohydrate kinase
+353,PMM0506,9,11,9,0.225,"| purA,adeK | adenylosuccinate synthetase"
+354,PMM0507,5,9,5,0.26899999999999996,| psb27 | putative photosystem II reaction center Psb27 protein
+355,PMM0508,6,6,6,0.09699999999999999,| proS | prolyl-tRNA synthetase
+356,PMM0509,2,2,2,0.147,| PMM0509 | resolvase
+357,PMM0511,2,2,2,0.11,| ppa | inorganic pyrophosphatase
+358,PMM0512,1,1,1,0.07400000000000001,| PMM0512 | putative arsenate reductase
+359,PMM0513,1,1,1,0.039,| lepB | Signal peptidase I
+360,PMM0514,4,4,4,0.096,| PMM0514 | putative dihydroorotase
+361,PMM0515,11,12,10,0.188,| cobC | putative alpha-ribazole-5'-P phosphatase
+362,PMM0516,1,1,0,0.02,| PMM0516 | membrane-associated protease
+363,PMM0519,10,15,10,0.231,| tal | transaldolase B
+364,PMM0520,5,5,5,0.106,| PMM0520 | NAD binding site
+365,PMM0521,3,6,3,0.17,| frr | ribosome recycling factor
+366,PMM0522,1,1,1,0.094,| pyrH | uridylate kinase
+367,PMM0523,2,2,2,0.087,| cobO | cob(I)alamin adenosyltransferase
+368,PMM0524,1,1,1,0.021,| PMM0524 | phage integrase family protein
+369,PMM0525,2,2,2,0.055999999999999994,| hemH | ferrochelatase
+370,PMM0526,13,14,12,0.191,| ilvH | acetolactate synthase 3 catalytic subunit
+371,PMM0527,3,3,3,0.145,| PMM0527 | hypothetical protein
+372,PMM0528,1,1,1,0.038,| PMM0528 | hypothetical protein
+373,PMM0529,2,2,2,0.05,| PMM0529 | hypothetical protein
+374,PMM0530,4,4,4,0.08900000000000001,"| rps1b | 30S ribosomal protein S1 homolog B, putative Nbp1"
+375,PMM0531,7,7,7,0.27899999999999997,| PMM0531 | creatininase
+376,PMM0533,4,4,4,0.11,| PMM0533 | hypothetical protein
+377,PMM0534,3,3,3,0.096,| accA | acetyl-CoA carboxylase carboxyltransferase subunit alpha
+378,PMM0536,2,2,1,0.061,| folE | putative GTP cyclohydrolase I
+379,PMM0537,3,4,3,0.077,| trpF | phosphoribosylanthranilate isomerase
+380,PMM0538,3,3,3,0.066,| PMM0538 | hypothetical protein
+381,PMM0539,2,2,2,0.081,| PMM0539 | protein ligase
+382,PMM0542,3,3,3,0.066,| por | protochlorophyllide oxidoreductase
+383,PMM0543,2,2,2,0.095,| chlL | protochlorophyllide reductase iron-sulfur ATP-binding protein
+384,PMM0544,2,2,1,0.036000000000000004,| chlB | light-independent protochlorophyllide reductase subunit B
+385,PMM0545,4,4,4,0.079,| chlN | light-independent protochlorophyllide reductase subunit N
+386,PMM0546,4,4,4,0.23,| PMM0546 | hypothetical protein
+387,PMM0547,1,1,1,0.043,| PMM0547 | hypothetical protein
+388,PMM0548,1,1,1,0.046,| PMM0548 | HAM1 family protein
+389,PMM0549,17,29,17,0.653,| csoS1 | carboxysome shell protein CsoS1
+390,PMM0550,17,23,17,0.259,| rbcL | ribulose bisophosphate carboxylase
+391,PMM0551,12,19,12,0.37200000000000005,"| rbcS | ribulose bisphosphate carboxylase, small chain"
+392,PMM0552,7,8,7,0.076,| csoS2 | carboxysome shell protein CsoS2
+393,PMM0553,4,4,4,0.092,| csoS3 | carboxysome shell protein CsoS3
+394,PMM0556,4,4,4,0.418,| PMM0556 | hypothetical protein
+395,PMM0558,3,4,3,0.27699999999999997,| PMM0558 | hypothetical protein
+396,PMM0559,1,1,1,0.033,| PMM0559 | putative hydroxyacylglutathione hydrolase
+397,PMM0560,9,10,9,0.27399999999999997,| hisG | ATP phosphoribosyltransferase catalytic subunit
+398,PMM0561,2,2,2,0.035,| PMM0561 | putative multidrug efflux ABC transporter
+399,PMM0562,3,3,3,0.14800000000000002,| PMM0562 | putative acetyltransferase
+400,PMM0563,1,1,1,0.026000000000000002,| PMM0563 | hypothetical protein
+401,PMM0565,5,5,5,0.10800000000000001,| dnaA | chromosomal replication initiation protein
+402,PMM0566,1,1,1,0.019,| PMM0566 | glutathione S-transferase
+403,PMM0567,6,6,6,0.11800000000000001,| gshR | glutathione reductase (NADPH)
+404,PMM0569,7,7,7,0.146,| pyrC | dihydroorotase
+405,PMM0572,1,1,1,0.022000000000000002,| trpA | tryptophan synthase subunit alpha
+406,PMM0574,2,2,2,0.278,| PMM0574 | YciI-like protein
+407,PMM0575,3,3,3,0.217,| PMM0575 | hypothetical protein
+408,PMM0577,3,3,2,0.114,| PMM0577 | type II alternative sigma-70 family RNA polymerase sigma factor
+409,PMM0578,3,3,3,0.158,| PMM0578 | bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase protein
+410,PMM0579,2,2,2,0.13,| PMM0579 | 6-pyruvoyl-tetrahydropterin synthase
+411,PMM0580,12,12,11,0.11900000000000001,"| clpB1 | ATP-dependent Clp protease, Hsp 100, ATP-binding subunit ClpB"
+412,PMM0581,3,3,3,0.233,| petE | plastocyanin
+413,PMM0582,4,4,2,0.073,| PMM0582 | hypothetical protein
+414,PMM0583,11,17,11,0.292,| hemE | uroporphyrinogen decarboxylase
+415,PMM0584,6,6,6,0.07400000000000001,| glgB | glycogen branching enzyme
+416,PMM0585,3,3,3,0.059000000000000004,| PMM0585 | hypothetical protein
+417,PMM0586,1,1,1,0.102,| PMM0586 | hypothetical protein
+418,PMM0588,1,1,1,0.109,| PMM0588 | hypothetical protein
+419,PMM0589,9,10,9,0.064,| PMM0589 | hypothetical protein
+420,PMM0590,10,11,10,0.23199999999999998,| proA | gamma-glutamyl phosphate reductase
+421,PMM0591,2,2,2,0.192,| folB | dihydroneopterin aldolase
+422,PMM0594,2,3,2,0.033,| ndhD | NAD(P)H-quinone oxidoreductase subunit 4
+423,PMM0595,2,2,2,0.067,| thrB | homoserine kinase
+424,PMM0596,2,2,2,0.040999999999999995,| PMM0596 | putative glucokinase
+425,PMM0597,7,7,7,0.1,| thrS | threonyl-tRNA synthetase
+426,PMM0598,1,1,1,0.024,| trpS | tryptophanyl-tRNA synthetase
+427,PMM0599,2,2,2,0.126,| PMM0599 | hypothetical protein
+428,PMM0600,3,4,3,0.073,| PMM0600 | hypothetical protein
+429,PMM0604,6,8,6,0.157,| PMM0604 | hypothetical protein
+430,PMM0607,2,2,1,0.028999999999999998,"| menD | menaquinone biosynthesis protein; 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase"
+431,PMM0608,7,7,7,0.295,| menB | naphthoate synthase
+432,PMM0609,5,6,5,0.11,| glgA | glycogen synthase
+433,PMM0610,2,2,2,0.044000000000000004,| murF | cytoplasmic peptidoglycan synthetase
+434,PMM0611,5,5,5,0.122,| glmU | UDP-N-acetylglucosamine pyrophosphorylase
+435,PMM0612,1,1,1,0.023,| PMM0612 | hypothetical protein
+436,PMM0613,7,9,7,0.13699999999999998,| aroA | 3-phosphoshikimate 1-carboxyvinyltransferase
+437,PMM0614,2,2,2,0.10099999999999999,| PMM0614 | 2-phosphosulfolactate phosphatase
+438,PMM0615,2,2,2,0.057999999999999996,| PMM0615 | putative nitrilase
+439,PMM0616,1,1,1,0.019,| PMM0616 | cell wall hydrolase/autolysin
+440,PMM0618,3,3,3,0.087,| sds | polyprenyl synthetase; solanesyl diphosphate synthase (sds)
+441,PMM0619,21,26,21,0.294,| acs | acetyl-coenzyme A synthetase
+442,PMM0621,2,2,2,0.063,"| dnaQ | putative DNA polymerase III, epsilon subunit"
+443,PMM0622,1,1,1,0.08,| PMM0622 | hypothetical protein
+444,PMM0623,6,6,6,0.114,| hisS | histidyl-tRNA synthetase
+445,PMM0624,1,1,1,0.083,| PMM0624 | hypothetical protein
+446,PMM0627,10,12,10,0.091,| pcb | light-harvesting complex protein
+447,PMM0629,1,2,1,0.11800000000000001,| PMM0629 | hypothetical protein
+448,PMM0631,1,1,1,0.033,| PMM0631 | NADH-ubiquinone/plastoquinone (comple
+449,PMM0633,1,1,1,0.033,| crtL2 | putative lycopene epsilon cyclase
+450,PMM0635,1,1,1,0.026000000000000002,| PMM0635 | small mechanosensitive ion channel
+451,PMM0636,4,4,3,0.205,| PMM0636 | isochorismatase hydrolase family protein
+452,PMM0637,1,1,1,0.073,| fur | ferric uptake regulator family protein
+453,PMM0639,1,1,1,0.02,| stpA | putative glucosylglycerolphosphate phosphatase
+454,PMM0640,9,10,9,0.19899999999999998,| PMM0640 | hypothetical protein
+455,PMM0641,5,8,5,0.228,| PMM0641 | hypothetical protein
+456,PMM0642,24,39,24,0.317,| cysD | putative O-Acetyl homoserine sulfhydrylase
+457,PMM0643,3,3,3,0.098,| metA | putative homoserine O-succinyltransferase
+458,PMM0644,3,3,3,0.052000000000000005,| PMM0644 | putative sulfate transporter
+459,PMM0645,1,1,1,0.021,"| PMM0645 | FAD linked oxidase, N-terminal"
+460,PMM0646,1,1,1,0.027000000000000003,| PMM0646 | hypothetical protein
+461,PMM0649,2,2,2,0.064,| PMM0649 | pentapeptide repeat-containing protein
+462,PMM0651,1,1,1,0.055,| PMM0651 | VHS domain-containing protein
+463,PMM0653,1,1,1,0.09300000000000001,| gloA | lactoylglutathione lyase
+464,PMM0654,1,1,1,0.049,| PMM0654 | hypothetical protein
+465,PMM0658,2,2,2,0.062,| rsuA | putative pseudouridylate synthase specific to ribosomal small subunit
+466,PMM0661,16,17,16,0.226,| nrdJ | ribonucleotide reductase (class II)
+467,PMM0662,5,5,5,0.19899999999999998,| PMM0662 | hypothetical protein
+468,PMM0663,4,4,4,0.053,| prfC | peptide chain release factor 3
+469,PMM0664,1,1,1,0.049,| PMM0664 | hypothetical protein
+470,PMM0665,7,7,7,0.237,| hslO | Hsp33-like chaperonin
+471,PMM0666,2,2,2,0.102,| PMM0666 | ABC transporter ATP-binding protein
+472,PMM0668,2,2,2,0.078,| PMM0668 | 16S ribosomal RNA methyltransferase RsmE
+473,PMM0671,2,2,2,0.042,| PMM0671 | putative phosphonate ABC transporter
+474,PMM0672,8,9,8,0.233,| PMM0672 | putative phosphonate ABC transporter
+475,PMM0673,1,1,1,0.047,| PMM0673 | phosphonate ABC transporter phosphonate-binding protein
+476,PMM0674,13,16,13,0.254,| aspC | aminotransferase class-I
+477,PMM0676,5,5,4,0.136,| ispG | 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+478,PMM0677,5,6,5,0.086,| PMM0677 | carboxyl-terminal processing protease
+479,PMM0678,2,2,2,0.053,| PMM0678 | quinolinate synthetase
+480,PMM0679,1,1,1,0.045,| PMM0679 | putative transcripton factor
+481,PMM0680,4,4,4,0.155,| PMM0680 | hypothetical protein
+482,PMM0681,6,6,6,0.149,| PMM0681 | hypothetical protein
+483,PMM0682,6,6,6,0.146,| aroB | 3-dehydroquinate synthase
+484,PMM0683,5,5,5,0.098,| purK | phosphoribosylaminoimidazole carboxylase ATPase subunit
+485,PMM0691,1,1,1,0.11800000000000001,| PMM0691 | hypothetical protein
+486,PMM0693,2,2,2,0.149,| PMM0693 | Hepatitis C virus envelope glycoprote
+487,PMM0694,1,1,1,0.045,| PMM0694 | short-chain dehydrogenase/reductase
+488,PMM0695,2,2,2,0.062,| PMM0695 | glutamine amidotransferase class-I
+489,PMM0697,1,1,1,0.09300000000000001,| PMM0697 | D12 class N6 adenine-specific DNA met
+490,PMM0702,1,1,1,0.102,| PMM0702 | hypothetical protein
+491,PMM0704,3,3,2,0.09699999999999999,| PMM0704 | VIC family potassium channel protein
+492,PMM0705,4,4,4,0.174,"| phoB | two-component response regulator, phosphate"
+493,PMM0706,4,5,4,0.126,"| phoR | two-component sensor histidine kinase, phosphate sensing"
+494,PMM0708,2,2,2,0.032,| PMM0708 | putative secreted protein
+495,PMM0710,14,19,14,0.353,"| PMM0710 | ABC transporter, substrate binding protein, phosphate"
+496,PMM0713,5,5,5,0.153,| gap1 | putative glyceraldehyde 3-phosphate dehydrogenase
+497,PMM0714,1,1,1,0.079,| PMM0714 | ArsR family regulatory protein
+498,PMM0715,1,1,1,0.182,| PMM0715 | chorismate binding enzyme
+499,PMM0719,1,1,1,0.139,| PMM0719 | hypothetical protein
+500,PMM0725,4,5,4,0.16,"| PMM0725 | putative phosphate ABC transporter, ATP binding subunit"
+501,PMM0727,1,1,1,0.051,| PMM0727 | Serine/threonine specific protein phosphatase
+502,PMM0729,1,1,1,0.013000000000000001,| PMM0729 | ATP-dependent DNA ligase
+503,PMM0730,2,2,2,0.039,| PMM0730 | hypothetical protein
+504,PMM0732,3,3,3,0.337,| PMM0732 | major surface glycoprotein
+505,PMM0733,4,4,4,0.078,| PMM0733 | hypothetical protein
+506,PMM0734,2,2,2,0.198,| PMM0734 | CopG family protein
+507,PMM0738,1,1,1,0.146,| PMM0738 | hypothetical protein
+508,PMM0741,5,6,4,0.212,| PMM0741 | Thf1-like protein
+509,PMM0742,4,4,4,0.184,| clpP1 | ATP-dependent Clp protease proteolytic subunit
+510,PMM0743,11,13,11,0.17600000000000002,| ftsH1 | FtsH ATP-dependent protease-like protein
+511,PMM0744,2,2,2,0.239,| PMM0744 | hypothetical protein
+512,PMM0746,1,1,0,0.017,| PMM0746 | Zn-dependent peptidase
+513,PMM0747,2,2,2,0.083,| pcyA | phycocyanobilin:ferredoxin oxidoreductase
+514,PMM0748,2,2,2,0.066,| PMM0748 | ABC transporter
+515,PMM0749,3,3,3,0.102,"| PMM0749 | ABC-transporter, membrane spanning component"
+516,PMM0750,1,1,1,0.028999999999999998,"| PMM0750 | ABC transporter, ATP-binding component"
+517,PMM0752,3,4,3,0.075,| PMM0752 | glycosyl transferase family protein
+518,PMM0753,8,10,8,0.239,| rpsB | 30S ribosomal protein S2
+519,PMM0754,5,8,5,0.20600000000000002,| tsf | elongation factor Ts
+520,PMM0755,1,1,0,0.02,| PMM0755 | adenylate cyclase
+521,PMM0756,2,2,2,0.016,| recG | ATP-dependent DNA helicase RecG
+522,PMM0758,10,10,10,0.185,| sir | sulfite reductase subunit beta
+523,PMM0759,7,7,7,0.09300000000000001,| glyS | glycyl-tRNA synthetase beta subunit
+524,PMM0760,12,15,12,0.251,| chlP | aromatic-ring hydroxylase (flavoprotein monooxygenase)
+525,PMM0762,5,5,5,0.092,| typA | tyrosine binding protein
+526,PMM0764,2,2,2,0.07,| PMM0764 | ABC transporter ATP-binding protein
+527,PMM0766,1,6,1,0.027999999999999997,| rpe | ribulose-phosphate 3-epimerase
+528,PMM0767,2,2,2,0.057,"| glpX | fructose 1,6-bisphosphatase II"
+529,PMM0768,2,3,1,0.046,| hemA | glutamyl-tRNA reductase
+530,PMM0769,14,15,14,0.218,| glgC | glucose-1-phosphate adenylyltransferase
+531,PMM0770,9,10,9,0.182,| gnd | 6-phosphogluconate dehydrogenase
+532,PMM0771,2,2,2,0.098,"| PMM0771 | putative 6-phosphogluconolactonase (DevB, Pgl)"
+533,PMM0772,2,2,2,0.115,| PMM0772 | hypothetical protein
+534,PMM0773,1,1,1,0.055,| PMM0773 | hypothetical protein
+535,PMM0774,8,11,8,0.159,| ilvD | dihydroxy-acid dehydratase
+536,PMM0775,1,1,1,0.125,| PMM0775 | hypothetical protein
+537,PMM0776,5,5,5,0.28300000000000003,| PMM0776 | putative uracil phosphoribosyltransferase
+538,PMM0777,1,2,1,0.076,| PMM0777 | hypothetical protein
+539,PMM0778,3,3,3,0.10300000000000001,| cobW | putative cobalamin synthesis protein
+540,PMM0779,3,3,3,0.289,| PMM0779 | hypothetical protein
+541,PMM0780,3,3,3,0.10400000000000001,| purQ | phosphoribosylformylglycinamidine synthase I
+542,PMM0781,7,11,7,0.157,"| cbbA,cfxA,fbaA,fda | fructose-1,6-bisphosphate aldolase"
+543,PMM0782,2,2,2,0.044000000000000004,| PMM0782 | putative oxidoreductase
+544,PMM0783,4,5,4,0.295,| PMM0783 | hypothetical protein
+545,PMM0784,8,8,8,0.175,| accD | acetyl-CoA carboxylase subunit beta
+546,PMM0785,8,8,8,0.281,| prk | phosphoribulokinase
+547,PMM0786,2,2,2,0.076,| leuB | 3-isopropylmalate dehydrogenase
+548,PMM0787,2,2,2,0.073,| lpxD | UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+549,PMM0788,4,4,4,0.122,| proB | gamma-glutamyl kinase
+550,PMM0789,6,6,6,0.32899999999999996,| PMM0789 | hypothetical protein
+551,PMM0790,3,3,3,0.21899999999999997,| PMM0790 | hypothetical protein
+552,PMM0792,4,4,4,0.094,| PMM0792 | hypothetical protein
+553,PMM0793,3,4,3,0.075,| PMM0793 | hypothetical protein
+554,PMM0794,1,1,1,0.061,| PMM0794 | hypothetical protein
+555,PMM0795,1,1,0,0.013000000000000001,| PMM0795 | hypothetical protein
+556,PMM0796,4,4,4,0.17300000000000001,| hisA | 1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+557,PMM0797,11,14,11,0.376,| PMM0797 | putative mRNA binding protein
+558,PMM0799,2,2,2,0.07400000000000001,| PMM0799 | hypothetical protein
+559,PMM0800,2,2,2,0.19399999999999998,| PMM0800 | hypothetical protein
+560,PMM0801,2,2,2,0.105,| ycf39 | putative NADH-flavin reductase
+561,PMM0802,1,1,1,0.037000000000000005,| PMM0802 | putative endonuclease
+562,PMM0803,2,2,2,0.048,| futC | ABC transporter ATP-binding protein
+563,PMM0804,7,9,7,0.28300000000000003,| PMM0804 | ferritin
+564,PMM0808,1,1,1,0.02,| PMM0808 | Rieske iron-sulfur protein 2Fe-2S subunit
+565,PMM0809,1,1,1,0.08800000000000001,| PMM0809 | S1 RNA-binding domain-containing protein
+566,PMM0810,4,4,4,0.204,| PMM0810 | hypothetical protein
+567,PMM0811,1,1,1,0.055,| PMM0811 | hypothetical protein
+568,PMM0813,1,1,1,0.10800000000000001,| PMM0813 | hypothetical protein
+569,PMM0816,1,1,0,0.105,| hli18 | high light inducible protein
+570,PMM0821,3,3,3,0.10300000000000001,| PMM0821 | L-asparaginase II
+571,PMM0823,2,2,2,0.16699999999999998,| PMM0823 | domain of unknown function DUF143:Iojap-related protein
+572,PMM0824,3,4,3,0.11800000000000001,| PMM0824 | hypothetical protein
+573,PMM0825,7,9,6,0.06,"| carB | carbamoyl-phosphate synthase, large subunit"
+574,PMM0827,4,4,4,0.059000000000000004,| PMM0827 | ABC transporter
+575,PMM0829,3,3,3,0.154,| tpiA | triosephosphate isomerase
+576,PMM0831,17,17,17,0.125,| chlH | magnesium chelatase subunit H
+577,PMM0832,6,6,6,0.177,| dapB | dihydrodipicolinate reductase
+578,PMM0833,1,2,1,0.065,| PMM0833 | hypothetical protein
+579,PMM0834,1,1,1,0.026000000000000002,| ubiH | 2-octaprenyl-6-methoxyphenol 4-monoxygenase UbiH
+580,PMM0838,1,1,1,0.066,| PMM0838 | nucleoside diphosphate kinase
+581,PMM0842,1,1,1,0.02,| pmbA | putative modulator of DNA gyrase
+582,PMM0843,1,1,1,0.017,| tldD | putative modulator of DNA gyrase; TldD
+583,PMM0844,7,8,7,0.151,"| PNIL34,AT103 | magnesium-protoporphyrin IX monomethyl ester cyclase"
+584,PMM0845,5,6,5,0.27899999999999997,| PMM0845 | hypothetical protein
+585,PMM0846,2,2,2,0.152,| PMM0846 | hypothetical protein
+586,PMM0847,13,14,13,0.12300000000000001,| zam | putative acetazolamide conferring resistance protein Zam
+587,PMM0852,2,2,2,0.111,| PMM0852 | hypothetical protein
+588,PMM0854,10,10,10,0.149,| ftsH4 | cell division protein FtsH4
+589,PMM0856,6,7,6,0.20600000000000002,| tpx | thioredoxin peroxidase
+590,PMM0862,3,3,3,0.16899999999999998,| PMM0862 | SpoU family tRNA/rRNA methyltransferase
+591,PMM0863,1,1,1,0.066,| cobU/cobP | putative cobinamide kinase
+592,PMM0864,1,5,1,0.067,| PMM0864 | fusion glycoprotein F0
+593,PMM0867,12,12,12,0.207,| metG | methionyl-tRNA synthetase
+594,PMM0868,2,2,2,0.051,| PMM0868 | ribonuclease II
+595,PMM0871,13,13,13,0.14400000000000002,| pheT | phenylalanyl-tRNA synthetase subunit beta
+596,PMM0873,1,1,1,0.042,| PMM0873 | DnaJ domain-containing protein
+597,PMM0874,1,1,1,0.033,| PMM0874 | putative ATP adenylyltransferase
+598,PMM0875,2,2,2,0.177,| PMM0875 | hypothetical protein
+599,PMM0876,2,2,2,0.26,| PMM0876 | hypothetical protein
+600,PMM0877,11,12,11,0.085,| metH | putative methionine synthase
+601,PMM0878,12,12,11,0.395,| ilvE | branched-chain amino acid aminotransferase
+602,PMM0879,1,1,1,0.006999999999999999,| CobN | cobalamin biosynthetic protein CobN
+603,PMM0882,2,3,2,0.021,| uvrC | excinuclease ABC subunit C
+604,PMM0883,2,5,2,0.136,| PMM0883 | hypothetical protein
+605,PMM0884,1,1,1,0.094,| coaD | phosphopantetheine adenylyltransferase
+606,PMM0885,1,1,1,0.025,| dacB | D-Ala-D-Ala carboxypeptidase 3
+607,PMM0886,3,4,3,0.107,| PMM0886 | hypothetical protein
+608,PMM0887,2,2,2,0.054000000000000006,| nifS | class-V aminotransferase family cysteine desulfurase
+609,PMM0888,7,8,7,0.203,| dapF | diaminopimelate epimerase
+610,PMM0889,12,13,12,0.15,| leuS | leucyl-tRNA synthetase
+611,PMM0890,9,10,9,0.156,| pgi | glucose-6-phosphate isomerase
+612,PMM0892,2,2,2,0.08,| argC | N-acetyl-gamma-glutamyl-phosphate reductase
+613,PMM0893,4,5,4,0.071,"| ribA/ribB | bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II/unknown domain fusion protein"
+614,PMM0894,3,3,3,0.24100000000000002,| PMM0894 | cyclophilin-type peptidyl-prolyl cis-trans isomerase
+615,PMM0895,1,1,1,0.054000000000000006,| PMM0895 | hypothetical protein
+616,PMM0896,3,3,3,0.08900000000000001,| dnaJ2 | DnaJ2 protein
+617,PMM0897,5,5,5,0.068,| dnaK | molecular chaperone DnaK
+618,PMM0899,1,1,1,0.05,| PMM0899 | myo-inositol-1(or 4)-monophosphatase
+619,PMM0900,3,3,3,0.07,| hisZ | ATP phosphoribosyltransferase regulatory subunit
+620,PMM0901,38,50,35,0.44799999999999995,| htpG | heat shock protein 90
+621,PMM0902,1,1,1,0.09,| rpmB | 50S ribosomal protein L28
+622,PMM0906,6,8,6,0.483,| psaK | photosystem I PsaK protein (subunit X)
+623,PMM0907,4,4,4,0.057999999999999996,| Dxs | 1-deoxy-D-xylulose-5-phosphate synthase
+624,PMM0908,4,4,4,0.078,| ilvA | threonine dehydratase
+625,PMM0909,1,1,1,0.062,| PMM0909 | hypothetical protein
+626,PMM0911,1,1,1,0.064,| PMM0911 | hypothetical protein
+627,PMM0912,8,9,8,0.133,| pykF | pyruvate kinase
+628,PMM0913,4,4,4,0.08800000000000001,| PMM0913 | putative ABC transporter
+629,PMM0916,4,5,4,0.05,| PMM0916 | hypothetical protein
+630,PMM0918,2,2,1,0.079,| PMM0918 | putative cytidine/deoxycytidylate deaminase
+631,PMM0919,3,3,3,0.027999999999999997,| spt | serine:pyruvate/alanine:glyoxylate aminotransferase
+632,PMM0920,7,9,6,0.14800000000000002,"| glnA | glutamine synthetase, glutamate--ammonia ligase"
+633,PMM0921,1,1,1,0.04,| PMM0921 | methyltransferase
+634,PMM0924,4,4,3,0.12300000000000001,| PMM0924 | hypothetical protein
+635,PMM0925,4,4,4,0.12,| PMM0925 | tRNA 2-selenouridine synthase
+636,PMM0926,5,7,5,0.419,| psb28 | photosystem II reaction center protein Psb28
+637,PMM0927,2,2,2,0.052000000000000005,| PMM0927 | hypothetical protein
+638,PMM0928,4,4,4,0.095,| secF | preprotein translocase subunit SecF
+639,PMM0929,4,4,4,0.057999999999999996,| secD | preprotein translocase subunit SecD
+640,PMM0930,4,5,4,0.095,| pdhB | pyruvate dehydrogenase E1 beta subunit
+641,PMM0932,2,2,2,0.054000000000000006,| ispE | 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+642,PMM0935,2,2,2,0.124,| PMM0935 | hypothetical protein
+643,PMM0938,1,1,1,0.053,| PMM0938 | Serine hydroxymethyltransferase
+644,PMM0941,1,4,1,0.067,| PMM0941 | cAMP phosphodiesterase class-II
+645,PMM0942,2,2,2,0.096,| ruvA | putative holliday junction DNA helicase RuvA
+646,PMM0943,1,1,1,0.124,| rpsO | 30S ribosomal protein S15
+647,PMM0945,4,4,4,0.025,| dnaE | DNA polymerase III subunit alpha
+648,PMM0946,11,13,10,0.17800000000000002,| gatA | aspartyl/glutamyl-tRNA amidotransferase subunit A
+649,PMM0947,3,4,3,0.25,| PMM0947 | hypothetical protein
+650,PMM0948,3,4,3,0.065,| PMM0948 | tRNA/rRNA methyltransferase
+651,PMM0950,5,6,5,0.408,| rsbV | anti-anti-sigma regulatory factor RsbV
+652,PMM0951,2,2,2,0.045,| carA | carbamoyl phosphate synthase small subunit
+653,PMM0952,2,2,2,0.09300000000000001,| trpD | anthranilate phosphoribosyltransferase
+654,PMM0954,1,1,1,0.015,| PMM0954 | multidrug ABC transporter
+655,PMM0955,4,4,4,0.165,| msrA | peptide methionine sulfoxide reductase
+656,PMM0959,1,1,1,0.038,| PMM0959 | putative kinase
+657,PMM0960,4,4,4,0.127,| PMM0960 | mannosyl-3-phosphoglycerate phosphatase
+658,PMM0961,1,1,1,0.015,| PMM0961 | glycoside hydrolase family protein
+659,PMM0962,6,7,6,0.191,| PMM0962 | hypothetical protein
+660,PMM0963,3,3,3,0.054000000000000006,| ureC | urease subunit alpha
+661,PMM0964,1,1,1,0.066,| ureB | urease subunit beta
+662,PMM0967,2,2,2,0.11699999999999999,| ureE | urease accessory protein UreE
+663,PMM0968,1,1,1,0.039,| ureF | urease accessory protein UreF
+664,PMM0969,3,3,3,0.16399999999999998,| ureG | urease accessory protein UreG
+665,PMM0970,11,15,11,0.185,"| urtA | putative urea ABC transporter, substrate binding protein"
+666,PMM0972,2,2,2,0.053,| urtC | putative membrane protein of urea ABC transport system
+667,PMM0973,2,2,2,0.04,| urtD | putative ATP binding subunit of urea ABC transport system
+668,PMM0974,3,3,3,0.161,| urtE | putative ATP-binding subunit of urea ABC transport system
+669,PMM0975,2,2,1,0.069,| PMM0975 | hypothetical protein
+670,PMM0976,1,1,1,0.021,| PMM0976 | putative multidrug efflux ABC transporter
+671,PMM0978,1,1,1,0.034,"| PMM0978 | membrane protein, multidrug efflux associated"
+672,PMM0980,3,3,3,0.293,| PMM0980 | hypothetical protein
+673,PMM0981,1,1,1,0.033,| PMM0981 | hypothetical protein
+674,PMM0982,1,1,1,0.08800000000000001,| PMM0982 | HNH endonuclease:HNH nuclease
+675,PMM0985,1,1,1,0.069,| PMM0985 | putative purine phosphoribosyltransferase related protein
+676,PMM0986,3,3,3,0.175,| PMM0986 | hypothetical protein
+677,PMM0987,2,2,2,0.155,| rpsU | 30S ribosomal protein S21
+678,PMM0988,4,5,4,0.22699999999999998,| PMM0988 | helix-hairpin-helix DNA-binding motif-containing protein
+679,PMM0989,2,2,2,0.085,| PMM0989 | ATP/GTP-binding motif-containing protein
+680,PMM0990,1,1,1,0.026000000000000002,| PMM0990 | hypothetical protein
+681,PMM0992,3,3,3,0.19399999999999998,| PMM0992 | hypothetical protein
+682,PMM0993,2,2,2,0.055999999999999994,| PMM0993 | hypothetical protein
+683,PMM0995,2,2,2,0.152,| PMM0995 | hypothetical protein
+684,PMM0996,5,7,5,0.35200000000000004,| PMM0996 | hypothetical protein
+685,PMM1002,2,2,2,0.018000000000000002,| pepN | aminopeptidase N
+686,PMM1004,5,5,5,0.12300000000000001,| purT | phosphoribosylglycinamide formyltransferase 2
+687,PMM1007,1,1,1,0.031,| PMM1007 | hypothetical protein
+688,PMM1008,1,1,1,0.054000000000000006,| PMM1008 | hypothetical protein
+689,PMM1010,1,1,1,0.083,| PMM1010 | hypothetical protein
+690,PMM1011,1,1,1,0.198,| PMM1011 | hypothetical protein
+691,PMM1014,3,3,3,0.07200000000000001,| PMM1014 | hypothetical protein
+692,PMM1015,1,1,1,0.08199999999999999,| PMM1015 | hypothetical protein
+693,PMM1016,1,1,1,0.07200000000000001,| PMM1016 | virion host shutoff protein
+694,PMM1017,1,1,1,0.044000000000000004,| PMM1017 | hypothetical protein
+695,PMM1019,1,1,1,0.12,| PMM1019 | integrin alpha cytoplasmic region
+696,PMM1021,1,1,1,0.04,| PMM1021 | pili assembly chaperone
+697,PMM1026,1,1,1,0.107,| PMM1026 | hypothetical protein
+698,PMM1027,2,2,2,0.188,| PMM1027 | inward rectifier potassium channel
+699,PMM1031,2,2,2,0.064,| PMM1031 | ABC transporter ATP-binding protein
+700,PMM1032,5,6,5,0.129,| PMM1032 | ABC transporter substrate-binding protein
+701,PMM1033,12,15,12,0.24100000000000002,| PMM1033 | cobalamin synthesis protein/P47K
+702,PMM1034,1,1,1,0.022000000000000002,| PMM1034 | WD-40 repeat-containing G-protein
+703,PMM1037,1,1,1,0.115,| PMM1037 | hypothetical protein
+704,PMM1038,1,2,1,0.019,| PMM1038 | hypothetical protein
+705,PMM1041,1,1,1,0.036000000000000004,| PMM1041 | hypothetical protein
+706,PMM1042,4,5,4,0.256,| PMM1042 | hpothetical protein
+707,PMM1047,1,1,1,0.019,| PMM1047 | putative dienelactone hydrolase
+708,PMM1048,1,1,1,0.024,"| PMM1048 | putative ABC transporter, oligopeptides"
+709,PMM1049,2,3,2,0.031,| PMM1049 | ABC transporter substrate-binding protein
+710,PMM1051,9,11,9,0.242,"| thrA,hom | homoserine dehydrogenase"
+711,PMM1052,7,8,7,0.38299999999999995,| PMM1052 | hypothetical protein
+712,PMM1053,3,3,3,0.18899999999999997,| PMM1053 | hypothetical protein
+713,PMM1055,12,15,12,0.36200000000000004,| chlI | protoporphyrin IX magnesium chelatase subunit ChlI
+714,PMM1056,2,2,2,0.085,| PMM1056 | tRNA/rRNA methyltransferase
+715,PMM1060,2,2,2,0.107,| hisH | imidazole glycerol phosphate synthase subunit HisH
+716,PMM1061,10,18,10,0.271,| trxA | thioredoxin
+717,PMM1062,11,11,10,0.297,| guaB | inosine 5-monophosphate dehydrogenase
+718,PMM1063,11,13,11,0.127,| gyrA | DNA gyrase subunit A
+719,PMM1064,5,5,5,0.124,| crtL1 | putative lycopene beta cyclase
+720,PMM1065,3,3,3,0.059000000000000004,| PMM1065 | hypothetical protein
+721,PMM1066,6,7,6,0.10400000000000001,| leuA | 2-isopropylmalate synthase
+722,PMM1068,4,4,4,0.053,| PMM1068 | hypothetical protein
+723,PMM1069,6,6,6,0.154,| folD | putative bifunctional methylenetetrahydrofolate dehydrogenase methenyltetrahydrofolate/cyclohydrolase
+724,PMM1070,6,6,6,0.23,| crtE | polyprenyl synthetase
+725,PMM1072,2,2,2,0.043,"| cbiA,cobB | putative cobyrinic acid a,c-diamide synthase"
+726,PMM1073,8,9,8,0.18899999999999997,| PMM1073 | putative glucose 6-phosphate dehydrogenase effector OpcA
+727,PMM1074,7,7,7,0.132,| zwf | glucose-6-phosphate 1-dehydrogenase
+728,PMM1075,14,18,14,0.259,| petH | ferredoxin-NADP oxidoreductase (FNR)
+729,PMM1076,2,2,2,0.062,| PMM1076 | hypothetical protein
+730,PMM1077,3,3,3,0.086,| PMM1077 | adaptive-response sensory kinase
+731,PMM1078,4,4,4,0.17800000000000002,| PMM1078 | hypothetical protein
+732,PMM1079,5,6,5,0.39,| PMM1079 | Villin headpiece domain-containing protein
+733,PMM1080,2,2,2,0.06,| kprS | ribose-phosphate pyrophosphokinase
+734,PMM1081,4,4,2,0.079,| malQ | putative 4-alpha-glucanotransferase
+735,PMM1082,1,1,1,0.049,| PMM1082 | helix-turn-helix
+736,PMM1084,3,3,0,0.019,| cad | Orn/Lys/Arg decarboxylase family protein
+737,PMM1087,3,3,2,0.08199999999999999,| gldA | putative glycerol dehydrogenase
+738,PMM1088,18,20,18,0.188,| clpC | ClpC
+739,PMM1090,7,7,7,0.11800000000000001,| lysA | diaminopimelate decarboxylase
+740,PMM1091,5,5,5,0.145,| PMM1091 | hypothetical protein
+741,PMM1092,3,3,3,0.077,| uppS | undecaprenyl pyrophosphate synthetase
+742,PMM1095,1,1,1,0.071,| F2J10.13 | hypothetical protein
+743,PMM1096,1,1,1,0.027000000000000003,"| lipA,lip | lipoyl synthase"
+744,PMM1097,3,4,3,0.146,| recR | recombination protein RecR
+745,PMM1098,4,4,4,0.162,| psbP | photosystem II oxygen evolving complex protein PsbP
+746,PMM1099,6,6,6,0.09300000000000001,| PMM1099 | multidrug ABC transporter
+747,PMM1102,2,2,2,0.03,| recD | exodeoxyribonuclease V 67 kD polypeptide
+748,PMM1103,5,5,5,0.034,| recB | UvrD/REP helicase subunit B
+749,PMM1105,3,4,3,0.009000000000000001,| recC | exodeoxyribonuclease V subunit C 125 kD polypeptide
+750,PMM1106,5,7,5,0.4,| PMM1106 | hypothetical protein
+751,PMM1107,3,3,3,0.134,| pdxJ | pyridoxine 5'-phosphate synthase
+752,PMM1109,5,6,5,0.203,| PMM1109 | hypothetical protein
+753,PMM1110,3,3,3,0.395,| PMM1110 | BolA-like protein
+754,PMM1111,1,1,1,0.159,| PMM1111 | glutaredoxin-like protein
+755,PMM1112,1,1,1,0.09,| PMM1112 | hypothetical protein
+756,PMM1113,3,4,3,0.155,| PMM1113 | two-component response regulator
+757,PMM1114,2,2,2,0.08900000000000001,| PMM1114 | hypothetical protein
+758,PMM1115,4,4,4,0.073,| crtH | putative carotenoid isomerase
+759,PMM1116,1,1,1,0.015,| gidA | tRNA (uracil-5-)-methyltransferase Gid
+760,PMM1119,1,1,1,0.024,| som | porin
+761,PMM1120,1,1,1,0.013000000000000001,| PMM1120 | TPR repeat-containing sulfotransferase
+762,PMM1121,1,1,1,0.045,| som | porin
+763,PMM1122,3,3,3,0.146,| apt | adenine phosphoribosyltransferase
+764,PMM1124,1,1,1,0.018000000000000002,| PMM1124 | natural resistance-associated macroph
+765,PMM1126,2,2,2,0.036000000000000004,| PMM1126 | hypothetical protein
+766,PMM1129,2,3,2,0.131,| PMM1129 | Notch domain-containing protein
+767,PMM1131,4,4,4,0.361,| PMM1131 | hypothetical protein
+768,PMM1132,1,1,1,0.013999999999999999,| PMM1132 | hypothetical protein
+769,PMM1137,1,1,1,0.061,| PMM1137 | cytochrome b(C-terminal)/b6/petD
+770,PMM1138,1,1,1,0.03,| PMM1138 | GTP-dependent nucleic acid-binding protein EngD
+771,PMM1139,8,8,8,0.17800000000000002,| PMM1139 | membrane fusion protein
+772,PMM1140,6,6,5,0.065,| polA | DNA polymerase I
+773,PMM1142,1,1,1,0.03,| dxr | 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+774,PMM1143,1,1,1,0.092,| PMM1143 | hypothetical protein
+775,PMM1144,1,1,1,0.017,| PMM1144 | putative hydrolase of the alpha/beta-hydrolase fold
+776,PMM1145,4,4,4,0.09,"| pntB | putative nicotinamide nucleotide transhydrogenase, subunit beta"
+777,PMM1147,10,13,10,0.303,"| pntA-1 | putative nicotinamide nucleotide transhydrogenase, subunit alpha 1 (A1)"
+778,PMM1148,1,1,1,0.042,| PMM1148 | EF-1 guanine nucleotide exchange doma
+779,PMM1150,5,6,5,0.098,| PMM1150 | putative thioredoxin reductase
+780,PMM1152,17,18,16,0.466,| ycf39 | putative chaperon-like protein for quinone binding in photosystem II
+781,PMM1153,3,3,3,0.071,| PMM1153 | putative alpha/beta hydrolase superfamily protein
+782,PMM1154,5,5,5,0.368,| ilvH | acetolactate synthase 3 regulatory subunit
+783,PMM1156,3,5,3,0.141,| PMM1156 | photosystem I assembly protein Ycf4
+784,PMM1157,7,10,7,0.134,| psbD | photosystem II PsbD protein (D2)
+785,PMM1158,19,24,18,0.263,| psbC | photosystem II PsbC protein (CP43)
+786,PMM1160,3,3,3,0.065,| cobB | cobyric acid synthase
+787,PMM1164,6,7,6,0.268,"| futA | putative iron ABC transporter, substrate binding protein"
+788,PMM1165,8,9,8,0.273,| glyQ | glycyl-tRNA synthetase subunit alpha
+789,PMM1166,3,3,3,0.233,| PMM1166 | hypothetical protein
+790,PMM1167,3,3,3,0.309,| PMM1167 | macrophage migration inhibitory factor family protein
+791,PMM1170,2,2,2,0.09300000000000001,| PMM1170 | hypothetical protein
+792,PMM1171,10,17,9,0.529,| isiB | flavodoxin FldA
+793,PMM1172,1,1,1,0.028999999999999998,| PMM1172 | hypothetical protein
+794,PMM1174,1,1,1,0.122,| PMM1174 | hypothetical protein
+795,PMM1178,1,1,1,0.038,| PMM1178 | glycosyl transferase group 1
+796,PMM1180,6,9,6,0.22699999999999998,| sppA | signal peptide peptidase SppA (protease IV)
+797,PMM1181,1,1,1,0.087,| tyrA | chorismate mutase
+798,PMM1182,4,4,4,0.094,| PMM1182 | hypothetical protein
+799,PMM1185,3,4,3,0.299,| PMM1185 | hypothetical protein
+800,PMM1186,4,5,4,0.092,| PMM1186 | putative inner membrane protein translocase component YidC
+801,PMM1187,2,2,2,0.033,| PMM1187 | hypothetical protein
+802,PMM1188,2,2,2,0.059000000000000004,| serS | seryl-tRNA synthetase
+803,PMM1189,3,3,3,0.114,| PMM1189 | hypothetical protein
+804,PMM1190,1,1,1,0.07,| rpsN | 30S ribosomal protein S14
+805,PMM1191,15,18,14,0.19399999999999998,| pnp | polynucleotide phosphorylase/polyadenylase
+806,PMM1192,2,2,2,0.054000000000000006,| PMM1192 | 3'-phosphoadenosine-5'-phosphosulfate (PAPS) 3'-phosphatase
+807,PMM1193,4,5,4,0.132,| PMM1193 | putative tetrapyrrole methylase family protein
+808,PMM1195,1,1,1,0.05,| PMM1195 | hypothetical protein
+809,PMM1196,15,17,15,0.268,| manC | GDP-mannose pyrophosphorylase
+810,PMM1197,3,3,3,0.075,| PMM1197 | hypothetical protein
+811,PMM1198,1,1,1,0.02,| PMM1198 | hypothetical protein
+812,PMM1200,7,7,7,0.16699999999999998,| PMM1200 | glycosyl transferase family protein
+813,PMM1201,4,4,4,0.1,| PMM1201 | putative CDP-tyvelose-2-epimerase (RfbE)
+814,PMM1202,4,4,4,0.134,| PMM1202 | nucleoside-diphosphate-sugar epimerase
+815,PMM1203,6,7,6,0.147,"| rfbG | CDP-glucose 4,6-dehydratase"
+816,PMM1204,5,5,5,0.2,| ddhA | glucose-1-phosphate cytidylyltransferase
+817,PMM1205,5,5,5,0.13,"| PMM1205 | NDP-hexose 3,4-dehydratase"
+818,PMM1206,1,1,1,0.015,| PMM1206 | hypothetical protein
+819,PMM1207,1,1,1,0.022000000000000002,| PMM1207 | putative fucose synthetase
+820,PMM1208,1,1,1,0.034,"| gmd | gdpmannose 4,6-dehydratase"
+821,PMM1209,4,4,4,0.08800000000000001,| galE | UDP-glucose-4-epimerase
+822,PMM1210,1,1,1,0.028999999999999998,| PMM1210 | putative nucleotide sugar epimerase
+823,PMM1213,4,4,4,0.109,| PMM1213 | glycosyl transferase group 1
+824,PMM1215,2,2,2,0.047,| PMM1215 | hypothetical protein
+825,PMM1216,1,1,1,0.046,| PMM1216 | putative sugar-phosphate nucleotidyl transferase
+826,PMM1217,5,5,5,0.212,| PMM1217 | putative phosphoheptose isomerase
+827,PMM1218,4,4,3,0.102,| rfaE | putative ADP-heptose synthase
+828,PMM1219,4,5,4,0.127,| PMM1219 | putative nucleoside-diphosphate sugar epimerase
+829,PMM1220,1,1,1,0.025,| PMM1220 | putative glycosyl transferase
+830,PMM1221,3,3,3,0.09300000000000001,"| PMM1221 | glycosyl transferase, group 1"
+831,PMM1222,3,3,3,0.086,| PMM1222 | glycosyl transferase
+832,PMM1224,7,7,7,0.12300000000000001,| gumB | putative polysaccharide export protein
+833,PMM1225,8,9,8,0.136,| PMM1225 | hypothetical protein
+834,PMM1226,1,2,1,0.035,| PMM1226 | hypothetical protein
+835,PMM1227,3,3,3,0.057999999999999996,| PMM1227 | putative UDP-N-acetylglucosamine-1-phosphate transferase
+836,PMM1228,5,6,5,0.09,| PMM1228 | hypothetical protein
+837,PMM1229,5,6,5,0.142,"| PMM1229 | dehydrogenase, E1 component"
+838,PMM1230,3,3,3,0.057999999999999996,| PMM1230 | dehydrogenase E1 component beta subunit
+839,PMM1231,3,3,3,0.09300000000000001,| PMM1231 | hypothetical protein
+840,PMM1232,7,7,7,0.177,| PMM1232 | methyltransferase
+841,PMM1233,3,3,3,0.09,| rfbD | putative dTDP-4-dehydrorhamnose reductase
+842,PMM1234,4,4,4,0.09300000000000001,| PMM1234 | zinc-containing alcohol dehydrogenase superfamily protein
+843,PMM1235,7,9,7,0.149,| PMM1235 | hypothetical protein
+844,PMM1236,3,3,3,0.11800000000000001,| PMM1236 | hypothetical protein
+845,PMM1237,6,9,6,0.337,| PMM1237 | hypothetical protein
+846,PMM1239,8,8,8,0.106,| hetA | ABC transporter
+847,PMM1240,2,2,2,0.07200000000000001,| PMM1240 | methyltransferase
+848,PMM1241,1,1,1,0.035,| PMM1241 | hypothetical protein
+849,PMM1243,9,10,9,0.242,| PMM1243 | methyltransferase
+850,PMM1244,2,4,2,0.25,| PMM1244 | hypothetical protein
+851,PMM1246,8,10,8,0.151,| PMM1246 | carbamoyltransferase
+852,PMM1247,19,22,19,0.461,| PMM1247 | hypothetical protein
+853,PMM1249,1,1,1,0.035,| PMM1249 | hypothetical protein
+854,PMM1251,4,4,4,0.053,| PMM1251 | carbamoyltransferase
+855,PMM1252,1,1,1,0.047,| PMM1252 | acetyltransferase
+856,PMM1254,2,2,2,0.046,| PMM1254 | glycosyl transferase family protein
+857,PMM1255,3,3,2,0.055999999999999994,| PMM1255 | hypothetical protein
+858,PMM1257,3,3,3,0.091,"| PMM1257 | dTDP-glucose 4,6-dehydratase"
+859,PMM1258,8,9,8,0.249,| PMM1258 | pyridoxal-phosphate-dependent aminotransferase
+860,PMM1259,8,9,8,0.222,| PMM1259 | pyridoxal-phosphate-dependent aminotransferase
+861,PMM1260,2,2,2,0.048,| PMM1260 | nucleoside-diphosphate-sugar epimerase
+862,PMM1261,8,10,8,0.15,| ugd | UDP-glucose 6-dehydrogenase
+863,PMM1263,5,7,5,0.16899999999999998,| PMM1263 | ornithine carbamoyltransferase
+864,PMM1264,20,26,20,0.20199999999999999,| ftsH3 | cell division protein FtsH3
+865,PMM1265,1,1,1,0.025,| ribD | putative diaminohydroxyphosphoribosylaminopyrimidine deaminase and 5-amino-6-(5-phosphoribosylamino)uracil reductase
+866,PMM1266,5,5,5,0.301,| PMM1266 | hypothetical protein
+867,PMM1268,1,1,0,0.013999999999999999,| cobL | putative precorrin-6y methylase
+868,PMM1269,2,2,2,0.055999999999999994,| ppnK | inorganic polyphosphate/ATP-NAD kinase
+869,PMM1270,7,8,6,0.203,| pheS | phenylalanyl-tRNA synthetase alpha chain
+870,PMM1271,3,3,3,0.11199999999999999,| surE | stationary phase survival protein SurE
+871,PMM1273,2,2,2,0.07200000000000001,| ribF | putative riboflavin kinase/FAD synthase
+872,PMM1274,6,7,6,0.154,| thiE | thiamine-phosphate pyrophosphorylase
+873,PMM1275,1,1,1,0.217,| PMM1275 | hypothetical protein
+874,PMM1278,1,1,1,0.055,| PMM1278 | putative circadian phase modifier CpmA-like protein
+875,PMM1280,4,4,4,0.10300000000000001,"| PMM1280 | putative bifuntional enzyme: tRNA methyltransferase; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+876,PMM1283,1,2,1,0.045,"| PMM1283 | integral membrane protein, interacts with FtsH"
+877,PMM1285,3,3,3,0.14,| rpsP | 30S ribosomal protein S16
+878,PMM1286,6,6,5,0.131,| ffh | signal recognition particle protein (SRP54)
+879,PMM1287,23,27,23,0.325,| PMM1287 | hypothetical protein
+880,PMM1288,8,10,8,0.174,| pdhA | pyruvate dehydrogenase E1 alpha subunit
+881,PMM1290,1,1,1,0.017,| PMM1290 | hypothetical protein
+882,PMM1291,1,1,1,0.023,| mnmA | tRNA-specific 2-thiouridylase MnmA
+883,PMM1292,2,2,2,0.042,| PMM1292 | putative apolipoprotein n-acyltransferase
+884,PMM1293,5,7,5,0.179,| PMM1293 | FKBP-type peptidyl-prolyl cis-trans isomerase (PPIase)
+885,PMM1294,8,10,8,0.244,| PMM1294 | putative nickel-containing superoxide dismutase precursor (NISOD)
+886,PMM1297,6,6,6,0.19699999999999998,| trpC | indole-3-glycerol-phosphate synthase
+887,PMM1298,8,12,8,0.175,| lpdA | dihydrolipoamide dehydrogenase
+888,PMM1299,1,1,1,0.049,| spoU | tRNA/rRNA methyltransferase (SpoU)
+889,PMM1300,2,2,2,0.053,| murA | UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+890,PMM1301,12,12,11,0.21600000000000003,| argD | acetylornithine aminotransferase
+891,PMM1303,4,4,4,0.095,| PMM1303 | FAD/FMN-containing dehydrogenase
+892,PMM1304,2,2,2,0.055999999999999994,| codA | putative cytosine deaminase
+893,PMM1307,2,2,2,0.162,| PMM1307 | hypothetical protein
+894,PMM1309,17,20,17,0.40700000000000003,| ftsZ | cell division protein FtsZ
+895,PMM1310,2,2,2,0.10099999999999999,| panB | 3-methyl-2-oxobutanoate hydroxymethyltransferase
+896,PMM1312,2,2,2,0.049,| PMM1312 | PIN domain superfamily protein
+897,PMM1313,2,2,2,0.077,| clpP4 | ATP-dependent Clp protease-like protein
+898,PMM1314,5,6,4,0.214,| clpP | ATP-dependent Clp protease proteolytic subunit
+899,PMM1315,11,17,11,0.304,| ilvC | ketol-acid reductoisomerase
+900,PMM1319,2,2,2,0.198,| PMM1319 | beta-lactamase
+901,PMM1320,1,1,1,0.064,| PMM1320 | hypothetical protein
+902,PMM1321,25,42,25,0.56,| PMM1321 | histone-like DNA-binding protein
+903,PMM1322,1,1,1,0.012,| glgX | putative isoamylase
+904,PMM1324,3,3,3,0.096,"| PMM1324 | putative transporter, membrane component"
+905,PMM1325,1,1,1,0.067,| PMM1325 | hypothetical protein
+906,PMM1326,5,5,5,0.146,| PMM1326 | hypothetical protein
+907,PMM1328,2,3,2,0.08800000000000001,| pyrF | orotidine 5'-phosphate decarboxylase
+908,PMM1329,5,5,5,0.102,| tyrS | tyrosyl-tRNA synthetase
+909,PMM1330,5,7,5,0.38299999999999995,| PMM1330 | hypothetical protein
+910,PMM1331,2,2,2,0.10800000000000001,| PMM1331 | hypothetical protein
+911,PMM1332,13,16,13,0.198,| PMM1332 | leucyl aminopeptidase
+912,PMM1333,1,1,1,0.04,| PMM1333 | peptide methionine sulfoxide reductase
+913,PMM1334,1,1,1,0.015,| lpxB | lipid-A-disaccharide synthase
+914,PMM1335,2,2,2,0.10400000000000001,| lpxA | UDP-N-acetylglucosamine acyltransferase
+915,PMM1336,1,1,1,0.053,| fabZ | (3R)-hydroxymyristoyl-ACP dehydratase
+916,PMM1337,5,5,5,0.21600000000000003,| lpxC | UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+917,PMM1338,20,26,20,0.262,| PMM1338 | chloroplast outer envelope membrane protein
+918,PMM1339,7,9,7,0.22699999999999998,| purC | phosphoribosylaminoimidazole-succinocarboxamide synthase
+919,PMM1340,6,6,6,0.13,| purD | phosphoribosylglycinamide synthetase
+920,PMM1341,3,3,3,0.040999999999999995,| nblS | two-component sensor histidine kinase
+921,PMM1342,5,5,5,0.114,| kaiC | circadian clock protein KaiC
+922,PMM1343,4,4,4,0.299,| kaiB | circadian clock protein KaiB
+923,PMM1344,4,4,4,0.17800000000000002,| rplU | 50S ribosomal protein L21
+924,PMM1345,3,3,3,0.233,| rpmA | 50S ribosomal protein L27
+925,PMM1346,1,1,1,0.027000000000000003,| PMM1346 | hypothetical protein
+926,PMM1347,3,3,3,0.092,| truB | putative tRNA pseudouridine 55 synthase
+927,PMM1349,3,3,3,0.067,| PMM1349 | hypothetical protein
+928,PMM1350,8,10,8,0.401,| PMM1350 | pentapeptide repeat-containing protein
+929,PMM1354,9,10,9,0.152,| serA | D-3-phosphoglycerate dehydrogenase
+930,PMM1355,2,2,2,0.122,| PMM1355 | hypothetical protein
+931,PMM1356,2,2,2,0.076,| PMM1356 | hypothetical protein
+932,PMM1357,1,1,1,0.039,| PMM1357 | steroid 5-alpha reductase C-terminal domain-containing protein
+933,PMM1361,2,2,2,0.065,| PMM1361 | short-chain dehydrogenase/reductase
+934,PMM1362,1,1,1,0.114,| PMM1362 | hypothetical protein
+935,PMM1364,3,3,3,0.051,| murD | UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+936,PMM1366,2,3,2,0.066,| PMM1366 | hypothetical protein
+937,PMM1368,3,4,3,0.14300000000000002,| PMM1368 | hypothetical protein
+938,PMM1369,5,5,5,0.184,| PMM1369 | GAF domain-containing protein
+939,PMM1372,2,2,2,0.25,| PMM1372 | hypothetical protein
+940,PMM1377,2,2,2,0.069,| PMM1377 | dihydroflavonol-4-reductase
+941,PMM1380,5,5,5,0.218,| PMM1380 | hypothetical protein
+942,PMM1386,1,1,1,0.02,| PMM1386 | putative permease
+943,PMM1387,1,1,1,0.136,| PMM1387 | hypothetical protein
+944,PMM1391,5,11,5,0.649,| PMM1391 | CopG family protein
+945,PMM1392,1,1,1,0.134,| PMM1392 | heat-labile enterotoxin alpha chain
+946,PMM1393,2,2,2,0.138,| PMM1393 | carbon storage regulator
+947,PMM1397,1,1,0,0.105,| hli8 | high light inducible protein
+948,PMM1400,4,5,4,0.256,| PMM1400 | hemagglutinin-neuraminidase
+949,PMM1401,3,4,3,0.204,| PMM1401 | hypothetical protein
+950,PMM1406,1,1,1,0.08900000000000001,| PMM1406 | hypothetical protein
+951,PMM1407,1,1,1,0.105,| PMM1407 | SRP19 protein
+952,PMM1408,1,1,1,0.187,| PMM1408 | hypothetical protein
+953,PMM1409,1,1,1,0.10400000000000001,| PMM1409 | rubredoxin
+954,PMM1412,2,2,2,0.127,| PMM1412 | hypothetical protein
+955,PMM1413,3,4,3,0.255,| PMM1413 | hypothetical protein
+956,PMM1415,2,2,2,0.057999999999999996,| PMM1415 | UBX domain-containing protein
+957,PMM1416,8,8,8,0.11199999999999999,| PMM1416 | hypothetical protein
+958,PMM1417,1,1,1,0.067,| PMM1417 | hypothetical protein
+959,PMM1419,8,10,8,0.34299999999999997,| PMM1419 | ATP synthase B/B' CF(0)
+960,PMM1420,1,1,1,0.105,| PMM1420 | fumarate reductase subunit D
+961,PMM1423,1,1,1,0.053,| PMM1423 | hypothetical protein
+962,PMM1425,2,2,2,0.02,| PMM1425 | serine protease
+963,PMM1428,4,5,4,0.268,| PMM1428 | hypothetical protein
+964,PMM1429,1,1,1,0.07200000000000001,| PMM1429 | hypothetical protein
+965,PMM1433,4,4,4,0.20600000000000002,| PMM1433 | bifunctional pyrimidine regulatory protein PyrR uracil phosphoribosyltransferase
+966,PMM1434,4,4,4,0.08,| pgmI | phosphoglyceromutase
+967,PMM1436,128,258,126,0.647,| groEL | chaperonin GroEL
+968,PMM1437,41,96,41,0.67,| groES | co-chaperonin GroES
+969,PMM1438,10,13,10,0.152,| atpB | F0F1 ATP synthase subunit beta
+970,PMM1440,1,1,1,0.08199999999999999,| PMM1440 | hypothetical protein
+971,PMM1441,2,3,2,0.34600000000000003,| PMM1441 | hypothetical protein
+972,PMM1442,6,7,6,0.14300000000000002,| pepP | putative aminopeptidase P
+973,PMM1443,2,3,2,0.052000000000000005,| PMM1443 | hypothetical protein
+974,PMM1447,2,2,2,0.045,| PMM1447 | hypothetical protein
+975,PMM1448,1,1,1,0.174,| PMM1448 | hypothetical protein
+976,PMM1450,6,6,6,0.168,| atpC | F0F1 ATP synthase subunit gamma
+977,PMM1451,12,13,12,0.23,| atpA | F0F1 ATP synthase subunit alpha
+978,PMM1452,7,9,7,0.467,"| atpH,atpD | F0F1 ATP synthase subunit delta"
+979,PMM1453,5,5,5,0.247,| atpF | F0F1 ATP synthase subunit B
+980,PMM1454,3,3,3,0.235,| atpG | F0F1 ATP synthase subunit B'
+981,PMM1460,1,1,1,0.026000000000000002,| ycf44 | putative c-type cytochrome biogenesis protein Ccs1
+982,PMM1461,6,6,6,0.515,| PMM1461 | 7-cyano-7-deazaguanine reductase
+983,PMM1463,6,8,6,0.527,| glnB | nitrogen regulatory protein P-II
+984,PMM1464,1,1,1,0.026000000000000002,| PMM1464 | rRNA methyltransferase
+985,PMM1465,8,9,7,0.14800000000000002,| purB | adenylosuccinate lyase
+986,PMM1466,8,8,6,0.182,| fumC | fumarate hydratase
+987,PMM1467,2,2,2,0.015,| PMM1467 | putative DNA helicase
+988,PMM1468,2,2,2,0.06,| bioF | putative 8-amino-7-oxononanoate synthase
+989,PMM1470,1,1,1,0.032,| PMM1470 | hypothetical protein
+990,PMM1471,4,4,4,0.16399999999999998,| BioD | putative dethiobiotin synthase
+991,PMM1472,2,2,2,0.051,| BioA | putative diaminopelargonic acid synthase
+992,PMM1474,1,1,1,0.095,| PMM1474 | DnaJ-like protein
+993,PMM1478,1,1,1,0.054000000000000006,| PMM1478 | hypothetical protein
+994,PMM1480,3,3,3,0.121,| PMM1480 | hypothetical protein
+995,PMM1481,1,1,0,0.02,| PMM1481 | putative Fe-S-cluster redox protein
+996,PMM1483,27,30,27,0.191,| rpoC2 | DNA-directed RNA polymerase subunit beta'
+997,PMM1484,23,25,23,0.325,| rpoC1 | DNA-directed RNA polymerase subunit gamma
+998,PMM1485,27,29,27,0.242,| rpoB | DNA-directed RNA polymerase subunit beta
+999,PMM1488,7,7,7,0.187,| hisD | histidinol dehydrogenase
+1000,PMM1489,3,4,3,0.152,| rpiA | ribose-5-phosphate isomerase A
+1001,PMM1490,2,2,2,0.042,| PMM1490 | trypsin-like serine protease
+1002,PMM1491,2,2,2,0.10300000000000001,| PMM1491 | hypothetical protein
+1003,PMM1492,9,10,9,0.24,| nusA | transcription elongation factor NusA
+1004,PMM1494,11,11,10,0.08800000000000001,| infB | translation initiation factor IF-2
+1005,PMM1496,2,2,1,0.016,| PMM1496 | dolichyl-phosphate-mannose-protein mannosyltransferase
+1006,PMM1497,1,1,1,0.017,| PMM1497 | glycosyl transferase family protein
+1007,PMM1498,3,3,3,0.046,| PMM1498 | Fe-S oxidoreductase
+1008,PMM1500,5,5,5,0.12300000000000001,"| PMM1500 | L,L-diaminopimelate aminotransferase"
+1009,PMM1501,5,5,5,0.096,| PMM1501 | ribonuclease E/G
+1010,PMM1503,1,1,1,0.047,| PMM1503 | hypothetical protein
+1011,PMM1504,2,2,2,0.078,| pheA | chorismate mutase-prephenate dehydratase
+1012,PMM1507,5,6,5,0.462,| rpsJ | 30S ribosomal protein S10
+1013,PMM1508,19,27,19,0.273,| tuf | elongation factor Tu
+1014,PMM1509,18,19,18,0.23,| fusA | elongation factor G
+1015,PMM1510,7,8,7,0.34,| rps7 | 30S ribosomal protein S7
+1016,PMM1512,19,21,19,0.129,| glsF | ferredoxin-dependent glutamate synthase
+1017,PMM1519,4,7,4,0.121,| psaL | photosystem I reaction center protein subunit XI
+1018,PMM1522,2,2,1,0.044000000000000004,| PMM1522 | glycosyl transferase family protein
+1019,PMM1523,7,11,6,0.106,| psaB | photosystem I P700 chlorophyll a apoprotein A2
+1020,PMM1524,10,12,9,0.1,| psaA | photosystem I P700 chlorophyll a apoprotein A1
+1021,PMM1525,2,2,2,0.031,| PMM1525 | bifunctional cbiH protein and precorrin-3B C17-methyltransferase
+1022,PMM1526,1,1,1,0.034,| hisB | putative imidazoleglycerol-phosphate dehydratase
+1023,PMM1527,1,1,1,0.025,| alr | alanine racemase
+1024,PMM1528,1,1,1,0.071,| PMM1528 | HNH endonuclease family protein
+1025,PMM1529,2,2,2,0.040999999999999995,| prfA | peptide chain release factor 1
+1026,PMM1530,1,1,1,0.14,| rpmE | 50S ribosomal protein L31
+1027,PMM1531,1,1,1,0.066,| rpsI | 30S ribosomal protein S9
+1028,PMM1532,5,7,5,0.35,| rplM | 50S ribosomal protein L13
+1029,PMM1534,3,4,3,0.172,| rplQ | 50S ribosomal protein L17
+1030,PMM1535,12,16,12,0.253,| rpoA | DNA-directed RNA polymerase subunit alpha
+1031,PMM1536,5,5,5,0.292,| rps11 | 30S ribosomal protein S11
+1032,PMM1537,6,9,6,0.529,| rpsM | 30S ribosomal protein S13
+1033,PMM1538,2,2,2,0.263,| rpmJ | 50S ribosomal protein L36
+1034,PMM1539,6,6,6,0.353,| adk | adenylate kinase
+1035,PMM1540,3,4,3,0.062,| secY | preprotein translocase subunit SecY
+1036,PMM1541,4,6,4,0.257,| rplO | 50S ribosomal protein L15
+1037,PMM1542,4,6,4,0.136,| rpsE | 30S ribosomal protein S5
+1038,PMM1543,2,2,2,0.311,| rplR | 50S ribosomal protein L18
+1039,PMM1544,3,5,3,0.184,| rplF | 50S ribosomal protein L6
+1040,PMM1545,2,3,2,0.21100000000000002,| rpsH | 30S ribosomal protein S8
+1041,PMM1546,8,9,8,0.337,| rplE | 50S ribosomal protein L5
+1042,PMM1547,2,3,2,0.11900000000000001,| rplX | 50S ribosomal protein L24
+1043,PMM1548,1,1,1,0.107,| rplN | 50S ribosomal protein L14
+1044,PMM1549,5,8,5,0.295,| rpsQ | 30S ribosomal protein S17
+1045,PMM1550,2,2,2,0.264,| rpl29 | 50S ribosomal protein L29
+1046,PMM1551,4,6,4,0.344,| rplP | 50S ribosomal protein L16
+1047,PMM1552,10,14,10,0.366,| rpsC | 30S ribosomal protein S3
+1048,PMM1553,1,1,1,0.055,| rplV | 50S ribosomal protein L22
+1049,PMM1554,6,6,6,0.56,| rpsS | 30S ribosomal protein S19
+1050,PMM1555,8,13,8,0.213,| rplB | 50S ribosomal protein L2
+1051,PMM1556,3,5,3,0.27,| rplW | 50S ribosomal protein L23
+1052,PMM1557,9,11,9,0.35200000000000004,| rplD | 50S ribosomal protein L4
+1053,PMM1558,6,7,6,0.235,| rplC | 50S ribosomal protein L3
+1054,PMM1559,1,2,1,0.064,| PMM1559 | NADH dehydrogenase I subunit N
+1055,PMM1561,3,3,3,0.12,| PMM1561 | hypothetical protein
+1056,PMM1562,6,7,6,0.159,| recA | recombinase A
+1057,PMM1565,9,10,9,0.315,| PMM1565 | arogenate dehydrogenase
+1058,PMM1569,2,2,2,0.071,| moeB | molybdopterin biosynthesis protein
+1059,PMM1570,4,4,4,0.109,| PMM1570 | hypothetical protein
+1060,PMM1571,2,2,2,0.08,| PMM1571 | hypothetical protein
+1061,PMM1573,1,1,1,0.022000000000000002,| recF | putative DNA repair and genetic recombination protein RecF
+1062,PMM1574,1,1,1,0.10099999999999999,| PMM1574 | hypothetical protein
+1063,PMM1575,13,14,13,0.121,| ppc | phosphoenolpyruvate carboxylase
+1064,PMM1576,2,2,2,0.048,| PMM1576 | hypothetical protein
+1065,PMM1577,5,5,5,0.085,| trpE | anthranilate synthase component I/chorismate-binding protein
+1066,PMM1578,14,21,14,0.493,| psaD | photosystem I protein PsaD
+1067,PMM1579,3,3,3,0.07,| PMM1579 | hypothetical protein
+1068,PMM1580,1,1,1,0.024,| rodA | hypothetical protein
+1069,PMM1581,2,3,2,0.045,| PMM1581 | ATPase
+1070,PMM1582,2,2,2,0.040999999999999995,| hemF | coproporphyrinogen III oxidase
+1071,PMM1583,2,2,2,0.086,| PMM1583 | hypothetical protein
+1072,PMM1584,9,9,9,0.408,| rnd | putative ribonuclease D
+1073,PMM1585,3,3,3,0.295,| PMM1585 | hypothetical protein
+1074,PMM1588,5,5,5,0.26,| PMM1588 | carboxylase domain-containing protein
+1075,PMM1589,7,7,7,0.222,"| purM,purG | phosphoribosylaminoimidazole synthetase"
+1076,PMM1590,1,1,1,0.013999999999999999,| panC | bifunctional pantoate ligase/cytidylate kinase
+1077,PMM1592,3,3,3,0.125,| pebB | phycoerythrobilin:ferredoxin oxidoreductase
+1078,PMM1594,3,3,3,0.127,| ho1 | Heme oxygenase
+1079,PMM1596,5,5,4,0.095,| icd | isocitrate dehydrogenase
+1080,PMM1597,1,1,1,0.013000000000000001,| PMM1597 | hypothetical protein
+1081,PMM1599,4,6,3,0.133,| PMM1599 | hypothetical protein
+1082,PMM1600,2,2,1,0.051,| PMM1600 | CPA2 family Na+/H+ antiporter
+1083,PMM1601,5,5,5,0.048,| PMM1601 | phosphorylase
+1084,PMM1603,1,1,1,0.068,| rnc | putative ribonuclease III
+1085,PMM1604,1,1,1,0.115,| PMM1604 | hypothetical protein
+1086,PMM1606,6,7,6,0.09699999999999999,| glmS | glucosamine--fructose-6-phosphate aminotransferase
+1087,PMM1607,6,7,6,0.444,| psaC | photosystem I subunit VII
+1088,PMM1608,2,7,2,0.212,| acpP | acyl carrier protein
+1089,PMM1609,5,5,5,0.135,| fabF | 3-oxoacyl-[acyl-carrier-protein] synthase II
+1090,PMM1610,10,11,10,0.147,| tktA | transketolase
+1091,PMM1611,10,10,10,0.175,| thiC | thiamine biosynthesis protein ThiC
+1092,PMM1613,5,5,5,0.114,| PMM1613 | zinc metallopeptidase
+1093,PMM1614,3,3,3,0.122,| PMM1614 | hypothetical protein
+1094,PMM1615,1,1,1,0.04,| ruvB | Holliday junction DNA helicase RuvB
+1095,PMM1616,1,1,1,0.034,| smpB | SsrA-binding protein
+1096,PMM1618,10,14,10,0.188,| lysS | lysyl-tRNA synthetase
+1097,PMM1619,6,6,6,0.20600000000000002,| PMM1619 | two-component response regulator
+1098,PMM1621,1,1,1,0.027999999999999997,| mreC | rod shape-determining protein MreC
+1099,PMM1622,7,12,7,0.26,| mreB | rod shape-determining protein MreB
+1100,PMM1623,6,6,6,0.39799999999999996,| ssb | single-stranded DNA-binding protein
+1101,PMM1625,9,10,9,0.17600000000000002,| ahcY | S-adenosyl-L-homocysteine hydrolase
+1102,PMM1627,1,1,1,0.03,| PMM1627 | putative carbohydrate kinase
+1103,PMM1629,1,1,0,0.03,| PMM1629 | type II alternative sigma-70 family RNA polymerase sigma factor
+1104,PMM1630,13,14,13,0.217,| PMM1630 | Mg2+ transporter
+1105,PMM1632,1,1,1,0.057,| PMM1632 | hypothetical protein
+1106,PMM1634,13,16,13,0.18,| gyrB | DNA gyrase subunit B
+1107,PMM1636,4,4,4,0.2,| infC | translation initiation factor IF-3
+1108,PMM1637,7,7,7,0.217,| PMM1637 | putative transcriptional regulator
+1109,PMM1638,1,2,0,0.028999999999999998,| cysE | Serine acetyltransferase
+1110,PMM1639,12,15,12,0.11599999999999999,| secA | preprotein translocase subunit SecA
+1111,PMM1640,3,3,3,0.185,| PMM1640 | GNAT family acetyltransferase
+1112,PMM1642,3,3,3,0.22399999999999998,| PMM1642 | transcription regulator
+1113,PMM1643,3,4,3,0.215,"| ribH | 6,7-dimethyl-8-ribityllumazine synthase"
+1114,PMM1645,2,2,2,0.022000000000000002,"| mutS,fdv | DNA mismatch repair protein MutS"
+1115,PMM1646,2,2,2,0.068,| cobH | putative precorrin-8X methylmutase CobH
+1116,PMM1648,5,5,5,0.084,| lysC | aspartate kinase
+1117,PMM1649,2,2,2,0.028999999999999998,| uvrB | excinuclease ABC subunit B
+1118,PMM1650,6,6,6,0.21600000000000003,| PMM1650 | hypothetical protein
+1119,PMM1651,1,1,1,0.021,| PMM1651 | hypothetical protein
+1120,PMM1652,5,5,5,0.078,| PMM1652 | hypothetical protein
+1121,PMM1653,7,7,7,0.228,| dapA | dihydrodipicolinate synthase
+1122,PMM1654,2,2,2,0.08199999999999999,| asd | aspartate semialdehyde dehydrogenase
+1123,PMM1655,12,12,12,0.254,| tig | trigger factor
+1124,PMM1656,3,4,3,0.11599999999999999,| clpP2 | Clp protease proteolytic subunit
+1125,PMM1657,10,11,10,0.215,| clpX | ATP-dependent protease ATP-binding subunit ClpX
+1126,PMM1658,6,6,6,0.098,"| dnaX | DNA polymerase, gamma and tau subunits"
+1127,PMM1659,4,4,4,0.085,| PMM1659 | glycosyl transferase family protein
+1128,PMM1662,3,4,3,0.191,| rplT | 50S ribosomal protein L20
+1129,PMM1663,3,3,3,0.11900000000000001,| PMM1663 | putative photosystem I assembly related protein Ycf37
+1130,PMM1664,2,2,2,0.064,| thiG | thiazole synthase
+1131,PMM1665,8,11,8,0.17600000000000002,| sqdB | sulfolipid (UDP-sulfoquinovose) biosynthesis protein
+1132,PMM1666,4,5,4,0.08199999999999999,| sqdX | SqdX
+1133,PMM1667,1,1,1,0.217,| PMM1667 | hypothetical protein
+1134,PMM1668,1,1,1,0.009000000000000001,| gcvP | glycine dehydrogenase
+1135,PMM1669,4,5,4,0.248,| gcsH | glycine cleavage system protein H
+1136,PMM1670,3,3,3,0.047,| PMM1670 | cystathionine beta-lyase family aluminum resistance protein
+1137,PMM1671,1,2,1,0.055,| PMM1671 | hypothetical protein
+1138,PMM1673,7,9,7,0.311,| rplI | 50S ribosomal protein L9
+1139,PMM1674,3,3,3,0.087,| dnaB | DnaB replicative helicase
+1140,PMM1677,1,1,1,0.062,| PMM1677 | hypothetical protein
+1141,PMM1678,5,6,5,0.245,| PMM1678 | hypothetical protein
+1142,PMM1680,1,1,1,0.16,| PMM1680 | hypothetical protein
+1143,PMM1681,1,1,1,0.049,| PMM1681 | hypothetical protein
+1144,PMM1682,7,7,7,0.073,| valS | valyl-tRNA synthetase
+1145,PMM1685,1,1,1,0.042,| speE | spermidine synthase
+1146,PMM1686,1,1,1,0.040999999999999995,| PMM1686 | arginase
+1147,PMM1687,7,7,7,0.168,| gcvT | glycine cleavage system aminomethyltransferase T
+1148,PMM1688,9,10,9,0.154,| aspS | aspartyl-tRNA synthetase
+1149,PMM1689,8,11,8,0.147,| pyrG | CTP synthetase
+1150,PMM1691,3,3,3,0.14300000000000002,| PMM1691 | ATPase
+1151,PMM1692,2,2,2,0.048,| PMM1692 | putative p-aminobenzoate synthetase
+1152,PMM1693,3,3,3,0.11599999999999999,| PMM1693 | aminotransferase class-IV
+1153,PMM1694,4,6,4,0.161,| cobA | putative uroporphyrin-III C-methyltransferase
+1154,PMM1696,3,3,3,0.028999999999999998,| ppk | polyphosphate kinase
+1155,PMM1697,2,2,1,0.07400000000000001,| PMM1697 | type II alternative sigma-70 family RNA polymerase sigma factor
+1156,PMM1699,3,3,3,0.07,| aroF | phospho-2-dehydro-3-deoxyheptonate aldolase
+1157,PMM1700,6,6,6,0.07400000000000001,| acnB | bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+1158,PMM1702,3,3,3,0.113,| purU | formyltetrahydrofolate deformylase
+1159,PMM1704,30,39,29,0.295,| dnaK | molecular chaperone DnaK
+1160,PMM1705,1,1,1,0.027999999999999997,| aroE | shikimate 5-dehydrogenase
+1161,PMM1706,5,11,5,0.24,| rpsF | 30S ribosomal protein S6
+1162,PMM1707,14,15,14,0.28,| argG | argininosuccinate synthase
+1163,PMM1711,6,6,6,0.13,| sps | sucrose phosphate synthase
+1164,PMM1712,8,8,8,0.091,| uvrA | excinuclease ABC subunit A
+1165,PMM1713,2,2,2,0.028999999999999998,| recN | DNA repair protein RecN
+1166,PMM1715,4,4,4,0.23600000000000002,| PMM1715 | hypothetical protein
+1167,PMM1716,11,11,11,0.278,| thrC | threonine synthase
+1168,gi|54036848|sp|P63284.1|CLPB_ECOLI,5,5,5,0.048,RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1
