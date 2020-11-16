@@ -1,0 +1,237 @@
+Protein Group,Protein ID,Accession,-10lgP,Coverage (%),Coverage (%) 273_965m_trap_SKQ17_P2,Area 273_965m_trap_SKQ17_P2,#Peptides,#Unique,#Spec 273_965m_trap_SKQ17_P2,PTM,Avg. Mass,Description
+1,392072,gi|54036848,233.55,11,11,1.11E9,7,5,42,,95585,RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1
+10,393101,ETNP_90m_PROKKA_166636,93.84,24,24,4.12E4,9,1,11,Carbamidomethylation; Deamidation (NQ),33070,Bacterial actin-related protein
+17,523,XP_003074279,86.72,10,10,8.58E5,6,1,6,Carbamidomethylation,52955,TBB1_VOLCA Tubulin beta chain ISS  Ostreococcus tauri
+11,392493,gi|1377607000,86.25,21,21,5.21E4,6,1,8,,24617,Tubulin beta chain [Hondaea fermentalgiana]
+15,416625,ETNP_70m_PROKKA_65164,83.74,17,17,2.2E5,5,1,6,Carbamidomethylation,27021,Bacterial actin-related protein
+40,701,XP_003080759,80.82,21,21,3.95E5,3,1,3,,13731,histone H2B ISS  Ostreococcus tauri
+40,392587,ETNP_70m_PROKKA_54543,80.82,17,17,3.95E5,3,1,3,,16840,Core histone H2A/H2B/H3/H4
+40,697,XP_003062035,80.82,22,22,3.95E5,3,1,3,,12701,predicted protein  Micromonas pusilla CCMP1545
+40,698,XP_003058519,80.82,22,22,3.95E5,3,1,3,,12701,predicted protein  Micromonas pusilla CCMP1545
+40,699,XP_003055512,80.82,22,22,3.95E5,3,1,3,,12701,histone H2B  Micromonas pusilla CCMP1545
+40,392589,ETNP_70m_PROKKA_120394,80.82,21,21,3.95E5,3,1,3,,13742,Core histone H2A/H2B/H3/H4
+40,702,XP_003082252,80.82,19,19,3.95E5,3,1,3,,15314,histone H2B ISS  Ostreococcus tauri
+19,82650,WP_007232156,75.52,5,5,1.1E7,3,3,3,,57912,isocitrate lyase gamma proteobacterium HTCC2207
+44,379539,WP_006231982.1,74.02,33,33,9.61E5,3,2,3,,7426,cold-shock protein [Photobacterium profundum]
+26,358324,CAK23961.1,68.52,2,2,1.54E6,3,1,5,Deamidation (NQ),92891,ATP-dependent Clp protease ATP-binding subunit clpA homolog [Synechococcus sp. WH 7803]
+26,358348,WP_011824074.1,68.52,2,2,1.54E6,3,1,5,Deamidation (NQ),94922,ATP-dependent Clp protease ATP-binding subunit ClpC [Prochlorococcus marinus]
+24,393326,ETNP_70m_PROKKA_64991,66.51,7,7,3.03E7,2,2,3,,13534,Core histone H2A/H2B/H3/H4
+38,423885,ETNP_90m_PROKKA_87572,61.57,6,6,3.03E6,3,1,3,,43421,Elongation factor Tu
+38,365297,CAI87946.1,61.57,6,6,3.03E6,3,1,3,,43281,protein chain elongation factor EF-Tu; possible GTP-binding factor (duplicate of tufA) [Pseudoalteromonas haloplanktis TAC125]
+42,363034,WP_011467412.1,61.40,6,6,1.07E6,3,1,3,,44287,elongation factor Tu [Saccharophagus degradans]
+43,480,EJK63755,60.68,7,7,2.07E6,3,2,3,,39773,hypothetical protein THAOC_15573 partial  Thalassiosira oceanica
+43,462,XP_003063038,60.68,26,26,2.07E6,3,2,3,,11395,predicted protein  Micromonas pusilla CCMP1545
+43,392463,ETNP_90m_PROKKA_109358,60.68,26,26,2.07E6,3,2,3,,11367,Core histone H2A/H2B/H3/H4
+43,392418,ETNP_70m_PROKKA_144910,60.68,26,26,2.07E6,3,2,3,,11395,Core histone H2A/H2B/H3/H4
+43,392464,ETNP_70m_PROKKA_132488,60.68,26,26,2.07E6,3,2,3,,11367,Core histone H2A/H2B/H3/H4
+43,490,XP_002179286,60.68,26,26,2.07E6,3,2,3,,11383,histone H4 isoform 1b  Phaeodactylum tricornutum CCAP 1055
+43,491,EJK69577,60.68,26,26,2.07E6,3,2,3,,11383,hypothetical protein THAOC_09145  Thalassiosira oceanica
+43,464,XP_003061514,60.68,26,26,2.07E6,3,2,3,,11395,histone H4  Micromonas pusilla CCMP1545
+43,392419,ETNP_120m_particle_PROKKA_44959,60.68,26,26,2.07E6,3,2,3,,11365,Core histone H2A/H2B/H3/H4
+43,392465,ETNP14_68mB_PROKKA_59955,60.68,26,26,2.07E6,3,2,3,,11367,Core histone H2A/H2B/H3/H4
+43,492,XP_002179505,60.68,26,26,2.07E6,3,2,3,,11383,histone H4 isoform 1a  Phaeodactylum tricornutum CCAP 1055
+43,466,XP_003061756,60.68,26,26,2.07E6,3,2,3,,11395,predicted protein  Micromonas pusilla CCMP1545
+43,467,XP_003059520,60.68,26,26,2.07E6,3,2,3,,11395,predicted protein  Micromonas pusilla CCMP1545
+43,392693,ETNP_100m_particle_PROKKA_140022,60.68,26,26,2.07E6,3,2,3,,11381,Core histone H2A/H2B/H3/H4
+43,493,EJK72475,60.68,23,23,2.07E6,3,2,3,,13036,hypothetical protein THAOC_05990  Thalassiosira oceanica
+43,483,XP_003074685,60.68,10,10,2.07E6,3,2,3,,31136,Histone H4 ISS  Ostreococcus tauri
+55,379542,CAI88039.1,60.41,3,3,3.33E5,1,1,1,,55387,membrane-bound ATP synthase  F1 sector  alpha-subunit [Pseudoalteromonas haloplanktis TAC125]
+33,405025,NP_300m_PROKKA_15461,58.03,7,7,1.85E6,4,2,4,,43058,Elongation factor Tu
+30,31,XP_003062500,57.67,8,8,1.99E6,4,1,4,Carbamidomethylation,49730,alpha tubulin  Micromonas pusilla CCMP1545
+30,32,XP_003058621,57.67,8,8,1.99E6,4,1,4,Carbamidomethylation,49730,alpha tubulin  Micromonas pusilla CCMP1545
+36,373038,WP_011219116.1,55.84,2,2,6.26E5,1,1,1,,60785,30S ribosomal protein S1 [Photobacterium profundum]
+56,423890,ETNP_100m_particle_PROKKA_150265,55.20,7,7,1.67E6,3,3,3,,24101,Fructose-bisphosphate aldolase class 1
+56,423898,ETNP_100m_PROKKA_48331,55.20,6,6,1.67E6,3,3,3,,25376,Fructose-bisphosphate aldolase class 1
+56,423899,ETNP14_120maa_PROKKA_51862,55.20,4,4,1.67E6,3,3,3,,37421,fructose-1 6-bisphosphate aldolase
+56,423908,ETNP_120m_particle_PROKKA_34025,55.20,8,8,1.67E6,3,3,3,,19706,Fructose-bisphosphate aldolase class 1
+56,423909,ETNP14_68maa_PROKKA_138906,55.20,4,4,1.67E6,3,3,3,,37324,fructose-1 6-bisphosphate aldolase
+41,393168,ETNP_100m_particle_PROKKA_07518,50.55,36,36,1.61E6,3,1,3,,7412,Core histone H2A/H2B/H3/H4
+58,416546,ETNP_100m_PROKKA_92522,50.29,8,8,2.34E5,2,1,2,,21500,Malate dehydrogenase
+58,416551,NP_300m_PROKKA_30083,50.29,5,5,2.34E5,2,1,2,,31989,Malate dehydrogenase
+58,416554,ETNP14_120maa_PROKKA_54934,50.29,5,5,2.34E5,2,1,2,,32064,Malate dehydrogenase
+58,416555,ETNP14_120maa_PROKKA_138345,50.29,5,5,2.34E5,2,1,2,,32162,Malate dehydrogenase
+58,416556,ETNP14_120maa_PROKKA_143542,50.29,5,5,2.34E5,2,1,2,,32168,Malate dehydrogenase
+51,379548,CAG23638.1,50.03,20,20,1.95E6,2,1,2,,11551,putative cold shock protein [Photobacterium profundum SS9]
+51,379546,CAG23776.1,50.03,30,30,1.95E6,2,1,2,,7451,putative Cold shock-like protein [Photobacterium profundum SS9]
+51,379547,WP_011218617.1,50.03,30,30,1.95E6,2,1,2,,7451,cold-shock protein [Photobacterium profundum]
+51,379549,CAG21909.1,50.03,27,27,1.95E6,2,1,2,,8594,putative Cold shock-like protein [Photobacterium profundum SS9]
+45,413689,gi|1576966799,49.10,2,2,5.62E6,1,1,1,,58408,hypothetical protein I1G_00005025 [Pochonia chlamydosporia 123]
+465,423884,ETNP_60m_PROKKA_33403,48.50,14,14,1.04E6,1,1,1,,10922,Flavodoxin
+82,59559,WP_015068149,45.04,7,7,2.09E5,2,1,2,,32269,malate dehydrogenase Alteromonas mediterranea
+335,393737,ETNP_100m_particle_PROKKA_73751,43.93,35,35,2.25E6,1,1,1,,3855,hypothetical protein
+335,393738,ETNP_100m_particle_PROKKA_00069,43.93,26,26,2.25E6,1,1,1,,5311,hypothetical protein
+466,423886,ETNP_120m_free_PROKKA_158980,42.68,3,3,1.37E5,1,1,1,,47985,Enolase
+111,59533,XP_003055830,42.62,4,4,3.26E5,2,1,2,,37439,malate dehydrogenase  Micromonas pusilla CCMP1545
+92,380461,ABQ68792.1,41.24,1,1,1.13E7,2,2,2,,77118,AsmA family protein [Sphingomonas wittichii RW1]
+336,50563,XP_003057685,39.66,6,6,2.73E5,1,1,1,,25825,predicted protein  Micromonas pusilla CCMP1545
+336,50562,XP_003078664,39.66,11,11,2.73E5,1,1,1,,13574,Putative 40S ribosomal protein; contains C-terminal domain ISS  Ostreococcus tauri
+110,374200,WP_011220086.1,39.17,5,5,1.28E5,1,1,2,Deamidation (NQ),34332,branched chain amino acid aminotransferase [Photobacterium profundum]
+46,313566,WP_011339665,38.64,12,12,1.13E7,2,2,3,Deamidation (NQ),17371,hypothetical protein Pelobacter carbinolicus
+104,379590,WP_011468678.1,38.62,5,5,2.47E4,2,2,2,,59877,flagellar biosynthesis protein FliC [Saccharophagus degradans]
+136,59828,KHE90725,35.80,1,1,5.69E6,1,1,1,,120220,carbamoyl-phosphate synthase large subunit Candidatus Scalindua brodae
+136,417756,NP_300m_PROKKA_23839,35.80,1,1,5.69E6,1,1,1,,73853,Carbamoyl-phosphate synthase large chain
+136,423900,ETNP14_68maa_PROKKA_16121,35.80,5,5,5.69E6,1,1,1,,20226,membrane-bound lytic murein transglycosylase D
+136,423901,ETNP14_68maa_PROKKA_141257,35.80,2,2,5.69E6,1,1,1,,60152,hypothetical protein
+136,423902,ETNP14_120mac_PROKKA_89220,35.80,16,16,5.69E6,1,1,1,,6661,hypothetical protein
+136,418442,ETNP_70m_PROKKA_80281,35.80,7,7,5.69E6,1,1,1,,14376,hypothetical protein
+136,423903,ETNP14_120maa_PROKKA_196626,35.80,7,7,5.69E6,1,1,1,,15188,Tetratricopeptide repeat protein
+136,423904,ETNP14_120maa_PROKKA_178288,35.80,7,7,5.69E6,1,1,1,,15238,Tetratricopeptide repeat protein
+136,423905,ETNP_100m_PROKKA_90386,35.80,7,7,5.69E6,1,1,1,,15220,Tetratricopeptide repeat protein
+136,418443,ETNP_120m_PROKKA_45720,35.80,7,7,5.69E6,1,1,1,,15780,Carbamoyl-phosphate synthase large chain
+136,418444,ETNP14_68maa_PROKKA_174428,35.80,3,3,5.69E6,1,1,1,,36712,hypothetical protein
+100,83629,Fosmid_PROKKA_01908,33.64,2,2,0E0,1,1,1,,38468,Gram-negative bacterial tonB protein
+337,423910,gi|1576969379,33.11,1,1,2.93E6,1,1,1,,86927,hypothetical protein I1G_00004859 [Pochonia chlamydosporia 123]
+338,82684,WP_012624320,32.86,6,6,6.95E5,1,1,1,,18735,50S ribosomal protein L17 Desulfovibrio desulfuricans
+338,423916,ETNP_100m_particle_PROKKA_127842,32.86,8,8,6.95E5,1,1,1,,14454,50S ribosomal protein L17
+338,423917,ETNP_120m_PROKKA_308077,32.86,8,8,6.95E5,1,1,1,,14454,50S ribosomal protein L17
+338,423918,ETNP_120m_particle_PROKKA_231645,32.86,8,8,6.95E5,1,1,1,,14454,50S ribosomal protein L17
+106,424060,ETNP_70m_PROKKA_07498,32.65,2,2,2.36E5,1,1,1,,32200,hypothetical protein
+246,423912,ETNP_300m_PROKKA_131922,32.09,7,7,2.21E5,1,1,1,,12519,hypothetical protein
+246,423913,ETNP_180m_PROKKA_116392,32.09,7,7,2.21E5,1,1,1,,12519,hypothetical protein
+246,423914,ETNP_60m_PROKKA_34908,32.09,2,2,2.21E5,1,1,1,,55786,Acetolactate synthase large subunit
+246,423915,ETNP_160m_PROKKA_110979,32.09,3,3,2.21E5,1,1,1,,28092,Bifunctional IPC transferase and DIPP synthase
+247,373194,ACY16045.1,30.51,1,1,1.32E6,1,1,1,,57474,serine/threonine protein kinase [Haliangium ochraceum DSM 14365]
+96,82719,WP_013263018,30.02,1,1,2.17E6,1,1,1,,86843,RND transporter gamma proteobacterium HdN1
+105,358502,WP_011219211.1,29.85,7,7,1.19E5,1,1,1,,18750,peptidoglycan-associated lipoprotein [Photobacterium profundum]
+123,423943,gi|1576961381,29.61,0,0,1.04E6,1,1,1,,245789,polyketide synthase [Pochonia chlamydosporia 123]
+123,423953,ETNP_90m_PROKKA_114897,29.61,11,11,1.04E6,1,1,1,,8625,hypothetical protein
+123,423954,ETNP_90m_PROKKA_24761,29.61,8,8,1.04E6,1,1,1,,11710,hypothetical protein
+57,379682,virus_ANPENILN_01636,29.54,1,1,2.9E6,1,1,3,,75049,hypothetical protein
+248,423952,NP_867188,29.13,3,3,1.99E7,1,1,1,Hydroxylation,27162,hypothetical protein RB6332 Rhodopirellula baltica SH 1
+76,423983,virus_CCADEAMM_43592,29.13,0,0,1.21E6,1,1,1,Deamidation (NQ),240104,hypothetical protein
+467,413771,NP_100m_PROKKA_05167,27.84,5,5,3.53E5,1,1,1,,26123,Glyceraldehyde-3-phosphate dehydrogenase A
+467,413744,NP_300m_PROKKA_04661,27.84,4,4,3.53E5,1,1,1,,36219,Glyceraldehyde-3-phosphate dehydrogenase A
+467,413739,NP_85m_PROKKA_06963,27.84,4,4,3.53E5,1,1,1,,36205,Glyceraldehyde-3-phosphate dehydrogenase A
+467,413742,NP_125m_PROKKA_03136,27.84,4,4,3.53E5,1,1,1,,36218,Glyceraldehyde-3-phosphate dehydrogenase A
+250,416565,ETNP14_68maa_PROKKA_118970,27.72,14,14,2.37E6,1,1,1,,6711,50S ribosomal protein L7/L12
+250,416566,ETNP14_120maa_PROKKA_149250,27.72,14,14,2.37E6,1,1,1,,6697,50S ribosomal protein L7/L12
+250,416567,ETNP14_120mab_PROKKA_44347,27.72,14,14,2.37E6,1,1,1,,6711,50S ribosomal protein L7/L12
+250,416611,ETNP14_120maa_PROKKA_176953,27.72,7,7,2.37E6,1,1,1,,13252,50S ribosomal protein L7/L12
+250,416613,ETNP14_68maa_PROKKA_57025,27.72,7,7,2.37E6,1,1,1,,13252,50S ribosomal protein L7/L12
+250,416606,ETNP14_120mab_PROKKA_135270,27.72,7,7,2.37E6,1,1,1,,12835,50S ribosomal protein L7/L12
+250,416608,ETNP14_68mB_PROKKA_108271,27.72,7,7,2.37E6,1,1,1,,12894,50S ribosomal protein L7/L12
+250,416529,ETNP14_120mac_PROKKA_59481,27.72,8,8,2.37E6,1,1,1,,11741,50S ribosomal protein L7/L12
+250,373058,WP_011467406.1,27.72,7,7,2.37E6,1,1,1,,12664,50S ribosomal protein L7/L12 [Saccharophagus degradans]
+250,416530,ETNP14_68maa_PROKKA_184662,27.72,7,7,2.37E6,1,1,1,,13448,50S ribosomal protein L7/L12
+250,416531,ETNP14_120mab_PROKKA_115310,27.72,7,7,2.37E6,1,1,1,,13532,50S ribosomal protein L7/L12
+250,373041,ACL73412.1,27.72,7,7,2.37E6,1,1,1,,12865,50S ribosomal protein L7/L12 [Thioalkalivibrio sulfidiphilus HL-EbGr7]
+250,416600,ETNP14_68mB_PROKKA_180981,27.72,18,18,2.37E6,1,1,1,,5172,50S ribosomal protein L7/L12
+250,416564,ETNP14_68maa_PROKKA_24672,27.72,7,7,2.37E6,1,1,1,,13190,50S ribosomal protein L7/L12
+250,416598,ETNP14_68mB_PROKKA_147791,27.72,26,26,2.37E6,1,1,1,,3570,50S ribosomal protein L7/L12
+250,416569,ETNP14_68mB_PROKKA_28040,27.72,7,7,2.37E6,1,1,1,,13237,50S ribosomal protein L7/L12
+250,416599,ETNP14_120mac_PROKKA_92200,27.72,18,18,2.37E6,1,1,1,,5106,50S ribosomal protein L7/L12
+250,416601,ETNP14_120mac_PROKKA_93697,27.72,14,14,2.37E6,1,1,1,,6656,50S ribosomal protein L7/L12
+250,416568,ETNP14_68mB_PROKKA_54644,27.72,10,10,2.37E6,1,1,1,,8815,50S ribosomal protein L7/L12
+250,416602,ETNP14_120mac_PROKKA_29700,27.72,9,9,2.37E6,1,1,1,,10205,50S ribosomal protein L7/L12
+250,416603,ETNP14_68maa_PROKKA_22044,27.72,7,7,2.37E6,1,1,1,,13022,50S ribosomal protein L7/L12
+250,416604,NP_300m_PROKKA_09619,27.72,7,7,2.37E6,1,1,1,,13036,50S ribosomal protein L7/L12
+250,416605,NP_85m_PROKKA_02778,27.72,7,7,2.37E6,1,1,1,,13036,50S ribosomal protein L7/L12
+250,416607,NP_100m_PROKKA_03218,27.72,7,7,2.37E6,1,1,1,,13036,50S ribosomal protein L7/L12
+250,416609,ETNP14_120mac_PROKKA_22701,27.72,7,7,2.37E6,1,1,1,,12886,50S ribosomal protein L7/L12
+250,416610,ETNP14_68mB_PROKKA_138407,27.72,7,7,2.37E6,1,1,1,,12923,50S ribosomal protein L7/L12
+250,416612,NP_85m_PROKKA_27594,27.72,7,7,2.37E6,1,1,1,,12945,50S ribosomal protein L7/L12
+250,416614,ETNP14_68maa_PROKKA_117253,27.72,7,7,2.37E6,1,1,1,,13482,50S ribosomal protein L7/L12
+250,416615,ETNP14_68mB_PROKKA_120086,27.72,7,7,2.37E6,1,1,1,,13511,50S ribosomal protein L7/L12
+250,416616,NP_85m_PROKKA_00085,27.72,7,7,2.37E6,1,1,1,,13511,50S ribosomal protein L7/L12
+250,424575,ETNP_120m_free_PROKKA_321710,27.72,7,7,2.37E6,1,1,1,,13511,50S ribosomal protein L7/L12
+135,424585,ETNP14_120maa_PROKKA_05621,27.60,1,1,0E0,1,1,1,Oxidation (M),116544,Glutamate synthase [NADPH] large chain
+340,380263,EAQ03668.1,27.56,2,2,1.14E6,1,1,1,,40288,oligopeptide/dipeptide uptake family ABC transporter  permease protein [Pseudooceanicola batsensis HTCC2597]
+340,380266,EAQ03737.1,27.56,2,2,1.14E6,1,1,1,,45292,folC bifunctional protein [Pseudooceanicola batsensis HTCC2597]
+339,424193,ETNP_70m_PROKKA_04363,27.55,4,4,1.54E5,1,1,1,,48631,60 kDa chaperonin
+101,358576,CAN91477.1,26.96,2,2,1.41E8,1,1,2,,56854,hypothetical protein sce1319 [Sorangium cellulosum So ce56]
+145,50647,EJK49298,26.91,1,1,9.02E5,1,1,1,,78026,hypothetical protein THAOC_31850  Thalassiosira oceanica
+469,425488,ETNP14_68maa_PROKKA_183163,26.42,2,2,1.49E7,1,1,1,,47233,periplasmic folding chaperone
+113,425485,ETNP14_68maa_PROKKA_130354,25.67,2,2,0E0,1,1,2,,45000,VWA domain containing CoxE-like protein
+174,379583,CAN95623.1,25.58,2,2,1.74E5,1,1,1,,84575,Collagen alpha 2(I) chain precursor [Sorangium cellulosum So ce56]
+207,424051,ETNP_180m_PROKKA_178473,25.35,2,2,1.5E6,1,1,1,Methylation(R),39395,Anhydro-N-acetylmuramic acid kinase
+207,424670,ETNP_120m_PROKKA_137826,25.35,2,2,1.5E6,1,1,1,Methylation(R),43411,Copper chaperone CopZ
+207,425548,ETNP_180m_PROKKA_193989,25.35,3,3,1.5E6,1,1,1,Methylation(R),34229,Copper chaperone CopZ
+207,425556,ETNP14_68maa_PROKKA_129217,25.35,2,2,1.5E6,1,1,1,Methylation(R),49120,muropeptide transporter
+102,425547,ETNP_100m_particle_PROKKA_139513,25.25,9,9,3.74E6,1,1,1,Oxidation (M),10631,Prolyl tripeptidyl peptidase precursor
+344,424667,ETNP_120m_PROKKA_137671,25.04,5,5,3.34E6,1,1,1,,17820,hypothetical protein
+344,425571,ETNP_140m_PROKKA_84226,25.04,4,4,3.34E6,1,1,1,,22374,DNA-binding transcriptional regulator BasR
+325,425573,ETNP14_68mB_PROKKA_117435,24.98,6,6,0E0,1,1,1,Carbamidomethylation,15912,hypothetical protein
+342,373016,WP_011468907.1,24.68,6,6,3.37E5,1,1,1,,21649,peroxidase [Saccharophagus degradans]
+342,372998,WP_041393911.1,24.68,6,6,3.37E5,1,1,1,,22084,peroxidase [Photobacterium profundum]
+73,425622,ETNP14_68mB_PROKKA_35105,24.65,3,3,5.61E6,1,1,2,Deamidation (NQ),27557,Oligopeptide transport ATP-binding protein OppF
+472,380710,WP_009779071.1,24.22,1,1,1.82E6,1,1,1,,64094,MFS transporter [Leeuwenhoekiella blandensis]
+473,417720,ETNP_70m_PROKKA_00668,24.02,3,3,2.19E6,1,1,1,,27533,hypothetical protein
+473,418289,ETNP_70m_PROKKA_131962,24.02,3,3,2.19E6,1,1,1,,28116,hypothetical protein
+169,424676,ETNP_150m_particle_PROKKA_53070,23.90,1,1,2E6,1,1,1,,97237,DNA polymerase II
+67,423971,virus_CCADEAMM_14933,23.57,0,0,3.43E5,1,1,1,,329384,hypothetical protein
+107,424679,XP_003063687,23.44,1,1,1.69E6,1,1,1,Methylation(R),168197,predicted protein  Micromonas pusilla CCMP1545
+252,314175,XP_003060231,23.40,2,2,2.78E6,1,1,1,,39933,predicted protein  Micromonas pusilla CCMP1545
+156,4653,NP_868707,23.21,1,1,0E0,1,1,1,,99459,ClpB protein Rhodopirellula baltica SH 1
+479,425803,ETNP_120m_free_PROKKA_238953,23.00,6,6,4.89E5,1,1,1,,14965,Trigger factor
+255,416678,ETNP_120m_particle_PROKKA_200858,22.86,6,6,3.72E5,1,1,1,,12994,50S ribosomal protein L7/L12
+255,416679,ETNP_120m_PROKKA_108769,22.86,6,6,3.72E5,1,1,1,,12994,50S ribosomal protein L7/L12
+255,83790,ADB27487,22.86,6,6,3.72E5,1,1,1,,13340,50S ribosomal protein L7 L12 chloroplast  Thalassiosira oceanica CCMP1005
+255,416670,ETNP_100m_particle_PROKKA_73923,22.86,6,6,3.72E5,1,1,1,,12827,50S ribosomal protein L7/L12
+255,416671,ETNP14_68maa_PROKKA_02933,22.86,6,6,3.72E5,1,1,1,,12827,50S ribosomal protein L7/L12
+255,416672,ETNP14_120mab_PROKKA_98106,22.86,6,6,3.72E5,1,1,1,,12827,50S ribosomal protein L7/L12
+255,416673,ETNP_90m_PROKKA_79624,22.86,6,6,3.72E5,1,1,1,,12827,50S ribosomal protein L7/L12
+255,416674,ETNP_90m_PROKKA_64313,22.86,6,6,3.72E5,1,1,1,,12899,50S ribosomal protein L7/L12
+255,416647,ETNP_120m_PROKKA_316384,22.86,6,6,3.72E5,1,1,1,,13769,50S ribosomal protein L7/L12
+255,416669,ETNP_70m_PROKKA_101227,22.86,12,12,3.72E5,1,1,1,,6590,50S ribosomal protein L7/L12
+349,424680,ETNP14_68mB_PROKKA_154738,22.86,4,4,2.74E5,1,1,1,Deamidation (NQ),23174,hypothetical protein
+431,425816,ETNP14_120maa_PROKKA_132800,22.73,10,10,3.23E5,1,1,1,,9273,ribonuclease P
+431,425817,ETNP14_120mab_PROKKA_158571,22.73,10,10,3.23E5,1,1,1,,9361,ribonuclease P
+431,425818,ETNP_90m_PROKKA_172104,22.73,10,10,3.23E5,1,1,1,,9361,Ribonuclease P protein component
+431,425819,ETNP14_68maa_PROKKA_29094,22.73,10,10,3.23E5,1,1,1,,9361,ribonuclease P
+480,425822,ETNP14_120maa_PROKKA_09118,22.71,2,2,3.84E5,1,1,1,Deamidation (NQ),41467,hypothetical protein
+351,424682,ETNP_120m_free_PROKKA_36173,22.69,2,2,1.08E6,1,1,1,,41050,hypothetical protein
+351,381659,BAJ28207.1,22.69,1,1,1.08E6,1,1,1,,61719,putative serine/threonine protein phosphatase [Kitasatospora setae KM-6054]
+260,424119,ETNP_110m_PROKKA_12687,22.68,1,1,6.53E5,1,1,1,,89423,Lon protease
+260,424120,ETNP14_120maa_PROKKA_10205,22.68,1,1,6.53E5,1,1,1,,89450,Lon protease
+260,424692,ETNP_100m_PROKKA_63156,22.68,1,1,6.53E5,1,1,1,,67693,Lon protease
+486,381031,ABQ66769.1,22.43,1,1,5.35E5,1,1,1,,58079,integral membrane sensor signal transduction histidine kinase [Sphingomonas wittichii RW1]
+434,425867,WP_011371647.1,22.39,1,1,1.48E6,1,1,1,,61519,ShlB/FhaC/HecB family hemolysin secretion/activation protein [Sulfurimonas denitrificans]
+481,393647,NP_100m_PROKKA_06471,22.29,2,2,1.56E6,1,1,1,,58175,60 kDa chaperonin
+482,375416,EAQ03673.1,22.16,5,5,2.64E6,1,1,1,Deamidation (NQ),17470,hypothetical protein OB2597_10536 [Pseudooceanicola batsensis HTCC2597]
+178,424009,ETNP_120m_PROKKA_177213,22.01,1,1,2.76E6,1,1,1,,96960,cellulose synthase subunit BcsC
+484,425854,ETNP14_120maa_PROKKA_41634,21.84,2,2,0E0,1,1,1,,46011,replication factor C small subunit 2
+348,424678,ETNP14_68maa_PROKKA_25936,21.79,1,1,0E0,1,1,1,Deamidation (NQ); Methylation(R),116298,Transcription-repair-coupling factor
+485,425855,MGIIvirus_PDKDGHHF_01642,21.79,2,2,0E0,1,1,1,Hydroxylation,100325,hypothetical protein
+149,82741,EJK73666,21.41,0,0,7.83E5,1,1,1,,295143,hypothetical protein THAOC_04698 partial  Thalassiosira oceanica
+149,424746,ETNP_100m_PROKKA_69119,21.41,2,2,7.83E5,1,1,1,,31893,Sporulation kinase A
+487,425864,ETNP_300m_PROKKA_129573,21.40,8,8,4.35E5,1,1,1,Hydroxylation,21909,Cytochrome c
+487,425865,ETNP_160m_PROKKA_19031,21.40,6,6,4.35E5,1,1,1,Hydroxylation,32195,Cytochrome c
+487,425866,ETNP_120m_free_PROKKA_254519,21.40,2,2,4.35E5,1,1,1,Hydroxylation,91811,Cytochrome c
+218,60135,WP_015403956,21.39,1,1,8.21E5,1,1,1,,50534,ATP synthase F1 subcomplex subunit beta Desulfocapsa sulfexigens
+218,425922,ETNP14_120mab_PROKKA_142755,21.39,3,3,8.21E5,1,1,1,,20792,hypothetical protein
+254,424063,gi|1377598720,21.23,1,1,4.26E5,1,1,1,,73169,Ribokinase [Hondaea fermentalgiana]
+382,424777,ETNP_120m_PROKKA_117597,21.21,3,3,2.34E6,1,1,1,,42667,Long-chain-fatty-acid--CoA ligase
+382,424799,ETNP_180m_PROKKA_80773,21.21,2,2,2.34E6,1,1,1,,51601,Long-chain-fatty-acid--CoA ligase
+382,424800,ETNP_160m_PROKKA_60939,21.21,2,2,2.34E6,1,1,1,,51601,Long-chain-fatty-acid--CoA ligase
+382,424834,ETNP_300m_PROKKA_102058,21.21,2,2,2.34E6,1,1,1,,62010,Long-chain-fatty-acid--CoA ligase
+382,424835,ETNP_120m_free_PROKKA_55214,21.21,2,2,2.34E6,1,1,1,,62010,Long-chain-fatty-acid--CoA ligase
+296,424686,ETNP_120m_PROKKA_271692,21.19,2,2,0E0,1,1,1,Carbamidomethylation; Hydroxylation,54062,Glutamate synthase [NADPH] small chain
+353,358620,ABE39788.1,21.14,4,4,1.39E5,1,1,1,,36458,Lysine-arginine-ornithine-binding periplasmic protein [Rhodopseudomonas palustris BisB5]
+353,20762,WP_012563200,21.14,4,4,1.39E5,1,1,1,,36856,amino acid ABC transporter substrate-binding protein Oligotropha carboxidovorans
+353,392814,ETNP14_68maa_PROKKA_191513,21.14,4,4,1.39E5,1,1,1,,36302,General L-amino acid-binding periplasmic protein AapJ precursor
+353,358697,WP_011218872.1,21.14,4,4,1.39E5,1,1,1,,36725,amino acid ABC transporter substrate-binding protein [Photobacterium profundum]
+177,379650,ABA58799.1,21.12,2,2,1.99E5,1,1,1,,50460,Heat shock protein HslU [Nitrosococcus oceani ATCC 19707]
+177,424695,gi|974128759,21.12,2,2,1.99E5,1,1,1,,44489,hypothetical protein APU95_03240 [Hadesarchaea archaeon YNP_N21]
+240,425876,ETNP_180m_PROKKA_180864,21.03,6,6,2.96E6,1,1,1,,14732,hypothetical protein
+327,425893,ETNP14_120mab_PROKKA_138588,20.78,8,8,9.78E5,1,1,1,,9791,hypothetical protein
+327,315305,WP_018968573,20.78,3,3,9.78E5,1,1,1,,22341,PEP-CTERM domain protein Rubritalea marina
+54,424696,SAR11cell_DLNKFFIG_06309,20.77,5,5,1.38E6,1,1,1,,22287,ADP-L-glycero-D-manno-heptose-6-epimerase
+360,84084,WP_012518983,20.71,2,2,4.21E6,1,1,1,Deamidation (NQ); Hydroxylation,48706,trigger factor Alteromonas mediterranea
+125,82734,XP_003060620,20.68,1,1,1.45E6,1,1,1,,149554,predicted protein  Micromonas pusilla CCMP1545
+489,425889,ETNP_70m_PROKKA_127763,20.66,8,8,0E0,1,1,1,Carbamidomethylation; Deamidation (NQ),15931,putative ribose-5-phosphate isomerase B
+490,425890,ETNP_90m_PROKKA_195161,20.64,2,2,1.04E6,1,1,1,,56814,Glucose-6-phosphate 1-dehydrogenase
+490,381255,CAK23987.1,20.64,2,2,1.04E6,1,1,1,,57037,Glucose-6-phosphate 1-dehydrogenase [Synechococcus sp. WH 7803]
+492,425896,ETNP_120m_particle_PROKKA_87398,20.54,2,2,1.69E6,1,1,1,Deamidation (NQ),35990,hypothetical protein
+109,425894,ETNP14_120mab_PROKKA_45204,20.47,3,3,2.28E7,1,1,1,,31404,Citrate lyase subunit beta
+491,425895,ETNP_70m_PROKKA_130389,20.43,5,5,0E0,1,1,1,Deamidation (NQ),32241,ATP P2X receptor
+350,373034,CAI86879.1,20.39,19,19,6.48E4,1,1,1,,8758,acyl carrier protein [Pseudoalteromonas haloplanktis TAC125]
+350,416767,ETNP_90m_PROKKA_134487,20.39,19,19,6.48E4,1,1,1,,8803,Acyl carrier protein
+350,416768,ETNP14_120maa_PROKKA_183777,20.39,19,19,6.48E4,1,1,1,,8803,Acyl carrier protein
+350,59548,WP_012518211,20.39,19,19,6.48E4,1,1,1,,8803,acyl carrier protein Alteromonadaceae
+350,416913,ETNP_120m_free_PROKKA_162701,20.39,19,19,6.48E4,1,1,1,,8807,Acyl carrier protein
+297,424712,ETNP_120m_particle_PROKKA_70590,20.15,2,2,5.59E5,1,1,1,Deamidation (NQ),38803,Cysteine desulfurase
+299,424727,ETNP_70m_PROKKA_138138,20.13,1,1,8.16E5,1,1,1,,121036,hypothetical protein
+195,83674,WP_013260946,20.12,2,2,0E0,1,1,1,,54786,transcription termination factor NusA gamma proteobacterium HdN1
+495,425908,ETNP14_68mB_PROKKA_57624,20.09,5,5,1.85E5,1,1,1,Deamidation (NQ),19872,hypothetical protein
+361,424714,ETNP_120m_PROKKA_203138,20.07,1,1,9.89E5,1,1,1,,74501,hypothetical protein
+216,424103,ETNP14_68maa_PROKKA_83823,20.06,2,2,1.32E6,1,1,1,Deamidation (NQ); Hydroxylation,47908,protoporphyrinogen oxidase

@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- BSI implementation of pepXML output for PEAKS Studio -->
+<msms_pipeline_analysis xmlns="http://regis-web.systemsbiology.net/pepXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://regis-web.systemsbiology.net/pepXML pepXML_v18_peaks_denovo.xsd" date="2020-11-13 21:23" summary_xml="peptide.pep.xml">
+  <msms_run_summary base_name="20181214_378_etnp2017_100m_trap" raw_data_type="" raw_data="">
+    <sample_enzyme name="Trypsin">
+      <specificity sense="C" cut="RK" no_cut="P"/>
+    </sample_enzyme>
+    <search_summary base_name="Instrument_default" search_engine="PEAKS DB" precursor_mass_type="monoisotopic" fragment_mass_type="monoisotopic" out_data_type="" out_data="" search_id="1">
+      <search_database local_path="C:\Users\Keil Lab\Documents\ETNP-dbs\ETNP_assembly_jaqui_additions_hi3_contigs_cyano_gen2017_FUNGI_110620_fasta_validated_20201113154025_gpm-craptome20170920_20170920131122.fasta" type="AA"/>
+      <enzymatic_search_constraint enzyme="Trypsin" max_num_internal_cleavages="2" min_number_termini="2"/>
+      <aminoacid_modification aminoacid="C" massdiff="57.021465" mass="160.03065"  variable="N" description="C(+57.02)"/>
+      <aminoacid_modification aminoacid="M" massdiff="15.994915" mass="147.03542"  variable="Y" description="M(+15.99)"/>
+      <aminoacid_modification aminoacid="N" massdiff="0.984016" mass="115.02695"  variable="Y" description="N(+.98)"/>
+      <aminoacid_modification aminoacid="Q" massdiff="0.984016" mass="129.04259"  variable="Y" description="Q(+.98)"/>
+      <aminoacid_modification aminoacid="R" massdiff="14.01565" mass="170.11676"  variable="Y" description="R(+14.02)"/>
+      <aminoacid_modification aminoacid="K" massdiff="15.9949" mass="144.08986"  variable="Y" description="K(+15.99)"/>
+      <parameter name="instrument" value="Orbitrap (Orbi-Trap)"/>
+      <parameter name="parent_error" value="15.0"/>
+      <parameter name="delta" value="0.5"/>
+      <parameter name="top" value="25"/>
+      <parameter name="enzyme" value="Trypsin"/>
+      <parameter name="missed_cleavage" value="2"/>
+      <parameter name="max_ptm" value="4"/>
+      <parameter name="database" value="ETNP_assembly_jaqui_additions_hi3_contigs_cyano_gen2017_FUNGI_110620_fasta_validated"/>
+      <parameter name="taxons" value="All"/>
+    </search_summary>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="2575" end_scan="2575" precursor_neutral_mass="988.4919" assumed_charge="2" index="56195">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VGDEAQSKR" calc_neutral_pep_mass="988.4937" massdiff="-1.8" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="21.73"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="3135" end_scan="3135" precursor_neutral_mass="1061.4979" assumed_charge="2" index="56252">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LSAADTNQDK" calc_neutral_pep_mass="1061.4989" massdiff="-0.9" num_tot_proteins="1" protein="ETNP_70m_PROKKA_106784" protein_descr="hypothetical protein" protein_mw="14326.089">
+          <search_score name="-10lgP" value="25.71"/>
+          <search_score name="confidence" value="0.17"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="3464" end_scan="3464" precursor_neutral_mass="958.4710" assumed_charge="2" index="56378">
+      <search_result>
+        <search_hit hit_rank="1" peptide="EQAEAAAAAK" calc_neutral_pep_mass="958.4719" massdiff="-1.0" num_tot_proteins="1" protein="WP_044181092" protein_descr="hypothetical protein Pirellula staleyi" protein_mw="101896.44">
+          <search_score name="-10lgP" value="27.10"/>
+          <search_score name="confidence" value="0.54"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="3651" end_scan="3651" precursor_neutral_mass="1302.6781" assumed_charge="3" index="56467">
+      <search_result>
+        <search_hit hit_rank="1" peptide="TATQKTVDGPSAK" calc_neutral_pep_mass="1302.6780" massdiff="0.1" num_tot_proteins="1" protein="WP_007278549" protein_descr="glyceraldehyde-3-phosphate dehydrogenase Lentisphaera araneosa" protein_mw="35265.098">
+          <alternative_protein protein="ACL73965.1" protein_descr="Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) [Thioalkalivibrio sulfidiphilus HL-EbGr7]" protein_mw="35720.95"/>
+          <alternative_protein protein="NP_85m_PROKKA_06963" protein_descr="Glyceraldehyde-3-phosphate dehydrogenase A" protein_mw="36204.953"/>
+          <alternative_protein protein="ETNP_140m_PROKKA_156805" protein_descr="Glyceraldehyde-3-phosphate dehydrogenase A" protein_mw="36204.953"/>
+          <alternative_protein protein="ETNP14_120maa_PROKKA_87915" protein_descr="Glyceraldehyde-3-phosphate dehydrogenase A" protein_mw="36218.98"/>
+          <alternative_protein protein="NP_125m_PROKKA_03136" protein_descr="Glyceraldehyde-3-phosphate dehydrogenase A" protein_mw="36218.04"/>
+          <alternative_protein protein="ETNP_120m_PROKKA_272547" protein_descr="Glyceraldehyde-3-phosphate dehydrogenase A" protein_mw="36204.953"/>
+          <alternative_protein protein="NP_300m_PROKKA_04661" protein_descr="Glyceraldehyde-3-phosphate dehydrogenase A" protein_mw="36218.98"/>
+          <search_score name="-10lgP" value="34.35"/>
+          <search_score name="confidence" value="0.81"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="3895" end_scan="3895" precursor_neutral_mass="815.4127" assumed_charge="2" index="56604">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LAEQAER" calc_neutral_pep_mass="815.4137" massdiff="-1.2" num_tot_proteins="1" protein="XP_003061451" protein_descr="predicted protein  Micromonas pusilla CCMP1545" protein_mw="613897.7">
+          <search_score name="-10lgP" value="22.35"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="IAEQAER" calc_neutral_pep_mass="815.4137" massdiff="-1.2" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="22.35"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4018" end_scan="4018" precursor_neutral_mass="860.3873" assumed_charge="2" index="56672">
+      <search_result>
+        <search_hit hit_rank="1" peptide="IEEEDAR" calc_neutral_pep_mass="860.3875" massdiff="-0.3" num_tot_proteins="1" protein="ETNP_100m_PROKKA_92968" protein_descr="hypothetical protein" protein_mw="27297.729">
+          <alternative_protein protein="ETNP14_68maa_PROKKA_42017" protein_descr="hypothetical protein" protein_mw="27315.762"/>
+          <alternative_protein protein="ETNP_120m_PROKKA_66516" protein_descr="hypothetical protein" protein_mw="27297.729"/>
+          <search_score name="-10lgP" value="23.28"/>
+          <search_score name="confidence" value="0.15"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4086" end_scan="4086" precursor_neutral_mass="761.3928" assumed_charge="2" index="56712">
+      <search_result>
+        <search_hit hit_rank="1" peptide="EGKTAEK" calc_neutral_pep_mass="761.3919" massdiff="1.1" num_tot_proteins="1" protein="XP_002184096" protein_descr="predicted protein  Phaeodactylum tricornutum CCAP 1055" protein_mw="134501.42">
+          <search_score name="-10lgP" value="20.71"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4135" end_scan="4135" precursor_neutral_mass="972.5604" assumed_charge="2" index="56743">
+      <search_result>
+        <search_hit hit_rank="1" peptide="QLKSNQKK" calc_neutral_pep_mass="972.5716" massdiff="-11.6" num_tot_proteins="1" protein="ETNP_120m_particle_PROKKA_203254" protein_descr="hypothetical protein" protein_mw="59657.945">
+          <search_score name="-10lgP" value="20.27"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4228" end_scan="4228" precursor_neutral_mass="903.4773" assumed_charge="2" index="56797">
+      <search_result>
+        <search_hit hit_rank="1" peptide="TSTAAANIR" calc_neutral_pep_mass="903.4774" massdiff="-0.1" num_tot_proteins="1" protein="ETNP_120m_particle_PROKKA_145101" protein_descr="DNA polymerase IV" protein_mw="48072.527">
+          <alternative_protein protein="ETNP_150m_particle_PROKKA_43926" protein_descr="DNA polymerase V subunit UmuC" protein_mw="11754.472"/>
+          <alternative_protein protein="ETNP_120m_particle_PROKKA_07378" protein_descr="DNA polymerase IV" protein_mw="48319.137"/>
+          <search_score name="-10lgP" value="20.96"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4352" end_scan="4352" precursor_neutral_mass="788.4034" assumed_charge="2" index="56860">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GGSEAALGK" calc_neutral_pep_mass="788.4028" massdiff="0.7" num_tot_proteins="1" protein="ABI75732.1" protein_descr="putative DNA repair protein RecN [Hyphomonas neptunium ATCC 15444]" protein_mw="62230.41">
+          <search_score name="-10lgP" value="31.67"/>
+          <search_score name="confidence" value="0.74"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4379" end_scan="4379" precursor_neutral_mass="875.4233" assumed_charge="2" index="56875">
+      <search_result>
+        <search_hit hit_rank="1" peptide="TELEAGEK" calc_neutral_pep_mass="875.4236" massdiff="-0.3" num_tot_proteins="1" protein="XP_003083482" protein_descr="gamma-tocopherol methyltransferase ISS  Ostreococcus tauri" protein_mw="34146.836">
+          <search_score name="-10lgP" value="20.57"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4480" end_scan="4480" precursor_neutral_mass="995.4550" assumed_charge="2" index="56928">
+      <search_result>
+        <search_hit hit_rank="1" peptide="YVGDEAQSK" calc_neutral_pep_mass="995.4559" massdiff="-0.9" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="20.30"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4574" end_scan="4574" precursor_neutral_mass="790.3818" assumed_charge="2" index="56978">
+      <search_result>
+        <search_hit hit_rank="1" peptide="SLEAESR" calc_neutral_pep_mass="790.3821" massdiff="-0.4" num_tot_proteins="1" protein="WP_011132988.1" protein_descr="phosphoglycerate dehydrogenase [Prochlorococcus marinus]" protein_mw="56744.344">
+          <alternative_protein protein="WP_009779635.1" protein_descr="IMP dehydrogenase [Leeuwenhoekiella blandensis]" protein_mw="127634.12"/>
+          <search_score name="-10lgP" value="20.10"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4642" end_scan="4642" precursor_neutral_mass="795.3759" assumed_charge="2" index="57010">
+      <search_result>
+        <search_hit hit_rank="1" peptide="FSETGAGK" calc_neutral_pep_mass="795.3762" massdiff="-0.4" num_tot_proteins="1" protein="gi|1377599527" protein_descr="Tubulin alpha chain [Hondaea fermentalgiana]" protein_mw="50355.035">
+          <alternative_protein protein="gi|1377597314" protein_descr="Tubulin alpha chain, partial [Hondaea fermentalgiana]" protein_mw="45608.63"/>
+          <alternative_protein protein="gi|1591621868" protein_descr="TPA_exp: tubulin alpha chain [Thraustochytrium sp. LLF1b]" protein_mw="49780.305"/>
+          <search_score name="-10lgP" value="24.03"/>
+          <search_score name="confidence" value="0.15"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4811" end_scan="4811" precursor_neutral_mass="976.4354" assumed_charge="2" index="57098">
+      <search_result>
+        <search_hit hit_rank="1" peptide="TEDEELNK" calc_neutral_pep_mass="976.4349" massdiff="0.5" num_tot_proteins="1" protein="ETNP_120m_particle_PROKKA_97663" protein_descr="hypothetical protein" protein_mw="38887.33">
+          <search_score name="-10lgP" value="20.43"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4816" end_scan="4816" precursor_neutral_mass="859.4398" assumed_charge="2" index="57101">
+      <search_result>
+        <search_hit hit_rank="1" peptide="NASEAALGK" calc_neutral_pep_mass="859.4399" massdiff="-0.2" num_tot_proteins="1" protein="NP_100m_PROKKA_03944" protein_descr="hypothetical protein" protein_mw="26093.451">
+          <alternative_protein protein="ETNP_110m_PROKKA_12634" protein_descr="hypothetical protein" protein_mw="26044.38"/>
+          <alternative_protein protein="ETNP_100m_particle_PROKKA_23985" protein_descr="hypothetical protein" protein_mw="26105.418"/>
+          <search_score name="-10lgP" value="33.70"/>
+          <search_score name="confidence" value="0.80"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4818" end_scan="4818" precursor_neutral_mass="834.3734" assumed_charge="2" index="57103">
+      <search_result>
+        <search_hit hit_rank="1" peptide="EASNSEAK" calc_neutral_pep_mass="834.3719" massdiff="1.7" num_tot_proteins="1" protein="ETNP14_68mB_PROKKA_81255" protein_descr="2-isopropylmalate synthase" protein_mw="13186.669">
+          <search_score name="-10lgP" value="27.69"/>
+          <search_score name="confidence" value="0.56"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4858" end_scan="4858" precursor_neutral_mass="948.4409" assumed_charge="2" index="57122">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AGSLESEEK" calc_neutral_pep_mass="948.4399" massdiff="1.0" num_tot_proteins="1" protein="WP_015402293" protein_descr="penicillin-binding protein Desulfocapsa sulfexigens" protein_mw="126034.47">
+          <search_score name="-10lgP" value="21.95"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4880" end_scan="4880" precursor_neutral_mass="929.4338" assumed_charge="2" index="57130">
+      <search_result>
+        <search_hit hit_rank="1" peptide="EEAPVEEK" calc_neutral_pep_mass="929.4341" massdiff="-0.4" num_tot_proteins="1" protein="XP_003080534" protein_descr="chloroplast inner envelope protein-related ISS  Ostreococcus tauri" protein_mw="127722.05">
+          <alternative_protein protein="virus_CCADEAMM_42063" protein_descr="hypothetical protein" protein_mw="32857.715"/>
+          <search_score name="-10lgP" value="34.03"/>
+          <search_score name="confidence" value="0.80"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4921" end_scan="4921" precursor_neutral_mass="984.5240" assumed_charge="2" index="57152">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AVAADSPVAGK" calc_neutral_pep_mass="984.5240" massdiff="0.0" num_tot_proteins="1" protein="EAQ03321.1" protein_descr="DNA ligase, NAD-dependent [Pseudooceanicola batsensis HTCC2597]" protein_mw="67607.3">
+          <search_score name="-10lgP" value="24.68"/>
+          <search_score name="confidence" value="0.16"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4932" end_scan="4932" precursor_neutral_mass="807.3413" assumed_charge="2" index="57155">
+      <search_result>
+        <search_hit hit_rank="1" peptide="EEYPDR" calc_neutral_pep_mass="807.3398" massdiff="1.8" num_tot_proteins="1" protein="gi|302026175" protein_descr="beta-tubulin, partial [Diplonema papillatum]" protein_mw="49198.34">
+          <alternative_protein protein="gi|84105341" protein_descr="beta tubulin, partial [Rhynchopus sp. ATCC 50230]" protein_mw="43224.242"/>
+          <alternative_protein protein="XP_003056479" protein_descr="beta tubulin  Micromonas pusilla CCMP1545" protein_mw="49614.984"/>
+          <search_score name="-10lgP" value="22.67"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="4962" end_scan="4962" precursor_neutral_mass="846.4073" assumed_charge="2" index="57177">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AIEEEEK" calc_neutral_pep_mass="846.3970" massdiff="12.1" num_tot_proteins="1" protein="ETNP_120m_PROKKA_214320" protein_descr="hypothetical protein" protein_mw="40385.45">
+          <alternative_protein protein="ETNP_100m_particle_PROKKA_06744" protein_descr="hypothetical protein" protein_mw="16072.376"/>
+          <alternative_protein protein="Flavovirus_FBAKDGPJ_02593" protein_descr="hypothetical protein" protein_mw="21580.57"/>
+          <alternative_protein protein="ETNP_70m_PROKKA_84547" protein_descr="chromosome segregation protein" protein_mw="38354.34"/>
+          <search_score name="-10lgP" value="21.77"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="ALEEEEK" calc_neutral_pep_mass="846.3970" massdiff="12.1" num_tot_proteins="1" protein="ETNP_90m_PROKKA_171917" protein_descr="hypothetical protein" protein_mw="8880.975">
+          <alternative_protein protein="virus_CCADEAMM_42905" protein_descr="hypothetical protein" protein_mw="11013.019"/>
+          <alternative_protein protein="ETNP_70m_PROKKA_126427" protein_descr="Acyl carrier protein" protein_mw="11949.744"/>
+          <search_score name="-10lgP" value="21.77"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="5112" end_scan="5112" precursor_neutral_mass="1022.4423" assumed_charge="2" index="57261">
+      <search_result>
+        <search_hit hit_rank="1" peptide="EDAANNYAR" calc_neutral_pep_mass="1022.4417" massdiff="0.5" num_tot_proteins="1" protein="gi|1377599527" protein_descr="Tubulin alpha chain [Hondaea fermentalgiana]" protein_mw="50355.035">
+          <alternative_protein protein="gi|1377597314" protein_descr="Tubulin alpha chain, partial [Hondaea fermentalgiana]" protein_mw="45608.63"/>
+          <alternative_protein protein="gi|1591621868" protein_descr="TPA_exp: tubulin alpha chain [Thraustochytrium sp. LLF1b]" protein_mw="49780.305"/>
+          <search_score name="-10lgP" value="35.87"/>
+          <search_score name="confidence" value="0.81"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="5189" end_scan="5189" precursor_neutral_mass="834.3715" assumed_charge="2" index="57297">
+      <search_result>
+        <search_hit hit_rank="1" peptide="SITDDER" calc_neutral_pep_mass="834.3719" massdiff="-0.5" num_tot_proteins="1" protein="ETNP_90m_PROKKA_128370" protein_descr="hypothetical protein" protein_mw="8536.532">
+          <search_score name="-10lgP" value="26.43"/>
+          <search_score name="confidence" value="0.17"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="SLTDDER" calc_neutral_pep_mass="834.3719" massdiff="-0.5" num_tot_proteins="1" protein="ETNP_100m_particle_PROKKA_70004" protein_descr="N-acetylneuraminate lyase" protein_mw="34899.676">
+          <alternative_protein protein="virus_CCADEAMM_36089" protein_descr="hypothetical protein" protein_mw="40432.2"/>
+          <alternative_protein protein="gi|1576958242" protein_descr="hypothetical protein I1G_00007010 [Pochonia chlamydosporia 123]" protein_mw="59477.254"/>
+          <search_score name="-10lgP" value="26.43"/>
+          <search_score name="confidence" value="0.17"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="5203" end_scan="5203" precursor_neutral_mass="774.3857" assumed_charge="2" index="57305">
+      <search_result>
+        <search_hit hit_rank="1" peptide="SIEDSPK" calc_neutral_pep_mass="774.3759" massdiff="12.6" num_tot_proteins="1" protein="gi|1021283488" protein_descr="elongation factor 1-alpha, partial [Collemopsidium angermannicum]" protein_mw="36240.58">
+          <search_score name="-10lgP" value="21.70"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="5361" end_scan="5361" precursor_neutral_mass="931.4596" assumed_charge="2" index="57373">
+      <search_result>
+        <search_hit hit_rank="1" peptide="ADAISEQAK" calc_neutral_pep_mass="931.4611" massdiff="-1.6" num_tot_proteins="1" protein="ETNP_60m_PROKKA_21940" protein_descr="Omega-amino acid--pyruvate aminotransferase" protein_mw="10191.556">
+          <alternative_protein protein="ETNP14_68maa_PROKKA_114377" protein_descr="Omega-amino acid--pyruvate aminotransferase" protein_mw="50811.73"/>
+          <search_score name="-10lgP" value="21.37"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="5386" end_scan="5386" precursor_neutral_mass="775.4074" assumed_charge="2" index="57383">
+      <search_result>
+        <search_hit hit_rank="1" peptide="SGDSAIVK" calc_neutral_pep_mass="775.4075" massdiff="-0.2" num_tot_proteins="1" protein="gi|557786459" protein_descr="translation elongation factor 1-alpha, partial [Acremonium sclerotigenum]" protein_mw="31893.646">
+          <alternative_protein protein="gi|557786515" protein_descr="translation elongation factor 1-alpha, partial [Sarocladium sp. A131]" protein_mw="32518.426"/>
+          <alternative_protein protein="gi|557786513" protein_descr="translation elongation factor 1-alpha, partial [Acremonium sclerotigenum]" protein_mw="32498.383"/>
+          <alternative_protein protein="gi|1576966799" protein_descr="hypothetical protein I1G_00005025 [Pochonia chlamydosporia 123]" protein_mw="58407.535"/>
+          <search_score name="-10lgP" value="39.21"/>
+          <search_score name="confidence" value="0.89"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="5488" end_scan="5488" precursor_neutral_mass="868.4043" assumed_charge="2" index="57429">
+      <search_result>
+        <search_hit hit_rank="1" peptide="TAGADLANH" calc_neutral_pep_mass="868.4039" massdiff="0.5" num_tot_proteins="1" protein="ETNP_70m_PROKKA_35814" protein_descr="hypothetical protein" protein_mw="17888.639">
+          <search_score name="-10lgP" value="22.29"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="5903" end_scan="5903" precursor_neutral_mass="860.4611" assumed_charge="2" index="57607">
+      <search_result>
+        <search_hit hit_rank="1" peptide="ANVTTEVK" calc_neutral_pep_mass="860.4603" massdiff="0.8" num_tot_proteins="1" protein="gi|557786459" protein_descr="translation elongation factor 1-alpha, partial [Acremonium sclerotigenum]" protein_mw="31893.646">
+          <alternative_protein protein="gi|557786515" protein_descr="translation elongation factor 1-alpha, partial [Sarocladium sp. A131]" protein_mw="32518.426"/>
+          <alternative_protein protein="gi|557786513" protein_descr="translation elongation factor 1-alpha, partial [Acremonium sclerotigenum]" protein_mw="32498.383"/>
+          <search_score name="-10lgP" value="29.09"/>
+          <search_score name="confidence" value="0.67"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="6313" end_scan="6313" precursor_neutral_mass="1353.6174" assumed_charge="3" index="57774">
+      <search_result>
+        <search_hit hit_rank="1" peptide="DSYVGDEAQSKR" calc_neutral_pep_mass="1353.6160" massdiff="1.1" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="45.55"/>
+          <search_score name="confidence" value="0.97"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="6344" end_scan="6344" precursor_neutral_mass="847.3824" assumed_charge="2" index="57788">
+      <search_result>
+        <search_hit hit_rank="1" peptide="FAGDDAPR" calc_neutral_pep_mass="847.3824" massdiff="0.0" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="29.79"/>
+          <search_score name="confidence" value="0.69"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="6474" end_scan="6474" precursor_neutral_mass="796.3967" assumed_charge="2" index="57836">
+      <search_result>
+        <search_hit hit_rank="1" peptide="FIDTSSK" calc_neutral_pep_mass="796.3967" massdiff="0.0" num_tot_proteins="1" protein="XP_003055887" protein_descr="predicted protein  Micromonas pusilla CCMP1545" protein_mw="43767.836">
+          <search_score name="-10lgP" value="21.63"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="6486" end_scan="6486" precursor_neutral_mass="847.3826" assumed_charge="2" index="57840">
+      <search_result>
+        <search_hit hit_rank="1" peptide="FAGDDAPR" calc_neutral_pep_mass="847.3824" massdiff="0.3" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="29.92"/>
+          <search_score name="confidence" value="0.69"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="6532" end_scan="6532" precursor_neutral_mass="1181.5198" assumed_charge="2" index="57863">
+      <search_result>
+        <search_hit hit_rank="1" peptide="DAYVGDEAQSK" calc_neutral_pep_mass="1181.5200" massdiff="-0.2" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="38.62"/>
+          <search_score name="confidence" value="0.88"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="6556" end_scan="6556" precursor_neutral_mass="868.4653" assumed_charge="2" index="57876">
+      <search_result>
+        <search_hit hit_rank="1" peptide="TEAPINPK" calc_neutral_pep_mass="868.4654" massdiff="-0.1" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="22.01"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="TEAPLNPK" calc_neutral_pep_mass="868.4654" massdiff="-0.1" num_tot_proteins="1" protein="ETNP14_120maa_PROKKA_78369" protein_descr="Bacterial actin-related protein" protein_mw="42382.633">
+          <search_score name="-10lgP" value="22.01"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="6557" end_scan="6557" precursor_neutral_mass="1035.4521" assumed_charge="2" index="57877">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AEADMESKR" calc_neutral_pep_mass="1035.4655" massdiff="-12.9" num_tot_proteins="1" protein="ETNP14_68maa_PROKKA_77422" protein_descr="hypothetical protein" protein_mw="14624.818">
+          <search_score name="-10lgP" value="20.77"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="6704" end_scan="6704" precursor_neutral_mass="868.4656" assumed_charge="2" index="57937">
+      <search_result>
+        <search_hit hit_rank="1" peptide="TEAPINPK" calc_neutral_pep_mass="868.4654" massdiff="0.3" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="27.12"/>
+          <search_score name="confidence" value="0.54"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="TEAPLNPK" calc_neutral_pep_mass="868.4654" massdiff="0.3" num_tot_proteins="1" protein="ETNP14_120maa_PROKKA_78369" protein_descr="Bacterial actin-related protein" protein_mw="42382.633">
+          <search_score name="-10lgP" value="27.12"/>
+          <search_score name="confidence" value="0.54"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="6744" end_scan="6744" precursor_neutral_mass="1197.5155" assumed_charge="2" index="57954">
+      <search_result>
+        <search_hit hit_rank="1" peptide="DSYVGDEAQSK" calc_neutral_pep_mass="1197.5149" massdiff="0.5" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="32.22"/>
+          <search_score name="confidence" value="0.76"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="7171" end_scan="7171" precursor_neutral_mass="813.4599" assumed_charge="2" index="58091">
+      <search_result>
+        <search_hit hit_rank="1" peptide="APVISAEK" calc_neutral_pep_mass="813.4596" massdiff="0.3" num_tot_proteins="1" protein="gi|1377597314" protein_descr="Tubulin alpha chain, partial [Hondaea fermentalgiana]" protein_mw="45608.63">
+          <alternative_protein protein="gi|1591621868" protein_descr="TPA_exp: tubulin alpha chain [Thraustochytrium sp. LLF1b]" protein_mw="49780.305"/>
+          <search_score name="-10lgP" value="23.83"/>
+          <search_score name="confidence" value="0.15"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="7391" end_scan="7391" precursor_neutral_mass="1289.6593" assumed_charge="2" index="58149">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AAPAEPAAAPEPAK" calc_neutral_pep_mass="1289.6615" massdiff="-1.7" num_tot_proteins="1" protein="BAJ30442.1" protein_descr="putative cellulose-binding protein [Kitasatospora setae KM-6054]" protein_mw="43740.465">
+          <search_score name="-10lgP" value="33.50"/>
+          <search_score name="confidence" value="0.80"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="7556" end_scan="7556" precursor_neutral_mass="1028.5503" assumed_charge="2" index="58182">
+      <search_result>
+        <search_hit hit_rank="1" peptide="APANVTTEVK" calc_neutral_pep_mass="1028.5502" massdiff="0.1" num_tot_proteins="1" protein="gi|557786459" protein_descr="translation elongation factor 1-alpha, partial [Acremonium sclerotigenum]" protein_mw="31893.646">
+          <alternative_protein protein="gi|557786515" protein_descr="translation elongation factor 1-alpha, partial [Sarocladium sp. A131]" protein_mw="32518.426"/>
+          <alternative_protein protein="gi|557786513" protein_descr="translation elongation factor 1-alpha, partial [Acremonium sclerotigenum]" protein_mw="32498.383"/>
+          <search_score name="-10lgP" value="45.59"/>
+          <search_score name="confidence" value="0.97"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="7564" end_scan="7564" precursor_neutral_mass="904.4038" assumed_charge="2" index="58185">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GFAGDDAPR" calc_neutral_pep_mass="904.4039" massdiff="-0.1" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="32.67"/>
+          <search_score name="confidence" value="0.80"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="7565" end_scan="7565" precursor_neutral_mass="904.4038" assumed_charge="2" index="58186">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GFAGDDAPR" calc_neutral_pep_mass="904.4039" massdiff="-0.1" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="30.46"/>
+          <search_score name="confidence" value="0.70"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="7603" end_scan="7603" precursor_neutral_mass="749.4073" assumed_charge="2" index="58198">
+      <search_result>
+        <search_hit hit_rank="1" peptide="KVFDNK" calc_neutral_pep_mass="749.4072" massdiff="0.2" num_tot_proteins="1" protein="virus_CCADEAMM_01918" protein_descr="hypothetical protein" protein_mw="145556.06">
+          <search_score name="-10lgP" value="21.73"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="7693" end_scan="7693" precursor_neutral_mass="887.4605" assumed_charge="2" index="58226">
+      <search_result>
+        <search_hit hit_rank="1" peptide="ALEEEVAK" calc_neutral_pep_mass="887.4600" massdiff="0.6" num_tot_proteins="1" protein="WP_013306261.1" protein_descr="hypothetical protein [Maribacter sp. HTCC2170]" protein_mw="120368.99">
+          <search_score name="-10lgP" value="20.28"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="7923" end_scan="7923" precursor_neutral_mass="887.4601" assumed_charge="2" index="58328">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LEEELGAK" calc_neutral_pep_mass="887.4600" massdiff="0.2" num_tot_proteins="1" protein="ABQ30995.1" protein_descr="transcriptional regulator, LysR family [Acidiphilium cryptum JF-5]" protein_mw="32540.438">
+          <search_score name="-10lgP" value="28.78"/>
+          <search_score name="confidence" value="0.59"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="IEEELGAK" calc_neutral_pep_mass="887.4600" massdiff="0.2" num_tot_proteins="1" protein="WP_053950913" protein_descr="phosphopyruvate hydratase Candidatus Thioglobus autotrophica" protein_mw="46083.75">
+          <search_score name="-10lgP" value="28.78"/>
+          <search_score name="confidence" value="0.59"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="8214" end_scan="8214" precursor_neutral_mass="975.4417" assumed_charge="2" index="58416">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AGFAGDDAPR" calc_neutral_pep_mass="975.4410" massdiff="0.7" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="43.21"/>
+          <search_score name="confidence" value="0.94"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="8273" end_scan="8273" precursor_neutral_mass="756.4389" assumed_charge="2" index="58441">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LDSVPVK" calc_neutral_pep_mass="756.4381" massdiff="1.0" num_tot_proteins="1" protein="WP_012625665" protein_descr="haloacid dehalogenase Desulfovibrio desulfuricans" protein_mw="24034.33">
+          <search_score name="-10lgP" value="20.86"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="8695" end_scan="8695" precursor_neutral_mass="1005.4991" assumed_charge="2" index="58585">
+      <search_result>
+        <search_hit hit_rank="1" peptide="SSISELNEK" calc_neutral_pep_mass="1005.4978" massdiff="1.2" num_tot_proteins="1" protein="ETNP_90m_PROKKA_25115" protein_descr="Alpha/beta hydrolase family protein" protein_mw="20165.758">
+          <alternative_protein protein="NP_85m_PROKKA_23704" protein_descr="Alpha/beta hydrolase family protein" protein_mw="23564.57"/>
+          <alternative_protein protein="ETNP14_68maa_PROKKA_15952" protein_descr="Alpha/beta hydrolase family protein" protein_mw="27072.467"/>
+          <alternative_protein protein="ETNP_100m_PROKKA_03092" protein_descr="Alpha/beta hydrolase family protein" protein_mw="27072.467"/>
+          <alternative_protein protein="ETNP_120m_PROKKA_116897" protein_descr="Alpha/beta hydrolase family protein" protein_mw="27100.52"/>
+          <search_score name="-10lgP" value="20.88"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="8750" end_scan="8750" precursor_neutral_mass="1058.5250" assumed_charge="2" index="58603">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GDDLTVTNPK" calc_neutral_pep_mass="1058.5244" massdiff="0.6" num_tot_proteins="1" protein="ETNP14_68mB_PROKKA_170417" protein_descr="Enolase" protein_mw="14050.064">
+          <alternative_protein protein="NP_125m_PROKKA_19814" protein_descr="Enolase" protein_mw="13644.671"/>
+          <alternative_protein protein="ETNP_120m_particle_PROKKA_227993" protein_descr="Enolase" protein_mw="17273.729"/>
+          <alternative_protein protein="ETNP14_120mab_PROKKA_146803" protein_descr="Enolase" protein_mw="17543.844"/>
+          <alternative_protein protein="ETNP_140m_PROKKA_35138" protein_descr="Enolase" protein_mw="27056.652"/>
+          <alternative_protein protein="ETNP_120m_free_PROKKA_224805" protein_descr="Enolase" protein_mw="27012.557"/>
+          <alternative_protein protein="ETNP_160m_PROKKA_197262" protein_descr="Enolase" protein_mw="27069.61"/>
+          <alternative_protein protein="ETNP_110m_PROKKA_00766" protein_descr="Enolase" protein_mw="37497.297"/>
+          <alternative_protein protein="ETNP14_120maa_PROKKA_167483" protein_descr="Enolase" protein_mw="37483.312"/>
+          <alternative_protein protein="ETNP_120m_PROKKA_188461" protein_descr="Enolase" protein_mw="46029.855"/>
+          <alternative_protein protein="ETNP_180m_PROKKA_165718" protein_descr="Enolase" protein_mw="46032.855"/>
+          <alternative_protein protein="ETNP14_120maa_PROKKA_104180" protein_descr="Enolase" protein_mw="46954.37"/>
+          <search_score name="-10lgP" value="28.00"/>
+          <search_score name="confidence" value="0.57"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="8762" end_scan="8762" precursor_neutral_mass="794.4657" assumed_charge="2" index="58605">
+      <search_result>
+        <search_hit hit_rank="1" peptide="IIAPPER" calc_neutral_pep_mass="794.4650" massdiff="0.9" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="23.55"/>
+          <search_score name="confidence" value="0.15"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="LLAPPER" calc_neutral_pep_mass="794.4650" massdiff="0.9" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="23.55"/>
+          <search_score name="confidence" value="0.15"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="8884" end_scan="8884" precursor_neutral_mass="788.4658" assumed_charge="2" index="58656">
+      <search_result>
+        <search_hit hit_rank="1" peptide="TVESLLK" calc_neutral_pep_mass="788.4644" massdiff="1.7" num_tot_proteins="1" protein="ETNP_90m_PROKKA_203217" protein_descr="Planctomycete cytochrome C" protein_mw="98568.52">
+          <search_score name="-10lgP" value="21.01"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="TVESLIK" calc_neutral_pep_mass="788.4644" massdiff="1.7" num_tot_proteins="1" protein="BAJ27908.1" protein_descr="putative DNA polymerase III subunit alpha [Kitasatospora setae KM-6054]" protein_mw="130527.7">
+          <search_score name="-10lgP" value="21.01"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="8923" end_scan="8923" precursor_neutral_mass="813.3680" assumed_charge="2" index="58668">
+      <search_result>
+        <search_hit hit_rank="1" peptide="TMSSFNK" calc_neutral_pep_mass="813.3691" massdiff="-1.3" num_tot_proteins="1" protein="ETNP14_68maa_PROKKA_149986" protein_descr="hypothetical protein" protein_mw="23803.287">
+          <alternative_protein protein="ETNP_90m_PROKKA_145245" protein_descr="hypothetical protein" protein_mw="23736.24"/>
+          <search_score name="-10lgP" value="23.72"/>
+          <search_score name="confidence" value="0.15"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="9133" end_scan="9133" precursor_neutral_mass="1044.5573" assumed_charge="2" index="58724">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LSSPATLNSR" calc_neutral_pep_mass="1044.5564" massdiff="0.8" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="44.35"/>
+          <search_score name="confidence" value="0.97"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="9274" end_scan="9274" precursor_neutral_mass="1044.5571" assumed_charge="2" index="58777">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LSSPATLNSR" calc_neutral_pep_mass="1044.5564" massdiff="0.7" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="41.46"/>
+          <search_score name="confidence" value="0.90"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="9378" end_scan="9378" precursor_neutral_mass="1027.5662" assumed_charge="2" index="58808">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LANEAARQR" calc_neutral_pep_mass="1027.5522" massdiff="13.5" num_tot_proteins="1" protein="EJK53038" protein_descr="hypothetical protein THAOC_27591 partial  Thalassiosira oceanica" protein_mw="59000.47">
+          <alternative_protein protein="EJK66467" protein_descr="hypothetical protein THAOC_12619  Thalassiosira oceanica" protein_mw="33489.645"/>
+          <alternative_protein protein="EJK68512" protein_descr="hypothetical protein THAOC_10298 partial  Thalassiosira oceanica" protein_mw="11598.925"/>
+          <alternative_protein protein="EJK77019" protein_descr="hypothetical protein THAOC_01179  Thalassiosira oceanica" protein_mw="13448.093"/>
+          <alternative_protein protein="EJK52900" protein_descr="hypothetical protein THAOC_27774 partial  Thalassiosira oceanica" protein_mw="17876.896"/>
+          <alternative_protein protein="EJK61495" protein_descr="hypothetical protein THAOC_18009  Thalassiosira oceanica" protein_mw="25059.88"/>
+          <alternative_protein protein="EJK48636" protein_descr="hypothetical protein THAOC_32548 partial  Thalassiosira oceanica" protein_mw="25248.385"/>
+          <alternative_protein protein="EJK53040" protein_descr="hypothetical protein THAOC_27593  Thalassiosira oceanica" protein_mw="31076.686"/>
+          <alternative_protein protein="EJK77959" protein_descr="hypothetical protein THAOC_00171  Thalassiosira oceanica" protein_mw="32059.938"/>
+          <alternative_protein protein="EJK66111" protein_descr="hypothetical protein THAOC_12978  Thalassiosira oceanica" protein_mw="32236.469"/>
+          <alternative_protein protein="EJK45187" protein_descr="hypothetical protein THAOC_36211  Thalassiosira oceanica" protein_mw="32684.18"/>
+          <alternative_protein protein="EJK45604" protein_descr="hypothetical protein THAOC_35775  Thalassiosira oceanica" protein_mw="33089.133"/>
+          <alternative_protein protein="EJK57069" protein_descr="hypothetical protein THAOC_22927  Thalassiosira oceanica" protein_mw="33454.773"/>
+          <alternative_protein protein="EJK72548" protein_descr="hypothetical protein THAOC_05912  Thalassiosira oceanica" protein_mw="33551.36"/>
+          <alternative_protein protein="EJK65977" protein_descr="hypothetical protein THAOC_13125  Thalassiosira oceanica" protein_mw="33719.734"/>
+          <alternative_protein protein="EJK63883" protein_descr="hypothetical protein THAOC_15435 partial  Thalassiosira oceanica" protein_mw="33474.41"/>
+          <alternative_protein protein="EJK77899" protein_descr="hypothetical protein THAOC_00236  Thalassiosira oceanica" protein_mw="33178.16"/>
+          <alternative_protein protein="EJK71748" protein_descr="hypothetical protein THAOC_06787  Thalassiosira oceanica" protein_mw="34063.79"/>
+          <alternative_protein protein="EJK76315" protein_descr="hypothetical protein THAOC_01928  Thalassiosira oceanica" protein_mw="34785.02"/>
+          <alternative_protein protein="EJK61257" protein_descr="hypothetical protein THAOC_18293  Thalassiosira oceanica" protein_mw="34805.105"/>
+          <alternative_protein protein="EJK63900" protein_descr="hypothetical protein THAOC_15418  Thalassiosira oceanica" protein_mw="35266.316"/>
+          <alternative_protein protein="EJK75015" protein_descr="hypothetical protein THAOC_03274 partial  Thalassiosira oceanica" protein_mw="37702.92"/>
+          <alternative_protein protein="EJK66423" protein_descr="hypothetical protein THAOC_12665  Thalassiosira oceanica" protein_mw="45503.98"/>
+          <alternative_protein protein="EJK48693" protein_descr="hypothetical protein THAOC_32486 partial  Thalassiosira oceanica" protein_mw="46889.79"/>
+          <alternative_protein protein="EJK76435" protein_descr="hypothetical protein THAOC_01803  Thalassiosira oceanica" protein_mw="47825.504"/>
+          <alternative_protein protein="EJK45186" protein_descr="hypothetical protein THAOC_36210  Thalassiosira oceanica" protein_mw="53748.098"/>
+          <alternative_protein protein="EJK46564" protein_descr="hypothetical protein THAOC_34762 partial  Thalassiosira oceanica" protein_mw="69149.65"/>
+          <alternative_protein protein="EJK63716" protein_descr="hypothetical protein THAOC_15614  Thalassiosira oceanica" protein_mw="78872.805"/>
+          <alternative_protein protein="EJK71206" protein_descr="hypothetical protein THAOC_07377 partial  Thalassiosira oceanica" protein_mw="80418.0"/>
+          <alternative_protein protein="EJK64396" protein_descr="hypothetical protein THAOC_14872  Thalassiosira oceanica" protein_mw="80537.945"/>
+          <search_score name="-10lgP" value="22.09"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="9416" end_scan="9416" precursor_neutral_mass="981.5485" assumed_charge="2" index="58822">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LTEAPINPK" calc_neutral_pep_mass="981.5494" massdiff="-1.0" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="23.01"/>
+          <search_score name="confidence" value="0.15"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="LTEAPLNPK" calc_neutral_pep_mass="981.5494" massdiff="-1.0" num_tot_proteins="1" protein="ETNP14_120maa_PROKKA_78369" protein_descr="Bacterial actin-related protein" protein_mw="42382.633">
+          <search_score name="-10lgP" value="23.01"/>
+          <search_score name="confidence" value="0.15"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="9525" end_scan="9525" precursor_neutral_mass="816.4244" assumed_charge="2" index="58856">
+      <search_result>
+        <search_hit hit_rank="1" peptide="EDILAEK" calc_neutral_pep_mass="816.4229" massdiff="1.9" num_tot_proteins="1" protein="ETNP14_120maa_PROKKA_11040" protein_descr="Kinase binding protein CGI-121" protein_mw="11491.541">
+          <alternative_protein protein="ETNP14_120mab_PROKKA_129336" protein_descr="hypothetical protein" protein_mw="6522.4565"/>
+          <alternative_protein protein="ETNP14_120mac_PROKKA_80180" protein_descr="hypothetical protein" protein_mw="7717.95"/>
+          <alternative_protein protein="ETNP_90m_PROKKA_149698" protein_descr="hypothetical protein" protein_mw="65050.8"/>
+          <alternative_protein protein="NP_85m_PROKKA_04432" protein_descr="hypothetical protein" protein_mw="64992.81"/>
+          <search_score name="-10lgP" value="21.08"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="EDLIAEK" calc_neutral_pep_mass="816.4229" massdiff="1.9" num_tot_proteins="1" protein="ETNP_90m_PROKKA_59818" protein_descr="Methionine synthase" protein_mw="23055.773">
+          <search_score name="-10lgP" value="21.08"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+        <search_hit hit_rank="3" peptide="EDLLAEK" calc_neutral_pep_mass="816.4229" massdiff="1.9" num_tot_proteins="1" protein="WP_009779278.1" protein_descr="triose-phosphate isomerase [Leeuwenhoekiella blandensis]" protein_mw="27222.807">
+          <alternative_protein protein="AAV95651.1" protein_descr="carbon monoxide dehydrogenase F protein [Ruegeria pomeroyi DSS-3]" protein_mw="26464.3"/>
+          <search_score name="-10lgP" value="21.08"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="9543" end_scan="9543" precursor_neutral_mass="790.3647" assumed_charge="2" index="58863">
+      <search_result>
+        <search_hit hit_rank="1" peptide="CDIDLR" calc_neutral_pep_mass="790.3643" massdiff="0.5" num_tot_proteins="1" protein="ETNP14_120maa_PROKKA_78369" protein_descr="Bacterial actin-related protein" protein_mw="42382.633">
+          <modification_info modified_peptide="C(+57.02)DIDLR">
+            <mod_aminoacid_mass position="1" mass="160.03065"/>
+          </modification_info>
+          <search_score name="-10lgP" value="27.87"/>
+          <search_score name="confidence" value="0.56"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="9545" end_scan="9545" precursor_neutral_mass="1046.4792" assumed_charge="2" index="58865">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AGFAGDDAPRA" calc_neutral_pep_mass="1046.4780" massdiff="1.1" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="31.65"/>
+          <search_score name="confidence" value="0.74"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="9941" end_scan="9941" precursor_neutral_mass="887.4604" assumed_charge="2" index="58996">
+      <search_result>
+        <search_hit hit_rank="1" peptide="QEIEELK" calc_neutral_pep_mass="887.4600" massdiff="0.5" num_tot_proteins="1" protein="ETNP_90m_PROKKA_137845" protein_descr="hypothetical protein" protein_mw="3691.334">
+          <search_score name="-10lgP" value="22.93"/>
+          <search_score name="confidence" value="0.15"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="10018" end_scan="10018" precursor_neutral_mass="1017.5498" assumed_charge="2" index="59025">
+      <search_result>
+        <search_hit hit_rank="1" peptide="TSNLEVVSR" calc_neutral_pep_mass="1017.5455" massdiff="4.2" num_tot_proteins="1" protein="ETNP14_120maa_PROKKA_150890" protein_descr="hypothetical protein" protein_mw="31803.248">
+          <modification_info modified_peptide="TSNLEVVSR(+14.02)">
+            <mod_aminoacid_mass position="9" mass="170.11676"/>
+          </modification_info>
+          <search_score name="-10lgP" value="24.11"/>
+          <search_score name="confidence" value="0.15"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="10237" end_scan="10237" precursor_neutral_mass="971.4567" assumed_charge="2" index="59114">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LPQVEGTGGD" calc_neutral_pep_mass="971.4559" massdiff="0.7" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="31.47"/>
+          <search_score name="confidence" value="0.73"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="10600" end_scan="10600" precursor_neutral_mass="911.5201" assumed_charge="2" index="59265">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GGIGTVPVGR" calc_neutral_pep_mass="911.5189" massdiff="1.4" num_tot_proteins="1" protein="gi|557786459" protein_descr="translation elongation factor 1-alpha, partial [Acremonium sclerotigenum]" protein_mw="31893.646">
+          <alternative_protein protein="gi|557786515" protein_descr="translation elongation factor 1-alpha, partial [Sarocladium sp. A131]" protein_mw="32518.426"/>
+          <alternative_protein protein="gi|557786513" protein_descr="translation elongation factor 1-alpha, partial [Acremonium sclerotigenum]" protein_mw="32498.383"/>
+          <alternative_protein protein="gi|1576966799" protein_descr="hypothetical protein I1G_00005025 [Pochonia chlamydosporia 123]" protein_mw="58407.535"/>
+          <alternative_protein protein="gi|1021283488" protein_descr="elongation factor 1-alpha, partial [Collemopsidium angermannicum]" protein_mw="36240.58"/>
+          <search_score name="-10lgP" value="27.29"/>
+          <search_score name="confidence" value="0.55"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="10614" end_scan="10614" precursor_neutral_mass="986.5418" assumed_charge="2" index="59271">
+      <search_result>
+        <search_hit hit_rank="1" peptide="TIGGAALQEK" calc_neutral_pep_mass="986.5396" massdiff="2.2" num_tot_proteins="1" protein="ETNP_90m_PROKKA_105134" protein_descr="hypothetical protein" protein_mw="7796.12">
+          <search_score name="-10lgP" value="21.34"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="10664" end_scan="10664" precursor_neutral_mass="1022.4897" assumed_charge="2" index="59293">
+      <search_result>
+        <search_hit hit_rank="1" peptide="EMTEEKIK" calc_neutral_pep_mass="1022.4954" massdiff="-5.5" num_tot_proteins="1" protein="AIR93557.1" protein_descr="hypothetical protein [Prochlorococcus phage P-TIM68]" protein_mw="14814.55">
+          <alternative_protein protein="YP_009213732.1" protein_descr="hypothetical protein [Prochlorococcus phage P-TIM68]" protein_mw="14814.55"/>
+          <modification_info modified_peptide="EM(+15.99)TEEKIK">
+            <mod_aminoacid_mass position="2" mass="147.03542"/>
+          </modification_info>
+          <search_score name="-10lgP" value="26.22"/>
+          <search_score name="confidence" value="0.17"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="10695" end_scan="10695" precursor_neutral_mass="1094.5264" assumed_charge="2" index="59308">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GTGEFEAGISK" calc_neutral_pep_mass="1094.5244" massdiff="1.8" num_tot_proteins="1" protein="gi|557786459" protein_descr="translation elongation factor 1-alpha, partial [Acremonium sclerotigenum]" protein_mw="31893.646">
+          <alternative_protein protein="gi|557786515" protein_descr="translation elongation factor 1-alpha, partial [Sarocladium sp. A131]" protein_mw="32518.426"/>
+          <alternative_protein protein="gi|557786513" protein_descr="translation elongation factor 1-alpha, partial [Acremonium sclerotigenum]" protein_mw="32498.383"/>
+          <alternative_protein protein="gi|1576966799" protein_descr="hypothetical protein I1G_00005025 [Pochonia chlamydosporia 123]" protein_mw="58407.535"/>
+          <alternative_protein protein="gi|1021283488" protein_descr="elongation factor 1-alpha, partial [Collemopsidium angermannicum]" protein_mw="36240.58"/>
+          <search_score name="-10lgP" value="24.65"/>
+          <search_score name="confidence" value="0.16"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="11053" end_scan="11053" precursor_neutral_mass="785.5016" assumed_charge="2" index="59459">
+      <search_result>
+        <search_hit hit_rank="1" peptide="TVAVGVIK" calc_neutral_pep_mass="785.5011" massdiff="0.6" num_tot_proteins="1" protein="gi|1576966799" protein_descr="hypothetical protein I1G_00005025 [Pochonia chlamydosporia 123]" protein_mw="58407.535">
+          <search_score name="-10lgP" value="27.20"/>
+          <search_score name="confidence" value="0.55"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="11076" end_scan="11076" precursor_neutral_mass="1359.5959" assumed_charge="2" index="59470">
+      <search_result>
+        <search_hit hit_rank="1" peptide="QEYDESGPSIVH" calc_neutral_pep_mass="1359.5942" massdiff="1.2" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="30.01"/>
+          <search_score name="confidence" value="0.69"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="11177" end_scan="11177" precursor_neutral_mass="872.4973" assumed_charge="2" index="59508">
+      <search_result>
+        <search_hit hit_rank="1" peptide="TGLDIINK" calc_neutral_pep_mass="872.4967" massdiff="0.6" num_tot_proteins="1" protein="ETNP_120m_free_PROKKA_263937" protein_descr="hypothetical protein" protein_mw="25288.662">
+          <alternative_protein protein="ETNP_120m_PROKKA_168803" protein_descr="hypothetical protein" protein_mw="29422.635"/>
+          <search_score name="-10lgP" value="27.44"/>
+          <search_score name="confidence" value="0.55"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="TGIDLLNK" calc_neutral_pep_mass="872.4967" massdiff="0.6" num_tot_proteins="1" protein="ETNP_160m_PROKKA_201435" protein_descr="hypothetical protein" protein_mw="26022.273">
+          <alternative_protein protein="ETNP_180m_PROKKA_158045" protein_descr="hypothetical protein" protein_mw="44398.207"/>
+          <alternative_protein protein="ETNP_120m_free_PROKKA_317280" protein_descr="hypothetical protein" protein_mw="48475.754"/>
+          <search_score name="-10lgP" value="27.44"/>
+          <search_score name="confidence" value="0.55"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="11350" end_scan="11350" precursor_neutral_mass="872.4737" assumed_charge="2" index="59591">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GVGDVITGR" calc_neutral_pep_mass="872.4716" massdiff="2.4" num_tot_proteins="1" protein="gi|226347419" protein_descr="elongation factor 1 alpha-like protein, partial [Rhynchopus euleeides]" protein_mw="37979.02">
+          <alternative_protein protein="gi|226347415" protein_descr="elongation factor 1 alpha-like protein, partial [Diplonema ambulator]" protein_mw="37160.4"/>
+          <alternative_protein protein="gi|226347417" protein_descr="elongation factor 1 alpha-like protein, partial [Diplonema papillatum]" protein_mw="51475.69"/>
+          <alternative_protein protein="ETNP14_120maa_PROKKA_163048" protein_descr="Elongation factor Tu" protein_mw="45380.88"/>
+          <alternative_protein protein="ETNP_120m_particle_PROKKA_239696" protein_descr="Elongation factor Tu-B" protein_mw="54592.48"/>
+          <search_score name="-10lgP" value="30.64"/>
+          <search_score name="confidence" value="0.70"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="11389" end_scan="11389" precursor_neutral_mass="868.5041" assumed_charge="2" index="59611">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VIPELER" calc_neutral_pep_mass="868.5018" massdiff="2.6" num_tot_proteins="1" protein="ETNP_90m_PROKKA_170986" protein_descr="hypothetical protein" protein_mw="92722.26">
+          <alternative_protein protein="WP_009779907.1" protein_descr="hypothetical protein [Leeuwenhoekiella blandensis]" protein_mw="55622.605"/>
+          <alternative_protein protein="EAP86119.1" protein_descr="magnesium protoporphyrin chelatase, putative [Croceibacter atlanticus HTCC2559]" protein_mw="55124.89"/>
+          <alternative_protein protein="WP_021778980.1" protein_descr="magnesium protoporphyrin chelatase [Dokdonia sp. MED134]" protein_mw="55500.344"/>
+          <alternative_protein protein="WP_013752064.1" protein_descr="magnesium chelatase [Dokdonia sp. 4H-3-7-5]" protein_mw="55507.31"/>
+          <alternative_protein protein="CAN92905.1" protein_descr="Protein kinase [Sorangium cellulosum So ce56]" protein_mw="184402.97"/>
+          <modification_info modified_peptide="VIPELER(+14.02)">
+            <mod_aminoacid_mass position="7" mass="170.11676"/>
+          </modification_info>
+          <search_score name="-10lgP" value="21.60"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="VLPELER" calc_neutral_pep_mass="868.5018" massdiff="2.6" num_tot_proteins="1" protein="ETNP_70m_PROKKA_132527" protein_descr="hypothetical protein" protein_mw="14982.099">
+          <alternative_protein protein="XP_003061834" protein_descr="predicted protein  Micromonas pusilla CCMP1545" protein_mw="45140.527"/>
+          <modification_info modified_peptide="VLPELER(+14.02)">
+            <mod_aminoacid_mass position="7" mass="170.11676"/>
+          </modification_info>
+          <search_score name="-10lgP" value="21.60"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+        <search_hit hit_rank="3" peptide="VIPEIER" calc_neutral_pep_mass="868.5018" massdiff="2.6" num_tot_proteins="1" protein="virus_CCADEAMM_38737" protein_descr="hypothetical protein" protein_mw="16577.86">
+          <alternative_protein protein="CAN92835.1" protein_descr="Protein kinase [Sorangium cellulosum So ce56]" protein_mw="199007.98"/>
+          <modification_info modified_peptide="VIPEIER(+14.02)">
+            <mod_aminoacid_mass position="7" mass="170.11676"/>
+          </modification_info>
+          <search_score name="-10lgP" value="21.60"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+        <search_hit hit_rank="4" peptide="VLPEIER" calc_neutral_pep_mass="868.5018" massdiff="2.6" num_tot_proteins="1" protein="CAN97340.1" protein_descr="ABC transporter ATP-binding protein [Sorangium cellulosum So ce56]" protein_mw="80851.234">
+          <modification_info modified_peptide="VLPEIER(+14.02)">
+            <mod_aminoacid_mass position="7" mass="170.11676"/>
+          </modification_info>
+          <search_score name="-10lgP" value="21.60"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="11474" end_scan="11474" precursor_neutral_mass="1236.5969" assumed_charge="2" index="59655">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AAGTGEFEAGISK" calc_neutral_pep_mass="1236.5986" massdiff="-1.4" num_tot_proteins="1" protein="gi|557786459" protein_descr="translation elongation factor 1-alpha, partial [Acremonium sclerotigenum]" protein_mw="31893.646">
+          <alternative_protein protein="gi|557786515" protein_descr="translation elongation factor 1-alpha, partial [Sarocladium sp. A131]" protein_mw="32518.426"/>
+          <alternative_protein protein="gi|557786513" protein_descr="translation elongation factor 1-alpha, partial [Acremonium sclerotigenum]" protein_mw="32498.383"/>
+          <alternative_protein protein="gi|1576966799" protein_descr="hypothetical protein I1G_00005025 [Pochonia chlamydosporia 123]" protein_mw="58407.535"/>
+          <alternative_protein protein="gi|1021283488" protein_descr="elongation factor 1-alpha, partial [Collemopsidium angermannicum]" protein_mw="36240.58"/>
+          <search_score name="-10lgP" value="32.75"/>
+          <search_score name="confidence" value="0.80"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="11477" end_scan="11477" precursor_neutral_mass="1236.6046" assumed_charge="2" index="59656">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AAGTGEFEAGISK" calc_neutral_pep_mass="1236.5986" massdiff="4.8" num_tot_proteins="1" protein="gi|557786459" protein_descr="translation elongation factor 1-alpha, partial [Acremonium sclerotigenum]" protein_mw="31893.646">
+          <alternative_protein protein="gi|557786515" protein_descr="translation elongation factor 1-alpha, partial [Sarocladium sp. A131]" protein_mw="32518.426"/>
+          <alternative_protein protein="gi|557786513" protein_descr="translation elongation factor 1-alpha, partial [Acremonium sclerotigenum]" protein_mw="32498.383"/>
+          <alternative_protein protein="gi|1576966799" protein_descr="hypothetical protein I1G_00005025 [Pochonia chlamydosporia 123]" protein_mw="58407.535"/>
+          <alternative_protein protein="gi|1021283488" protein_descr="elongation factor 1-alpha, partial [Collemopsidium angermannicum]" protein_mw="36240.58"/>
+          <search_score name="-10lgP" value="29.12"/>
+          <search_score name="confidence" value="0.68"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="11555" end_scan="11555" precursor_neutral_mass="913.5605" assumed_charge="2" index="59694">
+      <search_result>
+        <search_hit hit_rank="1" peptide="QTVAVGVIK" calc_neutral_pep_mass="913.5596" massdiff="0.9" num_tot_proteins="1" protein="gi|1576966799" protein_descr="hypothetical protein I1G_00005025 [Pochonia chlamydosporia 123]" protein_mw="58407.535">
+          <search_score name="-10lgP" value="26.87"/>
+          <search_score name="confidence" value="0.22"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="11599" end_scan="11599" precursor_neutral_mass="887.4603" assumed_charge="2" index="59711">
+      <search_result>
+        <search_hit hit_rank="1" peptide="EDLAALEK" calc_neutral_pep_mass="887.4600" massdiff="0.3" num_tot_proteins="1" protein="gi|1377599527" protein_descr="Tubulin alpha chain [Hondaea fermentalgiana]" protein_mw="50355.035">
+          <alternative_protein protein="gi|1377597314" protein_descr="Tubulin alpha chain, partial [Hondaea fermentalgiana]" protein_mw="45608.63"/>
+          <alternative_protein protein="gi|1591621868" protein_descr="TPA_exp: tubulin alpha chain [Thraustochytrium sp. LLF1b]" protein_mw="49780.305"/>
+          <search_score name="-10lgP" value="29.12"/>
+          <search_score name="confidence" value="0.68"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="11726" end_scan="11726" precursor_neutral_mass="841.5033" assumed_charge="2" index="59764">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VATVSLPR" calc_neutral_pep_mass="841.5021" massdiff="1.3" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="23.61"/>
+          <search_score name="confidence" value="0.15"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="11885" end_scan="11885" precursor_neutral_mass="841.5032" assumed_charge="2" index="59844">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VATVSLPR" calc_neutral_pep_mass="841.5021" massdiff="1.3" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="23.51"/>
+          <search_score name="confidence" value="0.15"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="12031" end_scan="12031" precursor_neutral_mass="841.5032" assumed_charge="2" index="59905">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VATVSLPR" calc_neutral_pep_mass="841.5021" massdiff="1.3" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="27.99"/>
+          <search_score name="confidence" value="0.57"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="12411" end_scan="12411" precursor_neutral_mass="872.4634" assumed_charge="2" index="60098">
+      <search_result>
+        <search_hit hit_rank="1" peptide="EVLIDER" calc_neutral_pep_mass="872.4603" massdiff="3.5" num_tot_proteins="1" protein="ETNP14_120maa_PROKKA_07833" protein_descr="TraB family protein" protein_mw="41986.656">
+          <alternative_protein protein="ETNP14_120maa_PROKKA_91953" protein_descr="TraB family protein" protein_mw="31797.299"/>
+          <alternative_protein protein="ETNP14_120maa_PROKKA_44504" protein_descr="TraB family protein" protein_mw="41988.773"/>
+          <alternative_protein protein="ETNP14_68maa_PROKKA_61220" protein_descr="TraB family protein" protein_mw="42116.12"/>
+          <alternative_protein protein="ETNP14_120maa_PROKKA_17851" protein_descr="TraB family protein" protein_mw="42071.832"/>
+          <alternative_protein protein="ETNP_70m_PROKKA_142866" protein_descr="TraB family protein" protein_mw="41525.07"/>
+          <alternative_protein protein="ETNP14_68maa_PROKKA_02289" protein_descr="TraB family protein" protein_mw="41754.547"/>
+          <alternative_protein protein="XP_003074326" protein_descr="unknown IC partial  Ostreococcus tauri" protein_mw="60122.71"/>
+          <search_score name="-10lgP" value="25.30"/>
+          <search_score name="confidence" value="0.16"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="EVLLDER" calc_neutral_pep_mass="872.4603" massdiff="3.5" num_tot_proteins="1" protein="NP_30m_PROKKA_22173" protein_descr="hypothetical protein" protein_mw="13327.652">
+          <search_score name="-10lgP" value="25.30"/>
+          <search_score name="confidence" value="0.16"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="12413" end_scan="12413" precursor_neutral_mass="981.4889" assumed_charge="2" index="60099">
+      <search_result>
+        <search_hit hit_rank="1" peptide="TAGADLANHL" calc_neutral_pep_mass="981.4879" massdiff="1.0" num_tot_proteins="1" protein="ETNP_70m_PROKKA_35814" protein_descr="hypothetical protein" protein_mw="17888.639">
+          <search_score name="-10lgP" value="34.37"/>
+          <search_score name="confidence" value="0.81"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="12448" end_scan="12448" precursor_neutral_mass="1270.6766" assumed_charge="2" index="60116">
+      <search_result>
+        <search_hit hit_rank="1" peptide="IVGDDLTVTNPK" calc_neutral_pep_mass="1270.6769" massdiff="-0.2" num_tot_proteins="1" protein="ETNP14_68mB_PROKKA_170417" protein_descr="Enolase" protein_mw="14050.064">
+          <alternative_protein protein="ETNP14_120mab_PROKKA_146803" protein_descr="Enolase" protein_mw="17543.844"/>
+          <alternative_protein protein="ETNP14_120maa_PROKKA_104180" protein_descr="Enolase" protein_mw="46954.37"/>
+          <search_score name="-10lgP" value="29.60"/>
+          <search_score name="confidence" value="0.68"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="LVGDDLTVTNPK" calc_neutral_pep_mass="1270.6769" massdiff="-0.2" num_tot_proteins="1" protein="NP_125m_PROKKA_19814" protein_descr="Enolase" protein_mw="13644.671">
+          <alternative_protein protein="ETNP_120m_particle_PROKKA_227993" protein_descr="Enolase" protein_mw="17273.729"/>
+          <alternative_protein protein="ETNP_140m_PROKKA_35138" protein_descr="Enolase" protein_mw="27056.652"/>
+          <alternative_protein protein="ETNP_120m_free_PROKKA_224805" protein_descr="Enolase" protein_mw="27012.557"/>
+          <alternative_protein protein="ETNP_160m_PROKKA_197262" protein_descr="Enolase" protein_mw="27069.61"/>
+          <alternative_protein protein="ETNP_110m_PROKKA_00766" protein_descr="Enolase" protein_mw="37497.297"/>
+          <alternative_protein protein="ETNP14_120maa_PROKKA_167483" protein_descr="Enolase" protein_mw="37483.312"/>
+          <alternative_protein protein="ETNP_120m_PROKKA_188461" protein_descr="Enolase" protein_mw="46029.855"/>
+          <alternative_protein protein="ETNP_180m_PROKKA_165718" protein_descr="Enolase" protein_mw="46032.855"/>
+          <search_score name="-10lgP" value="29.60"/>
+          <search_score name="confidence" value="0.68"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="12539" end_scan="12539" precursor_neutral_mass="1094.6350" assumed_charge="2" index="60158">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LLTEAPINPK" calc_neutral_pep_mass="1094.6335" massdiff="1.3" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="22.18"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="LLTEAPLNPK" calc_neutral_pep_mass="1094.6335" massdiff="1.3" num_tot_proteins="1" protein="ETNP14_120maa_PROKKA_78369" protein_descr="Bacterial actin-related protein" protein_mw="42382.633">
+          <search_score name="-10lgP" value="22.18"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="12637" end_scan="12637" precursor_neutral_mass="818.4417" assumed_charge="2" index="60205">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VGINGFGR" calc_neutral_pep_mass="818.4399" massdiff="2.1" num_tot_proteins="1" protein="WP_007278549" protein_descr="glyceraldehyde-3-phosphate dehydrogenase Lentisphaera araneosa" protein_mw="35265.098">
+          <alternative_protein protein="ACL73965.1" protein_descr="Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) [Thioalkalivibrio sulfidiphilus HL-EbGr7]" protein_mw="35720.95"/>
+          <alternative_protein protein="NP_85m_PROKKA_06963" protein_descr="Glyceraldehyde-3-phosphate dehydrogenase A" protein_mw="36204.953"/>
+          <alternative_protein protein="ETNP_140m_PROKKA_156805" protein_descr="Glyceraldehyde-3-phosphate dehydrogenase A" protein_mw="36204.953"/>
+          <alternative_protein protein="ETNP14_120maa_PROKKA_87915" protein_descr="Glyceraldehyde-3-phosphate dehydrogenase A" protein_mw="36218.98"/>
+          <alternative_protein protein="NP_125m_PROKKA_03136" protein_descr="Glyceraldehyde-3-phosphate dehydrogenase A" protein_mw="36218.04"/>
+          <alternative_protein protein="ETNP_120m_PROKKA_272547" protein_descr="Glyceraldehyde-3-phosphate dehydrogenase A" protein_mw="36204.953"/>
+          <alternative_protein protein="NP_300m_PROKKA_04661" protein_descr="Glyceraldehyde-3-phosphate dehydrogenase A" protein_mw="36218.98"/>
+          <search_score name="-10lgP" value="22.64"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="12643" end_scan="12643" precursor_neutral_mass="1277.7002" assumed_charge="2" index="60208">
+      <search_result>
+        <search_hit hit_rank="1" peptide="QPPTVVPGGDLAK" calc_neutral_pep_mass="1277.6979" massdiff="1.8" num_tot_proteins="1" protein="gi|1377599527" protein_descr="Tubulin alpha chain [Hondaea fermentalgiana]" protein_mw="50355.035">
+          <alternative_protein protein="gi|1377597314" protein_descr="Tubulin alpha chain, partial [Hondaea fermentalgiana]" protein_mw="45608.63"/>
+          <alternative_protein protein="gi|1591621868" protein_descr="TPA_exp: tubulin alpha chain [Thraustochytrium sp. LLF1b]" protein_mw="49780.305"/>
+          <search_score name="-10lgP" value="27.12"/>
+          <search_score name="confidence" value="0.54"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="12986" end_scan="12986" precursor_neutral_mass="1422.6646" assumed_charge="2" index="60368">
+      <search_result>
+        <search_hit hit_rank="1" peptide="ELAEDGYSGVEVR" calc_neutral_pep_mass="1422.6626" massdiff="1.4" num_tot_proteins="1" protein="XP_003057685" protein_descr="predicted protein  Micromonas pusilla CCMP1545" protein_mw="25825.09">
+          <alternative_protein protein="XP_003078664" protein_descr="Putative 40S ribosomal protein; contains C-terminal domain ISS  Ostreococcus tauri" protein_mw="13573.828"/>
+          <search_score name="-10lgP" value="45.47"/>
+          <search_score name="confidence" value="0.97"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="13148" end_scan="13148" precursor_neutral_mass="1370.6672" assumed_charge="2" index="60443">
+      <search_result>
+        <search_hit hit_rank="1" peptide="TTGIVLDSGDGVTH" calc_neutral_pep_mass="1370.6677" massdiff="-0.4" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="34.45"/>
+          <search_score name="confidence" value="0.81"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="TTGLVLDSGDGVTH" calc_neutral_pep_mass="1370.6677" massdiff="-0.4" num_tot_proteins="1" protein="ETNP14_120maa_PROKKA_78369" protein_descr="Bacterial actin-related protein" protein_mw="42382.633">
+          <search_score name="-10lgP" value="34.45"/>
+          <search_score name="confidence" value="0.81"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="13283" end_scan="13283" precursor_neutral_mass="1094.6351" assumed_charge="2" index="60514">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LLTEAPINPK" calc_neutral_pep_mass="1094.6335" massdiff="1.4" num_tot_proteins="1" protein="gi|1694830452" protein_descr="gamma actin, partial [Aspergillus loretoensis]" protein_mw="41657.547">
+          <alternative_protein protein="gi|1576969351" protein_descr="hypothetical protein I1G_00004902 [Pochonia chlamydosporia 123]" protein_mw="42797.633"/>
+          <search_score name="-10lgP" value="29.64"/>
+          <search_score name="confidence" value="0.68"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="LLTEAPLNPK" calc_neutral_pep_mass="1094.6335" massdiff="1.4" num_tot_proteins="1" protein="ETNP14_120maa_PROKKA_78369" protein_descr="Bacterial actin-related protein" protein_mw="42382.633">
+          <search_score name="-10lgP" value="29.64"/>
+          <search_score name="confidence" value="0.68"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="13300" end_scan="13300" precursor_neutral_mass="1024.6046" assumed_charge="2" index="60522">
+      <search_result>
+        <search_hit hit_rank="1" peptide="IGGIGTVPVGR" calc_neutral_pep_mass="1024.6029" massdiff="1.6" num_tot_proteins="1" protein="gi|557786459" protein_descr="translation elongation factor 1-alpha, partial [Acremonium sclerotigenum]" protein_mw="31893.646">
+          <alternative_protein protein="gi|557786515" protein_descr="translation elongation factor 1-alpha, partial [Sarocladium sp. A131]" protein_mw="32518.426"/>
+          <alternative_protein protein="gi|557786513" protein_descr="translation elongation factor 1-alpha, partial [Acremonium sclerotigenum]" protein_mw="32498.383"/>
+          <alternative_protein protein="gi|1576966799" protein_descr="hypothetical protein I1G_00005025 [Pochonia chlamydosporia 123]" protein_mw="58407.535"/>
+          <alternative_protein protein="gi|1021283488" protein_descr="elongation factor 1-alpha, partial [Collemopsidium angermannicum]" protein_mw="36240.58"/>
+          <search_score name="-10lgP" value="27.07"/>
+          <search_score name="confidence" value="0.54"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="13495" end_scan="13495" precursor_neutral_mass="1292.7089" assumed_charge="2" index="60619">
+      <search_result>
+        <search_hit hit_rank="1" peptide="NNPVLIGEPGVGK" calc_neutral_pep_mass="1292.7089" massdiff="0.0" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="34.08"/>
+          <search_score name="confidence" value="0.80"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="13546" end_scan="13546" precursor_neutral_mass="1398.7365" assumed_charge="2" index="60644">
+      <search_result>
+        <search_hit hit_rank="1" peptide="QIVGDDLTVTNPK" calc_neutral_pep_mass="1398.7355" massdiff="0.7" num_tot_proteins="1" protein="ETNP14_68mB_PROKKA_170417" protein_descr="Enolase" protein_mw="14050.064">
+          <alternative_protein protein="ETNP14_120mab_PROKKA_146803" protein_descr="Enolase" protein_mw="17543.844"/>
+          <alternative_protein protein="ETNP14_120maa_PROKKA_104180" protein_descr="Enolase" protein_mw="46954.37"/>
+          <search_score name="-10lgP" value="36.89"/>
+          <search_score name="confidence" value="0.82"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="QLVGDDLTVTNPK" calc_neutral_pep_mass="1398.7355" massdiff="0.7" num_tot_proteins="1" protein="NP_125m_PROKKA_19814" protein_descr="Enolase" protein_mw="13644.671">
+          <alternative_protein protein="ETNP_120m_particle_PROKKA_227993" protein_descr="Enolase" protein_mw="17273.729"/>
+          <alternative_protein protein="ETNP_140m_PROKKA_35138" protein_descr="Enolase" protein_mw="27056.652"/>
+          <alternative_protein protein="ETNP_120m_free_PROKKA_224805" protein_descr="Enolase" protein_mw="27012.557"/>
+          <alternative_protein protein="ETNP_160m_PROKKA_197262" protein_descr="Enolase" protein_mw="27069.61"/>
+          <alternative_protein protein="ETNP_110m_PROKKA_00766" protein_descr="Enolase" protein_mw="37497.297"/>
+          <alternative_protein protein="ETNP14_120maa_PROKKA_167483" protein_descr="Enolase" protein_mw="37483.312"/>
+          <alternative_protein protein="ETNP_120m_PROKKA_188461" protein_descr="Enolase" protein_mw="46029.855"/>
+          <alternative_protein protein="ETNP_180m_PROKKA_165718" protein_descr="Enolase" protein_mw="46032.855"/>
+          <search_score name="-10lgP" value="36.89"/>
+          <search_score name="confidence" value="0.82"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="13695" end_scan="13695" precursor_neutral_mass="815.4764" assumed_charge="2" index="60716">
+      <search_result>
+        <search_hit hit_rank="1" peptide="ASLDAVLK" calc_neutral_pep_mass="815.4752" massdiff="1.4" num_tot_proteins="1" protein="ETNP14_120maa_PROKKA_23638" protein_descr="Acetone carboxylase beta subunit" protein_mw="53356.17">
+          <search_score name="-10lgP" value="24.82"/>
+          <search_score name="confidence" value="0.16"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="13747" end_scan="13747" precursor_neutral_mass="1050.4885" assumed_charge="2" index="60742">
+      <search_result>
+        <search_hit hit_rank="1" peptide="TDDFPEISK" calc_neutral_pep_mass="1050.4869" massdiff="1.5" num_tot_proteins="1" protein="ETNP_120m_PROKKA_251340" protein_descr="tRNA pseudouridine synthase B" protein_mw="34544.477">
+          <search_score name="-10lgP" value="27.79"/>
+          <search_score name="confidence" value="0.56"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="13883" end_scan="13883" precursor_neutral_mass="1292.7163" assumed_charge="2" index="60825">
+      <search_result>
+        <search_hit hit_rank="1" peptide="NNPVLIGEPGVGK" calc_neutral_pep_mass="1292.7089" massdiff="5.7" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="36.40"/>
+          <search_score name="confidence" value="0.81"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="13908" end_scan="13908" precursor_neutral_mass="1292.7122" assumed_charge="2" index="60837">
+      <search_result>
+        <search_hit hit_rank="1" peptide="NNPVLIGEPGVGK" calc_neutral_pep_mass="1292.7089" massdiff="2.5" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="36.50"/>
+          <search_score name="confidence" value="0.82"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="13980" end_scan="13980" precursor_neutral_mass="1235.6898" assumed_charge="2" index="60877">
+      <search_result>
+        <search_hit hit_rank="1" peptide="NNPVLILYYK" calc_neutral_pep_mass="1235.6914" massdiff="-1.3" num_tot_proteins="1" protein="ETNP_120m_PROKKA_50096" protein_descr="hypothetical protein" protein_mw="5567.827">
+          <alternative_protein protein="ETNP_180m_PROKKA_230252" protein_descr="hypothetical protein" protein_mw="5567.827"/>
+          <search_score name="-10lgP" value="23.56"/>
+          <search_score name="confidence" value="0.15"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="14072" end_scan="14072" precursor_neutral_mass="1292.7100" assumed_charge="2" index="60925">
+      <search_result>
+        <search_hit hit_rank="1" peptide="NNPVLIGEPGVGK" calc_neutral_pep_mass="1292.7089" massdiff="0.8" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="44.70"/>
+          <search_score name="confidence" value="0.97"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="14144" end_scan="14144" precursor_neutral_mass="1235.6876" assumed_charge="2" index="60964">
+      <search_result>
+        <search_hit hit_rank="1" peptide="NNPVLILYYK" calc_neutral_pep_mass="1235.6914" massdiff="-3.1" num_tot_proteins="1" protein="ETNP_120m_PROKKA_50096" protein_descr="hypothetical protein" protein_mw="5567.827">
+          <alternative_protein protein="ETNP_180m_PROKKA_230252" protein_descr="hypothetical protein" protein_mw="5567.827"/>
+          <search_score name="-10lgP" value="30.41"/>
+          <search_score name="confidence" value="0.70"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="14235" end_scan="14235" precursor_neutral_mass="1292.7101" assumed_charge="2" index="61010">
+      <search_result>
+        <search_hit hit_rank="1" peptide="NNPVLIGEPGVGK" calc_neutral_pep_mass="1292.7089" massdiff="0.9" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="39.37"/>
+          <search_score name="confidence" value="0.89"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="14392" end_scan="14392" precursor_neutral_mass="1292.7123" assumed_charge="2" index="61088">
+      <search_result>
+        <search_hit hit_rank="1" peptide="NNPVLIGEPGVGK" calc_neutral_pep_mass="1292.7089" massdiff="2.6" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="33.23"/>
+          <search_score name="confidence" value="0.80"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="15089" end_scan="15089" precursor_neutral_mass="1994.0067" assumed_charge="2" index="61453">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LPQVEGTGGDVQPSQDLVR" calc_neutral_pep_mass="1994.0068" massdiff="-0.1" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="32.82"/>
+          <search_score name="confidence" value="0.80"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="15189" end_scan="15189" precursor_neutral_mass="1308.6328" assumed_charge="2" index="61503">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LGEHNIDVLEGN" calc_neutral_pep_mass="1308.6310" massdiff="1.4" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="26.07"/>
+          <search_score name="confidence" value="0.17"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="15235" end_scan="15235" precursor_neutral_mass="935.4613" assumed_charge="2" index="61524">
+      <search_result>
+        <search_hit hit_rank="1" peptide="EDGIFEVK" calc_neutral_pep_mass="935.4600" massdiff="1.4" num_tot_proteins="1" protein="gi|123624" protein_descr="RecName: Full=Heat shock protein SSA2" protein_mw="69470.164">
+          <alternative_protein protein="gi|417149" protein_descr="RecName: Full=Heat shock protein SSA1; AltName: Full=Heat shock protein YG100" protein_mw="69657.414"/>
+          <search_score name="-10lgP" value="32.51"/>
+          <search_score name="confidence" value="0.80"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="EDGLFEVK" calc_neutral_pep_mass="935.4600" massdiff="1.4" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="32.51"/>
+          <search_score name="confidence" value="0.80"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="15243" end_scan="15243" precursor_neutral_mass="1994.0072" assumed_charge="2" index="61525">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LPQVEGTGGDVQPSQDLVR" calc_neutral_pep_mass="1994.0068" massdiff="0.2" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="86.46"/>
+          <search_score name="confidence" value="0.99"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="15280" end_scan="15280" precursor_neutral_mass="1994.0087" assumed_charge="3" index="61537">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LPQVEGTGGDVQPSQDLVR" calc_neutral_pep_mass="1994.0068" massdiff="0.9" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="46.91"/>
+          <search_score name="confidence" value="0.97"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="15289" end_scan="15289" precursor_neutral_mass="983.5284" assumed_charge="2" index="61542">
+      <search_result>
+        <search_hit hit_rank="1" peptide="HVQQMTIK" calc_neutral_pep_mass="983.5222" massdiff="6.2" num_tot_proteins="1" protein="virus_CCADEAMM_27614" protein_descr="hypothetical protein" protein_mw="343092.16">
+          <search_score name="-10lgP" value="23.14"/>
+          <search_score name="confidence" value="0.15"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="15369" end_scan="15369" precursor_neutral_mass="871.5385" assumed_charge="2" index="61569">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LLTVELGK" calc_neutral_pep_mass="871.5378" massdiff="0.7" num_tot_proteins="1" protein="NP_100m_PROKKA_25932" protein_descr="Small heat shock protein IbpB" protein_mw="7458.259">
+          <alternative_protein protein="ETNP_150m_particle_PROKKA_54411" protein_descr="Small heat shock protein IbpB" protein_mw="7426.1987"/>
+          <alternative_protein protein="ETNP_70m_PROKKA_48198" protein_descr="Small heat shock protein IbpA" protein_mw="13787.6"/>
+          <alternative_protein protein="ETNP_140m_PROKKA_77140" protein_descr="Small heat shock protein IbpB" protein_mw="16949.938"/>
+          <alternative_protein protein="ETNP14_120maa_PROKKA_128971" protein_descr="Small heat shock protein IbpB" protein_mw="16949.938"/>
+          <alternative_protein protein="NP_85m_PROKKA_10034" protein_descr="Small heat shock protein IbpB" protein_mw="16949.938"/>
+          <alternative_protein protein="ETNP_70m_PROKKA_85023" protein_descr="Small heat shock protein IbpB" protein_mw="16907.896"/>
+          <alternative_protein protein="ETNP_160m_PROKKA_221867" protein_descr="Small heat shock protein IbpB" protein_mw="16949.938"/>
+          <search_score name="-10lgP" value="20.30"/>
+          <search_score name="confidence" value="0.13"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="15384" end_scan="15384" precursor_neutral_mass="1994.0114" assumed_charge="2" index="61575">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LPQVEGTGGDVQPSQDLVR" calc_neutral_pep_mass="1994.0068" massdiff="2.3" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="38.29"/>
+          <search_score name="confidence" value="0.88"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="15560" end_scan="15560" precursor_neutral_mass="1270.6412" assumed_charge="2" index="61644">
+      <search_result>
+        <search_hit hit_rank="1" peptide="DLEPTVVDEVR" calc_neutral_pep_mass="1270.6405" massdiff="0.6" num_tot_proteins="1" protein="gi|1377599527" protein_descr="Tubulin alpha chain [Hondaea fermentalgiana]" protein_mw="50355.035">
+          <search_score name="-10lgP" value="30.90"/>
+          <search_score name="confidence" value="0.71"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="16502" end_scan="16502" precursor_neutral_mass="1432.7206" assumed_charge="2" index="61981">
+      <search_result>
+        <search_hit hit_rank="1" peptide="IYPAVDPLDSTSR" calc_neutral_pep_mass="1432.7197" massdiff="0.6" num_tot_proteins="1" protein="ABI78817.1" protein_descr="ATP synthase F1, beta subunit [Hyphomonas neptunium ATCC 15444]" protein_mw="50899.973">
+          <alternative_protein protein="ADH90757.1" protein_descr="ATP synthase F1, beta subunit [Starkeya novella DSM 506]" protein_mw="50825.72"/>
+          <alternative_protein protein="EAQ04302.1" protein_descr="ATP synthase subunit B [Pseudooceanicola batsensis HTCC2597]" protein_mw="49848.504"/>
+          <alternative_protein protein="ETNP14_68maa_PROKKA_51616" protein_descr="ATP synthase subunit beta" protein_mw="51025.06"/>
+          <alternative_protein protein="ABG33014.1" protein_descr="ATP synthase F1, beta subunit [Roseobacter denitrificans OCh 114]" protein_mw="50569.297"/>
+          <alternative_protein protein="EAP87371.1" protein_descr="ATP synthase subunit B [Croceibacter atlanticus HTCC2559]" protein_mw="54149.688"/>
+          <alternative_protein protein="WP_035334816.1" protein_descr="MULTISPECIES: F0F1 ATP synthase subunit beta [Dokdonia]" protein_mw="53997.387"/>
+          <alternative_protein protein="WP_013750419.1" protein_descr="ATP synthase subunit beta [Dokdonia sp. 4H-3-7-5]" protein_mw="53933.434"/>
+          <alternative_protein protein="ETNP14_120maa_PROKKA_11077" protein_descr="ATP synthase subunit beta" protein_mw="50467.21"/>
+          <search_score name="-10lgP" value="22.59"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="17036" end_scan="17036" precursor_neutral_mass="1414.7538" assumed_charge="2" index="62157">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LGQEEQVLISRK" calc_neutral_pep_mass="1414.7667" massdiff="-9.2" num_tot_proteins="1" protein="XP_003057265" protein_descr="cytoplasmic dynein heavy chain 1b  Micromonas pusilla CCMP1545" protein_mw="493740.66">
+          <modification_info modified_peptide="LGQ(+.98)EEQ(+.98)VLISR(+14.02)K">
+            <mod_aminoacid_mass position="3" mass="129.04259"/>
+            <mod_aminoacid_mass position="6" mass="129.04259"/>
+            <mod_aminoacid_mass position="11" mass="170.11676"/>
+          </modification_info>
+          <search_score name="-10lgP" value="22.76"/>
+          <search_score name="confidence" value="0.14"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="18019" end_scan="18019" precursor_neutral_mass="1654.8668" assumed_charge="2" index="62512">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VIGQNEAVDAVSNAIR" calc_neutral_pep_mass="1654.8638" massdiff="1.8" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="49.19"/>
+          <search_score name="confidence" value="0.97"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="18037" end_scan="18037" precursor_neutral_mass="1654.8651" assumed_charge="3" index="62515">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VIGQNEAVDAVSNAIR" calc_neutral_pep_mass="1654.8638" massdiff="0.8" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="53.18"/>
+          <search_score name="confidence" value="0.98"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="18075" end_scan="18075" precursor_neutral_mass="1881.8357" assumed_charge="3" index="62530">
+      <search_result>
+        <search_hit hit_rank="1" peptide="SCAAAGTECLISGWGNTK" calc_neutral_pep_mass="1881.8350" massdiff="0.4" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <modification_info modified_peptide="SC(+57.02)AAAGTEC(+57.02)LISGWGNTK">
+            <mod_aminoacid_mass position="2" mass="160.03065"/>
+            <mod_aminoacid_mass position="9" mass="160.03065"/>
+          </modification_info>
+          <search_score name="-10lgP" value="33.12"/>
+          <search_score name="confidence" value="0.80"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="18159" end_scan="18159" precursor_neutral_mass="1654.8650" assumed_charge="2" index="62563">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VIGQNEAVDAVSNAIR" calc_neutral_pep_mass="1654.8638" massdiff="0.7" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="67.23"/>
+          <search_score name="confidence" value="0.99"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="18180" end_scan="18180" precursor_neutral_mass="1654.8667" assumed_charge="3" index="62570">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VIGQNEAVDAVSNAIR" calc_neutral_pep_mass="1654.8638" massdiff="1.8" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="52.21"/>
+          <search_score name="confidence" value="0.98"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="18297" end_scan="18297" precursor_neutral_mass="1654.8640" assumed_charge="2" index="62615">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VIGQNEAVDAVSNAIR" calc_neutral_pep_mass="1654.8638" massdiff="0.1" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="38.24"/>
+          <search_score name="confidence" value="0.88"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="19444" end_scan="19444" precursor_neutral_mass="1285.6877" assumed_charge="3" index="63065">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VTDAEIAEVLAR" calc_neutral_pep_mass="1285.6877" massdiff="0.0" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="44.47"/>
+          <search_score name="confidence" value="0.97"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="19550" end_scan="19550" precursor_neutral_mass="1285.6882" assumed_charge="2" index="63112">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VTDAEIAEVLAR" calc_neutral_pep_mass="1285.6877" massdiff="0.4" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="42.92"/>
+          <search_score name="confidence" value="0.94"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="19696" end_scan="19696" precursor_neutral_mass="1285.6891" assumed_charge="2" index="63174">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VTDAEIAEVLAR" calc_neutral_pep_mass="1285.6877" massdiff="1.0" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="27.22"/>
+          <search_score name="confidence" value="0.55"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="21339" end_scan="21339" precursor_neutral_mass="1372.7217" assumed_charge="2" index="63719">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AIDLIDEAASSIR" calc_neutral_pep_mass="1372.7197" massdiff="1.4" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="31.92"/>
+          <search_score name="confidence" value="0.75"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="AIDLIDEAASSLR" calc_neutral_pep_mass="1372.7197" massdiff="1.4" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="31.92"/>
+          <search_score name="confidence" value="0.75"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="21358" end_scan="21358" precursor_neutral_mass="1372.7203" assumed_charge="3" index="63721">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AIDLIDEAASSIR" calc_neutral_pep_mass="1372.7197" massdiff="0.4" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="45.01"/>
+          <search_score name="confidence" value="0.97"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="AIDLIDEAASSLR" calc_neutral_pep_mass="1372.7197" massdiff="0.4" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="45.01"/>
+          <search_score name="confidence" value="0.97"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="21473" end_scan="21473" precursor_neutral_mass="1372.7201" assumed_charge="2" index="63754">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AIDLIDEAASSIR" calc_neutral_pep_mass="1372.7197" massdiff="0.2" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="42.41"/>
+          <search_score name="confidence" value="0.94"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="AIDLIDEAASSLR" calc_neutral_pep_mass="1372.7197" massdiff="0.2" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="42.41"/>
+          <search_score name="confidence" value="0.94"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="21495" end_scan="21495" precursor_neutral_mass="1372.7205" assumed_charge="3" index="63762">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AIDLIDEAASSIR" calc_neutral_pep_mass="1372.7197" massdiff="0.6" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="45.64"/>
+          <search_score name="confidence" value="0.97"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="AIDLIDEAASSLR" calc_neutral_pep_mass="1372.7197" massdiff="0.6" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="45.64"/>
+          <search_score name="confidence" value="0.97"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="21605" end_scan="21605" precursor_neutral_mass="1372.7216" assumed_charge="2" index="63793">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AIDLIDEAASSIR" calc_neutral_pep_mass="1372.7197" massdiff="1.3" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="29.49"/>
+          <search_score name="confidence" value="0.68"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="AIDLIDEAASSLR" calc_neutral_pep_mass="1372.7197" massdiff="1.3" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="29.49"/>
+          <search_score name="confidence" value="0.68"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="23235" end_scan="23235" precursor_neutral_mass="1372.7212" assumed_charge="2" index="64208">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AIDLIDEAASSIR" calc_neutral_pep_mass="1372.7197" massdiff="1.0" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="29.30"/>
+          <search_score name="confidence" value="0.68"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="AIDLIDEAASSLR" calc_neutral_pep_mass="1372.7197" massdiff="1.0" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="29.30"/>
+          <search_score name="confidence" value="0.68"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="24111" end_scan="24111" precursor_neutral_mass="2473.3545" assumed_charge="3" index="64414">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AIQQQIENPLAQQILSGELVPGK" calc_neutral_pep_mass="2473.3540" massdiff="0.2" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="64.26"/>
+          <search_score name="confidence" value="0.99"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="20181214_378_etnp2017_100m_trap.raw" start_scan="25400" end_scan="25400" precursor_neutral_mass="2473.3630" assumed_charge="3" index="64628">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AIQQQIENPLAQQILSGELVPGK" calc_neutral_pep_mass="2473.3540" massdiff="3.6" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="49.18"/>
+          <search_score name="confidence" value="0.97"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+  </msms_run_summary>
+</msms_pipeline_analysis>
