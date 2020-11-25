@@ -1,0 +1,14 @@
+Peptides,GO-term,Name
+10,GO:0005737,cytoplasm
+9,GO:0030089,phycobilisome
+8,GO:0042651,thylakoid membrane
+7,GO:0005840,ribosome
+7,GO:0016021,integral component of membrane
+5,GO:0009538,photosystem I reaction center
+5,GO:0009654,photosystem II oxygen evolving complex
+3,GO:0045261,"proton-transporting ATP synthase complex, catalytic core F(1)"
+3,GO:0015934,large ribosomal subunit
+3,GO:0015935,small ribosomal subunit
+3,GO:0009522,photosystem I
+2,GO:0009523,photosystem II
+2,GO:0019898,extrinsic component of membrane
