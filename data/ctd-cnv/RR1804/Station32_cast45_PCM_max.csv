@@ -1,0 +1,34 @@
+,46.28
+StartTime,2018-04-16 15:03:02
+timeS,200.915
+scan,4823.0
+longitude,-107.0342
+latitude,16.94374
+depSMignore,46.0
+t090C,21.8995
+t190C,21.837
+c0S/m,4.8958
+c1S/m,4.888871
+flSP,1.2618
+CStarAt0,12.4286
+CStarTr0,4.4728
+par,13.421
+modError,0.0
+v0,4.4728
+v1,0.4206
+v2,2.3135
+v3,0.0
+v4,4.5504
+v5,0.0
+v6,2.425
+v7,0.0
+sbeox0V,2.3134
+sal00,34.2751
+sal11,34.2701
+sigma-�00,23.6974
+sigma-�11,23.711
+sbeox0Mg/L,5.6759
+sbox0Mm/Kg,173.269
+sbeox0PS,79.09
+flag,False
+Time,2018-04-16 15:06:22.915000
