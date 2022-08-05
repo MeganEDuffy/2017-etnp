@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Julieta M. Gómez-Fragoso</origin>
+        <origin>José A. Santiago-Saez</origin>
+        <pubdate>2018</pubdate>
+        <title>Analysis of diel dissolved oxygen curves at Caño Boquerón, Cabo Rojo and Puerto Mosquito, Isla de Vieques, Puerto Rico</title>
+        <geoform>comma delimited format</geoform>
+        <pubinfo>
+          <pubplace>Guaynabo, PR</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/F7WH2P6K</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Julieta M. Gómez-Fragoso</origin>
+            <origin>José A. Santiago-Saez</origin>
+            <pubdate>2018</pubdate>
+            <title>Hydrologic and Water-Quality Characteristics of Caño Boquerón, Cabo Rojo, and  Puerto Mosquito, Isla de Vieques, Puerto Rico, July 2015-July 2016</title>
+            <geoform>Report</geoform>
+            <serinfo>
+              <sername>Scientific Investigation Report</sername>
+              <issue>2018-5018</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Guaynabo, PR</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://dx.doi.org/10.3133/sir20185018</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The dataset contains the selected physical properties and chemical constituents that were measured at Caño Boquerón, Cabo Rojo, and Puerto Mosquito, Isla de Vieques, Puerto Rico during a diurnal cycle. Two diel studies were conducted per lagoon to determine the community primary productivity. Photosynthesis creates oxygen which enhances microbiological activity and results in the production of organic matter. Primary productivity is important for supporting the food web in aquatic ecosystems. The field data collection included the measurement of temperature, dissolved oxygen, and percent of oxygen saturation. Measurements were obtained at about 1 hour intervals. Diel studies were conducted on October 29, 2015 and March 2, 2016 at Caño Boquerón, Cabo Rojo, Puerto Rico, and on November 17, 2015 and March 9, 2016 at Puerto Mosquito, Isla de Vieques, Puerto Rico.</abstract>
+      <purpose>The purpose of the diel study is to collect measurements for the determination of community primary productivity in  Caño Boquerón and Puerto Mosquito during a diurnal cycle. These diel studies are part of a limnological analysis at Puerto Mosquito and Caño Boquerón to assess the principal factors affecting the hydrology and water-quality characteristics of the coastal waters and provide baseline information to the regulatory agencies responsible for the management and conservation of coastal waters. The investigation involves two coastal waters: Caño Boquerón represents coastal waters under disturbed conditions and Puerto Mosquito represents undisturbed conditions. Phytoplankton primary productivity and community primary productivity were assessed in the study using dissolved oxygen measurements. Community primary productivity (primary production measured for the entire aquatic system; Thomaz and others, 2001) minus phytoplankton primary productivity (primary production measured in water column) equals the primary productivity of the benthos organisms (e.g. periphyton, and macrophytes). [Soler-López, L.R., Santos, C.R., 2010, Selected Hydrologic, Water-Quality, Biological, and Sedimentation Characteristics of Laguna Grande, Fajardo, Puerto Rico, March 2007-February 2009: U.S. Geological Survey Scientific Investigations Report 2010-5071, 51p., Thomaz, S.M., Enrich-Prast, A., Goncalves Jr., J.F, Dos Santos, A.M., and Esteves, F. A., 2001, Metabolism and Gaseous Exchanges in Two Coastal Lagoons from the Río de Janeiro with Distinct Limnological Characteristics. Brazilian Archives of Biology and Technology, Vol. 44, N4: pp. 433-438, December 2001, ISSN 1516-8913.</purpose>
+      <supplinf>Data release suggested citation: Gómez-Fragoso, J. M., and Santiago-Sàez, J. A., 2017, Data for the Hydrologic and Water-Quality Characterization of Caño Boquerón, Cabo Rojo and  Puerto Mosquito, Isla de Vieques, Puerto Rico, July 2015-July 2016: U.S. Geological Survey data release, https://doi.org/10.5066/F7WH2P6K.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>20151029</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20151105</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20160302</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20150309</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-67.211608887623</westbc>
+        <eastbc>-65.343933106447</eastbc>
+        <northbc>18.129775347958</northbc>
+        <southbc>17.952190239552</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>ecology</themekey>
+        <themekey>aquatic ecosystems</themekey>
+        <themekey>water-quality data</themekey>
+        <themekey>coastal ecosystems</themekey>
+        <themekey>oceans</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Biocomplexity</themekt>
+        <themekey>biological production</themekey>
+        <themekey>productivity (ecotsystems)</themekey>
+      </theme>
+      <theme>
+        <themekt>Marine Realms Information Bank (MRIB)</themekt>
+        <themekey>lagoon</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:5a200f37e4b09fc93ddb2023</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System (GNIS)</placekt>
+        <placekey>Vieques</placekey>
+        <placekey>Cabo Rojo</placekey>
+        <placekey>Bahía de Boquerón</placekey>
+        <placekey>Puerto Mosquito</placekey>
+      </place>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Julieta M. Gómez-Fragoso</cntper>
+          <cntorg>USGS, Caribbean-Florida Water Science Center</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>GSA Center 651 Federal Drive, Suite 400-15</address>
+          <city>Guaynabo,</city>
+          <state>PR</state>
+          <postal>00965</postal>
+          <country>PR</country>
+        </cntaddr>
+        <cntvoice>787-749-7242</cntvoice>
+        <cntemail>jgomez-fragoso@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Puerto Rico Environmental Quality Board</datacred>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted</attraccr>
+    </attracc>
+    <logic>Logical values of the dataset were evaluated based on literature review.</logic>
+    <complete>Dataset is considered complete for the information presented, as described in the abstract. Users are advised to read the entire  metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>N/A</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>N/A</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Diel studies were conducted during high tide (October-November 2015) and low tide (March 2016) conditions. Selected physical properties and water-quality constituents (dissolved oxygen, and temperature, among others) were measured each hour from sunrise to sunset period. Data processing to estimate the community primary productivity involves the calculation of rate of change of dissolved oxygen measurements for a diurnal cycle. This method assumes positive values represent community primary productivity whereas negative values are indicative of community respiration. Net community productivity was calculated by summing the positive values of rate of change of dissolved oxygen concentrations during daylight hours. Estimates of community respiration were calculated by adding the rates of change in dissolved oxygen concentrations due to respiration (negative values) and then dividing by the number of hours where respiration was observed. The exchange of oxygen with the air was considered in the diel studies and each measurement of dissolved oxygen concentrations was corrected by diffusion prior to the computations of community net productivity and respiration rates.</procdesc>
+        <procdate>20151029</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <indspref>Reference points or coordinates for the NAD27 (North American Datum of 1927) coordinates system to locate the study area: Caño Boquerón, Latitude 18° 00’ 54.7”, Longitude 67° 10’ 11.8”; Puerto Mosquito, Latitude 18° 06’ 15.5”, Longitude 65° 26’ 46.6”.</indspref>
+  </spdoinfo>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Dissolved_oxygen_diel_curve_analysis</enttypl>
+        <enttypd>Field-measured parameters collected during diel studies.</enttypd>
+        <enttypds>table</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Location</attrlabl>
+        <attrdef>A text identifier for the location of lagoon (lagoon name, county)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Location of lagoon, described by the name and county of lagoon. See indirect spatial reference section.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>A numeric identifier for the date  of field measured parameters, in dd-month-yy (see domain info)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>mm/dd/yyyy; mm represents 2-digit of month; dd represents 2-digit for the days; yyyy represents four-digit years.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Station_No</attrlabl>
+        <attrdef>A numeric identifier for the site where field-measured parameters are collected during diel study. 8-digit number assigned by the U.S. Geological Survey</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Station number assigned by the U.S. Geological Survey</edomv>
+            <edomvd>Assignment for the station number is based on a grid system established by USGS. Each station is listed following a basin downstream order.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Time</attrlabl>
+        <attrdef>A numeric identifier for time of measurement, in hh:mm</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>hhmm; hh represents 2-digit for the hour; mm represents 2-digit for the minutes. The seconds are omitted in the data collection and samplings procedure. Twenty four hour military time format used. Time datum: AST</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DO</attrlabl>
+        <attrdef>A numeric identifier for the field-measured parameter of dissolved oxygen, in milligrams per liter</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.53</rdommin>
+            <rdommax>7.91</rdommax>
+            <attrunit>milligrams per liter</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Temperature</attrlabl>
+        <attrdef>A numeric identifier for the field-measured parameter of water temperature at 0.1-meter (4 inches) depth of water, in degrees Celsius.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>21.19</rdommin>
+            <rdommax>31.21</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DO_Saturation</attrlabl>
+        <attrdef>A numeric identifier for the field-measured parameter of oxygen saturation, in percent</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>50</rdommin>
+            <rdommax>125</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Average_DO_Saturation</attrlabl>
+        <attrdef>Numeric value that represents the calculation of the average DO_Saturation attribute value, in percent. Computed using two consecutive measurements of oxygen saturation at time (n) and time (n+1). A missing value at the beginning of the diel study measurements means that there no computation was made in that interval where n+1 equals one.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>50</rdommin>
+            <rdommax>125</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>delta_DO</attrlabl>
+        <attrdef>A numeric value that represents the approximate hourly change in dissolved oxygen concentration measured throughout a diurnal cycle, in milligrams per liter, for the period of time  from time (n) and time (n+1). A missing value at the beginning of the diel study measurements means that no computation was made in the interval where n+1 equals one.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Hourly change in dissolved oxygen concentration values; DO on time (n+1) minus DO on time (n). Units: milligrams per liter. A missing value at the beginning of the diel study measurements means that no computation was made in the interval where n+1 equals one.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>delta_time</attrlabl>
+        <attrdef>A numeric value indicating the difference in time between each field measurement, in hours.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Value calculated by taking time (n+ 1) minus time (n). Units: hours. Value calculated by taking time (n+ 1) minus time (n). Units: hours. A missing value at the beginning of the diel study measurements means that no computation was made in the interval where n+1 equals one.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>rate_of_change_DO</attrlabl>
+        <attrdef>A numeric identifier for the rate of change of dissolved oxygen per volume, in grams of oxygen per cubic meter per hour. A missing value at the beginning of the diel study measurements means that no computation was made in the interval where n+1 equals one.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Computed by dividing the value of delta_DO by the change of time (time n+1 minus time n). Units: grams of oxygen per cubic meters per hour. A missing value at the beginning of the diel study measurements means that no computation was made in the interval where n+1 equals one.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K</attrlabl>
+        <attrdef>A numeric identifier for the gas transfer coefficient on a volume basis, in grams of oxygen per cubic meters per hour. A missing value at the beginning of the diel study measurements means that no computation was made in the interval where n+1 equals one.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>A volume-based diffusion constant, in grams of oxygen per cubic meters per hour. Formula: (qm - qe)/ [(Sm - Se)/ 100 percent]; qm, rate of change of DO for a morning (sunrise) period, in grams per cubic meters per hour; qe, rate of change of DO for a post-sunset period, in grams per cubic meters per hour; Sm, the percent of saturation deficit at the time of (qm) measurement; Se. the percent of saturation deficit at the time of (qe) measurement. A missing value at the beginning of the diel study measurements means that no computation was made in the interval where n+1 equals one.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>rate_of_change_DO_corrected</attrlabl>
+        <attrdef>Rate of change of dissolved oxygen on a volume basis (corrected by diffusion). A missing value at the beginning of the diel study measurements means that no computation was made in the interval where n+1 equals one.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>The numeric value represents the corrected value of rate of change of dissolved oxygen which is attributed to the diffusion rate per volume on during diel study. Computed by multiplying the gas transfer coefficient (K) by the average oxygen saturation deficit (Average_DO_saturation -100) and adding to the rate_of_change_DO. Units: grams of oxygen per cubic meters per hour. A missing value at the beginning of the diel study measurements means that no computation was made in the interval where n+1 equals one.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>U.S. Geological Survey- ScienceBase</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government. Although this information product, for the most part, is in the public domain, it also contains copyrighted materials as noted in the text. Permission to reproduce copyrighted items must be secured from the copyright owner whenever applicable. The data have been approved for release and publication by the U.S. Geological Survey (USGS). Although the data have been subjected to rigorous review and are substantially complete, the USGS reserves the right to revise the data pursuant to further analysis and review. Furthermore, the data are released on the condition that neither the USGS nor the U.S. Government may be held liable for any damages resulting from authorized or unauthorized use. Although the data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made regarding the display or utility of the data on any other system, or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and/or contained herein. Users of the data are advised to read all metadata and associated documentation thoroughly to understand appropriate use and data limitations</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>csv</formname>
+          <formvern>none</formvern>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/F7WH2P6K</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20200812</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Julieta M. Gómez-Fragoso</cntper>
+          <cntorg>U.S. Geological Survey (USGS)</cntorg>
+        </cntperp>
+        <cntpos>Hydrologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>GSA Center 651 Federal Drive, Suite 400-15</address>
+          <city>Guaynabo</city>
+          <state>PR</state>
+          <postal>00965.</postal>
+          <country>PR</country>
+        </cntaddr>
+        <cntvoice>787-749-7479</cntvoice>
+        <cntemail>jgomez-fragoso@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
