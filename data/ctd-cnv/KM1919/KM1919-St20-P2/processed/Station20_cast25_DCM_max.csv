@@ -1,0 +1,36 @@
+,123.771
+StartTime,2019-10-03 13:31:35
+scan,6685.0
+Time,2019-10-03 13:36:13.514000
+timeS,278.514
+longitude,-106.88583999999999
+latitude,16.80988
+depSMignore,123.0
+t090C,13.8725
+t190C,13.8399
+c0uS/cm,41588.0
+c1S/m,4.164442
+flECO-AFL,0.4645
+CStarAt0,0.0258
+CStarTr0,99.356
+par,1e-12
+modError,0.0
+v0,0.5079
+v1,0.5214
+v2,0.0975
+v3,0.1175
+v4,4.622
+v5,0.0
+v6,0.0085
+v7,0.0
+sbeox0V,0.5071
+sbeox1V,0.5203
+sal00,34.7381
+sal11,34.8203
+sigma-�00,26.0151
+sigma-�11,26.0854
+sbeox0Mm/L,1.484
+sbeox1Mm/L,1.955
+sbeox0PS,0.57
+sbeox1PS,0.7509999999999999
+flag,False
