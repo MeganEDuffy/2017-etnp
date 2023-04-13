@@ -24,7 +24,7 @@
 # name 2 = prDM: Pressure, Digiquartz [db]
 # name 3 = longitude: Longitude [deg]
 # name 4 = latitude: Latitude [deg]
-# name 5 = depSM: Depth [salt water, m]
+# name 5 = depSMignore: Depth [salt water, m]
 # name 6 = t090C: Temperature [ITS-90, deg C]
 # name 7 = t190C: Temperature, 2 [ITS-90, deg C]
 # name 8 = c0S/m: Conductivity [S/m]
