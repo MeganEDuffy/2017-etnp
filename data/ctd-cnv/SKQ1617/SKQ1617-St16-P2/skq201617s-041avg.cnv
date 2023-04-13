@@ -29,7 +29,7 @@
 # nquan = 20
 # nvalues = 502                         
 # units = specified
-# name 0 = depSM: Depth [salt water, m]
+# name 0 = depSMignore: Depth [salt water, m]
 # name 1 = latitude: Latitude [deg]
 # name 2 = longitude: Longitude [deg]
 # name 3 = prDM: Pressure, Digiquartz [db]
