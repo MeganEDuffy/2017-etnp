@@ -1,0 +1,45 @@
+
+
+1. Input for the MATLAB (Barone 2019) sine curve fitting script:
+
+CSVs of the integrated chl fluor, beam transmission, and O2 data for each of the 3 water column slices, the mixed layer (ML), the priminary chl max (PCM), and the deep chl max (DCM).
+
+These CSVs are named with their cross-cruise station number (P1, P2, or P3), their cruise year (2017, 2018, or 2019), and their cruise station number (for example, St20).
+
+The input into the MATLAB script is just the difference from the first concentration value (for chl, bt, o2) and time elapsed. The MATLAB script needs the time to be in MATLAB DATENUM format.
+
+Each CSV for each station's ML, PCM, and DCM has the cast-integrated values for chl fluor, beam transmission, and O2 as well as 4 final columns that are the actual MATLAB script input. These are the differences from the initial value (T0, Chl0, bt0, O20) and these are what I copied into the MATLAB script to run the sine curve fit.
+
+2. The MATLAB scripts:
+
+The MATLAB scripts were saved for each run, a ML, PCM, and DCM for 2 stations for each of the 3 cruise years, so (3*2*3)-1 = 17 because Station P3 (2019) doesn't have a DCM.
+
+The script was changed for each station's feature by changing the x and y terms. They are formatted like this:
+
+x = 743856.652256944 + [1.77 1.93 2.26 5.93 6.23 7.97 9.35 9.60 9.85 10.14 11.35 11.75];
+y = 218.657 + [-66.1 27.8 25.2 -4.6 4.0 20.8 -34.5 13.8 12.3 -19.1 -11.3 21.3 ];
+
+Where the first term for each variable is the starting concentration (in this case O2) or the time (in MATLAB datenum format. The following terms are the differences compared to the starting for each following cast.
+
+Once the x and y are defined, the script to fit the data to a sine curve is accomplished with the following:
+
+%Run function with Megan's versions (minor updates from Hilary for typo issues)
+[rates_md,residuals_md,varmat_md,fitline_md] = barone_md(x,y,17.032665,-106.532813,-5)
+
+Here, the lat and long have been input for each station. The final term is the time zone, which never changes (always UTC -5).
+
+Sometimes I truncated the data input so as not to use all the casts, but that is commented in the script.
+
+That's all that's needed to run the MATLAB script!
+
+3. The MATLAB output:
+
+There are several outputs from running the script that show up in the MATLAB workspace. They are:
+
+- the residuals (residuals_md; I haven't reallly looked into these much)
+- the fitline (fitline_md; also haven't used this critically)
+- the rates (rates_md; this is where the calculated GPP, CR, R2 values are displayed for the 3 models that are run: the linear, the sinusoidal, and the P vs E. 
+
+Of these, I've been taking the sine fit outputs if there is an R2 >0.3, which is a terrible threshold, but I wanted wide arms at this stage. I use this R2 and the plotted model fit lines to play around with what time periods of the station occupation data to use. 
+
+WAs described above, when I've done this there is a comment in the diel analysis script.
